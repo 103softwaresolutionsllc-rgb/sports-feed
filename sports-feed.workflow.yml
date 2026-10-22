@@ -4,10 +4,11 @@
 #   1. Create a repo for the feed (e.g. 103softwaresolutionsllc-rgb/sports-feed)
 #      and copy this project into it.
 #   2. Save this file as .github/workflows/sports-feed.yml in that repo.
-#   3. Add the API-Sports keys as repo secrets (Settings → Secrets → Actions):
-#      APISPORTS_BASKETBALL_KEY, APISPORTS_FOOTBALL_KEY,
-#      APISPORTS_BASEBALL_KEY, APISPORTS_HOCKEY_KEY
-#      (only the sports you subscribed to on api-sports.io).
+#   3. Add your API-Sports account key as ONE repo secret
+#      (Settings → Secrets and variables → Actions → New repository secret)
+#      named exactly: APISPORTS_KEY
+#      (API-Sports issues a single account key; the workflow passes it to
+#      the collector for every sport.)
 #   4. Enable GitHub Pages for the repo (Settings → Pages → deploy from the
 #      `gh-pages` branch) — OR commit feed.json to the main branch and point
 #      the app at the raw file URL. Pages gives a stable public URL:
@@ -40,10 +41,7 @@ jobs:
           node-version: '20'
       - name: Collect feed
         env:
-          APISPORTS_BASKETBALL_KEY: ${{ secrets.APISPORTS_BASKETBALL_KEY }}
-          APISPORTS_FOOTBALL_KEY: ${{ secrets.APISPORTS_FOOTBALL_KEY }}
-          APISPORTS_BASEBALL_KEY: ${{ secrets.APISPORTS_BASEBALL_KEY }}
-          APISPORTS_HOCKEY_KEY: ${{ secrets.APISPORTS_HOCKEY_KEY }}
+          APISPORTS_KEY: ${{ secrets.APISPORTS_KEY }}
         run: node collector.mjs --out feed.json
       - name: Publish feed.json
         run: |

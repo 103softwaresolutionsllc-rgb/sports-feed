@@ -14,13 +14,38 @@
  */
 
 export const SPORT_APIS = {
-  Basketball: { host: 'v1.basketball.api-sports.io', leagueId: 12, sportLabel: 'NBA' },
+  // seasonStyle: how the API's REQUIRED `season` parameter is written.
+  // 'span' = "2026-2027" (season starts in October, spans two calendar
+  // years); 'year' = "2026" (single calendar year). Football's /games
+  // takes no season parameter (verified live 2026-10-22) — left unset.
+  Basketball: { host: 'v1.basketball.api-sports.io', leagueId: 12, sportLabel: 'NBA', seasonStyle: 'span' },
   Football: { host: 'v1.american-football.api-sports.io', leagueId: 1, sportLabel: 'NFL' },
-  Baseball: { host: 'v1.baseball.api-sports.io', leagueId: 1, sportLabel: 'MLB' },
-  Hockey: { host: 'v1.hockey.api-sports.io', leagueId: 57, sportLabel: 'NHL' },
+  Baseball: { host: 'v1.baseball.api-sports.io', leagueId: 1, sportLabel: 'MLB', seasonStyle: 'year' },
+  Hockey: { host: 'v1.hockey.api-sports.io', leagueId: 57, sportLabel: 'NHL', seasonStyle: 'span' },
   // MMA intentionally not wired: the MMA API returns fights in a different
   // shape, to be verified against a live key before shipping a normalizer.
 };
+
+/**
+ * The API-Sports `season` string for a sport on a given date, or null when
+ * the sport's /games endpoint takes no season parameter. Pure date math —
+ * the collector resolves it per queried day, so no /seasons discovery
+ * call ever enters the request budget.
+ *
+ * 'span' seasons start in October: Oct–Dec opens `${y}-${y + 1}`, and
+ * Jan–Sep still belongs to the season that opened the previous October
+ * (an April playoff game is "2026-2027", not "2027-2028"). 'year' seasons
+ * are the calendar year itself — an October World Series game is still
+ * that year's season ("2026").
+ */
+export function seasonForDate(sport, date) {
+  const cfg = SPORT_APIS[sport];
+  if (!cfg || !cfg.seasonStyle) return null;
+  if (!(date instanceof Date) || Number.isNaN(date.getTime())) return null;
+  const y = date.getFullYear();
+  if (cfg.seasonStyle === 'year') return String(y);
+  return date.getMonth() >= 9 ? `${y}-${y + 1}` : `${y - 1}-${y}`;
+}
 
 const FINISHED_SHORTS = new Set(['FT', 'AOT', 'AP']);
 const EXCLUDED_SHORTS = new Set(['POSTP', 'CANC', 'SUSP', 'ABD']);
@@ -66,9 +91,32 @@ export function totalScore(sideScores) {
   return found ? sum : null;
 }
 
+/**
+ * Core game fields (id / status / date / timestamp) resolved across the
+ * two payload envelopes the sport APIs use:
+ *  - flat (Basketball, Baseball, Hockey): { id, date, timestamp, status,
+ *    teams, scores } at the top level;
+ *  - nested (American Football): id, date and status live under a `game`
+ *    envelope — { game: { id, date: { timezone, date, time, timestamp },
+ *    status }, teams, scores } — with NO top-level id/date/timestamp.
+ * Reading only the flat fields for Football silently yields id=undefined
+ * and timestamp=undefined (live symptom 2026-10-22: startTs fell back to
+ * 0 and the slate rendered the epoch as "Wed, Dec 31" / "4:00 PM").
+ */
+function coreFields(raw) {
+  const nested =
+    raw?.game && typeof raw.game === 'object' ? raw.game : null;
+  return {
+    id: raw?.id ?? nested?.id ?? null,
+    status: raw?.status ?? nested?.status ?? null,
+    timestamp: raw?.timestamp ?? nested?.date?.timestamp ?? nested?.timestamp,
+    date: raw?.date ?? nested?.date ?? null,
+  };
+}
+
 /** 'live' | 'upcoming' | 'finished' | 'excluded' for a raw game. */
 export function gameStatus(raw) {
-  const short = raw?.status?.short;
+  const short = coreFields(raw).status?.short;
   if (EXCLUDED_SHORTS.has(short)) return 'excluded';
   if (FINISHED_SHORTS.has(short)) return 'finished';
   if (short && short !== 'NS' && short !== 'TBD') return 'live';
@@ -76,9 +124,20 @@ export function gameStatus(raw) {
 }
 
 function startTimestamp(raw) {
-  if (Number.isFinite(raw?.timestamp)) return raw.timestamp * 1000;
-  const t = Date.parse(raw?.date || '');
-  return Number.isFinite(t) ? t : 0;
+  const core = coreFields(raw);
+  if (Number.isFinite(core.timestamp)) return core.timestamp * 1000;
+  if (typeof core.date === 'string') {
+    const t = Date.parse(core.date);
+    if (Number.isFinite(t)) return t;
+  } else if (core.date && typeof core.date === 'object') {
+    // Football envelope date parts: { date: 'YYYY-MM-DD', time: 'HH:MM' }
+    // in the payload's timezone (UTC for NFL games).
+    const t = Date.parse(
+      `${core.date.date}T${core.date.time || '00:00'}:00Z`
+    );
+    if (Number.isFinite(t)) return t;
+  }
+  return 0;
 }
 
 function formatTime(ts) {
@@ -121,11 +180,15 @@ export function normalizeGame(raw, sport) {
   const home = sideName(raw.teams?.home);
   const away = sideName(raw.teams?.away);
   if (!home || !away) return null;
+  const core = coreFields(raw);
   const startTs = startTimestamp(raw);
+  // A game whose start time cannot be read honestly must not reach the
+  // slate: startTs 0 renders as the 1969 epoch ("Wed, Dec 31").
+  if (!Number.isFinite(startTs) || startTs <= 0) return null;
   const homeScore = totalScore(raw.scores?.home);
   const awayScore = totalScore(raw.scores?.away);
   return {
-    id: raw.id,
+    id: core.id,
     sport,
     sportLabel: cfg.sportLabel,
     home,
@@ -135,7 +198,7 @@ export function normalizeGame(raw, sport) {
     homeScore,
     awayScore,
     status,
-    statusLong: raw.status?.long || null,
+    statusLong: core.status?.long || null,
     startTs,
   };
 }

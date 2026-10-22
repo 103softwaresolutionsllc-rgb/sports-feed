@@ -34,6 +34,7 @@ import { pathToFileURL } from 'node:url';
 import {
   SPORT_APIS,
   normalizeGame,
+  seasonForDate,
   toSlateItem,
   toPickCard,
   extractFavoriteLine,
@@ -71,19 +72,35 @@ async function apiGet(sport, key, path) {
   return Array.isArray(data?.response) ? data.response : [];
 }
 
-function localDateStr(offsetDays = 0) {
+function localDate(offsetDays = 0) {
   const d = new Date();
   d.setDate(d.getDate() + offsetDays);
+  return d;
+}
+
+function localDateStr(offsetDays = 0) {
+  const d = localDate(offsetDays);
   const pad = (n) => String(n).padStart(2, '0');
   return `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())}`;
 }
 
 async function buildSportFeed(sport, key) {
   const cfg = SPORT_APIS[sport];
-  const days = await Promise.all([
-    apiGet(sport, key, `/games?league=${cfg.leagueId}&date=${localDateStr(0)}`),
-    apiGet(sport, key, `/games?league=${cfg.leagueId}&date=${localDateStr(1)}`),
-  ]);
+  // Basketball/Baseball/Hockey reject /games without a `season` parameter
+  // ({"season":"The Season field is required."} — live 2026-10-22). The
+  // season is resolved per queried day by pure date math (seasonForDate),
+  // so the request budget is unchanged: still exactly 2 /games calls.
+  const days = await Promise.all(
+    [0, 1].map((offset) => {
+      const season = seasonForDate(sport, localDate(offset));
+      const seasonParam = season ? `&season=${season}` : '';
+      return apiGet(
+        sport,
+        key,
+        `/games?league=${cfg.leagueId}&date=${localDateStr(offset)}${seasonParam}`
+      );
+    })
+  );
   const games = days
     .flat()
     .map((raw) => normalizeGame(raw, sport))

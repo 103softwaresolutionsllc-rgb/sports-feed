@@ -1,0 +1,54 @@
+# GitHub Actions workflow for the 103 sports-feed collector.
+#
+# SETUP (Isaac, one time):
+#   1. Create a repo for the feed (e.g. 103softwaresolutionsllc-rgb/sports-feed)
+#      and copy this project into it.
+#   2. Save this file as .github/workflows/sports-feed.yml in that repo.
+#   3. Add the API-Sports keys as repo secrets (Settings → Secrets → Actions):
+#      APISPORTS_BASKETBALL_KEY, APISPORTS_FOOTBALL_KEY,
+#      APISPORTS_BASEBALL_KEY, APISPORTS_HOCKEY_KEY
+#      (only the sports you subscribed to on api-sports.io).
+#   4. Enable GitHub Pages for the repo (Settings → Pages → deploy from the
+#      `gh-pages` branch) — OR commit feed.json to the main branch and point
+#      the app at the raw file URL. Pages gives a stable public URL:
+#      https://<owner>.github.io/<repo>/feed.json
+#   5. In BetTracker set EXPO_PUBLIC_HOME_FEED_URL to that URL and rebuild.
+#
+# Cadence: every 90 minutes around the clock (16 runs/day). Budget per
+# sport: at most 80 of the free plan's 100 requests/day — see the budget
+# note in collector.mjs. Two cron entries interleave to make 90 minutes:
+# on the hour for even 3-hour blocks, half-past for the offset blocks.
+
+name: sports-feed
+
+on:
+  schedule:
+    - cron: '0 0,3,6,9,12,15,18,21 * * *'
+    - cron: '30 1,4,7,10,13,16,19,22 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Collect feed
+        env:
+          APISPORTS_BASKETBALL_KEY: ${{ secrets.APISPORTS_BASKETBALL_KEY }}
+          APISPORTS_FOOTBALL_KEY: ${{ secrets.APISPORTS_FOOTBALL_KEY }}
+          APISPORTS_BASEBALL_KEY: ${{ secrets.APISPORTS_BASEBALL_KEY }}
+          APISPORTS_HOCKEY_KEY: ${{ secrets.APISPORTS_HOCKEY_KEY }}
+        run: node collector.mjs --out feed.json
+      - name: Publish feed.json
+        run: |
+          git config user.name "Isaac Jones"
+          git config user.email "103softwaresolutionsllc@gmail.com"
+          git add feed.json
+          git diff --cached --quiet || git commit -m "feed update $(date -u +%FT%TZ)"
+          git push

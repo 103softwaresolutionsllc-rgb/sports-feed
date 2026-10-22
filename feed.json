@@ -1,5 +1,447 @@
 {
-  "generatedAt": null,
-  "sports": {},
-  "note": "Awaiting first collector run"
+  "generatedAt": "2026-10-22T09:45:41.748Z",
+  "source": "103 sports-feed collector — API-Sports (games/odds), ESPN (news)",
+  "sportsConfigured": [],
+  "picks": [],
+  "slate": [],
+  "news": {
+    "fetchedAt": "2026-10-22T09:45:38.469Z",
+    "Basketball": {
+      "league": "NBA",
+      "via": "espn-json",
+      "articles": [
+        {
+          "id": "news-1e34d37c",
+          "source": "ESPN",
+          "sport": "Basketball",
+          "league": "NBA",
+          "headline": "Kyrie Irving explains offer to pay Al-Shaair's eye black fine",
+          "description": "Azeez Al-Shaair was fined after he wore the name Hind Rajab on his eye black during the Texans' season opener.",
+          "published": "2026-10-22T08:22:47.000Z",
+          "publishedAt": "2026-10-22T08:22:47.000Z",
+          "url": "https://www.espn.com/nba/story/_/id/50246419/kyrie-irving-azeez-al-shaair-hind-rajab-eye-black-fine",
+          "link": "https://www.espn.com/nba/story/_/id/50246419/kyrie-irving-azeez-al-shaair-hind-rajab-eye-black-fine",
+          "teamTags": [
+            "Dallas Mavericks",
+            "Houston Texans"
+          ],
+          "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734397_2_600x400_3-2.jpg"
+        },
+        {
+          "id": "news-5f41098c",
+          "source": "ESPN",
+          "sport": "Basketball",
+          "league": "NBA",
+          "headline": "Warriors' Yaxel Lendeborg: 'Lost all respect' for Luka Doncic",
+          "description": "Yaxel Lendeborg said it was an \"interesting first game for me\" after defending the Lakers superstar in his professional debut.",
+          "published": "2026-10-22T07:26:32.000Z",
+          "publishedAt": "2026-10-22T07:26:32.000Z",
+          "url": "https://www.espn.com/nba/story/_/id/50245902/warriors-yaxel-lendeborg-lost-all-respect-luka-doncic",
+          "link": "https://www.espn.com/nba/story/_/id/50245902/warriors-yaxel-lendeborg-lost-all-respect-luka-doncic",
+          "teamTags": [
+            "Golden State Warriors",
+            "Los Angeles Lakers"
+          ],
+          "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734401_600x400_3-2.jpg"
+        },
+        {
+          "id": "news-5fd178ef",
+          "source": "ESPN",
+          "sport": "Basketball",
+          "league": "NBA",
+          "headline": "Jerome leads Memphis against Golden State after 45-point game",
+          "description": "Memphis Grizzlies (1-0, fifth in the Western Conference) vs. Golden State Warriors (0-1, 11th in the Western Conference)",
+          "published": "2026-10-22T07:04:11.000Z",
+          "publishedAt": "2026-10-22T07:04:11.000Z",
+          "url": "http://www.espn.com/nba/preview?gameId=401909850",
+          "link": "http://www.espn.com/nba/preview?gameId=401909850",
+          "teamTags": [
+            "Golden State Warriors",
+            "Memphis Grizzlies"
+          ],
+          "imageUrl": "https://s.espncdn.com/stitcher/sports/basketball/nba/events/401909850.png?templateId=espn.applewatch.awayhome.1"
+        },
+        {
+          "id": "news-5ed1775c",
+          "source": "ESPN",
+          "sport": "Basketball",
+          "league": "NBA",
+          "headline": "Lakers host the Clippers in conference matchup",
+          "description": "Los Angeles Clippers (1-0, second in the Western Conference) vs. Los Angeles Lakers (1-0, fourth in the Western Conference)",
+          "published": "2026-10-22T07:04:09.000Z",
+          "publishedAt": "2026-10-22T07:04:09.000Z",
+          "url": "http://www.espn.com/nba/preview?gameId=401909851",
+          "link": "http://www.espn.com/nba/preview?gameId=401909851",
+          "teamTags": [
+            "Los Angeles Lakers",
+            "LA Clippers"
+          ],
+          "imageUrl": "https://s.espncdn.com/stitcher/sports/basketball/nba/events/401909851.png?templateId=espn.applewatch.awayhome.1"
+        },
+        {
+          "id": "news-d8ce65d3",
+          "source": "ESPN",
+          "sport": "Basketball",
+          "league": "NBA",
+          "headline": "Atlanta faces Charlotte for conference matchup",
+          "description": "Atlanta Hawks (1-0, second in the Eastern Conference) vs. Charlotte Hornets (1-0, sixth in the Eastern Conference)",
+          "published": "2026-10-22T07:04:08.000Z",
+          "publishedAt": "2026-10-22T07:04:08.000Z",
+          "url": "http://www.espn.com/nba/preview?gameId=401909843",
+          "link": "http://www.espn.com/nba/preview?gameId=401909843",
+          "teamTags": [
+            "Charlotte Hornets",
+            "Atlanta Hawks"
+          ],
+          "imageUrl": "https://s.espncdn.com/stitcher/sports/basketball/nba/events/401909843.png?templateId=espn.applewatch.awayhome.1"
+        },
+        {
+          "id": "news-aff8f447",
+          "source": "ESPN",
+          "sport": "Basketball",
+          "league": "NBA",
+          "headline": "Trail Blazers fans show love for Damian Lillard in return",
+          "description": "Damian Lillard played his first regular-season game since returning to Portland in the summer of 2025, scoring 25 points with six 3s in a rout of Phoenix.",
+          "published": "2026-10-22T06:27:26.000Z",
+          "publishedAt": "2026-10-22T06:27:26.000Z",
+          "url": "https://www.espn.com/nba/story/_/id/50245665/portland-trail-blazers-damian-lillard-return-suns",
+          "link": "https://www.espn.com/nba/story/_/id/50245665/portland-trail-blazers-damian-lillard-return-suns",
+          "teamTags": [
+            "Portland Trail Blazers"
+          ],
+          "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734403_600x400_3-2.jpg"
+        }
+      ],
+      "error": null
+    },
+    "Football": {
+      "league": "NFL",
+      "via": "espn-json",
+      "articles": [
+        {
+          "id": "news-1e34d37c",
+          "source": "ESPN",
+          "sport": "Football",
+          "league": "NFL",
+          "headline": "Kyrie Irving explains offer to pay Al-Shaair's eye black fine",
+          "description": "Azeez Al-Shaair was fined after he wore the name Hind Rajab on his eye black during the Texans' season opener.",
+          "published": "2026-10-22T08:22:47.000Z",
+          "publishedAt": "2026-10-22T08:22:47.000Z",
+          "url": "https://www.espn.com/nba/story/_/id/50246419/kyrie-irving-azeez-al-shaair-hind-rajab-eye-black-fine",
+          "link": "https://www.espn.com/nba/story/_/id/50246419/kyrie-irving-azeez-al-shaair-hind-rajab-eye-black-fine",
+          "teamTags": [
+            "Dallas Mavericks",
+            "Houston Texans"
+          ],
+          "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734397_2_600x400_3-2.jpg"
+        },
+        {
+          "id": "news-65c99474",
+          "source": "ESPN",
+          "sport": "Football",
+          "league": "NFL",
+          "headline": "Why fantasy managers should start Bucs' Josiah Trotter and Jacob Parrish in IDP leagues",
+          "description": "Why Bucs' Josiah Trotter and Jacob Parrish should start in IDP leagues",
+          "published": "2026-10-22T04:59:50.000Z",
+          "publishedAt": "2026-10-22T04:59:50.000Z",
+          "url": "https://www.espn.com/video/clip/_/id/50243816/why-bucs-josiah-trotter-jacob-parrish-start-idp-leagues",
+          "link": "https://www.espn.com/video/clip/_/id/50243816/why-bucs-josiah-trotter-jacob-parrish-start-idp-leagues",
+          "teamTags": [],
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1021/ss_20261021_214510034_3705308/ss_20261021_214510034_3705308.jpg"
+        },
+        {
+          "id": "news-85c36bbe",
+          "source": "ESPN",
+          "sport": "Football",
+          "league": "NFL",
+          "headline": "Why Tristan H. Cockcroft likes the Jets defense in Week 7",
+          "description": "Why Tristan H. Cockcroft likes the Jets defense in Week 7",
+          "published": "2026-10-22T04:58:53.000Z",
+          "publishedAt": "2026-10-22T04:58:53.000Z",
+          "url": "https://www.espn.com/video/clip/_/id/50244017/why-tristan-h-cockcroft-likes-jets-defense-week-7",
+          "link": "https://www.espn.com/video/clip/_/id/50244017/why-tristan-h-cockcroft-likes-jets-defense-week-7",
+          "teamTags": [
+            "New York Jets"
+          ],
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1021/ss_20261021_221058889_3705362/ss_20261021_221058889_3705362.jpg"
+        },
+        {
+          "id": "news-c9e9deba",
+          "source": "ESPN",
+          "sport": "Football",
+          "league": "NFL",
+          "headline": "Will Matthew Stafford's fantasy production dip without Davante Adams?",
+          "description": "Will Matthew Stafford's fantasy production dip without Davante Adams?",
+          "published": "2026-10-22T04:58:07.000Z",
+          "publishedAt": "2026-10-22T04:58:07.000Z",
+          "url": "https://www.espn.com/video/clip/_/id/50244306/will-matthew-stafford-fantasy-production-dip-davante-adams",
+          "link": "https://www.espn.com/video/clip/_/id/50244306/will-matthew-stafford-fantasy-production-dip-davante-adams",
+          "teamTags": [],
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1021/ss_20261021_224330124_3705432/ss_20261021_224330124_3705432.jpg"
+        },
+        {
+          "id": "news-d9e8492e",
+          "source": "ESPN",
+          "sport": "Football",
+          "league": "NFL",
+          "headline": "Report: $250K fines for Sirianni, Vrabel, Glenn temporarily on hold",
+          "description": "Nick Sirianni was fined $250,000 for conduct toward officials, a source said, confirming an SI report that noted Mike Vrabel and Aaron Glenn were similarly fined.",
+          "published": "2026-10-22T04:45:46.000Z",
+          "publishedAt": "2026-10-22T04:45:46.000Z",
+          "url": "https://www.espn.com/nfl/story/_/id/50244013/sirianni-vrabel-glenn-fined-250k-ref-conduct",
+          "link": "https://www.espn.com/nfl/story/_/id/50244013/sirianni-vrabel-glenn-fined-250k-ref-conduct",
+          "teamTags": [
+            "New York Jets",
+            "New England Patriots",
+            "Philadelphia Eagles"
+          ],
+          "imageUrl": "https://a.espncdn.com/photo/2026/1014/r1730799_600x600_1-1.jpg"
+        },
+        {
+          "id": "news-c38e8f80",
+          "source": "ESPN",
+          "sport": "Football",
+          "league": "NFL",
+          "headline": "Senators fans booing Tkachuk reminiscent of previous unpleasant sports returns",
+          "description": "Brady Tkachuk isn't the first notable sports figure to be met with jeers by fans of his prior team.",
+          "published": "2026-10-22T00:14:15.000Z",
+          "publishedAt": "2026-10-22T00:14:15.000Z",
+          "url": "https://www.espn.com/nhl/story/_/id/28118392/athletes-faced-wrath-jilted-fans",
+          "link": "https://www.espn.com/nhl/story/_/id/28118392/athletes-faced-wrath-jilted-fans",
+          "teamTags": [
+            "New England Patriots",
+            "Columbus Blue Jackets",
+            "Calgary Flames",
+            "Ottawa Senators",
+            "Florida Panthers"
+          ],
+          "imageUrl": "https://a.espncdn.com/photo/2026/1021/r1734174_1296x729_16-9.jpg"
+        }
+      ],
+      "error": null
+    },
+    "Baseball": {
+      "league": "MLB",
+      "via": "espn-json",
+      "articles": [
+        {
+          "id": "news-821994aa",
+          "source": "ESPN",
+          "sport": "Baseball",
+          "league": "MLB",
+          "headline": "Dodgers' Shohei Ohtani won't require surgery, expected to pitch in 2027",
+          "description": "Shohei Ohtani will not require surgery to treat any ailment he dealt with this past season, Dodgers president of baseball operations Andrew Friedman said Wednesday. And: \"I fully expect him to pitch…",
+          "published": "2026-10-22T03:38:47.000Z",
+          "publishedAt": "2026-10-22T03:38:47.000Z",
+          "url": "https://www.espn.com/mlb/story/_/id/50242196/dodgers-shohei-ohtani-not-require-surgery-expected-pitch-2027",
+          "link": "https://www.espn.com/mlb/story/_/id/50242196/dodgers-shohei-ohtani-not-require-surgery-expected-pitch-2027",
+          "teamTags": [
+            "Los Angeles Dodgers"
+          ],
+          "imageUrl": "https://a.espncdn.com/photo/2026/1021/r1734219_600x400_3-2.jpg"
+        },
+        {
+          "id": "news-22bdd6a7",
+          "source": "ESPN",
+          "sport": "Baseball",
+          "league": "MLB",
+          "headline": "Athletics bet on youth with 31-year-old Taylor Smith to lead baseball operations",
+          "description": "Saying \"the world is run by 31-year-olds today,\" Athletics owner John Fisher hired as his president of baseball operations someone he hopes continues the organization's rich history with analytics…",
+          "published": "2026-10-22T01:43:42.000Z",
+          "publishedAt": "2026-10-22T01:43:42.000Z",
+          "url": "https://www.espn.com/mlb/story/_/id/50243662/athletics-bet-youth-31-year-old-taylor-smith-lead-baseball-operations",
+          "link": "https://www.espn.com/mlb/story/_/id/50243662/athletics-bet-youth-31-year-old-taylor-smith-lead-baseball-operations",
+          "teamTags": [
+            "Athletics"
+          ],
+          "imageUrl": "https://a.espncdn.com/photo/2026/1022/r1734314_2_600x400_3-2.jpg"
+        },
+        {
+          "id": "news-c38e8f80",
+          "source": "ESPN",
+          "sport": "Baseball",
+          "league": "MLB",
+          "headline": "Senators fans booing Tkachuk reminiscent of previous unpleasant sports returns",
+          "description": "Brady Tkachuk isn't the first notable sports figure to be met with jeers by fans of his prior team.",
+          "published": "2026-10-22T00:14:15.000Z",
+          "publishedAt": "2026-10-22T00:14:15.000Z",
+          "url": "https://www.espn.com/nhl/story/_/id/28118392/athletes-faced-wrath-jilted-fans",
+          "link": "https://www.espn.com/nhl/story/_/id/28118392/athletes-faced-wrath-jilted-fans",
+          "teamTags": [
+            "New England Patriots",
+            "Columbus Blue Jackets",
+            "Calgary Flames",
+            "Ottawa Senators",
+            "Florida Panthers"
+          ],
+          "imageUrl": "https://a.espncdn.com/photo/2026/1021/r1734174_1296x729_16-9.jpg"
+        },
+        {
+          "id": "news-7c76f69d",
+          "source": "ESPN",
+          "sport": "Baseball",
+          "league": "MLB",
+          "headline": "Boone spurns calls for culture change; Yankees clubhouse remains a 'strength'",
+          "description": "Yankees manager Aaron Boone says he has no plans to call out his players publicly more often despite recent criticisms of the club's culture.",
+          "published": "2026-10-21T21:46:34.000Z",
+          "publishedAt": "2026-10-21T21:46:34.000Z",
+          "url": "https://www.espn.com/mlb/story/_/id/50241532/boone-spurns-call-change-yankees-clubhouse-strength",
+          "link": "https://www.espn.com/mlb/story/_/id/50241532/boone-spurns-call-change-yankees-clubhouse-strength",
+          "teamTags": [
+            "New York Yankees"
+          ],
+          "imageUrl": "https://a.espncdn.com/photo/2025/1004/r1555184_600x400_3-2.jpg"
+        },
+        {
+          "id": "news-5e3b8273",
+          "source": "ESPN",
+          "sport": "Baseball",
+          "league": "MLB",
+          "headline": "2026 MLB offseason manager changes: Tracking hirings, firings",
+          "description": "The offseason carousel is in motion. Here's who is out -- and who could be in line to replace them.",
+          "published": "2026-10-21T19:56:36.000Z",
+          "publishedAt": "2026-10-21T19:56:36.000Z",
+          "url": "https://www.espn.com/mlb/story/_/id/50046775/mlb-2026-manager-changes-tracker-hirings-firings-top-replacement-candidates",
+          "link": "https://www.espn.com/mlb/story/_/id/50046775/mlb-2026-manager-changes-tracker-hirings-firings-top-replacement-candidates",
+          "teamTags": [
+            "Seattle Mariners",
+            "Los Angeles Angels"
+          ],
+          "imageUrl": "https://a.espncdn.com/photo/2026/1021/r1734098_608x342_16-9.jpg"
+        },
+        {
+          "id": "news-f76ac58f",
+          "source": "ESPN",
+          "sport": "Baseball",
+          "league": "MLB",
+          "headline": "Uecker's family says he'd be 'incredibly proud' of Brewers",
+          "description": "Bob Uecker would be \"incredibly proud\" of these Milwaukee Brewers, the family of the Hall of Fame broadcaster said Wednesday in a statement released by the team.",
+          "published": "2026-10-21T19:20:54.000Z",
+          "publishedAt": "2026-10-21T19:20:54.000Z",
+          "url": "https://www.espn.com/mlb/story/_/id/50240296/uecker-family-says-incredibly-proud-brewers",
+          "link": "https://www.espn.com/mlb/story/_/id/50240296/uecker-family-says-incredibly-proud-brewers",
+          "teamTags": [
+            "Milwaukee Brewers"
+          ],
+          "imageUrl": "https://a.espncdn.com/photo/2019/0918/r599946_600x400_3-2.jpg"
+        }
+      ],
+      "error": null
+    },
+    "Hockey": {
+      "league": "NHL",
+      "via": "espn-json",
+      "articles": [
+        {
+          "id": "news-6aaf6824",
+          "source": "ESPN",
+          "sport": "Hockey",
+          "league": "NHL",
+          "headline": "Pittsburgh takes losing streak into matchup with Florida",
+          "description": "Florida Panthers (5-3-2, in the Atlantic Division) vs. Pittsburgh Penguins (3-6-1, in the Metropolitan Division)",
+          "published": "2026-10-22T08:12:12.000Z",
+          "publishedAt": "2026-10-22T08:12:12.000Z",
+          "url": "http://www.espn.com/nhl/preview?gameId=401892556",
+          "link": "http://www.espn.com/nhl/preview?gameId=401892556",
+          "teamTags": [
+            "Pittsburgh Penguins",
+            "Florida Panthers"
+          ],
+          "imageUrl": "https://s.espncdn.com/stitcher/sports/hockey/nhl/events/401892556.png?templateId=espn.applewatch.awayhome.1"
+        },
+        {
+          "id": "news-6caf6b4a",
+          "source": "ESPN",
+          "sport": "Hockey",
+          "league": "NHL",
+          "headline": "Sharks play the Senators after Celebrini's 2-goal showing",
+          "description": "San Jose Sharks (5-4-1, in the Pacific Division) vs. Ottawa Senators (7-3, in the Atlantic Division)",
+          "published": "2026-10-22T08:12:10.000Z",
+          "publishedAt": "2026-10-22T08:12:10.000Z",
+          "url": "http://www.espn.com/nhl/preview?gameId=401892554",
+          "link": "http://www.espn.com/nhl/preview?gameId=401892554",
+          "teamTags": [
+            "Ottawa Senators",
+            "San Jose Sharks"
+          ],
+          "imageUrl": "https://s.espncdn.com/stitcher/sports/hockey/nhl/events/401892554.png?templateId=espn.applewatch.awayhome.1"
+        },
+        {
+          "id": "news-5ead16a9",
+          "source": "ESPN",
+          "sport": "Hockey",
+          "league": "NHL",
+          "headline": "Chicago hosts Montreal in a non-conference matchup",
+          "description": "Montreal Canadiens (4-3-2, in the Atlantic Division) vs. Chicago Blackhawks (3-6, in the Central Division)",
+          "published": "2026-10-22T08:12:09.000Z",
+          "publishedAt": "2026-10-22T08:12:09.000Z",
+          "url": "http://www.espn.com/nhl/preview?gameId=401892564",
+          "link": "http://www.espn.com/nhl/preview?gameId=401892564",
+          "teamTags": [
+            "Chicago Blackhawks",
+            "Montreal Canadiens"
+          ],
+          "imageUrl": "https://s.espncdn.com/stitcher/sports/hockey/nhl/events/401892564.png?templateId=espn.applewatch.awayhome.1"
+        },
+        {
+          "id": "news-5dad1516",
+          "source": "ESPN",
+          "sport": "Hockey",
+          "league": "NHL",
+          "headline": "Lightning visit the Avalanche following Cirelli's 2-goal game",
+          "description": "Tampa Bay Lightning (7-2, in the Atlantic Division) vs. Colorado Avalanche (5-4-1, in the Central Division)",
+          "published": "2026-10-22T08:12:08.000Z",
+          "publishedAt": "2026-10-22T08:12:08.000Z",
+          "url": "http://www.espn.com/nhl/preview?gameId=401892565",
+          "link": "http://www.espn.com/nhl/preview?gameId=401892565",
+          "teamTags": [
+            "Colorado Avalanche",
+            "Tampa Bay Lightning"
+          ],
+          "imageUrl": "https://s.espncdn.com/stitcher/sports/hockey/nhl/events/401892565.png?templateId=espn.applewatch.awayhome.1"
+        },
+        {
+          "id": "news-142658f4",
+          "source": "ESPN",
+          "sport": "Hockey",
+          "league": "NHL",
+          "headline": "Senators beat Panthers 5-1 as Brady Tkachuk scores in return to Ottawa but gets hostile reception",
+          "description": "— With fans chanting “We don’t need you!,” the Ottawa Senators defeated Brady Tkachuk and his Florida Panthers 5-1 on Wednesday night.",
+          "published": "2026-10-22T04:19:08.000Z",
+          "publishedAt": "2026-10-22T04:19:08.000Z",
+          "url": "http://www.espn.com/nhl/recap?gameId=401892551",
+          "link": "http://www.espn.com/nhl/recap?gameId=401892551",
+          "teamTags": [
+            "Ottawa Senators",
+            "Florida Panthers"
+          ],
+          "imageUrl": "https://s.espncdn.com/stitcher/sports/hockey/nhl/events/401892551.png?templateId=espn.applewatch.awayhome.1"
+        },
+        {
+          "id": "news-2d13ad0b",
+          "source": "ESPN",
+          "sport": "Hockey",
+          "league": "NHL",
+          "headline": "Florida Panthers vs. Ottawa Senators: Game Highlights",
+          "description": "Florida Panthers vs. Ottawa Senators: Game Highlights",
+          "published": "2026-10-22T03:51:35.000Z",
+          "publishedAt": "2026-10-22T03:51:35.000Z",
+          "url": "https://www.espn.com/video/clip/_/id/50244988/game-highlights",
+          "link": "https://www.espn.com/video/clip/_/id/50244988/game-highlights",
+          "teamTags": [
+            "Florida Panthers",
+            "Ottawa Senators"
+          ],
+          "imageUrl": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1022/0363fd5c-d055-47ba-9fb2-110348e33fe8/0363fd5c-d055-47ba-9fb2-110348e33fe8.jpg"
+        }
+      ],
+      "error": null
+    }
+  },
+  "errors": {
+    "Basketball": "not configured (no key)",
+    "Football": "not configured (no key)",
+    "Baseball": "not configured (no key)",
+    "Hockey": "not configured (no key)"
+  }
 }

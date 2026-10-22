@@ -30,6 +30,7 @@
  */
 
 import { writeFile } from 'node:fs/promises';
+import { pathToFileURL } from 'node:url';
 import {
   SPORT_APIS,
   normalizeGame,
@@ -112,10 +113,13 @@ async function buildSportFeed(sport, key) {
   return { slate, picks };
 }
 
-async function main() {
-  const outIdx = process.argv.indexOf('--out');
-  const outPath = outIdx >= 0 ? process.argv[outIdx + 1] : './feed.json';
-
+/**
+ * One full collection pass — the same work the CLI writes to disk and the
+ * Vercel Function (api/collect.mjs) publishes to Vercel Blob. Returns the
+ * feed object; never throws for per-sport or per-league failures (those
+ * land in the feed's `errors` / per-league `error` entries).
+ */
+export async function collectFeed() {
   const picks = [];
   const slate = [];
   const errors = {};
@@ -162,11 +166,6 @@ async function main() {
     };
     console.error(news.error);
   }
-  const newsCount = Object.values(news).reduce(
-    (n, entry) => n + (Array.isArray(entry?.articles) ? entry.articles.length : 0),
-    0
-  );
-
   const feed = {
     generatedAt: new Date().toISOString(),
     source: '103 sports-feed collector — API-Sports (games/odds), ESPN (news)',
@@ -176,13 +175,30 @@ async function main() {
     news,
     errors,
   };
+  return feed;
+}
+
+async function main() {
+  const outIdx = process.argv.indexOf('--out');
+  const outPath = outIdx >= 0 ? process.argv[outIdx + 1] : './feed.json';
+  const feed = await collectFeed();
+  const newsCount = Object.values(feed.news ?? {}).reduce(
+    (n, entry) => n + (Array.isArray(entry?.articles) ? entry.articles.length : 0),
+    0
+  );
   await writeFile(outPath, JSON.stringify(feed, null, 2));
   console.log(
-    `Wrote ${outPath}: ${picks.length} picks, ${slate.length} slate items, ${newsCount} news articles, sports: ${sportsConfigured.join(', ') || 'none'}`
+    `Wrote ${outPath}: ${feed.picks.length} picks, ${feed.slate.length} slate items, ${newsCount} news articles, sports: ${feed.sportsConfigured.join(', ') || 'none'}`
   );
 }
 
-main().catch((err) => {
-  console.error('Collector failed:', err);
-  process.exit(1);
-});
+// Run the CLI only when executed directly (`node collector.mjs`), not when
+// imported by the Vercel Function.
+const isMainModule =
+  process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href;
+if (isMainModule) {
+  main().catch((err) => {
+    console.error('Collector failed:', err);
+    process.exit(1);
+  });
+}

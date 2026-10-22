@@ -1,0 +1,1 @@
+{"dependencies":{"@vercel/blob":"^2.8.2"},"name":"sports-feed","private":true,"scripts":{"collect":"node collector.mjs --out ./feed.json","test":"node --test tests/*.test.mjs"},"type":"module","version":"1.0.0"}

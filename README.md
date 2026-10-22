@@ -36,6 +36,29 @@ the clock, regardless of user count.
   the file header. A cron on any always-on machine works too:
   `node collector.mjs --out /path/to/webroot/feed.json`.
 
+## Vercel deployment
+
+The same collector also runs on Vercel (project `sports-feed`, team
+"Isaac E Jones III's projects"), deployed from this repo:
+
+- `api/collect.mjs` — Vercel Function that runs `collectFeed()` (the exact
+  pass the CLI runs) and publishes the result to Vercel Blob at the stable
+  pathname `feed.json` (`addRandomSuffix: false`, public, JSON).
+- `vercel.json` — two cron entries (`0 0,3,6,9,12,15,18,21 * * *` and
+  `30 1,4,7,10,13,16,19,22 * * *`) interleave to the same 90-minute cadence
+  as the GitHub schedule. Vercel Cron calls `/api/collect` with the
+  `CRON_SECRET` bearer header automatically; the function requires it
+  whenever `CRON_SECRET` is set.
+- Keys live only as project environment variables on Vercel
+  (`APISPORTS_KEY` / per-sport overrides, `CRON_SECRET`,
+  `BLOB_READ_WRITE_TOKEN` from the connected Blob store) — never in the
+  repo, never in the app.
+- Feed URL (Vercel Blob, stable): _pending first verified publish — see
+  git history / project dashboard._
+- The GitHub Pages feed
+  (https://103softwaresolutionsllc-rgb.github.io/sports-feed/feed.json)
+  remains live as a fallback.
+
 ## Quota budget (API-Sports free plan: 100 requests/day per sport)
 
 Per run per sport: 2 games calls + ≤3 odds calls = ≤5. At the 90-minute

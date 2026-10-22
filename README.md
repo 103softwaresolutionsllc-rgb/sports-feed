@@ -2,7 +2,8 @@
 
 Server-side collector that turns API-Sports data into the single public JSON
 feed the 103 Sports BetTracker app reads on its Home screen ("Today's Notable
-Lines" + "Live & upcoming" slate).
+Lines" + "Live & upcoming" slate), plus a news layer (ESPN headlines) the
+apps surface on their AI Hub / insights screens.
 
 ## Why it exists
 
@@ -18,7 +19,18 @@ the clock, regardless of user count.
 - `collector.mjs` — one collection pass. Reads keys from the environment,
   fetches today's + tomorrow's games per configured sport, pulls odds for up
   to 3 near-term games per sport, normalizes everything (see
-  `normalize.mjs`), and writes `feed.json`.
+  `normalize.mjs`), collects the news layer (see `news.mjs`), and writes
+  `feed.json`.
+- `news.mjs` — ESPN news collection, one fetcher per league. Primary:
+  ESPN's unofficial news JSON
+  (`site.api.espn.com/apis/site/v2/sports/{sport}/{league}/news` — no key,
+  no quota). Fallback: the league's ESPN RSS feed
+  (`www.espn.com/espn/rss/{league}/news`), parsed to the same story shape
+  by the dependency-free parser in `normalize.mjs`. Per spec, only
+  headline + ~200-char description + outbound link are published, with
+  source attribution — never full article text.
+- `tests/news.test.mjs` — unit tests for the news normalizers, run against
+  real ESPN responses recorded as fixtures (`node --test tests/news.test.mjs`).
 - `sports-feed.workflow.yml` — GitHub Actions template that runs the pass
   every 90 minutes and commits the refreshed `feed.json`. Setup steps are in
   the file header. A cron on any always-on machine works too:
@@ -37,10 +49,21 @@ would blow the cap.)
 ```json
 {
   "generatedAt": "ISO timestamp",
-  "source": "API-Sports via 103 sports-feed collector",
+  "source": "103 sports-feed collector — API-Sports (games/odds), ESPN (news)",
   "sportsConfigured": ["Basketball", "Football"],
   "picks":  [ /* Notable Lines cards: favorite, implied %, bookmaker */ ],
   "slate":  [ /* live + upcoming games */ ],
+  "news": {
+    "fetchedAt": "ISO timestamp",
+    "Basketball": {
+      "league": "NBA",
+      "via": "espn-json",
+      "articles": [ /* { id, source, sport, league, headline, description,
+                       published/publishedAt, url/link, imageUrl?, teamTags } */ ],
+      "error": null
+    }
+    /* Football (NFL), Baseball (MLB), Hockey (NHL) — same shape */
+  },
   "errors": { "Hockey": "not configured (no key)" }
 }
 ```
@@ -49,6 +72,14 @@ Honesty rules baked in: picks show the bookmaker's favorite and the
 probability implied by the odds (never a "model probability"); sports
 without keys or with failed fetches appear in `errors` and contribute no
 items — the app shows empty states rather than placeholder data.
+
+News honesty rules: a league whose ESPN JSON *and* RSS fetches both fail
+(or return nothing usable) gets `"articles": []` and a plain-language
+`error` saying so — stories are never invented. Story `id` is a hash of
+the article URL (dedupe key), descriptions are truncated to ~200 chars,
+lists are newest-first and capped at 10 per league. `via` records whether
+the JSON endpoint or the RSS fallback served the league. Team tags come
+only from ESPN's own article categories; RSS stories carry none.
 
 ## App side
 

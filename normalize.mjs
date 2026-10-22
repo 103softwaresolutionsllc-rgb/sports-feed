@@ -216,6 +216,210 @@ export function extractFavoriteLine(oddsPayload, game) {
 
 const BAR_BY_BADGE = { high: '#4a9eff', signal: '#22c55e', caution: '#eab308' };
 
+// ---------------------------------------------------------------------------
+// News normalizers (ESPN JSON primary, ESPN RSS fallback).
+// Spec: sports-news-module-spec-2026-10-22.md — normalized story shape
+// { id, source, league, headline, description, publishedAt, url, imageUrl?,
+// teamTags[] }, id = hash of url (dedupe key across sources), description
+// truncated to ~200 chars, newest first, cap 10–15 per league.
+// Pure functions, no I/O — fetching lives in news.mjs.
+// ---------------------------------------------------------------------------
+
+export const NEWS_LEAGUES = {
+  Basketball: {
+    espnSport: 'basketball',
+    espnLeague: 'nba',
+    leagueLabel: 'NBA',
+    rssUrl: 'https://www.espn.com/espn/rss/nba/news',
+  },
+  Football: {
+    espnSport: 'football',
+    espnLeague: 'nfl',
+    leagueLabel: 'NFL',
+    rssUrl: 'https://www.espn.com/espn/rss/nfl/news',
+  },
+  Baseball: {
+    espnSport: 'baseball',
+    espnLeague: 'mlb',
+    leagueLabel: 'MLB',
+    rssUrl: 'https://www.espn.com/espn/rss/mlb/news',
+  },
+  Hockey: {
+    espnSport: 'hockey',
+    espnLeague: 'nhl',
+    leagueLabel: 'NHL',
+    rssUrl: 'https://www.espn.com/espn/rss/nhl/news',
+  },
+};
+
+export const MAX_NEWS_PER_LEAGUE = 10;
+const MAX_TEAM_TAGS = 6;
+
+/** FNV-1a hash of a string, as 8 hex chars. Used for story dedupe ids. */
+export function hashId(str) {
+  let h = 0x811c9dc5;
+  const s = String(str || '');
+  for (let i = 0; i < s.length; i++) {
+    h ^= s.charCodeAt(i);
+    h = Math.imul(h, 0x01000193);
+  }
+  return (h >>> 0).toString(16).padStart(8, '0');
+}
+
+/** Collapse whitespace; non-strings become ''. */
+export function cleanText(value) {
+  return typeof value === 'string' ? value.replace(/\s+/g, ' ').trim() : '';
+}
+
+/** Truncate to ~max chars on a word boundary, with an ellipsis. */
+export function truncateText(value, max = 200) {
+  const t = cleanText(value);
+  if (t.length <= max) return t;
+  const cut = t.slice(0, max - 1);
+  const lastSpace = cut.lastIndexOf(' ');
+  const body = lastSpace > max * 0.6 ? cut.slice(0, lastSpace) : cut;
+  return `${body.trimEnd()}…`;
+}
+
+function toIso(value) {
+  const t = Date.parse(typeof value === 'string' ? value : '');
+  return Number.isFinite(t) ? new Date(t).toISOString() : null;
+}
+
+/** Dedupe by id, sort newest first (undated last), cap per-league count. */
+function finishNewsList(stories) {
+  const seen = new Set();
+  const out = [];
+  for (const s of stories) {
+    if (!s || seen.has(s.id)) continue;
+    seen.add(s.id);
+    out.push(s);
+  }
+  out.sort((a, b) => {
+    const ta = a.publishedAt ? Date.parse(a.publishedAt) : 0;
+    const tb = b.publishedAt ? Date.parse(b.publishedAt) : 0;
+    return tb - ta;
+  });
+  return out.slice(0, MAX_NEWS_PER_LEAGUE);
+}
+
+function makeStory({ sport, leagueLabel, headline, description, publishedIso, url, imageUrl, teamTags }) {
+  const story = {
+    id: `news-${hashId(url)}`,
+    source: 'ESPN',
+    sport,
+    league: leagueLabel,
+    headline,
+    description: truncateText(description, 200),
+    published: publishedIso,
+    publishedAt: publishedIso,
+    url,
+    link: url,
+    teamTags: teamTags || [],
+  };
+  if (imageUrl) story.imageUrl = imageUrl;
+  return story;
+}
+
+/**
+ * Normalize one raw ESPN JSON article, or null when it cannot be read
+ * honestly (a story needs at least a headline and a web URL).
+ * Team tags come from categories[] entries of type "team" — no guessing.
+ */
+export function normalizeEspnArticle(raw, sport) {
+  const cfg = NEWS_LEAGUES[sport];
+  if (!cfg || !raw || typeof raw !== 'object') return null;
+  const headline = cleanText(raw.headline);
+  const url = raw.links?.web?.href || raw.links?.mobile?.href || null;
+  if (!headline || !url) return null;
+  const teamTags = [];
+  for (const cat of Array.isArray(raw.categories) ? raw.categories : []) {
+    const name = cat?.type === 'team' ? cleanText(cat.description) : '';
+    if (name && !teamTags.includes(name)) teamTags.push(name);
+    if (teamTags.length >= MAX_TEAM_TAGS) break;
+  }
+  const image = Array.isArray(raw.images)
+    ? raw.images.find((i) => i && (i.url || i.href))
+    : null;
+  return makeStory({
+    sport,
+    leagueLabel: cfg.leagueLabel,
+    headline,
+    description: raw.description,
+    publishedIso: toIso(raw.published),
+    url,
+    imageUrl: image?.url || image?.href || null,
+    teamTags,
+  });
+}
+
+/**
+ * Normalize a whole ESPN JSON news payload. Anything that is not an object
+ * with an articles array yields [] — never a throw, never invented stories.
+ */
+export function normalizeEspnNews(payload, sport) {
+  if (!payload || typeof payload !== 'object' || !Array.isArray(payload.articles)) {
+    return [];
+  }
+  return finishNewsList(
+    payload.articles.map((a) => normalizeEspnArticle(a, sport)).filter(Boolean)
+  );
+}
+
+function decodeEntities(s) {
+  return String(s)
+    .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(Number(n)))
+    .replace(/&#x([0-9a-fA-F]+);/g, (_, n) => String.fromCodePoint(parseInt(n, 16)))
+    .replace(/&quot;/g, '"')
+    .replace(/&apos;/g, "'")
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&amp;/g, '&');
+}
+
+function xmlTagText(block, tag) {
+  const m = new RegExp(`<${tag}[^>]*>([\\s\\S]*?)</${tag}>`).exec(block);
+  if (!m) return null;
+  let v = m[1].trim();
+  const cdata = /^<!\[CDATA\[([\s\S]*?)\]\]>$/.exec(v);
+  if (cdata) v = cdata[1];
+  return decodeEntities(v).trim();
+}
+
+/**
+ * Minimal RSS 2.0 parser for an ESPN league feed (no XML dependency).
+ * Extracts <item> blocks and the same story fields the JSON path yields
+ * (RSS carries no team tags or images — teamTags stays [], honestly).
+ * Malformed input yields [].
+ */
+export function parseEspnRss(xml, sport) {
+  const cfg = NEWS_LEAGUES[sport];
+  if (!cfg || typeof xml !== 'string' || !xml.includes('<item')) return [];
+  const stories = [];
+  const itemRe = /<item[\s>][\s\S]*?<\/item>/g;
+  let m;
+  while ((m = itemRe.exec(xml)) !== null) {
+    const block = m[0];
+    const headline = cleanText(xmlTagText(block, 'title'));
+    const url = xmlTagText(block, 'link');
+    if (!headline || !url) continue;
+    const rawDesc = xmlTagText(block, 'description') || '';
+    stories.push(
+      makeStory({
+        sport,
+        leagueLabel: cfg.leagueLabel,
+        headline,
+        description: rawDesc.replace(/<[^>]*>/g, ' '),
+        publishedIso: toIso(xmlTagText(block, 'pubDate')),
+        url,
+        imageUrl: null,
+        teamTags: [],
+      })
+    );
+  }
+  return finishNewsList(stories);
+}
+
 /** Pick card in the exact shape the BetTracker Home "Notable Lines" cards render. */
 export function toPickCard(game, line) {
   const pct = line.impliedPct;

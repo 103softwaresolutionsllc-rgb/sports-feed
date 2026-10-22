@@ -21,6 +21,12 @@
  *   At the scheduled cadence of one run every 90 minutes (16 runs/day)
  *   that is at most 80 requests/day per sport — inside the cap with
  *   headroom for manual runs. (Hourly would be 120/day and blow the cap.)
+ *
+ * News layer (news.mjs): the same run also collects headlines per league
+ * from ESPN's unofficial news JSON (no key, no quota), with the league's
+ * ESPN RSS feed as fallback, into the feed's top-level `news` object.
+ * News failures are per-league `error` entries — they never block the
+ * API-Sports sections, and empty leagues stay honestly empty.
  */
 
 import { writeFile } from 'node:fs/promises';
@@ -31,6 +37,7 @@ import {
   toPickCard,
   extractFavoriteLine,
 } from './normalize.mjs';
+import { collectNews } from './news.mjs';
 
 const MAX_PICKS_PER_SPORT = 3;
 const MAX_SLATE_PER_SPORT = 6;
@@ -142,17 +149,36 @@ async function main() {
     return a.startTs - b.startTs;
   });
 
+  // News layer runs in the same pass. collectNews() is fully guarded per
+  // league; this catch is a last resort so a news-layer surprise can never
+  // block publishing the API-Sports sections.
+  let news;
+  try {
+    news = await collectNews();
+  } catch (err) {
+    news = {
+      fetchedAt: new Date().toISOString(),
+      error: `news layer failed: ${String(err?.message || err)}`,
+    };
+    console.error(news.error);
+  }
+  const newsCount = Object.values(news).reduce(
+    (n, entry) => n + (Array.isArray(entry?.articles) ? entry.articles.length : 0),
+    0
+  );
+
   const feed = {
     generatedAt: new Date().toISOString(),
-    source: 'API-Sports via 103 sports-feed collector',
+    source: '103 sports-feed collector — API-Sports (games/odds), ESPN (news)',
     sportsConfigured,
     picks,
     slate,
+    news,
     errors,
   };
   await writeFile(outPath, JSON.stringify(feed, null, 2));
   console.log(
-    `Wrote ${outPath}: ${picks.length} picks, ${slate.length} slate items, sports: ${sportsConfigured.join(', ') || 'none'}`
+    `Wrote ${outPath}: ${picks.length} picks, ${slate.length} slate items, ${newsCount} news articles, sports: ${sportsConfigured.join(', ') || 'none'}`
   );
 }
 

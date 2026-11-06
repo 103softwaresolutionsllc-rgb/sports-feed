@@ -138,7 +138,7 @@ SPORT_CONFIG = {
         },
     },
     "soccer": {
-        "base_url": "https://v1.football.api-sports.io",
+        "base_url": "https://v3.football.api-sports.io",
         # Premier League id on API-Football — VERIFY on first live run
         # (39 is the long-standing id for the English Premier League).
         "league": 39,

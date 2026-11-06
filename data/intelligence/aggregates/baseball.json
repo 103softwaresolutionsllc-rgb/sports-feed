@@ -1,0 +1,40 @@
+{
+  "averages": {},
+  "leaderboards": {
+    "away_points_against_per_game": {
+      "entries": [],
+      "order": "ascending"
+    },
+    "away_points_for_per_game": {
+      "entries": [],
+      "order": "descending"
+    },
+    "home_points_against_per_game": {
+      "entries": [],
+      "order": "ascending"
+    },
+    "home_points_for_per_game": {
+      "entries": [],
+      "order": "descending"
+    },
+    "points_against_per_game": {
+      "entries": [],
+      "order": "ascending"
+    },
+    "points_for_per_game": {
+      "entries": [],
+      "order": "descending"
+    }
+  },
+  "player_leaderboards": {},
+  "summary": {
+    "classification": "Historical",
+    "label": "no seasons held",
+    "label_detail": "No normalized seasons are held for this sport yet.",
+    "season_count": 0,
+    "seasons_held": [],
+    "sport": "baseball",
+    "teams": 0
+  },
+  "weighted_averages": {}
+}

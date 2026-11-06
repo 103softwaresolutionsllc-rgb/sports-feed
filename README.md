@@ -59,6 +59,32 @@ The same collector also runs on Vercel (project `sports-feed`, team
   (https://103softwaresolutionsllc-rgb.github.io/sports-feed/feed.json)
   remains live as a fallback.
 
+## Feed history (forward accumulation)
+
+`feed.json` is still overwritten every run — that stable URL is the app's
+contract. But the Intelligence Engine needs the history that overwriting
+used to destroy, so the Vercel Function (`api/collect.mjs`, via
+`history.mjs`) now ALSO persists every run's payload, additively, in the
+same Blob store:
+
+- `history/feed-<ISO timestamp>.json` — one snapshot per run,
+  byte-identical to that run's `feed.json` payload (the exact serialized
+  string is reused for both writes).
+- `history/index.json` — rolling index
+  `{ updatedAt, snapshots: [{ timestamp, path, url }] }`, newest first,
+  capped at the most recent 500 entries (~31 days at the 90-minute
+  cadence). The cap trims the index listing only; older snapshot blobs
+  are not deleted.
+
+**Never-break-the-feed guarantee:** history persistence runs only AFTER
+the `feed.json` write has succeeded, and it is fully guarded — any failure
+(network, Blob quota, serialization, index read/write) is logged and
+swallowed. It never throws, and it cannot alter the feed's content, path,
+or write order. If history ever breaks, the public feed keeps publishing
+exactly as before; the failure shows up only in the function logs
+(`history: …` lines). The CLI path (`collector.mjs --out`) writes to a
+local file as before and does not write history.
+
 ## Quota budget (API-Sports free plan: 100 requests/day per sport)
 
 Per run per sport: 2 games calls + ≤3 odds calls = ≤5. At the 90-minute

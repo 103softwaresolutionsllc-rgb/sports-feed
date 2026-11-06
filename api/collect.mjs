@@ -16,6 +16,7 @@
 
 import { put } from '@vercel/blob';
 import { collectFeed } from '../collector.mjs';
+import { persistFeedHistory } from '../history.mjs';
 
 // A collection pass can fan out to ESPN (JSON + RSS fallback per league)
 // with 15s fetch timeouts; give it generous room over the platform default.
@@ -38,12 +39,18 @@ export default async function handler(req, res) {
   }
   try {
     const feed = await collectFeed();
-    const blob = await put('feed.json', JSON.stringify(feed, null, 2), {
+    const feedJson = JSON.stringify(feed, null, 2);
+    const blob = await put('feed.json', feedJson, {
       access: 'public',
       addRandomSuffix: false,
       allowOverwrite: true,
       contentType: 'application/json',
     });
+    // Forward accumulation (history.mjs): snapshot the SAME payload under
+    // history/ for the Intelligence Engine. Runs only after the feed write
+    // above has succeeded; persistFeedHistory is fully guarded and never
+    // throws, so a history failure cannot affect the published feed.
+    await persistFeedHistory(feedJson, feed.generatedAt);
     const articles = newsArticleCount(feed.news);
     console.log(
       `collect ok: ${articles} news articles, ` +

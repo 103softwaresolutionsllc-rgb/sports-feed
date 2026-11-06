@@ -1,0 +1,78 @@
+name: Intelligence Engine daily harvest
+
+# Runs the Intelligence Engine pipeline once a day at a 20-requests-per-
+# sport budget (API-Sports free plan headroom) and commits raw +
+# normalized + aggregates to the `data` branch. SportsBettingGPT's
+# router reads the aggregates from that branch; nothing here touches
+# the live feed (feed.json is the Vercel collector's job).
+#
+# Requires one repo secret: APISPORTS_KEY (the same API-Sports account
+# key the collector uses). Without it the harvest step exits cleanly
+# and no data is written.
+
+on:
+  schedule:
+    - cron: "23 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code (main)
+        uses: actions/checkout@v4
+        with:
+          path: src
+
+      - name: Check out data branch
+        uses: actions/checkout@v4
+        with:
+          ref: data
+          path: work
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Harvest (budget-capped)
+        working-directory: work
+        env:
+          APISPORTS_KEY: ${{ secrets.APISPORTS_KEY }}
+        run: |
+          if [ -z "$APISPORTS_KEY" ]; then
+            echo "APISPORTS_KEY secret not set — skipping harvest."
+            exit 0
+          fi
+          python3 ../src/intelligence/intelligence_harvest.py --cap 20
+
+      - name: Normalize + aggregate every sport
+        working-directory: work
+        run: |
+          for sport in basketball american-football baseball hockey soccer; do
+            python3 ../src/intelligence/intelligence_normalize.py --sport $sport || true
+            python3 ../src/intelligence/intelligence_aggregates.py --sport $sport || true
+          done
+
+      - name: NFL open-dataset import (best effort — URL template unverified)
+        working-directory: work
+        continue-on-error: true
+        run: |
+          YEAR=$(date -u +%Y)
+          python3 ../src/intelligence/intelligence_opensource.py --season $((YEAR-1)) || true
+
+      - name: Commit data branch
+        working-directory: work
+        run: |
+          git config user.name "Isaac Jones"
+          git config user.email "103softwaresolutionsllc@gmail.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No new data."
+          else
+            git commit -m "Intelligence harvest $(date -u +%F)"
+            git push origin HEAD:data
+          fi

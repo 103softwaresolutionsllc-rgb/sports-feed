@@ -29,10 +29,14 @@
   "player_leaderboards": {},
   "summary": {
     "classification": "Historical",
-    "label": "no seasons held",
-    "label_detail": "No normalized seasons are held for this sport yet.",
-    "season_count": 0,
-    "seasons_held": [],
+    "label": "3-season average",
+    "label_detail": "Averages cover the 3 held season(s): 2022-2023, 2023-2024, 2024-2025.",
+    "season_count": 3,
+    "seasons_held": [
+      "2022-2023",
+      "2023-2024",
+      "2024-2025"
+    ],
     "sport": "hockey",
     "teams": 0
   },

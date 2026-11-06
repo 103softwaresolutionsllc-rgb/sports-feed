@@ -1,27 +1,534 @@
 {
-  "averages": {},
+  "averages": {
+    "Arsenal": {
+      "away_points_against_per_game": 0.842,
+      "away_points_for_per_game": 1.965,
+      "home_points_against_per_game": 1.018,
+      "home_points_for_per_game": 2.386,
+      "points_against_per_game": 0.93,
+      "points_for_per_game": 2.176
+    },
+    "Aston Villa": {
+      "away_points_against_per_game": 1.562,
+      "away_points_for_per_game": 1.228,
+      "home_points_against_per_game": 1.211,
+      "home_points_for_per_game": 2.017,
+      "points_against_per_game": 1.386,
+      "points_for_per_game": 1.623
+    },
+    "Bournemouth": {
+      "away_points_against_per_game": 1.965,
+      "away_points_for_per_game": 1.386,
+      "home_points_against_per_game": 1.263,
+      "home_points_for_per_game": 1.228,
+      "points_against_per_game": 1.614,
+      "points_for_per_game": 1.307
+    },
+    "Brentford": {
+      "away_points_against_per_game": 1.421,
+      "away_points_for_per_game": 1.333,
+      "home_points_against_per_game": 1.526,
+      "home_points_for_per_game": 1.824,
+      "points_against_per_game": 1.474,
+      "points_for_per_game": 1.579
+    },
+    "Brighton": {
+      "away_points_against_per_game": 1.754,
+      "away_points_for_per_game": 1.684,
+      "home_points_against_per_game": 1.298,
+      "home_points_for_per_game": 1.702,
+      "points_against_per_game": 1.527,
+      "points_for_per_game": 1.693
+    },
+    "Burnley": {
+      "away_points_against_per_game": 1.842,
+      "away_points_for_per_game": 1.158,
+      "home_points_against_per_game": 2.263,
+      "home_points_for_per_game": 1.0,
+      "points_against_per_game": 2.053,
+      "points_for_per_game": 1.079
+    },
+    "Chelsea": {
+      "away_points_against_per_game": 1.579,
+      "away_points_for_per_game": 1.403,
+      "home_points_against_per_game": 1.105,
+      "home_points_for_per_game": 1.737,
+      "points_against_per_game": 1.342,
+      "points_for_per_game": 1.57
+    },
+    "Crystal Palace": {
+      "away_points_against_per_game": 1.456,
+      "away_points_for_per_game": 1.158,
+      "home_points_against_per_game": 1.316,
+      "home_points_for_per_game": 1.438,
+      "points_against_per_game": 1.386,
+      "points_for_per_game": 1.298
+    },
+    "Everton": {
+      "away_points_against_per_game": 1.474,
+      "away_points_for_per_game": 0.912,
+      "home_points_against_per_game": 1.193,
+      "home_points_for_per_game": 1.123,
+      "points_against_per_game": 1.333,
+      "points_for_per_game": 1.018
+    },
+    "Fulham": {
+      "away_points_against_per_game": 1.491,
+      "away_points_for_per_game": 1.316,
+      "home_points_against_per_game": 1.456,
+      "home_points_for_per_game": 1.562,
+      "points_against_per_game": 1.474,
+      "points_for_per_game": 1.438
+    },
+    "Ipswich": {
+      "away_points_against_per_game": 2.0,
+      "away_points_for_per_game": 1.158,
+      "home_points_against_per_game": 2.316,
+      "home_points_for_per_game": 0.737,
+      "points_against_per_game": 2.158,
+      "points_for_per_game": 0.947
+    },
+    "Leeds": {
+      "away_points_against_per_game": 2.158,
+      "away_points_for_per_game": 1.158,
+      "home_points_against_per_game": 1.947,
+      "home_points_for_per_game": 1.368,
+      "points_against_per_game": 2.053,
+      "points_for_per_game": 1.263
+    },
+    "Leicester": {
+      "away_points_against_per_game": 2.289,
+      "away_points_for_per_game": 1.21,
+      "home_points_against_per_game": 1.605,
+      "home_points_for_per_game": 1.0,
+      "points_against_per_game": 1.947,
+      "points_for_per_game": 1.105
+    },
+    "Liverpool": {
+      "away_points_against_per_game": 1.386,
+      "away_points_for_per_game": 1.93,
+      "home_points_against_per_game": 0.877,
+      "home_points_for_per_game": 2.404,
+      "points_against_per_game": 1.132,
+      "points_for_per_game": 2.167
+    },
+    "Luton": {
+      "away_points_against_per_game": 2.526,
+      "away_points_for_per_game": 1.263,
+      "home_points_against_per_game": 1.947,
+      "home_points_for_per_game": 1.474,
+      "points_against_per_game": 2.237,
+      "points_for_per_game": 1.368
+    },
+    "Manchester City": {
+      "away_points_against_per_game": 0.965,
+      "away_points_for_per_game": 1.894,
+      "home_points_against_per_game": 0.983,
+      "home_points_for_per_game": 2.702,
+      "points_against_per_game": 0.974,
+      "points_for_per_game": 2.298
+    },
+    "Manchester United": {
+      "away_points_against_per_game": 1.561,
+      "away_points_for_per_game": 1.21,
+      "home_points_against_per_game": 1.158,
+      "home_points_for_per_game": 1.579,
+      "points_against_per_game": 1.36,
+      "points_for_per_game": 1.395
+    },
+    "Newcastle": {
+      "away_points_against_per_game": 1.509,
+      "away_points_for_per_game": 1.684,
+      "home_points_against_per_game": 0.983,
+      "home_points_for_per_game": 2.193,
+      "points_against_per_game": 1.246,
+      "points_for_per_game": 1.938
+    },
+    "Nottingham Forest": {
+      "away_points_against_per_game": 1.947,
+      "away_points_for_per_game": 1.14,
+      "home_points_against_per_game": 1.228,
+      "home_points_for_per_game": 1.403,
+      "points_against_per_game": 1.588,
+      "points_for_per_game": 1.272
+    },
+    "Sheffield Utd": {
+      "away_points_against_per_game": 2.474,
+      "away_points_for_per_game": 0.842,
+      "home_points_against_per_game": 3.0,
+      "home_points_for_per_game": 1.0,
+      "points_against_per_game": 2.737,
+      "points_for_per_game": 0.921
+    },
+    "Southampton": {
+      "away_points_against_per_game": 1.974,
+      "away_points_for_per_game": 0.79,
+      "home_points_against_per_game": 2.211,
+      "home_points_for_per_game": 0.842,
+      "points_against_per_game": 2.092,
+      "points_for_per_game": 0.816
+    },
+    "Tottenham": {
+      "away_points_against_per_game": 1.789,
+      "away_points_for_per_game": 1.719,
+      "home_points_against_per_game": 1.526,
+      "home_points_for_per_game": 1.93,
+      "points_against_per_game": 1.658,
+      "points_for_per_game": 1.824
+    },
+    "West Ham": {
+      "away_points_against_per_game": 1.842,
+      "away_points_for_per_game": 1.193,
+      "home_points_against_per_game": 1.509,
+      "home_points_for_per_game": 1.404,
+      "points_against_per_game": 1.675,
+      "points_for_per_game": 1.298
+    },
+    "Wolves": {
+      "away_points_against_per_game": 1.93,
+      "away_points_for_per_game": 1.105,
+      "home_points_against_per_game": 1.439,
+      "home_points_for_per_game": 1.263,
+      "points_against_per_game": 1.684,
+      "points_for_per_game": 1.184
+    }
+  },
   "leaderboards": {
     "away_points_against_per_game": {
-      "entries": [],
+      "entries": [
+        {
+          "seasons_counted": 3,
+          "team": "Arsenal",
+          "value": 0.839
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Manchester City",
+          "value": 1.006
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Liverpool",
+          "value": 1.349
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Brentford",
+          "value": 1.365
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Everton",
+          "value": 1.391
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Crystal Palace",
+          "value": 1.441
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Fulham",
+          "value": 1.477
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Manchester United",
+          "value": 1.503
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Chelsea",
+          "value": 1.543
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Newcastle",
+          "value": 1.556
+        }
+      ],
       "order": "ascending"
     },
     "away_points_for_per_game": {
-      "entries": [],
+      "entries": [
+        {
+          "seasons_counted": 3,
+          "team": "Liverpool",
+          "value": 2.053
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Arsenal",
+          "value": 1.947
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Manchester City",
+          "value": 1.838
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Brighton",
+          "value": 1.704
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Tottenham",
+          "value": 1.681
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Newcastle",
+          "value": 1.645
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Bournemouth",
+          "value": 1.533
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Chelsea",
+          "value": 1.483
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Brentford",
+          "value": 1.355
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Fulham",
+          "value": 1.342
+        }
+      ],
       "order": "descending"
     },
     "home_points_against_per_game": {
-      "entries": [],
+      "entries": [
+        {
+          "seasons_counted": 3,
+          "team": "Liverpool",
+          "value": 0.868
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Arsenal",
+          "value": 0.957
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Newcastle",
+          "value": 1.027
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Manchester City",
+          "value": 1.036
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Chelsea",
+          "value": 1.089
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Nottingham Forest",
+          "value": 1.151
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Bournemouth",
+          "value": 1.158
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Everton",
+          "value": 1.168
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Aston Villa",
+          "value": 1.194
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Manchester United",
+          "value": 1.296
+        }
+      ],
       "order": "ascending"
     },
     "home_points_for_per_game": {
-      "entries": [],
+      "entries": [
+        {
+          "seasons_counted": 3,
+          "team": "Manchester City",
+          "value": 2.562
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Liverpool",
+          "value": 2.365
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Arsenal",
+          "value": 2.233
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Newcastle",
+          "value": 2.214
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Aston Villa",
+          "value": 2.01
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Tottenham",
+          "value": 1.911
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Brentford",
+          "value": 1.875
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Chelsea",
+          "value": 1.842
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Brighton",
+          "value": 1.648
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Fulham",
+          "value": 1.526
+        }
+      ],
       "order": "descending"
     },
     "points_against_per_game": {
-      "entries": [],
+      "entries": [
+        {
+          "seasons_counted": 3,
+          "team": "Arsenal",
+          "value": 0.898
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Manchester City",
+          "value": 1.021
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Liverpool",
+          "value": 1.109
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Everton",
+          "value": 1.28
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Newcastle",
+          "value": 1.291
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Chelsea",
+          "value": 1.316
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Crystal Palace",
+          "value": 1.39
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Aston Villa",
+          "value": 1.4
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Manchester United",
+          "value": 1.4
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Fulham",
+          "value": 1.474
+        }
+      ],
       "order": "ascending"
     },
     "points_for_per_game": {
+      "entries": [
+        {
+          "seasons_counted": 3,
+          "team": "Liverpool",
+          "value": 2.209
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Manchester City",
+          "value": 2.201
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Arsenal",
+          "value": 2.091
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Newcastle",
+          "value": 1.929
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Tottenham",
+          "value": 1.796
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Brighton",
+          "value": 1.676
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Chelsea",
+          "value": 1.663
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Aston Villa",
+          "value": 1.64
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Brentford",
+          "value": 1.615
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Fulham",
+          "value": 1.434
+        }
+      ],
+      "order": "descending"
+    },
+    "shots_on_target_per_game": {
+      "entries": [],
+      "order": "descending"
+    },
+    "shots_per_game": {
       "entries": [],
       "order": "descending"
     }
@@ -29,12 +536,209 @@
   "player_leaderboards": {},
   "summary": {
     "classification": "Historical",
-    "label": "no seasons held",
-    "label_detail": "No normalized seasons are held for this sport yet.",
-    "season_count": 0,
-    "seasons_held": [],
+    "label": "3-season average",
+    "label_detail": "Averages cover the 3 held season(s): 2022, 2023, 2024.",
+    "season_count": 3,
+    "seasons_held": [
+      "2022",
+      "2023",
+      "2024"
+    ],
     "sport": "soccer",
-    "teams": 0
+    "teams": 24
   },
-  "weighted_averages": {}
+  "weighted_averages": {
+    "Arsenal": {
+      "away_points_against_per_game": 0.839,
+      "away_points_for_per_game": 1.947,
+      "home_points_against_per_game": 0.957,
+      "home_points_for_per_game": 2.233,
+      "points_against_per_game": 0.898,
+      "points_for_per_game": 2.091
+    },
+    "Aston Villa": {
+      "away_points_against_per_game": 1.606,
+      "away_points_for_per_game": 1.27,
+      "home_points_against_per_game": 1.194,
+      "home_points_for_per_game": 2.01,
+      "points_against_per_game": 1.4,
+      "points_for_per_game": 1.64
+    },
+    "Bournemouth": {
+      "away_points_against_per_game": 1.855,
+      "away_points_for_per_game": 1.533,
+      "home_points_against_per_game": 1.158,
+      "home_points_for_per_game": 1.247,
+      "points_against_per_game": 1.507,
+      "points_for_per_game": 1.39
+    },
+    "Brentford": {
+      "away_points_against_per_game": 1.365,
+      "away_points_for_per_game": 1.355,
+      "home_points_against_per_game": 1.658,
+      "home_points_for_per_game": 1.875,
+      "points_against_per_game": 1.512,
+      "points_for_per_game": 1.615
+    },
+    "Brighton": {
+      "away_points_against_per_game": 1.76,
+      "away_points_for_per_game": 1.704,
+      "home_points_against_per_game": 1.335,
+      "home_points_for_per_game": 1.648,
+      "points_against_per_game": 1.548,
+      "points_for_per_game": 1.676
+    },
+    "Burnley": {
+      "away_points_against_per_game": 1.842,
+      "away_points_for_per_game": 1.158,
+      "home_points_against_per_game": 2.263,
+      "home_points_for_per_game": 1.0,
+      "points_against_per_game": 2.053,
+      "points_for_per_game": 1.079
+    },
+    "Chelsea": {
+      "away_points_against_per_game": 1.543,
+      "away_points_for_per_game": 1.483,
+      "home_points_against_per_game": 1.089,
+      "home_points_for_per_game": 1.842,
+      "points_against_per_game": 1.316,
+      "points_for_per_game": 1.663
+    },
+    "Crystal Palace": {
+      "away_points_against_per_game": 1.441,
+      "away_points_for_per_game": 1.227,
+      "home_points_against_per_game": 1.339,
+      "home_points_for_per_game": 1.447,
+      "points_against_per_game": 1.39,
+      "points_for_per_game": 1.337
+    },
+    "Everton": {
+      "away_points_against_per_game": 1.391,
+      "away_points_for_per_game": 0.894,
+      "home_points_against_per_game": 1.168,
+      "home_points_for_per_game": 1.204,
+      "points_against_per_game": 1.28,
+      "points_for_per_game": 1.049
+    },
+    "Fulham": {
+      "away_points_against_per_game": 1.477,
+      "away_points_for_per_game": 1.342,
+      "home_points_against_per_game": 1.47,
+      "home_points_for_per_game": 1.526,
+      "points_against_per_game": 1.474,
+      "points_for_per_game": 1.434
+    },
+    "Ipswich": {
+      "away_points_against_per_game": 2.0,
+      "away_points_for_per_game": 1.158,
+      "home_points_against_per_game": 2.316,
+      "home_points_for_per_game": 0.737,
+      "points_against_per_game": 2.158,
+      "points_for_per_game": 0.947
+    },
+    "Leeds": {
+      "away_points_against_per_game": 2.158,
+      "away_points_for_per_game": 1.158,
+      "home_points_against_per_game": 1.947,
+      "home_points_for_per_game": 1.368,
+      "points_against_per_game": 2.053,
+      "points_for_per_game": 1.263
+    },
+    "Leicester": {
+      "away_points_against_per_game": 2.349,
+      "away_points_for_per_game": 1.091,
+      "home_points_against_per_game": 1.689,
+      "home_points_for_per_game": 0.904,
+      "points_against_per_game": 2.019,
+      "points_for_per_game": 0.997
+    },
+    "Liverpool": {
+      "away_points_against_per_game": 1.349,
+      "away_points_for_per_game": 2.053,
+      "home_points_against_per_game": 0.868,
+      "home_points_for_per_game": 2.365,
+      "points_against_per_game": 1.109,
+      "points_for_per_game": 2.209
+    },
+    "Luton": {
+      "away_points_against_per_game": 2.526,
+      "away_points_for_per_game": 1.263,
+      "home_points_against_per_game": 1.947,
+      "home_points_for_per_game": 1.474,
+      "points_against_per_game": 2.237,
+      "points_for_per_game": 1.368
+    },
+    "Manchester City": {
+      "away_points_against_per_game": 1.006,
+      "away_points_for_per_game": 1.838,
+      "home_points_against_per_game": 1.036,
+      "home_points_for_per_game": 2.562,
+      "points_against_per_game": 1.021,
+      "points_for_per_game": 2.201
+    },
+    "Manchester United": {
+      "away_points_against_per_game": 1.503,
+      "away_points_for_per_game": 1.197,
+      "home_points_against_per_game": 1.296,
+      "home_points_for_per_game": 1.471,
+      "points_against_per_game": 1.4,
+      "points_for_per_game": 1.334
+    },
+    "Newcastle": {
+      "away_points_against_per_game": 1.556,
+      "away_points_for_per_game": 1.645,
+      "home_points_against_per_game": 1.027,
+      "home_points_for_per_game": 2.214,
+      "points_against_per_game": 1.291,
+      "points_for_per_game": 1.929
+    },
+    "Nottingham Forest": {
+      "away_points_against_per_game": 1.832,
+      "away_points_for_per_game": 1.312,
+      "home_points_against_per_game": 1.151,
+      "home_points_for_per_game": 1.395,
+      "points_against_per_game": 1.492,
+      "points_for_per_game": 1.353
+    },
+    "Sheffield Utd": {
+      "away_points_against_per_game": 2.474,
+      "away_points_for_per_game": 0.842,
+      "home_points_against_per_game": 3.0,
+      "home_points_for_per_game": 1.0,
+      "points_against_per_game": 2.737,
+      "points_for_per_game": 0.921
+    },
+    "Southampton": {
+      "away_points_against_per_game": 2.01,
+      "away_points_for_per_game": 0.742,
+      "home_points_against_per_game": 2.33,
+      "home_points_for_per_game": 0.77,
+      "points_against_per_game": 2.17,
+      "points_for_per_game": 0.756
+    },
+    "Tottenham": {
+      "away_points_against_per_game": 1.724,
+      "away_points_for_per_game": 1.681,
+      "home_points_against_per_game": 1.612,
+      "home_points_for_per_game": 1.911,
+      "points_against_per_game": 1.668,
+      "points_for_per_game": 1.796
+    },
+    "West Ham": {
+      "away_points_against_per_game": 1.8,
+      "away_points_for_per_game": 1.24,
+      "home_points_against_per_game": 1.592,
+      "home_points_for_per_game": 1.372,
+      "points_against_per_game": 1.696,
+      "points_for_per_game": 1.306
+    },
+    "Wolves": {
+      "away_points_against_per_game": 1.924,
+      "away_points_for_per_game": 1.224,
+      "home_points_against_per_game": 1.533,
+      "home_points_for_per_game": 1.326,
+      "points_against_per_game": 1.729,
+      "points_for_per_game": 1.275
+    }
+  }
 }

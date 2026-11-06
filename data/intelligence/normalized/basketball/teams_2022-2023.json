@@ -1,0 +1,647 @@
+{
+  "classification": "Historical",
+  "season": "2022-2023",
+  "sport": "basketball",
+  "teams": [
+    {
+      "away_games": 47,
+      "away_points_against_per_game": 117.894,
+      "away_points_for_per_game": 116.234,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 93,
+      "home_games": 46,
+      "home_points_against_per_game": 117.935,
+      "home_points_for_per_game": 119.783,
+      "points_against_per_game": 117.914,
+      "points_for_per_game": 117.989,
+      "season": "2022-2023",
+      "team": "Atlanta Hawks",
+      "team_id": 132
+    },
+    {
+      "away_games": 52,
+      "away_points_against_per_game": 112.538,
+      "away_points_for_per_game": 115.404,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 106,
+      "home_games": 54,
+      "home_points_against_per_game": 109.519,
+      "home_points_for_per_game": 118.667,
+      "points_against_per_game": 111.0,
+      "points_for_per_game": 117.066,
+      "season": "2022-2023",
+      "team": "Boston Celtics",
+      "team_id": 133
+    },
+    {
+      "away_games": 45,
+      "away_points_against_per_game": 113.978,
+      "away_points_for_per_game": 112.556,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 90,
+      "home_games": 45,
+      "home_points_against_per_game": 109.911,
+      "home_points_for_per_game": 111.267,
+      "points_against_per_game": 111.944,
+      "points_for_per_game": 111.911,
+      "season": "2022-2023",
+      "team": "Brooklyn Nets",
+      "team_id": 134
+    },
+    {
+      "away_games": 43,
+      "away_points_against_per_game": 118.163,
+      "away_points_for_per_game": 111.767,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 87,
+      "home_games": 44,
+      "home_points_against_per_game": 116.182,
+      "home_points_for_per_game": 108.773,
+      "points_against_per_game": 117.161,
+      "points_for_per_game": 110.253,
+      "season": "2022-2023",
+      "team": "Charlotte Hornets",
+      "team_id": 135
+    },
+    {
+      "away_games": 44,
+      "away_points_against_per_game": 111.75,
+      "away_points_for_per_game": 111.705,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 88,
+      "home_games": 44,
+      "home_points_against_per_game": 111.455,
+      "home_points_for_per_game": 114.977,
+      "points_against_per_game": 111.602,
+      "points_for_per_game": 113.341,
+      "season": "2022-2023",
+      "team": "Chicago Bulls",
+      "team_id": 136
+    },
+    {
+      "away_games": 45,
+      "away_points_against_per_game": 108.622,
+      "away_points_for_per_game": 110.156,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 91,
+      "home_games": 46,
+      "home_points_against_per_game": 104.63,
+      "home_points_for_per_game": 111.761,
+      "points_against_per_game": 106.604,
+      "points_for_per_game": 110.967,
+      "season": "2022-2023",
+      "team": "Cleveland Cavaliers",
+      "team_id": 137
+    },
+    {
+      "away_games": 43,
+      "away_points_against_per_game": 114.814,
+      "away_points_for_per_game": 112.767,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 85,
+      "home_games": 42,
+      "home_points_against_per_game": 112.619,
+      "home_points_for_per_game": 115.119,
+      "points_against_per_game": 113.729,
+      "points_for_per_game": 113.929,
+      "season": "2022-2023",
+      "team": "Dallas Mavericks",
+      "team_id": 138
+    },
+    {
+      "away_games": 53,
+      "away_points_against_per_game": 114.509,
+      "away_points_for_per_game": 113.17,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 107,
+      "home_games": 54,
+      "home_points_against_per_game": 107.981,
+      "home_points_for_per_game": 117.259,
+      "points_against_per_game": 111.215,
+      "points_for_per_game": 115.234,
+      "season": "2022-2023",
+      "team": "Denver Nuggets",
+      "team_id": 139
+    },
+    {
+      "away_games": 43,
+      "away_points_against_per_game": 118.233,
+      "away_points_for_per_game": 107.837,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 86,
+      "home_games": 43,
+      "home_points_against_per_game": 118.605,
+      "home_points_for_per_game": 111.977,
+      "points_against_per_game": 118.419,
+      "points_for_per_game": 109.907,
+      "season": "2022-2023",
+      "team": "Detroit Pistons",
+      "team_id": 140
+    },
+    {
+      "away_games": 50,
+      "away_points_against_per_game": 120.3,
+      "away_points_for_per_game": 116.32,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 100,
+      "home_games": 50,
+      "home_points_against_per_game": 111.7,
+      "home_points_for_per_game": 119.42,
+      "points_against_per_game": 116.0,
+      "points_for_per_game": 117.87,
+      "season": "2022-2023",
+      "team": "Golden State Warriors",
+      "team_id": 141
+    },
+    {
+      "away_games": 43,
+      "away_points_against_per_game": 121.767,
+      "away_points_for_per_game": 110.977,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 86,
+      "home_games": 43,
+      "home_points_against_per_game": 114.349,
+      "home_points_for_per_game": 111.419,
+      "points_against_per_game": 118.058,
+      "points_for_per_game": 111.198,
+      "season": "2022-2023",
+      "team": "Houston Rockets",
+      "team_id": 142
+    },
+    {
+      "away_games": 43,
+      "away_points_against_per_game": 118.953,
+      "away_points_for_per_game": 113.837,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 86,
+      "home_games": 43,
+      "home_points_against_per_game": 119.326,
+      "home_points_for_per_game": 118.581,
+      "points_against_per_game": 119.14,
+      "points_for_per_game": 116.209,
+      "season": "2022-2023",
+      "team": "Indiana Pacers",
+      "team_id": 143
+    },
+    {
+      "away_games": 44,
+      "away_points_against_per_game": 116.091,
+      "away_points_for_per_game": 114.682,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 90,
+      "home_games": 46,
+      "home_points_against_per_game": 111.239,
+      "home_points_for_per_game": 112.609,
+      "points_against_per_game": 113.611,
+      "points_for_per_game": 113.622,
+      "season": "2022-2023",
+      "team": "Los Angeles Clippers",
+      "team_id": 144
+    },
+    {
+      "away_games": 51,
+      "away_points_against_per_game": 119.216,
+      "away_points_for_per_game": 115.529,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 105,
+      "home_games": 54,
+      "home_points_against_per_game": 112.074,
+      "home_points_for_per_game": 115.426,
+      "points_against_per_game": 115.543,
+      "points_for_per_game": 115.476,
+      "season": "2022-2023",
+      "team": "Los Angeles Lakers",
+      "team_id": 145
+    },
+    {
+      "away_games": 47,
+      "away_points_against_per_game": 116.213,
+      "away_points_for_per_game": 113.0,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 93,
+      "home_games": 46,
+      "home_points_against_per_game": 108.804,
+      "home_points_for_per_game": 118.674,
+      "points_against_per_game": 112.548,
+      "points_for_per_game": 115.806,
+      "season": "2022-2023",
+      "team": "Memphis Grizzlies",
+      "team_id": 146
+    },
+    {
+      "away_games": 56,
+      "away_points_against_per_game": 108.875,
+      "away_points_for_per_game": 108.054,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 112,
+      "home_games": 56,
+      "home_points_against_per_game": 108.786,
+      "home_points_for_per_game": 110.607,
+      "points_against_per_game": 108.83,
+      "points_for_per_game": 109.33,
+      "season": "2022-2023",
+      "team": "Miami Heat",
+      "team_id": 147
+    },
+    {
+      "away_games": 45,
+      "away_points_against_per_game": 114.867,
+      "away_points_for_per_game": 114.378,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 92,
+      "home_games": 47,
+      "home_points_against_per_game": 113.277,
+      "home_points_for_per_game": 118.319,
+      "points_against_per_game": 114.054,
+      "points_for_per_game": 116.391,
+      "season": "2022-2023",
+      "team": "Milwaukee Bucks",
+      "team_id": 148
+    },
+    {
+      "away_games": 49,
+      "away_points_against_per_game": 115.755,
+      "away_points_for_per_game": 114.633,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 94,
+      "home_games": 45,
+      "home_points_against_per_game": 114.467,
+      "home_points_for_per_game": 115.556,
+      "points_against_per_game": 115.138,
+      "points_for_per_game": 115.074,
+      "season": "2022-2023",
+      "team": "Minnesota Timberwolves",
+      "team_id": 149
+    },
+    {
+      "away_games": 45,
+      "away_points_against_per_game": 114.867,
+      "away_points_for_per_game": 113.978,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 88,
+      "home_games": 43,
+      "home_points_against_per_game": 110.023,
+      "home_points_for_per_game": 114.814,
+      "points_against_per_game": 112.5,
+      "points_for_per_game": 114.386,
+      "season": "2022-2023",
+      "team": "New Orleans Pelicans",
+      "team_id": 150
+    },
+    {
+      "away_games": 48,
+      "away_points_against_per_game": 111.646,
+      "away_points_for_per_game": 112.125,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 97,
+      "home_games": 49,
+      "home_points_against_per_game": 110.612,
+      "home_points_for_per_game": 116.041,
+      "points_against_per_game": 111.124,
+      "points_for_per_game": 114.103,
+      "season": "2022-2023",
+      "team": "New York Knicks",
+      "team_id": 151
+    },
+    {
+      "away_games": 46,
+      "away_points_against_per_game": 116.37,
+      "away_points_for_per_game": 113.957,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 88,
+      "home_games": 42,
+      "home_points_against_per_game": 115.214,
+      "home_points_for_per_game": 120.238,
+      "points_against_per_game": 115.818,
+      "points_for_per_game": 116.955,
+      "season": "2022-2023",
+      "team": "Oklahoma City Thunder",
+      "team_id": 152
+    },
+    {
+      "away_games": 44,
+      "away_points_against_per_game": 112.614,
+      "away_points_for_per_game": 108.136,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 87,
+      "home_games": 43,
+      "home_points_against_per_game": 114.349,
+      "home_points_for_per_game": 114.186,
+      "points_against_per_game": 113.471,
+      "points_for_per_game": 111.126,
+      "season": "2022-2023",
+      "team": "Orlando Magic",
+      "team_id": 153
+    },
+    {
+      "away_games": 49,
+      "away_points_against_per_game": 111.102,
+      "away_points_for_per_game": 114.551,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 97,
+      "home_games": 48,
+      "home_points_against_per_game": 108.458,
+      "home_points_for_per_game": 112.812,
+      "points_against_per_game": 109.794,
+      "points_for_per_game": 113.691,
+      "season": "2022-2023",
+      "team": "Philadelphia 76ers",
+      "team_id": 154
+    },
+    {
+      "away_games": 48,
+      "away_points_against_per_game": 113.667,
+      "away_points_for_per_game": 112.542,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 96,
+      "home_games": 48,
+      "home_points_against_per_game": 110.438,
+      "home_points_for_per_game": 114.604,
+      "points_against_per_game": 112.052,
+      "points_for_per_game": 113.573,
+      "season": "2022-2023",
+      "team": "Phoenix Suns",
+      "team_id": 155
+    },
+    {
+      "away_games": 44,
+      "away_points_against_per_game": 115.795,
+      "away_points_for_per_game": 110.182,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 86,
+      "home_games": 42,
+      "home_points_against_per_game": 119.286,
+      "home_points_for_per_game": 115.262,
+      "points_against_per_game": 117.5,
+      "points_for_per_game": 112.663,
+      "season": "2022-2023",
+      "team": "Portland Trail Blazers",
+      "team_id": 156
+    },
+    {
+      "away_games": 46,
+      "away_points_against_per_game": 114.674,
+      "away_points_for_per_game": 117.174,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 93,
+      "home_games": 47,
+      "home_points_against_per_game": 118.638,
+      "home_points_for_per_game": 122.83,
+      "points_against_per_game": 116.677,
+      "points_for_per_game": 120.032,
+      "season": "2022-2023",
+      "team": "Sacramento Kings",
+      "team_id": 157
+    },
+    {
+      "away_games": 43,
+      "away_points_against_per_game": 124.465,
+      "away_points_for_per_game": 110.651,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 87,
+      "home_games": 44,
+      "home_points_against_per_game": 120.659,
+      "home_points_for_per_game": 114.227,
+      "points_against_per_game": 122.54,
+      "points_for_per_game": 112.46,
+      "season": "2022-2023",
+      "team": "San Antonio Spurs",
+      "team_id": 158
+    },
+    {
+      "away_games": 1,
+      "away_points_against_per_game": 175.0,
+      "away_points_for_per_game": 184.0,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 1,
+      "home_games": 0,
+      "home_points_against_per_game": null,
+      "home_points_for_per_game": null,
+      "points_against_per_game": 175.0,
+      "points_for_per_game": 184.0,
+      "season": "2022-2023",
+      "team": "Team Giannis",
+      "team_id": 1411
+    },
+    {
+      "away_games": 0,
+      "away_points_against_per_game": null,
+      "away_points_for_per_game": null,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 1,
+      "home_games": 1,
+      "home_points_against_per_game": 184.0,
+      "home_points_for_per_game": 175.0,
+      "points_against_per_game": 184.0,
+      "points_for_per_game": 175.0,
+      "season": "2022-2023",
+      "team": "Team LeBron",
+      "team_id": 1412
+    },
+    {
+      "away_games": 43,
+      "away_points_against_per_game": 113.233,
+      "away_points_for_per_game": 111.395,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 88,
+      "home_games": 45,
+      "home_points_against_per_game": 109.756,
+      "home_points_for_per_game": 114.289,
+      "points_against_per_game": 111.455,
+      "points_for_per_game": 112.875,
+      "season": "2022-2023",
+      "team": "Toronto Raptors",
+      "team_id": 159
+    },
+    {
+      "away_games": 43,
+      "away_points_against_per_game": 118.605,
+      "away_points_for_per_game": 115.442,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 86,
+      "home_games": 43,
+      "home_points_against_per_game": 116.698,
+      "home_points_for_per_game": 117.233,
+      "points_against_per_game": 117.651,
+      "points_for_per_game": 116.337,
+      "season": "2022-2023",
+      "team": "Utah Jazz",
+      "team_id": 160
+    },
+    {
+      "away_games": 43,
+      "away_points_against_per_game": 113.744,
+      "away_points_for_per_game": 111.628,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 86,
+      "home_games": 43,
+      "home_points_against_per_game": 113.93,
+      "home_points_for_per_game": 113.163,
+      "points_against_per_game": 113.837,
+      "points_for_per_game": 112.395,
+      "season": "2022-2023",
+      "team": "Washington Wizards",
+      "team_id": 161
+    }
+  ]
+}

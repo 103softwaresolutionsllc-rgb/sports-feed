@@ -1,3 +1,6 @@
 {"classification": "Historical", "endpoint": "/games", "file": "235054-001.json", "params": {"league": 1, "season": "2022"}, "retrieved_at": "2026-11-06T23:50:54.619735+00:00"}
 {"classification": "Historical", "endpoint": "/games", "file": "235055-001.json", "params": {"league": 1, "season": "2023"}, "retrieved_at": "2026-11-06T23:50:55.481661+00:00"}
 {"classification": "Historical", "endpoint": "/games", "file": "235056-001.json", "params": {"league": 1, "season": "2024"}, "retrieved_at": "2026-11-06T23:50:56.372915+00:00"}
+{"classification": "Historical", "endpoint": "/games", "file": "235352-001.json", "params": {"league": 1, "season": "2022"}, "retrieved_at": "2026-11-06T23:53:52.745822+00:00"}
+{"classification": "Historical", "endpoint": "/games", "file": "235353-001.json", "params": {"league": 1, "season": "2023"}, "retrieved_at": "2026-11-06T23:53:53.169123+00:00"}
+{"classification": "Historical", "endpoint": "/games", "file": "235353-002.json", "params": {"league": 1, "season": "2024"}, "retrieved_at": "2026-11-06T23:53:53.576274+00:00"}

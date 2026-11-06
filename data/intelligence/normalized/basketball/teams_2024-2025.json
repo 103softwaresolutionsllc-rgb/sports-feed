@@ -1,0 +1,687 @@
+{
+  "classification": "Historical",
+  "season": "2024-2025",
+  "sport": "basketball",
+  "teams": [
+    {
+      "away_games": 43,
+      "away_points_against_per_game": 119.535,
+      "away_points_for_per_game": 117.605,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 86,
+      "home_games": 43,
+      "home_points_against_per_game": 119.419,
+      "home_points_for_per_game": 117.744,
+      "points_against_per_game": 119.477,
+      "points_for_per_game": 117.674,
+      "season": "2024-2025",
+      "team": "Atlanta Hawks",
+      "team_id": 132
+    },
+    {
+      "away_games": 48,
+      "away_points_against_per_game": 106.292,
+      "away_points_for_per_game": 114.042,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 98,
+      "home_games": 50,
+      "home_points_against_per_game": 106.26,
+      "home_points_for_per_game": 116.64,
+      "points_against_per_game": 106.276,
+      "points_for_per_game": 115.367,
+      "season": "2024-2025",
+      "team": "Boston Celtics",
+      "team_id": 133
+    },
+    {
+      "away_games": 43,
+      "away_points_against_per_game": 112.093,
+      "away_points_for_per_game": 106.163,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 86,
+      "home_games": 43,
+      "home_points_against_per_game": 112.14,
+      "home_points_for_per_game": 104.605,
+      "points_against_per_game": 112.116,
+      "points_for_per_game": 105.384,
+      "season": "2024-2025",
+      "team": "Brooklyn Nets",
+      "team_id": 134
+    },
+    {
+      "away_games": 1,
+      "away_points_against_per_game": 42.0,
+      "away_points_for_per_game": 35.0,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 1,
+      "home_games": 0,
+      "home_points_against_per_game": null,
+      "home_points_for_per_game": null,
+      "points_against_per_game": 42.0,
+      "points_for_per_game": 35.0,
+      "season": "2024-2025",
+      "team": "Candace\u2019s Rising Stars",
+      "team_id": 7322
+    },
+    {
+      "away_games": 44,
+      "away_points_against_per_game": 116.023,
+      "away_points_for_per_game": 104.477,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 87,
+      "home_games": 43,
+      "home_points_against_per_game": 111.744,
+      "home_points_for_per_game": 106.535,
+      "points_against_per_game": 113.908,
+      "points_for_per_game": 105.494,
+      "season": "2024-2025",
+      "team": "Charlotte Hornets",
+      "team_id": 135
+    },
+    {
+      "away_games": 43,
+      "away_points_against_per_game": 119.488,
+      "away_points_for_per_game": 118.698,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 88,
+      "home_games": 45,
+      "home_points_against_per_game": 119.244,
+      "home_points_for_per_game": 116.756,
+      "points_against_per_game": 119.364,
+      "points_for_per_game": 117.705,
+      "season": "2024-2025",
+      "team": "Chicago Bulls",
+      "team_id": 136
+    },
+    {
+      "away_games": 0,
+      "away_points_against_per_game": null,
+      "away_points_for_per_game": null,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 2,
+      "home_games": 2,
+      "home_points_against_per_game": 36.5,
+      "home_points_for_per_game": 33.0,
+      "points_against_per_game": 36.5,
+      "points_for_per_game": 33.0,
+      "season": "2024-2025",
+      "team": "Chuck\u2019s Global Stars",
+      "team_id": 7323
+    },
+    {
+      "away_games": 47,
+      "away_points_against_per_game": 113.0,
+      "away_points_for_per_game": 121.191,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 95,
+      "home_games": 48,
+      "home_points_against_per_game": 111.833,
+      "home_points_for_per_game": 121.583,
+      "points_against_per_game": 112.411,
+      "points_for_per_game": 121.389,
+      "season": "2024-2025",
+      "team": "Cleveland Cavaliers",
+      "team_id": 137
+    },
+    {
+      "away_games": 44,
+      "away_points_against_per_game": 118.773,
+      "away_points_for_per_game": 113.886,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 87,
+      "home_games": 43,
+      "home_points_against_per_game": 110.837,
+      "home_points_for_per_game": 113.907,
+      "points_against_per_game": 114.851,
+      "points_for_per_game": 113.897,
+      "season": "2024-2025",
+      "team": "Dallas Mavericks",
+      "team_id": 138
+    },
+    {
+      "away_games": 50,
+      "away_points_against_per_game": 117.44,
+      "away_points_for_per_game": 116.38,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 101,
+      "home_games": 51,
+      "home_points_against_per_game": 115.333,
+      "home_points_for_per_game": 120.157,
+      "points_against_per_game": 116.376,
+      "points_for_per_game": 118.287,
+      "season": "2024-2025",
+      "team": "Denver Nuggets",
+      "team_id": 139
+    },
+    {
+      "away_games": 46,
+      "away_points_against_per_game": 112.587,
+      "away_points_for_per_game": 114.674,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 93,
+      "home_games": 47,
+      "home_points_against_per_game": 112.128,
+      "home_points_for_per_game": 114.106,
+      "points_against_per_game": 112.355,
+      "points_for_per_game": 114.387,
+      "season": "2024-2025",
+      "team": "Detroit Pistons",
+      "team_id": 140
+    },
+    {
+      "away_games": 50,
+      "away_points_against_per_game": 109.74,
+      "away_points_for_per_game": 113.26,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 100,
+      "home_games": 50,
+      "home_points_against_per_game": 108.86,
+      "home_points_for_per_game": 112.24,
+      "points_against_per_game": 109.3,
+      "points_for_per_game": 112.75,
+      "season": "2024-2025",
+      "team": "Golden State Warriors",
+      "team_id": 141
+    },
+    {
+      "away_games": 45,
+      "away_points_against_per_game": 112.0,
+      "away_points_for_per_game": 114.289,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 91,
+      "home_games": 46,
+      "home_points_against_per_game": 107.152,
+      "home_points_for_per_game": 114.174,
+      "points_against_per_game": 109.549,
+      "points_for_per_game": 114.231,
+      "season": "2024-2025",
+      "team": "Houston Rockets",
+      "team_id": 142
+    },
+    {
+      "away_games": 55,
+      "away_points_against_per_game": 115.945,
+      "away_points_for_per_game": 115.982,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 109,
+      "home_games": 54,
+      "home_points_against_per_game": 113.426,
+      "home_points_for_per_game": 117.87,
+      "points_against_per_game": 114.697,
+      "points_for_per_game": 116.917,
+      "season": "2024-2025",
+      "team": "Indiana Pacers",
+      "team_id": 143
+    },
+    {
+      "away_games": 1,
+      "away_points_against_per_game": 41.0,
+      "away_points_for_per_game": 32.0,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 1,
+      "home_games": 0,
+      "home_points_against_per_game": null,
+      "home_points_for_per_game": null,
+      "points_against_per_game": 41.0,
+      "points_for_per_game": 32.0,
+      "season": "2024-2025",
+      "team": "Kenny\u2019s Young Stars",
+      "team_id": 7324
+    },
+    {
+      "away_games": 45,
+      "away_points_against_per_game": 111.222,
+      "away_points_for_per_game": 110.644,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 94,
+      "home_games": 49,
+      "home_points_against_per_game": 104.204,
+      "home_points_for_per_game": 113.551,
+      "points_against_per_game": 107.564,
+      "points_for_per_game": 112.16,
+      "season": "2024-2025",
+      "team": "Los Angeles Clippers",
+      "team_id": 144
+    },
+    {
+      "away_games": 46,
+      "away_points_against_per_game": 114.37,
+      "away_points_for_per_game": 110.891,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 93,
+      "home_games": 47,
+      "home_points_against_per_game": 110.277,
+      "home_points_for_per_game": 113.319,
+      "points_against_per_game": 112.301,
+      "points_for_per_game": 112.118,
+      "season": "2024-2025",
+      "team": "Los Angeles Lakers",
+      "team_id": 145
+    },
+    {
+      "away_games": 47,
+      "away_points_against_per_game": 118.149,
+      "away_points_for_per_game": 118.702,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 93,
+      "home_games": 46,
+      "home_points_against_per_game": 115.696,
+      "home_points_for_per_game": 121.891,
+      "points_against_per_game": 116.935,
+      "points_for_per_game": 120.28,
+      "season": "2024-2025",
+      "team": "Memphis Grizzlies",
+      "team_id": 146
+    },
+    {
+      "away_games": 47,
+      "away_points_against_per_game": 110.0,
+      "away_points_for_per_game": 109.723,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 93,
+      "home_games": 46,
+      "home_points_against_per_game": 111.043,
+      "home_points_for_per_game": 110.63,
+      "points_against_per_game": 110.516,
+      "points_for_per_game": 110.172,
+      "season": "2024-2025",
+      "team": "Miami Heat",
+      "team_id": 147
+    },
+    {
+      "away_games": 45,
+      "away_points_against_per_game": 113.778,
+      "away_points_for_per_game": 111.089,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 89,
+      "home_games": 44,
+      "home_points_against_per_game": 112.955,
+      "home_points_for_per_game": 117.818,
+      "points_against_per_game": 113.371,
+      "points_for_per_game": 114.416,
+      "season": "2024-2025",
+      "team": "Milwaukee Bucks",
+      "team_id": 148
+    },
+    {
+      "away_games": 52,
+      "away_points_against_per_game": 109.654,
+      "away_points_for_per_game": 111.385,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 102,
+      "home_games": 50,
+      "home_points_against_per_game": 108.92,
+      "home_points_for_per_game": 116.4,
+      "points_against_per_game": 109.294,
+      "points_for_per_game": 113.843,
+      "season": "2024-2025",
+      "team": "Minnesota Timberwolves",
+      "team_id": 149
+    },
+    {
+      "away_games": 43,
+      "away_points_against_per_game": 121.535,
+      "away_points_for_per_game": 108.163,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 85,
+      "home_games": 42,
+      "home_points_against_per_game": 116.095,
+      "home_points_for_per_game": 110.905,
+      "points_against_per_game": 118.847,
+      "points_for_per_game": 109.518,
+      "season": "2024-2025",
+      "team": "New Orleans Pelicans",
+      "team_id": 150
+    },
+    {
+      "away_games": 52,
+      "away_points_against_per_game": 112.346,
+      "away_points_for_per_game": 112.827,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 104,
+      "home_games": 52,
+      "home_points_against_per_game": 109.923,
+      "home_points_for_per_game": 116.731,
+      "points_against_per_game": 111.135,
+      "points_for_per_game": 114.779,
+      "season": "2024-2025",
+      "team": "New York Knicks",
+      "team_id": 151
+    },
+    {
+      "away_games": 52,
+      "away_points_against_per_game": 108.788,
+      "away_points_for_per_game": 116.192,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 107,
+      "home_games": 55,
+      "home_points_against_per_game": 106.127,
+      "home_points_for_per_game": 121.836,
+      "points_against_per_game": 107.421,
+      "points_for_per_game": 119.093,
+      "season": "2024-2025",
+      "team": "Oklahoma City Thunder",
+      "team_id": 152
+    },
+    {
+      "away_games": 45,
+      "away_points_against_per_game": 107.578,
+      "away_points_for_per_game": 104.022,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 90,
+      "home_games": 45,
+      "home_points_against_per_game": 103.089,
+      "home_points_for_per_game": 105.733,
+      "points_against_per_game": 105.333,
+      "points_for_per_game": 104.878,
+      "season": "2024-2025",
+      "team": "Orlando Magic",
+      "team_id": 153
+    },
+    {
+      "away_games": 45,
+      "away_points_against_per_game": 115.911,
+      "away_points_for_per_game": 109.133,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 87,
+      "home_games": 42,
+      "home_points_against_per_game": 115.262,
+      "home_points_for_per_game": 109.452,
+      "points_against_per_game": 115.598,
+      "points_for_per_game": 109.287,
+      "season": "2024-2025",
+      "team": "Philadelphia 76ers",
+      "team_id": 154
+    },
+    {
+      "away_games": 44,
+      "away_points_against_per_game": 118.273,
+      "away_points_for_per_game": 113.227,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 87,
+      "home_games": 43,
+      "home_points_against_per_game": 114.442,
+      "home_points_for_per_game": 113.698,
+      "points_against_per_game": 116.379,
+      "points_for_per_game": 113.46,
+      "season": "2024-2025",
+      "team": "Phoenix Suns",
+      "team_id": 155
+    },
+    {
+      "away_games": 43,
+      "away_points_against_per_game": 113.465,
+      "away_points_for_per_game": 108.721,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 85,
+      "home_games": 42,
+      "home_points_against_per_game": 112.619,
+      "home_points_for_per_game": 113.0,
+      "points_against_per_game": 113.047,
+      "points_for_per_game": 110.835,
+      "season": "2024-2025",
+      "team": "Portland Trail Blazers",
+      "team_id": 156
+    },
+    {
+      "away_games": 44,
+      "away_points_against_per_game": 115.614,
+      "away_points_for_per_game": 114.591,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 88,
+      "home_games": 44,
+      "home_points_against_per_game": 114.773,
+      "home_points_for_per_game": 115.045,
+      "points_against_per_game": 115.193,
+      "points_for_per_game": 114.818,
+      "season": "2024-2025",
+      "team": "Sacramento Kings",
+      "team_id": 157
+    },
+    {
+      "away_games": 43,
+      "away_points_against_per_game": 115.721,
+      "away_points_for_per_game": 111.186,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 87,
+      "home_games": 44,
+      "home_points_against_per_game": 117.5,
+      "home_points_for_per_game": 116.477,
+      "points_against_per_game": 116.621,
+      "points_for_per_game": 113.862,
+      "season": "2024-2025",
+      "team": "San Antonio Spurs",
+      "team_id": 158
+    },
+    {
+      "away_games": 1,
+      "away_points_against_per_game": 25.0,
+      "away_points_for_per_game": 41.0,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 2,
+      "home_games": 1,
+      "home_points_against_per_game": 35.0,
+      "home_points_for_per_game": 42.0,
+      "points_against_per_game": 30.0,
+      "points_for_per_game": 41.5,
+      "season": "2024-2025",
+      "team": "Shaq\u2019s OGs",
+      "team_id": 7325
+    },
+    {
+      "away_games": 44,
+      "away_points_against_per_game": 115.477,
+      "away_points_for_per_game": 109.659,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 87,
+      "home_games": 43,
+      "home_points_against_per_game": 114.372,
+      "home_points_for_per_game": 112.372,
+      "points_against_per_game": 114.931,
+      "points_for_per_game": 111.0,
+      "season": "2024-2025",
+      "team": "Toronto Raptors",
+      "team_id": 159
+    },
+    {
+      "away_games": 44,
+      "away_points_against_per_game": 122.136,
+      "away_points_for_per_game": 112.091,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 87,
+      "home_games": 43,
+      "home_points_against_per_game": 119.674,
+      "home_points_for_per_game": 111.512,
+      "points_against_per_game": 120.92,
+      "points_for_per_game": 111.805,
+      "season": "2024-2025",
+      "team": "Utah Jazz",
+      "team_id": 160
+    },
+    {
+      "away_games": 44,
+      "away_points_against_per_game": 118.955,
+      "away_points_for_per_game": 105.705,
+      "categories": {
+        "assists_per_game": null,
+        "blocks_per_game": null,
+        "rebounds_per_game": null,
+        "steals_per_game": null
+      },
+      "games_played": 87,
+      "home_games": 43,
+      "home_points_against_per_game": 121.558,
+      "home_points_for_per_game": 109.767,
+      "points_against_per_game": 120.241,
+      "points_for_per_game": 107.713,
+      "season": "2024-2025",
+      "team": "Washington Wizards",
+      "team_id": 161
+    }
+  ]
+}

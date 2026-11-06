@@ -1,0 +1,615 @@
+{
+  "classification": "Historical",
+  "season": "2024",
+  "sport": "american-football",
+  "teams": [
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 26.5,
+      "away_points_for_per_game": 18.5,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 20,
+      "home_games": 10,
+      "home_points_against_per_game": 18.9,
+      "home_points_for_per_game": 25.4,
+      "points_against_per_game": 22.7,
+      "points_for_per_game": 21.95,
+      "season": "2024",
+      "team": "Arizona Cardinals",
+      "team_id": 11
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 23.9,
+      "away_points_for_per_game": 19.9,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 20,
+      "home_games": 10,
+      "home_points_against_per_game": 24.8,
+      "home_points_for_per_game": 21.5,
+      "points_against_per_game": 24.35,
+      "points_for_per_game": 20.7,
+      "season": "2024",
+      "team": "Atlanta Falcons",
+      "team_id": 8
+    },
+    {
+      "away_games": 11,
+      "away_points_against_per_game": 24.0,
+      "away_points_for_per_game": 27.091,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 22,
+      "home_games": 11,
+      "home_points_against_per_game": 17.818,
+      "home_points_for_per_game": 27.818,
+      "points_against_per_game": 20.909,
+      "points_for_per_game": 27.455,
+      "season": "2024",
+      "team": "Baltimore Ravens",
+      "team_id": 5
+    },
+    {
+      "away_games": 11,
+      "away_points_against_per_game": 23.818,
+      "away_points_for_per_game": 26.273,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 23,
+      "home_games": 12,
+      "home_points_against_per_game": 19.75,
+      "home_points_for_per_game": 30.333,
+      "points_against_per_game": 21.696,
+      "points_for_per_game": 28.391,
+      "season": "2024",
+      "team": "Buffalo Bills",
+      "team_id": 20
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 32.4,
+      "away_points_for_per_game": 18.5,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 20,
+      "home_games": 10,
+      "home_points_against_per_game": 26.8,
+      "home_points_for_per_game": 20.2,
+      "points_against_per_game": 29.6,
+      "points_for_per_game": 19.35,
+      "season": "2024",
+      "team": "Carolina Panthers",
+      "team_id": 19
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 22.7,
+      "away_points_for_per_game": 18.9,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 21,
+      "home_games": 11,
+      "home_points_against_per_game": 17.273,
+      "home_points_for_per_game": 21.455,
+      "points_against_per_game": 19.857,
+      "points_for_per_game": 20.238,
+      "season": "2024",
+      "team": "Chicago Bears",
+      "team_id": 16
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 23.1,
+      "away_points_for_per_game": 24.4,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 20,
+      "home_games": 10,
+      "home_points_against_per_game": 27.4,
+      "home_points_for_per_game": 25.9,
+      "points_against_per_game": 25.25,
+      "points_for_per_game": 25.15,
+      "season": "2024",
+      "team": "Cincinnati Bengals",
+      "team_id": 10
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 28.6,
+      "away_points_for_per_game": 17.2,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 20,
+      "home_games": 10,
+      "home_points_against_per_game": 23.6,
+      "home_points_for_per_game": 14.1,
+      "points_against_per_game": 26.1,
+      "points_for_per_game": 15.65,
+      "season": "2024",
+      "team": "Cleveland Browns",
+      "team_id": 9
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 21.2,
+      "away_points_for_per_game": 22.8,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 20,
+      "home_games": 10,
+      "home_points_against_per_game": 30.7,
+      "home_points_for_per_game": 18.0,
+      "points_against_per_game": 25.95,
+      "points_for_per_game": 20.4,
+      "season": "2024",
+      "team": "Dallas Cowboys",
+      "team_id": 29
+    },
+    {
+      "away_games": 11,
+      "away_points_against_per_game": 23.0,
+      "away_points_for_per_game": 21.273,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 21,
+      "home_games": 10,
+      "home_points_against_per_game": 13.3,
+      "home_points_for_per_game": 29.7,
+      "points_against_per_game": 18.381,
+      "points_for_per_game": 25.286,
+      "season": "2024",
+      "team": "Denver Broncos",
+      "team_id": 28
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 18.2,
+      "away_points_for_per_game": 27.3,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 21,
+      "home_games": 11,
+      "home_points_against_per_game": 23.545,
+      "home_points_for_per_game": 33.909,
+      "points_against_per_game": 21.0,
+      "points_for_per_game": 30.762,
+      "season": "2024",
+      "team": "Detroit Lions",
+      "team_id": 7
+    },
+    {
+      "away_games": 11,
+      "away_points_against_per_game": 22.364,
+      "away_points_for_per_game": 23.091,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 21,
+      "home_games": 10,
+      "home_points_against_per_game": 15.8,
+      "home_points_for_per_game": 27.1,
+      "points_against_per_game": 19.238,
+      "points_for_per_game": 25.0,
+      "season": "2024",
+      "team": "Green Bay Packers",
+      "team_id": 15
+    },
+    {
+      "away_games": 12,
+      "away_points_against_per_game": 21.167,
+      "away_points_for_per_game": 21.833,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 23,
+      "home_games": 11,
+      "home_points_against_per_game": 19.182,
+      "home_points_for_per_game": 21.636,
+      "points_against_per_game": 20.217,
+      "points_for_per_game": 21.739,
+      "season": "2024",
+      "team": "Houston Texans",
+      "team_id": 26
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 25.5,
+      "away_points_for_per_game": 22.3,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 20,
+      "home_games": 10,
+      "home_points_against_per_game": 23.3,
+      "home_points_for_per_game": 23.2,
+      "points_against_per_game": 24.4,
+      "points_for_per_game": 22.75,
+      "season": "2024",
+      "team": "Indianapolis Colts",
+      "team_id": 21
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 25.7,
+      "away_points_for_per_game": 17.0,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 20,
+      "home_games": 10,
+      "home_points_against_per_game": 19.8,
+      "home_points_for_per_game": 22.7,
+      "points_against_per_game": 22.75,
+      "points_for_per_game": 19.85,
+      "season": "2024",
+      "team": "Jacksonville Jaguars",
+      "team_id": 2
+    },
+    {
+      "away_games": 11,
+      "away_points_against_per_game": 22.091,
+      "away_points_for_per_game": 20.909,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 23,
+      "home_games": 12,
+      "home_points_against_per_game": 20.833,
+      "home_points_for_per_game": 24.083,
+      "points_against_per_game": 21.435,
+      "points_for_per_game": 22.565,
+      "season": "2024",
+      "team": "Kansas City Chiefs",
+      "team_id": 17
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 25.5,
+      "away_points_for_per_game": 19.0,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 20,
+      "home_games": 10,
+      "home_points_against_per_game": 25.4,
+      "home_points_for_per_game": 17.8,
+      "points_against_per_game": 25.45,
+      "points_for_per_game": 18.4,
+      "season": "2024",
+      "team": "Las Vegas Raiders",
+      "team_id": 1
+    },
+    {
+      "away_games": 11,
+      "away_points_against_per_game": 16.0,
+      "away_points_for_per_game": 22.455,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 21,
+      "home_games": 10,
+      "home_points_against_per_game": 20.5,
+      "home_points_for_per_game": 20.5,
+      "points_against_per_game": 18.143,
+      "points_for_per_game": 21.524,
+      "season": "2024",
+      "team": "Los Angeles Chargers",
+      "team_id": 30
+    },
+    {
+      "away_games": 11,
+      "away_points_against_per_game": 19.636,
+      "away_points_for_per_game": 18.545,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 22,
+      "home_games": 11,
+      "home_points_against_per_game": 22.273,
+      "home_points_for_per_game": 23.0,
+      "points_against_per_game": 20.955,
+      "points_for_per_game": 20.773,
+      "season": "2024",
+      "team": "Los Angeles Rams",
+      "team_id": 31
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 20.4,
+      "away_points_for_per_game": 16.1,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 20,
+      "home_games": 10,
+      "home_points_against_per_game": 20.3,
+      "home_points_for_per_game": 23.1,
+      "points_against_per_game": 20.35,
+      "points_for_per_game": 19.6,
+      "season": "2024",
+      "team": "Miami Dolphins",
+      "team_id": 25
+    },
+    {
+      "away_games": 11,
+      "away_points_against_per_game": 19.0,
+      "away_points_for_per_game": 22.0,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 21,
+      "home_games": 10,
+      "home_points_against_per_game": 18.8,
+      "home_points_for_per_game": 27.6,
+      "points_against_per_game": 18.905,
+      "points_for_per_game": 24.667,
+      "season": "2024",
+      "team": "Minnesota Vikings",
+      "team_id": 32
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 22.7,
+      "away_points_for_per_game": 14.7,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 20,
+      "home_games": 10,
+      "home_points_against_per_game": 22.7,
+      "home_points_for_per_game": 18.2,
+      "points_against_per_game": 22.7,
+      "points_for_per_game": 16.45,
+      "season": "2024",
+      "team": "New England Patriots",
+      "team_id": 3
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 22.2,
+      "away_points_for_per_game": 17.0,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 20,
+      "home_games": 10,
+      "home_points_against_per_game": 23.6,
+      "home_points_for_per_game": 22.1,
+      "points_against_per_game": 22.9,
+      "points_for_per_game": 19.55,
+      "season": "2024",
+      "team": "New Orleans Saints",
+      "team_id": 27
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 22.1,
+      "away_points_for_per_game": 15.9,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 20,
+      "home_games": 10,
+      "home_points_against_per_game": 23.5,
+      "home_points_for_per_game": 14.4,
+      "points_against_per_game": 22.8,
+      "points_for_per_game": 15.15,
+      "season": "2024",
+      "team": "New York Giants",
+      "team_id": 4
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 27.4,
+      "away_points_for_per_game": 19.0,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 20,
+      "home_games": 10,
+      "home_points_against_per_game": 16.5,
+      "home_points_for_per_game": 19.3,
+      "points_against_per_game": 21.95,
+      "points_for_per_game": 19.15,
+      "season": "2024",
+      "team": "New York Jets",
+      "team_id": 13
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 17.2,
+      "away_points_for_per_game": 25.4,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 24,
+      "home_games": 14,
+      "home_points_against_per_game": 18.571,
+      "home_points_for_per_game": 27.643,
+      "points_against_per_game": 18.0,
+      "points_for_per_game": 26.708,
+      "season": "2024",
+      "team": "Philadelphia Eagles",
+      "team_id": 12
+    },
+    {
+      "away_games": 11,
+      "away_points_against_per_game": 23.455,
+      "away_points_for_per_game": 21.727,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 21,
+      "home_games": 10,
+      "home_points_against_per_game": 17.0,
+      "home_points_for_per_game": 18.7,
+      "points_against_per_game": 20.381,
+      "points_for_per_game": 20.286,
+      "season": "2024",
+      "team": "Pittsburgh Steelers",
+      "team_id": 22
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 28.4,
+      "away_points_for_per_game": 19.8,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 20,
+      "home_games": 10,
+      "home_points_against_per_game": 20.3,
+      "home_points_for_per_game": 24.4,
+      "points_against_per_game": 24.35,
+      "points_for_per_game": 22.1,
+      "season": "2024",
+      "team": "San Francisco 49ers",
+      "team_id": 14
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 17.9,
+      "away_points_for_per_game": 22.9,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 20,
+      "home_games": 10,
+      "home_points_against_per_game": 24.1,
+      "home_points_for_per_game": 21.4,
+      "points_against_per_game": 21.0,
+      "points_for_per_game": 22.15,
+      "season": "2024",
+      "team": "Seattle Seahawks",
+      "team_id": 23
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 21.6,
+      "away_points_for_per_game": 26.9,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 21,
+      "home_games": 11,
+      "home_points_against_per_game": 21.818,
+      "home_points_for_per_game": 27.364,
+      "points_against_per_game": 21.714,
+      "points_for_per_game": 27.143,
+      "season": "2024",
+      "team": "Tampa Bay Buccaneers",
+      "team_id": 24
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 30.3,
+      "away_points_for_per_game": 21.3,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 20,
+      "home_games": 10,
+      "home_points_against_per_game": 21.2,
+      "home_points_for_per_game": 16.1,
+      "points_against_per_game": 25.75,
+      "points_for_per_game": 18.7,
+      "season": "2024",
+      "team": "Tennessee Titans",
+      "team_id": 6
+    },
+    {
+      "away_games": 13,
+      "away_points_against_per_game": 26.077,
+      "away_points_for_per_game": 25.0,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 23,
+      "home_games": 10,
+      "home_points_against_per_game": 20.1,
+      "home_points_for_per_game": 29.4,
+      "points_against_per_game": 23.478,
+      "points_for_per_game": 26.913,
+      "season": "2024",
+      "team": "Washington Commanders",
+      "team_id": 18
+    }
+  ]
+}

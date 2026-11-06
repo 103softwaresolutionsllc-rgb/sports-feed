@@ -1,0 +1,367 @@
+{
+  "classification": "Historical",
+  "season": "2023",
+  "sport": "soccer",
+  "teams": [
+    {
+      "away_games": 19,
+      "away_points_against_per_game": 0.684,
+      "away_points_for_per_game": 2.263,
+      "categories": {
+        "shots_on_target_per_game": null,
+        "shots_per_game": null
+      },
+      "games_played": 38,
+      "home_games": 19,
+      "home_points_against_per_game": 0.842,
+      "home_points_for_per_game": 2.526,
+      "points_against_per_game": 0.763,
+      "points_for_per_game": 2.395,
+      "season": "2023",
+      "team": "Arsenal",
+      "team_id": 42
+    },
+    {
+      "away_games": 19,
+      "away_points_against_per_game": 1.737,
+      "away_points_for_per_game": 1.474,
+      "categories": {
+        "shots_on_target_per_game": null,
+        "shots_per_game": null
+      },
+      "games_played": 38,
+      "home_games": 19,
+      "home_points_against_per_game": 1.474,
+      "home_points_for_per_game": 2.526,
+      "points_against_per_game": 1.605,
+      "points_for_per_game": 2.0,
+      "season": "2023",
+      "team": "Aston Villa",
+      "team_id": 66
+    },
+    {
+      "away_games": 19,
+      "away_points_against_per_game": 2.053,
+      "away_points_for_per_game": 1.421,
+      "categories": {
+        "shots_on_target_per_game": null,
+        "shots_per_game": null
+      },
+      "games_played": 38,
+      "home_games": 19,
+      "home_points_against_per_game": 1.474,
+      "home_points_for_per_game": 1.421,
+      "points_against_per_game": 1.763,
+      "points_for_per_game": 1.421,
+      "season": "2023",
+      "team": "Bournemouth",
+      "team_id": 35
+    },
+    {
+      "away_games": 19,
+      "away_points_against_per_game": 1.632,
+      "away_points_for_per_game": 1.421,
+      "categories": {
+        "shots_on_target_per_game": null,
+        "shots_per_game": null
+      },
+      "games_played": 38,
+      "home_games": 19,
+      "home_points_against_per_game": 1.789,
+      "home_points_for_per_game": 1.526,
+      "points_against_per_game": 1.711,
+      "points_for_per_game": 1.474,
+      "season": "2023",
+      "team": "Brentford",
+      "team_id": 55
+    },
+    {
+      "away_games": 19,
+      "away_points_against_per_game": 1.842,
+      "away_points_for_per_game": 1.316,
+      "categories": {
+        "shots_on_target_per_game": null,
+        "shots_per_game": null
+      },
+      "games_played": 38,
+      "home_games": 19,
+      "home_points_against_per_game": 1.421,
+      "home_points_for_per_game": 1.579,
+      "points_against_per_game": 1.632,
+      "points_for_per_game": 1.447,
+      "season": "2023",
+      "team": "Brighton",
+      "team_id": 51
+    },
+    {
+      "away_games": 19,
+      "away_points_against_per_game": 1.842,
+      "away_points_for_per_game": 1.158,
+      "categories": {
+        "shots_on_target_per_game": null,
+        "shots_per_game": null
+      },
+      "games_played": 38,
+      "home_games": 19,
+      "home_points_against_per_game": 2.263,
+      "home_points_for_per_game": 1.0,
+      "points_against_per_game": 2.053,
+      "points_for_per_game": 1.079,
+      "season": "2023",
+      "team": "Burnley",
+      "team_id": 44
+    },
+    {
+      "away_games": 19,
+      "away_points_against_per_game": 1.947,
+      "away_points_for_per_game": 1.737,
+      "categories": {
+        "shots_on_target_per_game": null,
+        "shots_per_game": null
+      },
+      "games_played": 38,
+      "home_games": 19,
+      "home_points_against_per_game": 1.368,
+      "home_points_for_per_game": 2.316,
+      "points_against_per_game": 1.658,
+      "points_for_per_game": 2.026,
+      "season": "2023",
+      "team": "Chelsea",
+      "team_id": 49
+    },
+    {
+      "away_games": 19,
+      "away_points_against_per_game": 1.684,
+      "away_points_for_per_game": 1.053,
+      "categories": {
+        "shots_on_target_per_game": null,
+        "shots_per_game": null
+      },
+      "games_played": 38,
+      "home_games": 19,
+      "home_points_against_per_game": 1.368,
+      "home_points_for_per_game": 1.947,
+      "points_against_per_game": 1.526,
+      "points_for_per_game": 1.5,
+      "season": "2023",
+      "team": "Crystal Palace",
+      "team_id": 52
+    },
+    {
+      "away_games": 19,
+      "away_points_against_per_game": 1.737,
+      "away_points_for_per_game": 0.947,
+      "categories": {
+        "shots_on_target_per_game": null,
+        "shots_per_game": null
+      },
+      "games_played": 38,
+      "home_games": 19,
+      "home_points_against_per_game": 0.947,
+      "home_points_for_per_game": 1.158,
+      "points_against_per_game": 1.342,
+      "points_for_per_game": 1.053,
+      "season": "2023",
+      "team": "Everton",
+      "team_id": 45
+    },
+    {
+      "away_games": 19,
+      "away_points_against_per_game": 1.947,
+      "away_points_for_per_game": 1.263,
+      "categories": {
+        "shots_on_target_per_game": null,
+        "shots_per_game": null
+      },
+      "games_played": 38,
+      "home_games": 19,
+      "home_points_against_per_game": 1.263,
+      "home_points_for_per_game": 1.632,
+      "points_against_per_game": 1.605,
+      "points_for_per_game": 1.447,
+      "season": "2023",
+      "team": "Fulham",
+      "team_id": 36
+    },
+    {
+      "away_games": 19,
+      "away_points_against_per_game": 1.263,
+      "away_points_for_per_game": 1.947,
+      "categories": {
+        "shots_on_target_per_game": null,
+        "shots_per_game": null
+      },
+      "games_played": 38,
+      "home_games": 19,
+      "home_points_against_per_game": 0.895,
+      "home_points_for_per_game": 2.579,
+      "points_against_per_game": 1.079,
+      "points_for_per_game": 2.263,
+      "season": "2023",
+      "team": "Liverpool",
+      "team_id": 40
+    },
+    {
+      "away_games": 19,
+      "away_points_against_per_game": 2.526,
+      "away_points_for_per_game": 1.263,
+      "categories": {
+        "shots_on_target_per_game": null,
+        "shots_per_game": null
+      },
+      "games_played": 38,
+      "home_games": 19,
+      "home_points_against_per_game": 1.947,
+      "home_points_for_per_game": 1.474,
+      "points_against_per_game": 2.237,
+      "points_for_per_game": 1.368,
+      "season": "2023",
+      "team": "Luton",
+      "team_id": 1359
+    },
+    {
+      "away_games": 19,
+      "away_points_against_per_game": 0.947,
+      "away_points_for_per_game": 2.368,
+      "categories": {
+        "shots_on_target_per_game": null,
+        "shots_per_game": null
+      },
+      "games_played": 38,
+      "home_games": 19,
+      "home_points_against_per_game": 0.842,
+      "home_points_for_per_game": 2.684,
+      "points_against_per_game": 0.895,
+      "points_for_per_game": 2.526,
+      "season": "2023",
+      "team": "Manchester City",
+      "team_id": 50
+    },
+    {
+      "away_games": 19,
+      "away_points_against_per_game": 1.579,
+      "away_points_for_per_game": 1.368,
+      "categories": {
+        "shots_on_target_per_game": null,
+        "shots_per_game": null
+      },
+      "games_played": 38,
+      "home_games": 19,
+      "home_points_against_per_game": 1.474,
+      "home_points_for_per_game": 1.632,
+      "points_against_per_game": 1.526,
+      "points_for_per_game": 1.5,
+      "season": "2023",
+      "team": "Manchester United",
+      "team_id": 33
+    },
+    {
+      "away_games": 19,
+      "away_points_against_per_game": 2.105,
+      "away_points_for_per_game": 1.895,
+      "categories": {
+        "shots_on_target_per_game": null,
+        "shots_per_game": null
+      },
+      "games_played": 38,
+      "home_games": 19,
+      "home_points_against_per_game": 1.158,
+      "home_points_for_per_game": 2.579,
+      "points_against_per_game": 1.632,
+      "points_for_per_game": 2.237,
+      "season": "2023",
+      "team": "Newcastle",
+      "team_id": 34
+    },
+    {
+      "away_games": 19,
+      "away_points_against_per_game": 1.947,
+      "away_points_for_per_game": 1.158,
+      "categories": {
+        "shots_on_target_per_game": null,
+        "shots_per_game": null
+      },
+      "games_played": 38,
+      "home_games": 19,
+      "home_points_against_per_game": 1.579,
+      "home_points_for_per_game": 1.421,
+      "points_against_per_game": 1.763,
+      "points_for_per_game": 1.289,
+      "season": "2023",
+      "team": "Nottingham Forest",
+      "team_id": 65
+    },
+    {
+      "away_games": 19,
+      "away_points_against_per_game": 2.474,
+      "away_points_for_per_game": 0.842,
+      "categories": {
+        "shots_on_target_per_game": null,
+        "shots_per_game": null
+      },
+      "games_played": 38,
+      "home_games": 19,
+      "home_points_against_per_game": 3.0,
+      "home_points_for_per_game": 1.0,
+      "points_against_per_game": 2.737,
+      "points_for_per_game": 0.921,
+      "season": "2023",
+      "team": "Sheffield Utd",
+      "team_id": 62
+    },
+    {
+      "away_games": 19,
+      "away_points_against_per_game": 1.789,
+      "away_points_for_per_game": 1.895,
+      "categories": {
+        "shots_on_target_per_game": null,
+        "shots_per_game": null
+      },
+      "games_played": 38,
+      "home_games": 19,
+      "home_points_against_per_game": 1.421,
+      "home_points_for_per_game": 2.0,
+      "points_against_per_game": 1.605,
+      "points_for_per_game": 1.947,
+      "season": "2023",
+      "team": "Tottenham",
+      "team_id": 47
+    },
+    {
+      "away_games": 19,
+      "away_points_against_per_game": 2.421,
+      "away_points_for_per_game": 1.526,
+      "categories": {
+        "shots_on_target_per_game": null,
+        "shots_per_game": null
+      },
+      "games_played": 38,
+      "home_games": 19,
+      "home_points_against_per_game": 1.474,
+      "home_points_for_per_game": 1.632,
+      "points_against_per_game": 1.947,
+      "points_for_per_game": 1.579,
+      "season": "2023",
+      "team": "West Ham",
+      "team_id": 48
+    },
+    {
+      "away_games": 19,
+      "away_points_against_per_game": 1.842,
+      "away_points_for_per_game": 1.263,
+      "categories": {
+        "shots_on_target_per_game": null,
+        "shots_per_game": null
+      },
+      "games_played": 38,
+      "home_games": 19,
+      "home_points_against_per_game": 1.579,
+      "home_points_for_per_game": 1.368,
+      "points_against_per_game": 1.711,
+      "points_for_per_game": 1.316,
+      "season": "2023",
+      "team": "Wolves",
+      "team_id": 39
+    }
+  ]
+}

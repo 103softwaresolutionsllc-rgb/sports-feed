@@ -1,0 +1,615 @@
+{
+  "classification": "Historical",
+  "season": "2023",
+  "sport": "american-football",
+  "teams": [
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 23.4,
+      "away_points_for_per_game": 16.0,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 20,
+      "home_games": 10,
+      "home_points_against_per_game": 29.3,
+      "home_points_for_per_game": 21.6,
+      "points_against_per_game": 26.35,
+      "points_for_per_game": 18.8,
+      "season": "2023",
+      "team": "Arizona Cardinals",
+      "team_id": 11
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 21.4,
+      "away_points_for_per_game": 14.8,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 20,
+      "home_games": 10,
+      "home_points_against_per_game": 19.9,
+      "home_points_for_per_game": 20.5,
+      "points_against_per_game": 20.65,
+      "points_for_per_game": 17.65,
+      "season": "2023",
+      "team": "Atlanta Falcons",
+      "team_id": 8
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 17.5,
+      "away_points_for_per_game": 24.4,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 22,
+      "home_games": 12,
+      "home_points_against_per_game": 17.167,
+      "home_points_for_per_game": 29.25,
+      "points_against_per_game": 17.318,
+      "points_for_per_game": 27.045,
+      "season": "2023",
+      "team": "Baltimore Ravens",
+      "team_id": 5
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 21.6,
+      "away_points_for_per_game": 23.4,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 22,
+      "home_games": 12,
+      "home_points_against_per_game": 17.167,
+      "home_points_for_per_game": 27.833,
+      "points_against_per_game": 19.182,
+      "points_for_per_game": 25.818,
+      "season": "2023",
+      "team": "Buffalo Bills",
+      "team_id": 20
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 27.4,
+      "away_points_for_per_game": 14.8,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 20,
+      "home_games": 10,
+      "home_points_against_per_game": 21.6,
+      "home_points_for_per_game": 12.4,
+      "points_against_per_game": 24.5,
+      "points_for_per_game": 13.6,
+      "season": "2023",
+      "team": "Carolina Panthers",
+      "team_id": 19
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 24.4,
+      "away_points_for_per_game": 17.8,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 20,
+      "home_games": 10,
+      "home_points_against_per_game": 20.0,
+      "home_points_for_per_game": 24.3,
+      "points_against_per_game": 22.2,
+      "points_for_per_game": 21.05,
+      "season": "2023",
+      "team": "Chicago Bears",
+      "team_id": 16
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 24.6,
+      "away_points_for_per_game": 18.5,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 20,
+      "home_games": 10,
+      "home_points_against_per_game": 20.8,
+      "home_points_for_per_game": 23.2,
+      "points_against_per_game": 22.7,
+      "points_for_per_game": 20.85,
+      "season": "2023",
+      "team": "Cincinnati Bengals",
+      "team_id": 10
+    },
+    {
+      "away_games": 11,
+      "away_points_against_per_game": 30.273,
+      "away_points_for_per_game": 23.545,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 22,
+      "home_games": 11,
+      "home_points_against_per_game": 14.364,
+      "home_points_for_per_game": 21.545,
+      "points_against_per_game": 22.318,
+      "points_for_per_game": 22.545,
+      "season": "2023",
+      "team": "Cleveland Browns",
+      "team_id": 9
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 21.0,
+      "away_points_for_per_game": 22.4,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 21,
+      "home_games": 11,
+      "home_points_against_per_game": 19.909,
+      "home_points_for_per_game": 35.0,
+      "points_against_per_game": 20.429,
+      "points_for_per_game": 29.0,
+      "season": "2023",
+      "team": "Dallas Cowboys",
+      "team_id": 29
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 27.6,
+      "away_points_for_per_game": 19.2,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 20,
+      "home_games": 10,
+      "home_points_against_per_game": 17.6,
+      "home_points_for_per_game": 24.3,
+      "points_against_per_game": 22.6,
+      "points_for_per_game": 21.75,
+      "season": "2023",
+      "team": "Denver Broncos",
+      "team_id": 28
+    },
+    {
+      "away_games": 11,
+      "away_points_against_per_game": 24.818,
+      "away_points_for_per_game": 24.909,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 23,
+      "home_games": 12,
+      "home_points_against_per_game": 21.667,
+      "home_points_for_per_game": 27.25,
+      "points_against_per_game": 23.174,
+      "points_for_per_game": 26.13,
+      "season": "2023",
+      "team": "Detroit Lions",
+      "team_id": 7
+    },
+    {
+      "away_games": 12,
+      "away_points_against_per_game": 22.083,
+      "away_points_for_per_game": 27.75,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 22,
+      "home_games": 10,
+      "home_points_against_per_game": 19.6,
+      "home_points_for_per_game": 19.1,
+      "points_against_per_game": 20.955,
+      "points_for_per_game": 23.818,
+      "season": "2023",
+      "team": "Green Bay Packers",
+      "team_id": 15
+    },
+    {
+      "away_games": 11,
+      "away_points_against_per_game": 20.545,
+      "away_points_for_per_game": 18.455,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 22,
+      "home_games": 11,
+      "home_points_against_per_game": 20.455,
+      "home_points_for_per_game": 24.455,
+      "points_against_per_game": 20.5,
+      "points_for_per_game": 21.455,
+      "season": "2023",
+      "team": "Houston Texans",
+      "team_id": 26
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 22.2,
+      "away_points_for_per_game": 21.1,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 20,
+      "home_games": 10,
+      "home_points_against_per_game": 24.6,
+      "home_points_for_per_game": 25.5,
+      "points_against_per_game": 23.4,
+      "points_for_per_game": 23.3,
+      "season": "2023",
+      "team": "Indianapolis Colts",
+      "team_id": 21
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 21.5,
+      "away_points_for_per_game": 24.3,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 20,
+      "home_games": 10,
+      "home_points_against_per_game": 20.4,
+      "home_points_for_per_game": 21.8,
+      "points_against_per_game": 20.95,
+      "points_for_per_game": 23.05,
+      "season": "2023",
+      "team": "Jacksonville Jaguars",
+      "team_id": 2
+    },
+    {
+      "away_games": 12,
+      "away_points_against_per_game": 18.0,
+      "away_points_for_per_game": 22.667,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 24,
+      "home_games": 12,
+      "home_points_against_per_game": 17.417,
+      "home_points_for_per_game": 24.083,
+      "points_against_per_game": 17.708,
+      "points_for_per_game": 23.375,
+      "season": "2023",
+      "team": "Kansas City Chiefs",
+      "team_id": 17
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 23.9,
+      "away_points_for_per_game": 17.3,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 20,
+      "home_games": 10,
+      "home_points_against_per_game": 14.7,
+      "home_points_for_per_game": 24.3,
+      "points_against_per_game": 19.3,
+      "points_for_per_game": 20.8,
+      "season": "2023",
+      "team": "Las Vegas Raiders",
+      "team_id": 1
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 21.9,
+      "away_points_for_per_game": 20.9,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 20,
+      "home_games": 10,
+      "home_points_against_per_game": 23.0,
+      "home_points_for_per_game": 21.1,
+      "points_against_per_game": 22.45,
+      "points_for_per_game": 21.0,
+      "season": "2023",
+      "team": "Los Angeles Chargers",
+      "team_id": 30
+    },
+    {
+      "away_games": 11,
+      "away_points_against_per_game": 25.364,
+      "away_points_for_per_game": 21.455,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 21,
+      "home_games": 10,
+      "home_points_against_per_game": 23.1,
+      "home_points_for_per_game": 22.5,
+      "points_against_per_game": 24.286,
+      "points_for_per_game": 21.952,
+      "season": "2023",
+      "team": "Los Angeles Rams",
+      "team_id": 31
+    },
+    {
+      "away_games": 11,
+      "away_points_against_per_game": 26.818,
+      "away_points_for_per_game": 23.818,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 21,
+      "home_games": 10,
+      "home_points_against_per_game": 17.5,
+      "home_points_for_per_game": 29.0,
+      "points_against_per_game": 22.381,
+      "points_for_per_game": 26.286,
+      "season": "2023",
+      "team": "Miami Dolphins",
+      "team_id": 25
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 20.0,
+      "away_points_for_per_game": 20.3,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 20,
+      "home_games": 10,
+      "home_points_against_per_game": 22.8,
+      "home_points_for_per_game": 18.7,
+      "points_against_per_game": 21.4,
+      "points_for_per_game": 19.5,
+      "season": "2023",
+      "team": "Minnesota Vikings",
+      "team_id": 32
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 21.8,
+      "away_points_for_per_game": 15.5,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 20,
+      "home_games": 10,
+      "home_points_against_per_game": 20.8,
+      "home_points_for_per_game": 11.8,
+      "points_against_per_game": 21.3,
+      "points_for_per_game": 13.65,
+      "season": "2023",
+      "team": "New England Patriots",
+      "team_id": 3
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 19.3,
+      "away_points_for_per_game": 22.3,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 20,
+      "home_games": 10,
+      "home_points_against_per_game": 19.2,
+      "home_points_for_per_game": 24.0,
+      "points_against_per_game": 19.25,
+      "points_for_per_game": 23.15,
+      "season": "2023",
+      "team": "New Orleans Saints",
+      "team_id": 27
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 27.9,
+      "away_points_for_per_game": 16.9,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 20,
+      "home_games": 10,
+      "home_points_against_per_game": 20.0,
+      "home_points_for_per_game": 15.8,
+      "points_against_per_game": 23.95,
+      "points_for_per_game": 16.35,
+      "season": "2023",
+      "team": "New York Giants",
+      "team_id": 4
+    },
+    {
+      "away_games": 11,
+      "away_points_against_per_game": 20.364,
+      "away_points_for_per_game": 16.727,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 21,
+      "home_games": 10,
+      "home_points_against_per_game": 18.9,
+      "home_points_for_per_game": 16.5,
+      "points_against_per_game": 19.667,
+      "points_for_per_game": 16.619,
+      "season": "2023",
+      "team": "New York Jets",
+      "team_id": 13
+    },
+    {
+      "away_games": 11,
+      "away_points_against_per_game": 22.273,
+      "away_points_for_per_game": 19.455,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 21,
+      "home_games": 10,
+      "home_points_against_per_game": 28.0,
+      "home_points_for_per_game": 27.8,
+      "points_against_per_game": 25.0,
+      "points_for_per_game": 23.429,
+      "season": "2023",
+      "team": "Philadelphia Eagles",
+      "team_id": 12
+    },
+    {
+      "away_games": 11,
+      "away_points_against_per_game": 18.091,
+      "away_points_for_per_game": 18.818,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 21,
+      "home_games": 10,
+      "home_points_against_per_game": 18.8,
+      "home_points_for_per_game": 19.2,
+      "points_against_per_game": 18.429,
+      "points_for_per_game": 19.0,
+      "season": "2023",
+      "team": "Pittsburgh Steelers",
+      "team_id": 22
+    },
+    {
+      "away_games": 11,
+      "away_points_against_per_game": 18.545,
+      "away_points_for_per_game": 27.455,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 23,
+      "home_games": 12,
+      "home_points_against_per_game": 20.667,
+      "home_points_for_per_game": 25.75,
+      "points_against_per_game": 19.652,
+      "points_for_per_game": 26.565,
+      "season": "2023",
+      "team": "San Francisco 49ers",
+      "team_id": 14
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 23.0,
+      "away_points_for_per_game": 20.0,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 20,
+      "home_games": 10,
+      "home_points_against_per_game": 21.8,
+      "home_points_for_per_game": 22.5,
+      "points_against_per_game": 22.4,
+      "points_for_per_game": 21.25,
+      "season": "2023",
+      "team": "Seattle Seahawks",
+      "team_id": 23
+    },
+    {
+      "away_games": 11,
+      "away_points_against_per_game": 20.455,
+      "away_points_for_per_game": 22.091,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 22,
+      "home_games": 11,
+      "home_points_against_per_game": 17.545,
+      "home_points_for_per_game": 19.636,
+      "points_against_per_game": 19.0,
+      "points_for_per_game": 20.864,
+      "season": "2023",
+      "team": "Tampa Bay Buccaneers",
+      "team_id": 24
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 23.2,
+      "away_points_for_per_game": 14.2,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 20,
+      "home_games": 10,
+      "home_points_against_per_game": 18.1,
+      "home_points_for_per_game": 22.7,
+      "points_against_per_game": 20.65,
+      "points_for_per_game": 18.45,
+      "season": "2023",
+      "team": "Tennessee Titans",
+      "team_id": 6
+    },
+    {
+      "away_games": 10,
+      "away_points_against_per_game": 26.1,
+      "away_points_for_per_game": 21.8,
+      "categories": {
+        "passing_yards_per_game": null,
+        "rushing_yards_per_game": null,
+        "total_yards_per_game": null
+      },
+      "games_played": 20,
+      "home_games": 10,
+      "home_points_against_per_game": 31.9,
+      "home_points_for_per_game": 17.8,
+      "points_against_per_game": 29.0,
+      "points_for_per_game": 19.8,
+      "season": "2023",
+      "team": "Washington Commanders",
+      "team_id": 18
+    }
+  ]
+}

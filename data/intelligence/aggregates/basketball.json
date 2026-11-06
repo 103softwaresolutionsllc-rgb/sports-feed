@@ -1,27 +1,640 @@
 {
-  "averages": {},
+  "averages": {
+    "Atlanta Hawks": {
+      "away_points_against_per_game": 119.272,
+      "away_points_for_per_game": 116.121,
+      "home_points_against_per_game": 119.012,
+      "home_points_for_per_game": 119.471,
+      "points_against_per_game": 119.142,
+      "points_for_per_game": 117.789
+    },
+    "Boston Celtics": {
+      "away_points_against_per_game": 109.054,
+      "away_points_for_per_game": 115.057,
+      "home_points_against_per_game": 107.445,
+      "home_points_for_per_game": 118.701,
+      "points_against_per_game": 108.232,
+      "points_for_per_game": 116.922
+    },
+    "Brooklyn Nets": {
+      "away_points_against_per_game": 113.884,
+      "away_points_for_per_game": 109.193,
+      "home_points_against_per_game": 111.136,
+      "home_points_for_per_game": 109.426,
+      "points_against_per_game": 112.518,
+      "points_for_per_game": 109.302
+    },
+    "Candace\u2019s Rising Stars": {
+      "away_points_against_per_game": 42.0,
+      "away_points_for_per_game": 35.0,
+      "points_against_per_game": 42.0,
+      "points_for_per_game": 35.0
+    },
+    "Charlotte Hornets": {
+      "away_points_against_per_game": 117.046,
+      "away_points_for_per_game": 107.035,
+      "home_points_against_per_game": 114.766,
+      "home_points_for_per_game": 107.8,
+      "points_against_per_game": 115.911,
+      "points_for_per_game": 107.408
+    },
+    "Chicago Bulls": {
+      "away_points_against_per_game": 115.557,
+      "away_points_for_per_game": 114.134,
+      "home_points_against_per_game": 114.218,
+      "home_points_for_per_game": 114.607,
+      "points_against_per_game": 114.88,
+      "points_for_per_game": 114.364
+    },
+    "Chuck\u2019s Global Stars": {
+      "home_points_against_per_game": 36.5,
+      "home_points_for_per_game": 33.0,
+      "points_against_per_game": 36.5,
+      "points_for_per_game": 33.0
+    },
+    "Cleveland Cavaliers": {
+      "away_points_against_per_game": 110.513,
+      "away_points_for_per_game": 113.388,
+      "home_points_against_per_game": 108.411,
+      "home_points_for_per_game": 115.261,
+      "points_against_per_game": 109.455,
+      "points_for_per_game": 114.321
+    },
+    "Dallas Mavericks": {
+      "away_points_against_per_game": 115.671,
+      "away_points_for_per_game": 113.495,
+      "home_points_against_per_game": 111.913,
+      "home_points_for_per_game": 115.065,
+      "points_against_per_game": 113.813,
+      "points_for_per_game": 114.272
+    },
+    "Denver Nuggets": {
+      "away_points_against_per_game": 114.056,
+      "away_points_for_per_game": 113.357,
+      "home_points_against_per_game": 110.322,
+      "home_points_for_per_game": 117.771,
+      "points_against_per_game": 112.18,
+      "points_for_per_game": 115.568
+    },
+    "Detroit Pistons": {
+      "away_points_against_per_game": 116.777,
+      "away_points_for_per_game": 110.815,
+      "home_points_against_per_game": 116.456,
+      "home_points_for_per_game": 112.263,
+      "points_against_per_game": 116.622,
+      "points_for_per_game": 111.532
+    },
+    "East": {
+      "home_points_against_per_game": 186.0,
+      "home_points_for_per_game": 211.0,
+      "points_against_per_game": 186.0,
+      "points_for_per_game": 211.0
+    },
+    "Golden State Warriors": {
+      "away_points_against_per_game": 114.65,
+      "away_points_for_per_game": 115.799,
+      "home_points_against_per_game": 112.414,
+      "home_points_for_per_game": 116.425,
+      "points_against_per_game": 113.532,
+      "points_for_per_game": 116.112
+    },
+    "Houston Rockets": {
+      "away_points_against_per_game": 116.097,
+      "away_points_for_per_game": 112.52,
+      "home_points_against_per_game": 110.609,
+      "home_points_for_per_game": 113.864,
+      "points_against_per_game": 113.352,
+      "points_for_per_game": 113.185
+    },
+    "Indiana Pacers": {
+      "away_points_against_per_game": 118.79,
+      "away_points_for_per_game": 116.266,
+      "home_points_against_per_game": 116.364,
+      "home_points_for_per_game": 120.004,
+      "points_against_per_game": 117.589,
+      "points_for_per_game": 118.125
+    },
+    "Kenny\u2019s Young Stars": {
+      "away_points_against_per_game": 41.0,
+      "away_points_for_per_game": 32.0,
+      "points_against_per_game": 41.0,
+      "points_for_per_game": 32.0
+    },
+    "Los Angeles Clippers": {
+      "away_points_against_per_game": 113.135,
+      "away_points_for_per_game": 113.442,
+      "home_points_against_per_game": 108.807,
+      "home_points_for_per_game": 113.081,
+      "points_against_per_game": 110.895,
+      "points_for_per_game": 113.261
+    },
+    "Los Angeles Lakers": {
+      "away_points_against_per_game": 117.647,
+      "away_points_for_per_game": 114.036,
+      "home_points_against_per_game": 112.613,
+      "home_points_for_per_game": 115.567,
+      "points_against_per_game": 115.075,
+      "points_for_per_game": 114.814
+    },
+    "Memphis Grizzlies": {
+      "away_points_against_per_game": 116.34,
+      "away_points_for_per_game": 113.272,
+      "home_points_against_per_game": 111.957,
+      "home_points_for_per_game": 115.049,
+      "points_against_per_game": 114.172,
+      "points_for_per_game": 114.151
+    },
+    "Miami Heat": {
+      "away_points_against_per_game": 108.682,
+      "away_points_for_per_game": 108.302,
+      "home_points_against_per_game": 109.844,
+      "home_points_for_per_game": 110.845,
+      "points_against_per_game": 109.261,
+      "points_for_per_game": 109.572
+    },
+    "Milwaukee Bucks": {
+      "away_points_against_per_game": 115.447,
+      "away_points_for_per_game": 113.612,
+      "home_points_against_per_game": 113.203,
+      "home_points_for_per_game": 118.601,
+      "points_against_per_game": 114.328,
+      "points_for_per_game": 116.101
+    },
+    "Minnesota Timberwolves": {
+      "away_points_against_per_game": 111.143,
+      "away_points_for_per_game": 113.025,
+      "home_points_against_per_game": 109.016,
+      "home_points_for_per_game": 114.352,
+      "points_against_per_game": 110.105,
+      "points_for_per_game": 113.672
+    },
+    "New Orleans Pelicans": {
+      "away_points_against_per_game": 115.066,
+      "away_points_for_per_game": 112.062,
+      "home_points_against_per_game": 112.402,
+      "home_points_for_per_game": 112.718,
+      "points_against_per_game": 113.771,
+      "points_for_per_game": 112.375
+    },
+    "New York Knicks": {
+      "away_points_against_per_game": 111.643,
+      "away_points_for_per_game": 112.608,
+      "home_points_against_per_game": 109.139,
+      "home_points_for_per_game": 114.8,
+      "points_against_per_game": 110.362,
+      "points_for_per_game": 113.702
+    },
+    "Oklahoma City Thunder": {
+      "away_points_against_per_game": 112.861,
+      "away_points_for_per_game": 115.255,
+      "home_points_against_per_game": 110.36,
+      "home_points_for_per_game": 121.171,
+      "points_against_per_game": 111.588,
+      "points_for_per_game": 118.222
+    },
+    "Orlando Magic": {
+      "away_points_against_per_game": 110.27,
+      "away_points_for_per_game": 106.45,
+      "home_points_against_per_game": 107.131,
+      "home_points_for_per_game": 110.669,
+      "points_against_per_game": 108.721,
+      "points_for_per_game": 108.53
+    },
+    "Philadelphia 76ers": {
+      "away_points_against_per_game": 113.12,
+      "away_points_for_per_game": 112.337,
+      "home_points_against_per_game": 111.339,
+      "home_points_for_per_game": 112.329,
+      "points_against_per_game": 112.235,
+      "points_for_per_game": 112.337
+    },
+    "Phoenix Suns": {
+      "away_points_against_per_game": 115.173,
+      "away_points_for_per_game": 114.093,
+      "home_points_against_per_game": 112.701,
+      "home_points_for_per_game": 114.604,
+      "points_against_per_game": 113.944,
+      "points_for_per_game": 114.348
+    },
+    "Portland Trail Blazers": {
+      "away_points_against_per_game": 115.296,
+      "away_points_for_per_game": 108.092,
+      "home_points_against_per_game": 115.587,
+      "home_points_for_per_game": 112.127,
+      "points_against_per_game": 115.433,
+      "points_for_per_game": 110.076
+    },
+    "Sacramento Kings": {
+      "away_points_against_per_game": 114.466,
+      "away_points_for_per_game": 115.114,
+      "home_points_against_per_game": 116.315,
+      "home_points_for_per_game": 118.765,
+      "points_against_per_game": 115.388,
+      "points_for_per_game": 116.931
+    },
+    "San Antonio Spurs": {
+      "away_points_against_per_game": 119.667,
+      "away_points_for_per_game": 110.775,
+      "home_points_against_per_game": 118.477,
+      "home_points_for_per_game": 114.856,
+      "points_against_per_game": 119.065,
+      "points_for_per_game": 112.839
+    },
+    "Shaq\u2019s OGs": {
+      "away_points_against_per_game": 25.0,
+      "away_points_for_per_game": 41.0,
+      "home_points_against_per_game": 35.0,
+      "home_points_for_per_game": 42.0,
+      "points_against_per_game": 30.0,
+      "points_for_per_game": 41.5
+    },
+    "Team Giannis": {
+      "away_points_against_per_game": 175.0,
+      "away_points_for_per_game": 184.0,
+      "points_against_per_game": 175.0,
+      "points_for_per_game": 184.0
+    },
+    "Team LeBron": {
+      "home_points_against_per_game": 184.0,
+      "home_points_for_per_game": 175.0,
+      "points_against_per_game": 184.0,
+      "points_for_per_game": 175.0
+    },
+    "Toronto Raptors": {
+      "away_points_against_per_game": 116.467,
+      "away_points_for_per_game": 111.732,
+      "home_points_against_per_game": 113.244,
+      "home_points_for_per_game": 112.538,
+      "points_against_per_game": 114.835,
+      "points_for_per_game": 112.135
+    },
+    "Utah Jazz": {
+      "away_points_against_per_game": 120.929,
+      "away_points_for_per_game": 112.928,
+      "home_points_against_per_game": 118.18,
+      "home_points_for_per_game": 116.24,
+      "points_against_per_game": 119.574,
+      "points_for_per_game": 114.551
+    },
+    "Washington Wizards": {
+      "away_points_against_per_game": 118.892,
+      "away_points_for_per_game": 110.661,
+      "home_points_against_per_game": 118.893,
+      "home_points_for_per_game": 111.802,
+      "points_against_per_game": 118.893,
+      "points_for_per_game": 111.228
+    },
+    "West": {
+      "away_points_against_per_game": 211.0,
+      "away_points_for_per_game": 186.0,
+      "points_against_per_game": 211.0,
+      "points_for_per_game": 186.0
+    }
+  },
   "leaderboards": {
-    "away_points_against_per_game": {
+    "assists_per_game": {
       "entries": [],
+      "order": "descending"
+    },
+    "away_points_against_per_game": {
+      "entries": [
+        {
+          "seasons_counted": 1,
+          "team": "Shaq\u2019s OGs",
+          "value": 25.0
+        },
+        {
+          "seasons_counted": 1,
+          "team": "Kenny\u2019s Young Stars",
+          "value": 41.0
+        },
+        {
+          "seasons_counted": 1,
+          "team": "Candace\u2019s Rising Stars",
+          "value": 42.0
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Boston Celtics",
+          "value": 108.101
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Miami Heat",
+          "value": 108.905
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Orlando Magic",
+          "value": 109.472
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Minnesota Timberwolves",
+          "value": 110.287
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Cleveland Cavaliers",
+          "value": 111.216
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Oklahoma City Thunder",
+          "value": 111.659
+        },
+        {
+          "seasons_counted": 3,
+          "team": "New York Knicks",
+          "value": 111.774
+        }
+      ],
       "order": "ascending"
     },
     "away_points_for_per_game": {
+      "entries": [
+        {
+          "seasons_counted": 1,
+          "team": "West",
+          "value": 186.0
+        },
+        {
+          "seasons_counted": 1,
+          "team": "Team Giannis",
+          "value": 184.0
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Indiana Pacers",
+          "value": 116.517
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Atlanta Hawks",
+          "value": 116.385
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Oklahoma City Thunder",
+          "value": 115.593
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Chicago Bulls",
+          "value": 115.294
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Golden State Warriors",
+          "value": 115.258
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Cleveland Cavaliers",
+          "value": 115.255
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Boston Celtics",
+          "value": 114.823
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Sacramento Kings",
+          "value": 114.759
+        }
+      ],
+      "order": "descending"
+    },
+    "blocks_per_game": {
       "entries": [],
       "order": "descending"
     },
     "home_points_against_per_game": {
-      "entries": [],
+      "entries": [
+        {
+          "seasons_counted": 1,
+          "team": "Shaq\u2019s OGs",
+          "value": 35.0
+        },
+        {
+          "seasons_counted": 1,
+          "team": "Chuck\u2019s Global Stars",
+          "value": 36.5
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Orlando Magic",
+          "value": 105.471
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Boston Celtics",
+          "value": 106.964
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Los Angeles Clippers",
+          "value": 107.64
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Minnesota Timberwolves",
+          "value": 108.316
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Oklahoma City Thunder",
+          "value": 108.96
+        },
+        {
+          "seasons_counted": 3,
+          "team": "New York Knicks",
+          "value": 109.102
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Houston Rockets",
+          "value": 109.493
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Cleveland Cavaliers",
+          "value": 109.526
+        }
+      ],
       "order": "ascending"
     },
     "home_points_for_per_game": {
-      "entries": [],
+      "entries": [
+        {
+          "seasons_counted": 1,
+          "team": "East",
+          "value": 211.0
+        },
+        {
+          "seasons_counted": 1,
+          "team": "Team LeBron",
+          "value": 175.0
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Oklahoma City Thunder",
+          "value": 121.413
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Indiana Pacers",
+          "value": 119.781
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Atlanta Hawks",
+          "value": 119.108
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Milwaukee Bucks",
+          "value": 118.49
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Boston Celtics",
+          "value": 118.319
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Denver Nuggets",
+          "value": 118.283
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Sacramento Kings",
+          "value": 117.559
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Cleveland Cavaliers",
+          "value": 116.884
+        }
+      ],
       "order": "descending"
     },
     "points_against_per_game": {
-      "entries": [],
+      "entries": [
+        {
+          "seasons_counted": 1,
+          "team": "Shaq\u2019s OGs",
+          "value": 30.0
+        },
+        {
+          "seasons_counted": 1,
+          "team": "Chuck\u2019s Global Stars",
+          "value": 36.5
+        },
+        {
+          "seasons_counted": 1,
+          "team": "Kenny\u2019s Young Stars",
+          "value": 41.0
+        },
+        {
+          "seasons_counted": 1,
+          "team": "Candace\u2019s Rising Stars",
+          "value": 42.0
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Orlando Magic",
+          "value": 107.492
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Boston Celtics",
+          "value": 107.519
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Minnesota Timberwolves",
+          "value": 109.323
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Miami Heat",
+          "value": 109.55
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Los Angeles Clippers",
+          "value": 109.931
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Oklahoma City Thunder",
+          "value": 110.278
+        }
+      ],
       "order": "ascending"
     },
     "points_for_per_game": {
+      "entries": [
+        {
+          "seasons_counted": 1,
+          "team": "East",
+          "value": 211.0
+        },
+        {
+          "seasons_counted": 1,
+          "team": "West",
+          "value": 186.0
+        },
+        {
+          "seasons_counted": 1,
+          "team": "Team Giannis",
+          "value": 184.0
+        },
+        {
+          "seasons_counted": 1,
+          "team": "Team LeBron",
+          "value": 175.0
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Oklahoma City Thunder",
+          "value": 118.544
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Indiana Pacers",
+          "value": 118.138
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Atlanta Hawks",
+          "value": 117.743
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Boston Celtics",
+          "value": 116.612
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Sacramento Kings",
+          "value": 116.147
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Denver Nuggets",
+          "value": 116.119
+        }
+      ],
+      "order": "descending"
+    },
+    "rebounds_per_game": {
+      "entries": [],
+      "order": "descending"
+    },
+    "steals_per_game": {
       "entries": [],
       "order": "descending"
     }
@@ -29,12 +642,307 @@
   "player_leaderboards": {},
   "summary": {
     "classification": "Historical",
-    "label": "no seasons held",
-    "label_detail": "No normalized seasons are held for this sport yet.",
-    "season_count": 0,
-    "seasons_held": [],
+    "label": "3-season average",
+    "label_detail": "Averages cover the 3 held season(s): 2022-2023, 2023-2024, 2024-2025.",
+    "season_count": 3,
+    "seasons_held": [
+      "2022-2023",
+      "2023-2024",
+      "2024-2025"
+    ],
     "sport": "basketball",
-    "teams": 0
+    "teams": 38
   },
-  "weighted_averages": {}
+  "weighted_averages": {
+    "Atlanta Hawks": {
+      "away_points_against_per_game": 119.493,
+      "away_points_for_per_game": 116.385,
+      "home_points_against_per_game": 119.223,
+      "home_points_for_per_game": 119.108,
+      "points_against_per_game": 119.358,
+      "points_for_per_game": 117.743
+    },
+    "Boston Celtics": {
+      "away_points_against_per_game": 108.101,
+      "away_points_for_per_game": 114.823,
+      "home_points_against_per_game": 106.964,
+      "home_points_for_per_game": 118.319,
+      "points_against_per_game": 107.519,
+      "points_for_per_game": 116.612
+    },
+    "Brooklyn Nets": {
+      "away_points_against_per_game": 113.536,
+      "away_points_for_per_game": 108.204,
+      "home_points_against_per_game": 111.477,
+      "home_points_for_per_game": 108.292,
+      "points_against_per_game": 112.514,
+      "points_for_per_game": 108.242
+    },
+    "Candace\u2019s Rising Stars": {
+      "away_points_against_per_game": 42.0,
+      "away_points_for_per_game": 35.0,
+      "points_against_per_game": 42.0,
+      "points_for_per_game": 35.0
+    },
+    "Charlotte Hornets": {
+      "away_points_against_per_game": 116.715,
+      "away_points_for_per_game": 105.964,
+      "home_points_against_per_game": 114.022,
+      "home_points_for_per_game": 107.441,
+      "points_against_per_game": 115.379,
+      "points_for_per_game": 106.694
+    },
+    "Chicago Bulls": {
+      "away_points_against_per_game": 116.77,
+      "away_points_for_per_game": 115.294,
+      "home_points_against_per_game": 115.506,
+      "home_points_for_per_game": 114.964,
+      "points_against_per_game": 116.13,
+      "points_for_per_game": 115.118
+    },
+    "Chuck\u2019s Global Stars": {
+      "home_points_against_per_game": 36.5,
+      "home_points_for_per_game": 33.0,
+      "points_against_per_game": 36.5,
+      "points_for_per_game": 33.0
+    },
+    "Cleveland Cavaliers": {
+      "away_points_against_per_game": 111.216,
+      "away_points_for_per_game": 115.255,
+      "home_points_against_per_game": 109.526,
+      "home_points_for_per_game": 116.884,
+      "points_against_per_game": 110.366,
+      "points_for_per_game": 116.066
+    },
+    "Dallas Mavericks": {
+      "away_points_against_per_game": 116.36,
+      "away_points_for_per_game": 113.66,
+      "home_points_against_per_game": 111.623,
+      "home_points_for_per_game": 114.841,
+      "points_against_per_game": 114.018,
+      "points_for_per_game": 114.245
+    },
+    "Denver Nuggets": {
+      "away_points_against_per_game": 114.634,
+      "away_points_for_per_game": 113.947,
+      "home_points_against_per_game": 111.554,
+      "home_points_for_per_game": 118.283,
+      "points_against_per_game": 113.087,
+      "points_for_per_game": 116.119
+    },
+    "Detroit Pistons": {
+      "away_points_against_per_game": 115.809,
+      "away_points_for_per_game": 111.911,
+      "home_points_against_per_game": 115.376,
+      "home_points_for_per_game": 112.645,
+      "points_against_per_game": 115.598,
+      "points_for_per_game": 112.27
+    },
+    "East": {
+      "home_points_against_per_game": 186.0,
+      "home_points_for_per_game": 211.0,
+      "points_against_per_game": 186.0,
+      "points_for_per_game": 211.0
+    },
+    "Golden State Warriors": {
+      "away_points_against_per_game": 113.023,
+      "away_points_for_per_game": 115.258,
+      "home_points_against_per_game": 111.837,
+      "home_points_for_per_game": 115.266,
+      "points_against_per_game": 112.43,
+      "points_for_per_game": 115.262
+    },
+    "Houston Rockets": {
+      "away_points_against_per_game": 114.62,
+      "away_points_for_per_game": 113.045,
+      "home_points_against_per_game": 109.493,
+      "home_points_for_per_game": 114.228,
+      "points_against_per_game": 112.05,
+      "points_for_per_game": 113.629
+    },
+    "Indiana Pacers": {
+      "away_points_against_per_game": 118.236,
+      "away_points_for_per_game": 116.517,
+      "home_points_against_per_game": 115.443,
+      "home_points_for_per_game": 119.781,
+      "points_against_per_game": 116.853,
+      "points_for_per_game": 118.138
+    },
+    "Kenny\u2019s Young Stars": {
+      "away_points_against_per_game": 41.0,
+      "away_points_for_per_game": 32.0,
+      "points_against_per_game": 41.0,
+      "points_for_per_game": 32.0
+    },
+    "Los Angeles Clippers": {
+      "away_points_against_per_game": 112.406,
+      "away_points_for_per_game": 112.762,
+      "home_points_against_per_game": 107.64,
+      "home_points_for_per_game": 113.228,
+      "points_against_per_game": 109.931,
+      "points_for_per_game": 113.009
+    },
+    "Los Angeles Lakers": {
+      "away_points_against_per_game": 116.837,
+      "away_points_for_per_game": 113.26,
+      "home_points_against_per_game": 112.243,
+      "home_points_for_per_game": 115.163,
+      "points_against_per_game": 114.496,
+      "points_for_per_game": 114.226
+    },
+    "Memphis Grizzlies": {
+      "away_points_against_per_game": 116.695,
+      "away_points_for_per_game": 114.324,
+      "home_points_against_per_game": 113.052,
+      "home_points_for_per_game": 115.878,
+      "points_against_per_game": 114.893,
+      "points_for_per_game": 115.094
+    },
+    "Miami Heat": {
+      "away_points_against_per_game": 108.905,
+      "away_points_for_per_game": 108.599,
+      "home_points_against_per_game": 110.201,
+      "home_points_for_per_game": 110.834,
+      "points_against_per_game": 109.55,
+      "points_for_per_game": 109.714
+    },
+    "Milwaukee Bucks": {
+      "away_points_against_per_game": 115.207,
+      "away_points_for_per_game": 113.043,
+      "home_points_against_per_game": 113.148,
+      "home_points_for_per_game": 118.49,
+      "points_against_per_game": 114.183,
+      "points_for_per_game": 115.748
+    },
+    "Minnesota Timberwolves": {
+      "away_points_against_per_game": 110.287,
+      "away_points_for_per_game": 112.517,
+      "home_points_against_per_game": 108.316,
+      "home_points_for_per_game": 114.585,
+      "points_against_per_game": 109.323,
+      "points_for_per_game": 113.528
+    },
+    "New Orleans Pelicans": {
+      "away_points_against_per_game": 116.303,
+      "away_points_for_per_game": 111.091,
+      "home_points_against_per_game": 113.392,
+      "home_points_for_per_game": 112.116,
+      "points_against_per_game": 114.882,
+      "points_for_per_game": 111.588
+    },
+    "New York Knicks": {
+      "away_points_against_per_game": 111.774,
+      "away_points_for_per_game": 112.709,
+      "home_points_against_per_game": 109.102,
+      "home_points_for_per_game": 115.007,
+      "points_against_per_game": 110.412,
+      "points_for_per_game": 113.854
+    },
+    "Oklahoma City Thunder": {
+      "away_points_against_per_game": 111.659,
+      "away_points_for_per_game": 115.593,
+      "home_points_against_per_game": 108.96,
+      "home_points_for_per_game": 121.413,
+      "points_against_per_game": 110.278,
+      "points_for_per_game": 118.544
+    },
+    "Orlando Magic": {
+      "away_points_against_per_game": 109.472,
+      "away_points_for_per_game": 105.784,
+      "home_points_against_per_game": 105.471,
+      "home_points_for_per_game": 109.304,
+      "points_against_per_game": 107.492,
+      "points_for_per_game": 107.521
+    },
+    "Philadelphia 76ers": {
+      "away_points_against_per_game": 113.896,
+      "away_points_for_per_game": 111.459,
+      "home_points_against_per_game": 112.435,
+      "home_points_for_per_game": 111.729,
+      "points_against_per_game": 113.17,
+      "points_for_per_game": 111.596
+    },
+    "Phoenix Suns": {
+      "away_points_against_per_game": 115.942,
+      "away_points_for_per_game": 114.125,
+      "home_points_against_per_game": 113.31,
+      "home_points_for_per_game": 114.434,
+      "points_against_per_game": 114.637,
+      "points_for_per_game": 114.278
+    },
+    "Portland Trail Blazers": {
+      "away_points_against_per_game": 114.89,
+      "away_points_for_per_game": 107.948,
+      "home_points_against_per_game": 114.568,
+      "home_points_for_per_game": 111.899,
+      "points_against_per_game": 114.728,
+      "points_for_per_game": 109.895
+    },
+    "Sacramento Kings": {
+      "away_points_against_per_game": 114.656,
+      "away_points_for_per_game": 114.759,
+      "home_points_against_per_game": 115.736,
+      "home_points_for_per_game": 117.559,
+      "points_against_per_game": 115.191,
+      "points_for_per_game": 116.147
+    },
+    "San Antonio Spurs": {
+      "away_points_against_per_game": 118.327,
+      "away_points_for_per_game": 110.868,
+      "home_points_against_per_game": 118.021,
+      "home_points_for_per_game": 115.239,
+      "points_against_per_game": 118.172,
+      "points_for_per_game": 113.078
+    },
+    "Shaq\u2019s OGs": {
+      "away_points_against_per_game": 25.0,
+      "away_points_for_per_game": 41.0,
+      "home_points_against_per_game": 35.0,
+      "home_points_for_per_game": 42.0,
+      "points_against_per_game": 30.0,
+      "points_for_per_game": 41.5
+    },
+    "Team Giannis": {
+      "away_points_against_per_game": 175.0,
+      "away_points_for_per_game": 184.0,
+      "points_against_per_game": 175.0,
+      "points_for_per_game": 184.0
+    },
+    "Team LeBron": {
+      "home_points_against_per_game": 184.0,
+      "home_points_for_per_game": 175.0,
+      "points_against_per_game": 184.0,
+      "points_for_per_game": 175.0
+    },
+    "Toronto Raptors": {
+      "away_points_against_per_game": 116.685,
+      "away_points_for_per_game": 111.386,
+      "home_points_against_per_game": 113.892,
+      "home_points_for_per_game": 112.288,
+      "points_against_per_game": 115.275,
+      "points_for_per_game": 111.829
+    },
+    "Utah Jazz": {
+      "away_points_against_per_game": 121.445,
+      "away_points_for_per_game": 112.456,
+      "home_points_against_per_game": 118.645,
+      "home_points_for_per_game": 115.23,
+      "points_against_per_game": 120.067,
+      "points_for_per_game": 113.813
+    },
+    "Washington Wizards": {
+      "away_points_against_per_game": 119.547,
+      "away_points_for_per_game": 109.611,
+      "home_points_against_per_game": 120.013,
+      "home_points_for_per_game": 111.25,
+      "points_against_per_game": 119.777,
+      "points_for_per_game": 110.423
+    },
+    "West": {
+      "away_points_against_per_game": 211.0,
+      "away_points_for_per_game": 186.0,
+      "points_against_per_game": 211.0,
+      "points_for_per_game": 186.0
+    }
+  }
 }

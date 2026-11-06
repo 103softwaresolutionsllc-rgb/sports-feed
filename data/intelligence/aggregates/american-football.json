@@ -1,27 +1,602 @@
 {
-  "averages": {},
+  "averages": {
+    "Arizona Cardinals": {
+      "away_points_against_per_game": 24.633,
+      "away_points_for_per_game": 18.933,
+      "home_points_against_per_game": 25.467,
+      "home_points_for_per_game": 22.1,
+      "points_against_per_game": 25.05,
+      "points_for_per_game": 20.517
+    },
+    "Atlanta Falcons": {
+      "away_points_against_per_game": 23.067,
+      "away_points_for_per_game": 17.7,
+      "home_points_against_per_game": 21.767,
+      "home_points_for_per_game": 22.4,
+      "points_against_per_game": 22.417,
+      "points_for_per_game": 20.05
+    },
+    "Baltimore Ravens": {
+      "away_points_against_per_game": 20.409,
+      "away_points_for_per_game": 24.376,
+      "home_points_against_per_game": 17.128,
+      "home_points_for_per_game": 25.456,
+      "points_against_per_game": 18.79,
+      "points_for_per_game": 25.008
+    },
+    "Buffalo Bills": {
+      "away_points_against_per_game": 20.706,
+      "away_points_for_per_game": 23.358,
+      "home_points_against_per_game": 19.083,
+      "home_points_for_per_game": 29.583,
+      "points_against_per_game": 19.853,
+      "points_for_per_game": 26.721
+    },
+    "Carolina Panthers": {
+      "away_points_against_per_game": 27.833,
+      "away_points_for_per_game": 17.133,
+      "home_points_against_per_game": 22.067,
+      "home_points_for_per_game": 18.2,
+      "points_against_per_game": 24.95,
+      "points_for_per_game": 17.667
+    },
+    "Chicago Bears": {
+      "away_points_against_per_game": 24.667,
+      "away_points_for_per_game": 18.833,
+      "home_points_against_per_game": 20.391,
+      "home_points_for_per_game": 21.752,
+      "points_against_per_game": 22.486,
+      "points_for_per_game": 20.313
+    },
+    "Cincinnati Bengals": {
+      "away_points_against_per_game": 22.956,
+      "away_points_for_per_game": 22.244,
+      "home_points_against_per_game": 21.794,
+      "home_points_for_per_game": 24.579,
+      "points_against_per_game": 22.404,
+      "points_for_per_game": 23.406
+    },
+    "Cleveland Browns": {
+      "away_points_against_per_game": 27.224,
+      "away_points_for_per_game": 20.415,
+      "home_points_against_per_game": 19.588,
+      "home_points_for_per_game": 19.215,
+      "points_against_per_game": 23.406,
+      "points_for_per_game": 19.815
+    },
+    "Dallas Cowboys": {
+      "away_points_against_per_game": 20.539,
+      "away_points_for_per_game": 22.817,
+      "home_points_against_per_game": 23.636,
+      "home_points_for_per_game": 27.567,
+      "points_against_per_game": 22.066,
+      "points_for_per_game": 25.194
+    },
+    "Denver Broncos": {
+      "away_points_against_per_game": 25.367,
+      "away_points_for_per_game": 18.758,
+      "home_points_against_per_game": 15.833,
+      "home_points_for_per_game": 24.133,
+      "points_against_per_game": 20.677,
+      "points_for_per_game": 21.379
+    },
+    "Detroit Lions": {
+      "away_points_against_per_game": 22.473,
+      "away_points_for_per_game": 23.77,
+      "home_points_against_per_game": 23.571,
+      "home_points_for_per_game": 31.086,
+      "points_against_per_game": 23.041,
+      "points_for_per_game": 27.497
+    },
+    "Green Bay Packers": {
+      "away_points_against_per_game": 22.282,
+      "away_points_for_per_game": 23.147,
+      "home_points_against_per_game": 18.533,
+      "home_points_for_per_game": 23.233,
+      "points_against_per_game": 20.498,
+      "points_for_per_game": 23.289
+    },
+    "Houston Texans": {
+      "away_points_against_per_game": 21.537,
+      "away_points_for_per_game": 19.796,
+      "home_points_against_per_game": 20.679,
+      "home_points_for_per_game": 20.564,
+      "points_against_per_game": 21.122,
+      "points_for_per_game": 20.181
+    },
+    "Indianapolis Colts": {
+      "away_points_against_per_game": 25.1,
+      "away_points_for_per_game": 19.767,
+      "home_points_against_per_game": 23.133,
+      "home_points_for_per_game": 23.133,
+      "points_against_per_game": 24.117,
+      "points_for_per_game": 21.45
+    },
+    "Jacksonville Jaguars": {
+      "away_points_against_per_game": 23.456,
+      "away_points_for_per_game": 21.211,
+      "home_points_against_per_game": 20.188,
+      "home_points_for_per_game": 22.045,
+      "points_against_per_game": 21.842,
+      "points_for_per_game": 21.633
+    },
+    "Kansas City Chiefs": {
+      "away_points_against_per_game": 21.485,
+      "away_points_for_per_game": 25.04,
+      "home_points_against_per_game": 18.833,
+      "home_points_for_per_game": 24.166,
+      "points_against_per_game": 20.106,
+      "points_for_per_game": 24.574
+    },
+    "Las Vegas Raiders": {
+      "away_points_against_per_game": 23.867,
+      "away_points_for_per_game": 18.533,
+      "home_points_against_per_game": 20.821,
+      "home_points_for_per_game": 22.912,
+      "points_against_per_game": 22.345,
+      "points_for_per_game": 20.781
+    },
+    "Los Angeles Chargers": {
+      "away_points_against_per_game": 20.542,
+      "away_points_for_per_game": 22.24,
+      "home_points_against_per_game": 22.567,
+      "home_points_for_per_game": 21.0,
+      "points_against_per_game": 21.515,
+      "points_for_per_game": 21.651
+    },
+    "Los Angeles Rams": {
+      "away_points_against_per_game": 22.233,
+      "away_points_for_per_game": 18.2,
+      "home_points_against_per_game": 22.758,
+      "home_points_for_per_game": 22.4,
+      "points_against_per_game": 22.514,
+      "points_for_per_game": 20.292
+    },
+    "Miami Dolphins": {
+      "away_points_against_per_game": 25.83,
+      "away_points_for_per_game": 21.821,
+      "home_points_against_per_game": 17.567,
+      "home_points_for_per_game": 25.167,
+      "points_against_per_game": 21.894,
+      "points_for_per_game": 23.47
+    },
+    "Minnesota Vikings": {
+      "away_points_against_per_game": 21.3,
+      "away_points_for_per_game": 21.233,
+      "home_points_against_per_game": 22.2,
+      "home_points_for_per_game": 23.736,
+      "points_against_per_game": 21.752,
+      "points_for_per_game": 22.468
+    },
+    "New England Patriots": {
+      "away_points_against_per_game": 22.4,
+      "away_points_for_per_game": 17.2,
+      "home_points_against_per_game": 20.367,
+      "home_points_for_per_game": 16.567,
+      "points_against_per_game": 21.383,
+      "points_for_per_game": 16.883
+    },
+    "New Orleans Saints": {
+      "away_points_against_per_game": 20.4,
+      "away_points_for_per_game": 18.467,
+      "home_points_against_per_game": 20.767,
+      "home_points_for_per_game": 22.667,
+      "points_against_per_game": 20.583,
+      "points_for_per_game": 20.567
+    },
+    "New York Giants": {
+      "away_points_against_per_game": 24.694,
+      "away_points_for_per_game": 17.933,
+      "home_points_against_per_game": 21.767,
+      "home_points_for_per_game": 17.6,
+      "points_against_per_game": 23.265,
+      "points_for_per_game": 17.742
+    },
+    "New York Jets": {
+      "away_points_against_per_game": 21.955,
+      "away_points_for_per_game": 17.609,
+      "home_points_against_per_game": 18.433,
+      "home_points_for_per_game": 18.733,
+      "points_against_per_game": 20.206,
+      "points_for_per_game": 18.173
+    },
+    "Philadelphia Eagles": {
+      "away_points_against_per_game": 21.258,
+      "away_points_for_per_game": 23.818,
+      "home_points_against_per_game": 21.806,
+      "home_points_for_per_game": 27.891,
+      "points_against_per_game": 21.406,
+      "points_for_per_game": 25.886
+    },
+    "Pittsburgh Steelers": {
+      "away_points_against_per_game": 21.015,
+      "away_points_for_per_game": 19.015,
+      "home_points_against_per_game": 17.933,
+      "home_points_for_per_game": 19.633,
+      "points_against_per_game": 19.52,
+      "points_for_per_game": 19.345
+    },
+    "San Francisco 49ers": {
+      "away_points_against_per_game": 21.679,
+      "away_points_for_per_game": 22.479,
+      "home_points_against_per_game": 18.906,
+      "home_points_for_per_game": 26.161,
+      "points_against_per_game": 20.291,
+      "points_for_per_game": 24.367
+    },
+    "Seattle Seahawks": {
+      "away_points_against_per_game": 23.421,
+      "away_points_for_per_game": 22.845,
+      "home_points_against_per_game": 22.133,
+      "home_points_for_per_game": 21.633,
+      "points_against_per_game": 22.848,
+      "points_for_per_game": 22.276
+    },
+    "Tampa Bay Buccaneers": {
+      "away_points_against_per_game": 20.618,
+      "away_points_for_per_game": 20.764,
+      "home_points_against_per_game": 20.909,
+      "home_points_for_per_game": 22.667,
+      "points_against_per_game": 20.794,
+      "points_for_per_game": 21.78
+    },
+    "Tennessee Titans": {
+      "away_points_against_per_game": 25.067,
+      "away_points_for_per_game": 17.267,
+      "home_points_against_per_game": 19.467,
+      "home_points_for_per_game": 19.067,
+      "points_against_per_game": 22.267,
+      "points_for_per_game": 18.167
+    },
+    "Washington Commanders": {
+      "away_points_against_per_game": 24.492,
+      "away_points_for_per_game": 21.933,
+      "home_points_against_per_game": 23.8,
+      "home_points_for_per_game": 21.767,
+      "points_against_per_game": 24.276,
+      "points_for_per_game": 21.754
+    }
+  },
   "leaderboards": {
     "away_points_against_per_game": {
-      "entries": [],
+      "entries": [
+        {
+          "seasons_counted": 3,
+          "team": "Los Angeles Chargers",
+          "value": 19.293
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Philadelphia Eagles",
+          "value": 20.117
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Minnesota Vikings",
+          "value": 20.419
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Dallas Cowboys",
+          "value": 20.803
+        },
+        {
+          "seasons_counted": 3,
+          "team": "New Orleans Saints",
+          "value": 20.825
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Tampa Bay Buccaneers",
+          "value": 20.905
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Baltimore Ravens",
+          "value": 21.168
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Kansas City Chiefs",
+          "value": 21.239
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Houston Texans",
+          "value": 21.298
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Pittsburgh Steelers",
+          "value": 21.412
+        }
+      ],
       "order": "ascending"
     },
     "away_points_for_per_game": {
-      "entries": [],
+      "entries": [
+        {
+          "seasons_counted": 3,
+          "team": "Baltimore Ravens",
+          "value": 25.227
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Detroit Lions",
+          "value": 25.015
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Buffalo Bills",
+          "value": 24.274
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Philadelphia Eagles",
+          "value": 23.767
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Green Bay Packers",
+          "value": 23.705
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Kansas City Chiefs",
+          "value": 23.453
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Washington Commanders",
+          "value": 22.875
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Tampa Bay Buccaneers",
+          "value": 22.847
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Dallas Cowboys",
+          "value": 22.759
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Seattle Seahawks",
+          "value": 22.507
+        }
+      ],
       "order": "descending"
     },
     "home_points_against_per_game": {
-      "entries": [],
+      "entries": [
+        {
+          "seasons_counted": 3,
+          "team": "Denver Broncos",
+          "value": 15.262
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Baltimore Ravens",
+          "value": 17.349
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Pittsburgh Steelers",
+          "value": 17.75
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Green Bay Packers",
+          "value": 17.812
+        },
+        {
+          "seasons_counted": 3,
+          "team": "New York Jets",
+          "value": 17.887
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Miami Dolphins",
+          "value": 18.413
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Buffalo Bills",
+          "value": 19.052
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Kansas City Chiefs",
+          "value": 19.281
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Chicago Bears",
+          "value": 19.368
+        },
+        {
+          "seasons_counted": 3,
+          "team": "San Francisco 49ers",
+          "value": 19.562
+        }
+      ],
       "order": "ascending"
     },
     "home_points_for_per_game": {
+      "entries": [
+        {
+          "seasons_counted": 3,
+          "team": "Detroit Lions",
+          "value": 31.489
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Buffalo Bills",
+          "value": 29.599
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Philadelphia Eagles",
+          "value": 27.802
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Baltimore Ravens",
+          "value": 26.668
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Denver Broncos",
+          "value": 25.894
+        },
+        {
+          "seasons_counted": 3,
+          "team": "San Francisco 49ers",
+          "value": 25.559
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Dallas Cowboys",
+          "value": 25.506
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Miami Dolphins",
+          "value": 25.0
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Cincinnati Bengals",
+          "value": 24.819
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Minnesota Vikings",
+          "value": 24.314
+        }
+      ],
+      "order": "descending"
+    },
+    "passing_yards_per_game": {
       "entries": [],
       "order": "descending"
     },
     "points_against_per_game": {
-      "entries": [],
+      "entries": [
+        {
+          "seasons_counted": 3,
+          "team": "Baltimore Ravens",
+          "value": 19.268
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Pittsburgh Steelers",
+          "value": 19.653
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Green Bay Packers",
+          "value": 20.161
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Denver Broncos",
+          "value": 20.2
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Kansas City Chiefs",
+          "value": 20.221
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Buffalo Bills",
+          "value": 20.345
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Los Angeles Chargers",
+          "value": 20.578
+        },
+        {
+          "seasons_counted": 3,
+          "team": "New York Jets",
+          "value": 20.683
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Houston Texans",
+          "value": 20.762
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Philadelphia Eagles",
+          "value": 20.791
+        }
+      ],
       "order": "ascending"
     },
     "points_for_per_game": {
+      "entries": [
+        {
+          "seasons_counted": 3,
+          "team": "Detroit Lions",
+          "value": 28.347
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Buffalo Bills",
+          "value": 27.13
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Baltimore Ravens",
+          "value": 26.027
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Philadelphia Eagles",
+          "value": 25.836
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Dallas Cowboys",
+          "value": 24.172
+        },
+        {
+          "seasons_counted": 3,
+          "team": "San Francisco 49ers",
+          "value": 23.933
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Green Bay Packers",
+          "value": 23.89
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Kansas City Chiefs",
+          "value": 23.797
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Cincinnati Bengals",
+          "value": 23.631
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Tampa Bay Buccaneers",
+          "value": 23.341
+        }
+      ],
+      "order": "descending"
+    },
+    "rushing_yards_per_game": {
+      "entries": [],
+      "order": "descending"
+    },
+    "total_yards_per_game": {
       "entries": [],
       "order": "descending"
     }
@@ -29,12 +604,273 @@
   "player_leaderboards": {},
   "summary": {
     "classification": "Historical",
-    "label": "no seasons held",
-    "label_detail": "No normalized seasons are held for this sport yet.",
-    "season_count": 0,
-    "seasons_held": [],
+    "label": "3-season average",
+    "label_detail": "Averages cover the 3 held season(s): 2022, 2023, 2024.",
+    "season_count": 3,
+    "seasons_held": [
+      "2022",
+      "2023",
+      "2024"
+    ],
     "sport": "american-football",
-    "teams": 0
+    "teams": 32
   },
-  "weighted_averages": {}
+  "weighted_averages": {
+    "Arizona Cardinals": {
+      "away_points_against_per_game": 25.062,
+      "away_points_for_per_game": 18.431,
+      "home_points_against_per_game": 23.894,
+      "home_points_for_per_game": 23.069,
+      "points_against_per_game": 24.478,
+      "points_for_per_game": 20.75
+    },
+    "Atlanta Falcons": {
+      "away_points_against_per_game": 23.119,
+      "away_points_for_per_game": 18.025,
+      "home_points_against_per_game": 22.481,
+      "home_points_for_per_game": 21.881,
+      "points_against_per_game": 22.8,
+      "points_for_per_game": 19.953
+    },
+    "Baltimore Ravens": {
+      "away_points_against_per_game": 21.168,
+      "away_points_for_per_game": 25.227,
+      "home_points_against_per_game": 17.349,
+      "home_points_for_per_game": 26.668,
+      "points_against_per_game": 19.268,
+      "points_for_per_game": 26.027
+    },
+    "Buffalo Bills": {
+      "away_points_against_per_game": 21.79,
+      "away_points_for_per_game": 24.274,
+      "home_points_against_per_game": 19.052,
+      "home_points_for_per_game": 29.599,
+      "points_against_per_game": 20.345,
+      "points_for_per_game": 27.13
+    },
+    "Carolina Panthers": {
+      "away_points_against_per_game": 29.206,
+      "away_points_for_per_game": 17.269,
+      "home_points_against_per_game": 23.488,
+      "home_points_for_per_game": 18.1,
+      "points_against_per_game": 26.347,
+      "points_for_per_game": 17.684
+    },
+    "Chicago Bears": {
+      "away_points_against_per_game": 24.019,
+      "away_points_for_per_game": 18.725,
+      "home_points_against_per_game": 19.368,
+      "home_points_for_per_game": 21.977,
+      "points_against_per_game": 21.628,
+      "points_for_per_game": 20.381
+    },
+    "Cincinnati Bengals": {
+      "away_points_against_per_game": 23.206,
+      "away_points_for_per_game": 22.45,
+      "home_points_against_per_game": 23.422,
+      "home_points_for_per_game": 24.819,
+      "points_against_per_game": 23.33,
+      "points_for_per_game": 23.631
+    },
+    "Cleveland Browns": {
+      "away_points_against_per_game": 28.035,
+      "away_points_for_per_game": 19.802,
+      "home_points_against_per_game": 20.189,
+      "home_points_for_per_game": 17.908,
+      "points_against_per_game": 24.112,
+      "points_for_per_game": 18.855
+    },
+    "Dallas Cowboys": {
+      "away_points_against_per_game": 20.803,
+      "away_points_for_per_game": 22.759,
+      "home_points_against_per_game": 25.378,
+      "home_points_for_per_game": 25.506,
+      "points_against_per_game": 23.075,
+      "points_for_per_game": 24.172
+    },
+    "Denver Broncos": {
+      "away_points_against_per_game": 24.906,
+      "away_points_for_per_game": 19.599,
+      "home_points_against_per_game": 15.262,
+      "home_points_for_per_game": 25.894,
+      "points_against_per_game": 20.2,
+      "points_for_per_game": 22.646
+    },
+    "Detroit Lions": {
+      "away_points_against_per_game": 21.431,
+      "away_points_for_per_game": 25.015,
+      "home_points_against_per_game": 23.325,
+      "home_points_for_per_game": 31.489,
+      "points_against_per_game": 22.42,
+      "points_for_per_game": 28.347
+    },
+    "Green Bay Packers": {
+      "away_points_against_per_game": 22.283,
+      "away_points_for_per_game": 23.705,
+      "home_points_against_per_game": 17.812,
+      "home_points_for_per_game": 23.925,
+      "points_against_per_game": 20.161,
+      "points_for_per_game": 23.89
+    },
+    "Houston Texans": {
+      "away_points_against_per_game": 21.298,
+      "away_points_for_per_game": 20.265,
+      "home_points_against_per_game": 20.183,
+      "home_points_for_per_game": 21.385,
+      "points_against_per_game": 20.762,
+      "points_for_per_game": 20.827
+    },
+    "Indianapolis Colts": {
+      "away_points_against_per_game": 24.863,
+      "away_points_for_per_game": 20.725,
+      "home_points_against_per_game": 23.369,
+      "home_points_for_per_game": 23.45,
+      "points_against_per_game": 24.116,
+      "points_for_per_game": 22.087
+    },
+    "Jacksonville Jaguars": {
+      "away_points_against_per_game": 23.913,
+      "away_points_for_per_game": 20.281,
+      "home_points_against_per_game": 20.093,
+      "home_points_for_per_game": 22.219,
+      "points_against_per_game": 22.014,
+      "points_for_per_game": 21.253
+    },
+    "Kansas City Chiefs": {
+      "away_points_against_per_game": 21.239,
+      "away_points_for_per_game": 23.453,
+      "home_points_against_per_game": 19.281,
+      "home_points_for_per_game": 24.13,
+      "points_against_per_game": 20.221,
+      "points_for_per_game": 23.797
+    },
+    "Las Vegas Raiders": {
+      "away_points_against_per_game": 24.381,
+      "away_points_for_per_game": 18.525,
+      "home_points_against_per_game": 21.487,
+      "home_points_for_per_game": 21.488,
+      "points_against_per_game": 22.935,
+      "points_for_per_game": 20.039
+    },
+    "Los Angeles Chargers": {
+      "away_points_against_per_game": 19.293,
+      "away_points_for_per_game": 22.139,
+      "home_points_against_per_game": 21.975,
+      "home_points_for_per_game": 20.856,
+      "points_against_per_game": 20.578,
+      "points_for_per_game": 21.53
+    },
+    "Los Angeles Rams": {
+      "away_points_against_per_game": 21.813,
+      "away_points_for_per_game": 18.715,
+      "home_points_against_per_game": 22.649,
+      "home_points_for_per_game": 22.6,
+      "points_against_per_game": 22.248,
+      "points_for_per_game": 20.65
+    },
+    "Miami Dolphins": {
+      "away_points_against_per_game": 24.257,
+      "away_points_for_per_game": 20.283,
+      "home_points_against_per_game": 18.413,
+      "home_points_for_per_game": 25.0,
+      "points_against_per_game": 21.473,
+      "points_for_per_game": 22.613
+    },
+    "Minnesota Vikings": {
+      "away_points_against_per_game": 20.419,
+      "away_points_for_per_game": 21.356,
+      "home_points_against_per_game": 21.212,
+      "home_points_for_per_game": 24.314,
+      "points_against_per_game": 20.819,
+      "points_for_per_game": 22.784
+    },
+    "New England Patriots": {
+      "away_points_against_per_game": 22.419,
+      "away_points_for_per_game": 16.206,
+      "home_points_against_per_game": 21.15,
+      "home_points_for_per_game": 16.481,
+      "points_against_per_game": 21.784,
+      "points_for_per_game": 16.344
+    },
+    "New Orleans Saints": {
+      "away_points_against_per_game": 20.825,
+      "away_points_for_per_game": 18.488,
+      "home_points_against_per_game": 21.456,
+      "home_points_for_per_game": 22.656,
+      "points_against_per_game": 21.141,
+      "points_for_per_game": 20.572
+    },
+    "New York Giants": {
+      "away_points_against_per_game": 24.284,
+      "away_points_for_per_game": 17.169,
+      "home_points_against_per_game": 22.087,
+      "home_points_for_per_game": 16.375,
+      "points_against_per_game": 23.205,
+      "points_for_per_game": 16.758
+    },
+    "New York Jets": {
+      "away_points_against_per_game": 23.457,
+      "away_points_for_per_game": 17.933,
+      "home_points_against_per_game": 17.887,
+      "home_points_for_per_game": 18.631,
+      "points_against_per_game": 20.683,
+      "points_for_per_game": 18.284
+    },
+    "Philadelphia Eagles": {
+      "away_points_against_per_game": 20.117,
+      "away_points_for_per_game": 23.767,
+      "home_points_against_per_game": 21.569,
+      "home_points_for_per_game": 27.802,
+      "points_against_per_game": 20.791,
+      "points_for_per_game": 25.836
+    },
+    "Pittsburgh Steelers": {
+      "away_points_against_per_game": 21.412,
+      "away_points_for_per_game": 19.838,
+      "home_points_against_per_game": 17.75,
+      "home_points_for_per_game": 19.287,
+      "points_against_per_game": 19.653,
+      "points_for_per_game": 19.596
+    },
+    "San Francisco 49ers": {
+      "away_points_against_per_game": 23.387,
+      "away_points_for_per_game": 22.264,
+      "home_points_against_per_game": 19.562,
+      "home_points_for_per_game": 25.559,
+      "points_against_per_game": 21.479,
+      "points_for_per_game": 23.933
+    },
+    "Seattle Seahawks": {
+      "away_points_against_per_game": 21.643,
+      "away_points_for_per_game": 22.507,
+      "home_points_against_per_game": 22.706,
+      "home_points_for_per_game": 21.669,
+      "points_against_per_game": 22.214,
+      "points_for_per_game": 22.109
+    },
+    "Tampa Bay Buccaneers": {
+      "away_points_against_per_game": 20.905,
+      "away_points_for_per_game": 22.847,
+      "home_points_against_per_game": 20.773,
+      "home_points_for_per_game": 23.756,
+      "points_against_per_game": 20.857,
+      "points_for_per_game": 23.341
+    },
+    "Tennessee Titans": {
+      "away_points_against_per_game": 26.469,
+      "away_points_for_per_game": 18.144,
+      "home_points_against_per_game": 19.837,
+      "home_points_for_per_game": 18.594,
+      "points_against_per_game": 23.153,
+      "points_for_per_game": 18.369
+    },
+    "Washington Commanders": {
+      "away_points_against_per_game": 25.189,
+      "away_points_for_per_game": 22.875,
+      "home_points_against_per_game": 23.656,
+      "home_points_for_per_game": 23.656,
+      "points_against_per_game": 24.617,
+      "points_for_per_game": 23.122
+    }
+  }
 }

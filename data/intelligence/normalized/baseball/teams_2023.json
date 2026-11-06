@@ -1,0 +1,653 @@
+{
+  "classification": "Historical",
+  "season": "2023",
+  "sport": "baseball",
+  "teams": [
+    {
+      "away_games": 0,
+      "away_points_against_per_game": null,
+      "away_points_for_per_game": null,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 1,
+      "home_games": 1,
+      "home_points_against_per_game": 3.0,
+      "home_points_for_per_game": 2.0,
+      "points_against_per_game": 3.0,
+      "points_for_per_game": 2.0,
+      "season": "2023",
+      "team": "American League",
+      "team_id": 1
+    },
+    {
+      "away_games": 107,
+      "away_points_against_per_game": 5.009,
+      "away_points_for_per_game": 4.897,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 211,
+      "home_games": 104,
+      "home_points_against_per_game": 4.635,
+      "home_points_for_per_game": 4.5,
+      "points_against_per_game": 4.825,
+      "points_for_per_game": 4.701,
+      "season": "2023",
+      "team": "Arizona Diamondbacks",
+      "team_id": 2
+    },
+    {
+      "away_games": 99,
+      "away_points_against_per_game": 4.293,
+      "away_points_for_per_game": 5.758,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 197,
+      "home_games": 98,
+      "home_points_against_per_game": 4.694,
+      "home_points_for_per_game": 5.765,
+      "points_against_per_game": 4.492,
+      "points_for_per_game": 5.761,
+      "season": "2023",
+      "team": "Atlanta Braves",
+      "team_id": 3
+    },
+    {
+      "away_games": 97,
+      "away_points_against_per_game": 4.608,
+      "away_points_for_per_game": 5.433,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 197,
+      "home_games": 100,
+      "home_points_against_per_game": 4.28,
+      "home_points_for_per_game": 4.69,
+      "points_against_per_game": 4.442,
+      "points_for_per_game": 5.056,
+      "season": "2023",
+      "team": "Baltimore Orioles",
+      "team_id": 4
+    },
+    {
+      "away_games": 97,
+      "away_points_against_per_game": 4.608,
+      "away_points_for_per_game": 4.588,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 195,
+      "home_games": 98,
+      "home_points_against_per_game": 5.031,
+      "home_points_for_per_game": 5.061,
+      "points_against_per_game": 4.821,
+      "points_for_per_game": 4.826,
+      "season": "2023",
+      "team": "Boston Red Sox",
+      "team_id": 5
+    },
+    {
+      "away_games": 95,
+      "away_points_against_per_game": 4.453,
+      "away_points_for_per_game": 4.726,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 193,
+      "home_games": 98,
+      "home_points_against_per_game": 4.408,
+      "home_points_for_per_game": 5.337,
+      "points_against_per_game": 4.43,
+      "points_for_per_game": 5.036,
+      "season": "2023",
+      "team": "Chicago Cubs",
+      "team_id": 6
+    },
+    {
+      "away_games": 96,
+      "away_points_against_per_game": 5.083,
+      "away_points_for_per_game": 4.229,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 191,
+      "home_games": 95,
+      "home_points_against_per_game": 5.137,
+      "home_points_for_per_game": 3.863,
+      "points_against_per_game": 5.11,
+      "points_for_per_game": 4.047,
+      "season": "2023",
+      "team": "Chicago White Sox",
+      "team_id": 7
+    },
+    {
+      "away_games": 97,
+      "away_points_against_per_game": 5.01,
+      "away_points_for_per_game": 5.258,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 192,
+      "home_games": 95,
+      "home_points_against_per_game": 5.484,
+      "home_points_for_per_game": 4.726,
+      "points_against_per_game": 5.245,
+      "points_for_per_game": 4.995,
+      "season": "2023",
+      "team": "Cincinnati Reds",
+      "team_id": 8
+    },
+    {
+      "away_games": 97,
+      "away_points_against_per_game": 4.701,
+      "away_points_for_per_game": 4.485,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 192,
+      "home_games": 95,
+      "home_points_against_per_game": 4.242,
+      "home_points_for_per_game": 3.884,
+      "points_against_per_game": 4.474,
+      "points_for_per_game": 4.188,
+      "season": "2023",
+      "team": "Cleveland Guardians",
+      "team_id": 9
+    },
+    {
+      "away_games": 96,
+      "away_points_against_per_game": 5.177,
+      "away_points_for_per_game": 3.958,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 192,
+      "home_games": 96,
+      "home_points_against_per_game": 6.406,
+      "home_points_for_per_game": 5.188,
+      "points_against_per_game": 5.792,
+      "points_for_per_game": 4.573,
+      "season": "2023",
+      "team": "Colorado Rockies",
+      "team_id": 10
+    },
+    {
+      "away_games": 97,
+      "away_points_against_per_game": 4.443,
+      "away_points_for_per_game": 4.247,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 194,
+      "home_games": 97,
+      "home_points_against_per_game": 5.206,
+      "home_points_for_per_game": 4.412,
+      "points_against_per_game": 4.825,
+      "points_for_per_game": 4.33,
+      "season": "2023",
+      "team": "Detroit Tigers",
+      "team_id": 12
+    },
+    {
+      "away_games": 100,
+      "away_points_against_per_game": 3.79,
+      "away_points_for_per_game": 5.55,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 202,
+      "home_games": 102,
+      "home_points_against_per_game": 4.618,
+      "home_points_for_per_game": 4.569,
+      "points_against_per_game": 4.208,
+      "points_for_per_game": 5.054,
+      "season": "2023",
+      "team": "Houston Astros",
+      "team_id": 15
+    },
+    {
+      "away_games": 98,
+      "away_points_against_per_game": 5.316,
+      "away_points_for_per_game": 3.908,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 193,
+      "home_games": 95,
+      "home_points_against_per_game": 5.189,
+      "home_points_for_per_game": 4.916,
+      "points_against_per_game": 5.254,
+      "points_for_per_game": 4.404,
+      "season": "2023",
+      "team": "Kansas City Royals",
+      "team_id": 16
+    },
+    {
+      "away_games": 96,
+      "away_points_against_per_game": 5.115,
+      "away_points_for_per_game": 4.635,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 193,
+      "home_games": 97,
+      "home_points_against_per_game": 4.918,
+      "home_points_for_per_game": 4.794,
+      "points_against_per_game": 5.016,
+      "points_for_per_game": 4.715,
+      "season": "2023",
+      "team": "Los Angeles Angels",
+      "team_id": 17
+    },
+    {
+      "away_games": 98,
+      "away_points_against_per_game": 4.847,
+      "away_points_for_per_game": 5.704,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 196,
+      "home_games": 98,
+      "home_points_against_per_game": 4.082,
+      "home_points_for_per_game": 5.122,
+      "points_against_per_game": 4.464,
+      "points_for_per_game": 5.413,
+      "season": "2023",
+      "team": "Los Angeles Dodgers",
+      "team_id": 18
+    },
+    {
+      "away_games": 97,
+      "away_points_against_per_game": 4.423,
+      "away_points_for_per_game": 3.639,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 191,
+      "home_games": 94,
+      "home_points_against_per_game": 4.681,
+      "home_points_for_per_game": 4.138,
+      "points_against_per_game": 4.55,
+      "points_for_per_game": 3.885,
+      "season": "2023",
+      "team": "Miami Marlins",
+      "team_id": 19
+    },
+    {
+      "away_games": 95,
+      "away_points_against_per_game": 4.179,
+      "away_points_for_per_game": 4.453,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 193,
+      "home_games": 98,
+      "home_points_against_per_game": 4.296,
+      "home_points_for_per_game": 4.724,
+      "points_against_per_game": 4.238,
+      "points_for_per_game": 4.591,
+      "season": "2023",
+      "team": "Milwaukee Brewers",
+      "team_id": 20
+    },
+    {
+      "away_games": 99,
+      "away_points_against_per_game": 4.242,
+      "away_points_for_per_game": 4.879,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 200,
+      "home_games": 101,
+      "home_points_against_per_game": 4.079,
+      "home_points_for_per_game": 4.614,
+      "points_against_per_game": 4.16,
+      "points_for_per_game": 4.745,
+      "season": "2023",
+      "team": "Minnesota Twins",
+      "team_id": 22
+    },
+    {
+      "away_games": 1,
+      "away_points_against_per_game": 2.0,
+      "away_points_for_per_game": 3.0,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 1,
+      "home_games": 0,
+      "home_points_against_per_game": null,
+      "home_points_for_per_game": null,
+      "points_against_per_game": 2.0,
+      "points_for_per_game": 3.0,
+      "season": "2023",
+      "team": "National League",
+      "team_id": 23
+    },
+    {
+      "away_games": 95,
+      "away_points_against_per_game": 4.716,
+      "away_points_for_per_game": 4.726,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 190,
+      "home_games": 95,
+      "home_points_against_per_game": 4.347,
+      "home_points_for_per_game": 4.284,
+      "points_against_per_game": 4.532,
+      "points_for_per_game": 4.505,
+      "season": "2023",
+      "team": "New York Mets",
+      "team_id": 24
+    },
+    {
+      "away_games": 97,
+      "away_points_against_per_game": 4.309,
+      "away_points_for_per_game": 4.227,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 195,
+      "home_games": 98,
+      "home_points_against_per_game": 4.52,
+      "home_points_for_per_game": 4.388,
+      "points_against_per_game": 4.415,
+      "points_for_per_game": 4.308,
+      "season": "2023",
+      "team": "New York Yankees",
+      "team_id": 25
+    },
+    {
+      "away_games": 1,
+      "away_points_against_per_game": 5.0,
+      "away_points_for_per_game": 3.0,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 1,
+      "home_games": 0,
+      "home_points_against_per_game": null,
+      "home_points_for_per_game": null,
+      "points_against_per_game": 5.0,
+      "points_for_per_game": 3.0,
+      "season": "2023",
+      "team": "Northeastern",
+      "team_id": 43
+    },
+    {
+      "away_games": 96,
+      "away_points_against_per_game": 6.01,
+      "away_points_for_per_game": 4.208,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 193,
+      "home_games": 97,
+      "home_points_against_per_game": 5.732,
+      "home_points_for_per_game": 3.629,
+      "points_against_per_game": 5.87,
+      "points_for_per_game": 3.917,
+      "season": "2023",
+      "team": "Oakland Athletics",
+      "team_id": 26
+    },
+    {
+      "away_games": 102,
+      "away_points_against_per_game": 4.804,
+      "away_points_for_per_game": 4.657,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 207,
+      "home_games": 105,
+      "home_points_against_per_game": 4.248,
+      "home_points_for_per_game": 5.286,
+      "points_against_per_game": 4.522,
+      "points_for_per_game": 4.976,
+      "season": "2023",
+      "team": "Philadelphia Phillies",
+      "team_id": 27
+    },
+    {
+      "away_games": 96,
+      "away_points_against_per_game": 4.896,
+      "away_points_for_per_game": 4.229,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 193,
+      "home_games": 97,
+      "home_points_against_per_game": 5.186,
+      "home_points_for_per_game": 4.351,
+      "points_against_per_game": 5.041,
+      "points_for_per_game": 4.29,
+      "season": "2023",
+      "team": "Pittsburgh Pirates",
+      "team_id": 28
+    },
+    {
+      "away_games": 96,
+      "away_points_against_per_game": 4.177,
+      "away_points_for_per_game": 4.656,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 192,
+      "home_games": 96,
+      "home_points_against_per_game": 4.0,
+      "home_points_for_per_game": 4.958,
+      "points_against_per_game": 4.089,
+      "points_for_per_game": 4.807,
+      "season": "2023",
+      "team": "San Diego Padres",
+      "team_id": 30
+    },
+    {
+      "away_games": 96,
+      "away_points_against_per_game": 5.094,
+      "away_points_for_per_game": 4.604,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 192,
+      "home_games": 96,
+      "home_points_against_per_game": 4.292,
+      "home_points_for_per_game": 4.01,
+      "points_against_per_game": 4.693,
+      "points_for_per_game": 4.307,
+      "season": "2023",
+      "team": "San Francisco Giants",
+      "team_id": 31
+    },
+    {
+      "away_games": 96,
+      "away_points_against_per_game": 4.344,
+      "away_points_for_per_game": 4.958,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 192,
+      "home_games": 96,
+      "home_points_against_per_game": 3.979,
+      "home_points_for_per_game": 4.552,
+      "points_against_per_game": 4.161,
+      "points_for_per_game": 4.755,
+      "season": "2023",
+      "team": "Seattle Mariners",
+      "team_id": 32
+    },
+    {
+      "away_games": 96,
+      "away_points_against_per_game": 4.896,
+      "away_points_for_per_game": 4.438,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 191,
+      "home_games": 95,
+      "home_points_against_per_game": 5.053,
+      "home_points_for_per_game": 4.611,
+      "points_against_per_game": 4.974,
+      "points_for_per_game": 4.524,
+      "season": "2023",
+      "team": "St.Louis Cardinals",
+      "team_id": 33
+    },
+    {
+      "away_games": 1,
+      "away_points_against_per_game": 1.0,
+      "away_points_for_per_game": 3.0,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 1,
+      "home_games": 0,
+      "home_points_against_per_game": null,
+      "home_points_for_per_game": null,
+      "points_against_per_game": 1.0,
+      "points_for_per_game": 3.0,
+      "season": "2023",
+      "team": "Sugar Land",
+      "team_id": 593
+    },
+    {
+      "away_games": 97,
+      "away_points_against_per_game": 4.412,
+      "away_points_for_per_game": 5.505,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 194,
+      "home_games": 97,
+      "home_points_against_per_game": 3.938,
+      "home_points_for_per_game": 5.01,
+      "points_against_per_game": 4.175,
+      "points_for_per_game": 5.258,
+      "season": "2023",
+      "team": "Tampa Bay Rays",
+      "team_id": 34
+    },
+    {
+      "away_games": 106,
+      "away_points_against_per_game": 4.047,
+      "away_points_for_per_game": 5.151,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 210,
+      "home_games": 104,
+      "home_points_against_per_game": 4.904,
+      "home_points_for_per_game": 5.74,
+      "points_against_per_game": 4.471,
+      "points_for_per_game": 5.443,
+      "season": "2023",
+      "team": "Texas Rangers",
+      "team_id": 35
+    },
+    {
+      "away_games": 100,
+      "away_points_against_per_game": 4.23,
+      "away_points_for_per_game": 4.73,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 197,
+      "home_games": 97,
+      "home_points_against_per_game": 4.082,
+      "home_points_for_per_game": 4.423,
+      "points_against_per_game": 4.157,
+      "points_for_per_game": 4.579,
+      "season": "2023",
+      "team": "Toronto Blue Jays",
+      "team_id": 36
+    },
+    {
+      "away_games": 94,
+      "away_points_against_per_game": 4.851,
+      "away_points_for_per_game": 4.277,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 190,
+      "home_games": 96,
+      "home_points_against_per_game": 5.281,
+      "home_points_for_per_game": 4.229,
+      "points_against_per_game": 5.068,
+      "points_for_per_game": 4.253,
+      "season": "2023",
+      "team": "Washington Nationals",
+      "team_id": 37
+    }
+  ]
+}

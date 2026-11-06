@@ -1,27 +1,614 @@
 {
-  "averages": {},
+  "averages": {
+    "American League": {
+      "away_points_against_per_game": 2.0,
+      "away_points_for_per_game": 3.0,
+      "home_points_against_per_game": 3.0,
+      "home_points_for_per_game": 3.5,
+      "points_against_per_game": 2.667,
+      "points_for_per_game": 3.333
+    },
+    "Arizona Diamondbacks": {
+      "away_points_against_per_game": 4.91,
+      "away_points_for_per_game": 4.83,
+      "home_points_against_per_game": 4.612,
+      "home_points_for_per_game": 4.761,
+      "points_against_per_game": 4.762,
+      "points_for_per_game": 4.797
+    },
+    "Atlanta Braves": {
+      "away_points_against_per_game": 4.199,
+      "away_points_for_per_game": 5.076,
+      "home_points_against_per_game": 3.999,
+      "home_points_for_per_game": 4.805,
+      "points_against_per_game": 4.098,
+      "points_for_per_game": 4.941
+    },
+    "Baltimore Orioles": {
+      "away_points_against_per_game": 4.41,
+      "away_points_for_per_game": 4.862,
+      "home_points_against_per_game": 4.299,
+      "home_points_for_per_game": 4.641,
+      "points_against_per_game": 4.354,
+      "points_for_per_game": 4.749
+    },
+    "Boston Red Sox": {
+      "away_points_against_per_game": 4.485,
+      "away_points_for_per_game": 4.398,
+      "home_points_against_per_game": 4.932,
+      "home_points_for_per_game": 4.928,
+      "points_against_per_game": 4.708,
+      "points_for_per_game": 4.664
+    },
+    "Chicago Cubs": {
+      "away_points_against_per_game": 4.662,
+      "away_points_for_per_game": 4.614,
+      "home_points_against_per_game": 4.196,
+      "home_points_for_per_game": 4.583,
+      "points_against_per_game": 4.427,
+      "points_for_per_game": 4.599
+    },
+    "Chicago White Sox": {
+      "away_points_against_per_game": 4.761,
+      "away_points_for_per_game": 4.017,
+      "home_points_against_per_game": 5.142,
+      "home_points_for_per_game": 3.792,
+      "points_against_per_game": 4.951,
+      "points_for_per_game": 3.905
+    },
+    "Cincinnati Reds": {
+      "away_points_against_per_game": 4.631,
+      "away_points_for_per_game": 4.481,
+      "home_points_against_per_game": 5.225,
+      "home_points_for_per_game": 4.67,
+      "points_against_per_game": 4.928,
+      "points_for_per_game": 4.577
+    },
+    "Cleveland Guardians": {
+      "away_points_against_per_game": 4.215,
+      "away_points_for_per_game": 4.367,
+      "home_points_against_per_game": 4.186,
+      "home_points_for_per_game": 4.271,
+      "points_against_per_game": 4.202,
+      "points_for_per_game": 4.32
+    },
+    "Colorado Rockies": {
+      "away_points_against_per_game": 5.287,
+      "away_points_for_per_game": 3.695,
+      "home_points_against_per_game": 5.99,
+      "home_points_for_per_game": 5.275,
+      "points_against_per_game": 5.64,
+      "points_for_per_game": 4.485
+    },
+    "Detroit Tigers": {
+      "away_points_against_per_game": 4.274,
+      "away_points_for_per_game": 4.098,
+      "home_points_against_per_game": 4.582,
+      "home_points_for_per_game": 4.071,
+      "points_against_per_game": 4.428,
+      "points_for_per_game": 4.086
+    },
+    "Houston Astros": {
+      "away_points_against_per_game": 3.762,
+      "away_points_for_per_game": 4.843,
+      "home_points_against_per_game": 3.89,
+      "home_points_for_per_game": 4.554,
+      "points_against_per_game": 3.827,
+      "points_for_per_game": 4.697
+    },
+    "Kansas City Royals": {
+      "away_points_against_per_game": 4.804,
+      "away_points_for_per_game": 4.113,
+      "home_points_against_per_game": 4.882,
+      "home_points_for_per_game": 4.694,
+      "points_against_per_game": 4.843,
+      "points_for_per_game": 4.4
+    },
+    "Los Angeles Angels": {
+      "away_points_against_per_game": 4.674,
+      "away_points_for_per_game": 4.149,
+      "home_points_against_per_game": 4.7,
+      "home_points_for_per_game": 4.365,
+      "points_against_per_game": 4.686,
+      "points_for_per_game": 4.256
+    },
+    "Los Angeles Dodgers": {
+      "away_points_against_per_game": 4.147,
+      "away_points_for_per_game": 5.532,
+      "home_points_against_per_game": 3.939,
+      "home_points_for_per_game": 5.079,
+      "points_against_per_game": 4.042,
+      "points_for_per_game": 5.303
+    },
+    "Miami Marlins": {
+      "away_points_against_per_game": 4.256,
+      "away_points_for_per_game": 3.696,
+      "home_points_against_per_game": 4.936,
+      "home_points_for_per_game": 3.95,
+      "points_against_per_game": 4.596,
+      "points_for_per_game": 3.822
+    },
+    "Milwaukee Brewers": {
+      "away_points_against_per_game": 4.305,
+      "away_points_for_per_game": 4.746,
+      "home_points_against_per_game": 4.266,
+      "home_points_for_per_game": 4.62,
+      "points_against_per_game": 4.286,
+      "points_for_per_game": 4.684
+    },
+    "Minnesota Twins": {
+      "away_points_against_per_game": 4.527,
+      "away_points_for_per_game": 4.487,
+      "home_points_against_per_game": 4.182,
+      "home_points_for_per_game": 4.552,
+      "points_against_per_game": 4.355,
+      "points_for_per_game": 4.52
+    },
+    "National League": {
+      "away_points_against_per_game": 3.5,
+      "away_points_for_per_game": 3.0,
+      "home_points_against_per_game": 3.0,
+      "home_points_for_per_game": 2.0,
+      "points_against_per_game": 3.333,
+      "points_for_per_game": 2.667
+    },
+    "New York Mets": {
+      "away_points_against_per_game": 4.439,
+      "away_points_for_per_game": 4.704,
+      "home_points_against_per_game": 3.965,
+      "home_points_for_per_game": 4.519,
+      "points_against_per_game": 4.2,
+      "points_for_per_game": 4.611
+    },
+    "New York Yankees": {
+      "away_points_against_per_game": 4.113,
+      "away_points_for_per_game": 4.643,
+      "home_points_against_per_game": 4.125,
+      "home_points_for_per_game": 4.886,
+      "points_against_per_game": 4.118,
+      "points_for_per_game": 4.766
+    },
+    "Northeastern": {
+      "away_points_against_per_game": 5.0,
+      "away_points_for_per_game": 3.0,
+      "points_against_per_game": 5.0,
+      "points_for_per_game": 3.0
+    },
+    "Oakland Athletics": {
+      "away_points_against_per_game": 5.253,
+      "away_points_for_per_game": 4.158,
+      "home_points_against_per_game": 5.138,
+      "home_points_for_per_game": 3.724,
+      "points_against_per_game": 5.196,
+      "points_for_per_game": 3.939
+    },
+    "Philadelphia Phillies": {
+      "away_points_against_per_game": 4.56,
+      "away_points_for_per_game": 4.468,
+      "home_points_against_per_game": 4.116,
+      "home_points_for_per_game": 5.055,
+      "points_against_per_game": 4.337,
+      "points_for_per_game": 4.761
+    },
+    "Pittsburgh Pirates": {
+      "away_points_against_per_game": 4.841,
+      "away_points_for_per_game": 3.974,
+      "home_points_against_per_game": 4.967,
+      "home_points_for_per_game": 4.212,
+      "points_against_per_game": 4.904,
+      "points_for_per_game": 4.094
+    },
+    "San Diego Padres": {
+      "away_points_against_per_game": 4.221,
+      "away_points_for_per_game": 4.837,
+      "home_points_against_per_game": 4.062,
+      "home_points_for_per_game": 4.37,
+      "points_against_per_game": 4.15,
+      "points_for_per_game": 4.607
+    },
+    "San Francisco Giants": {
+      "away_points_against_per_game": 4.716,
+      "away_points_for_per_game": 4.589,
+      "home_points_against_per_game": 4.424,
+      "home_points_for_per_game": 4.409,
+      "points_against_per_game": 4.57,
+      "points_for_per_game": 4.499
+    },
+    "Seattle Mariners": {
+      "away_points_against_per_game": 4.38,
+      "away_points_for_per_game": 4.839,
+      "home_points_against_per_game": 3.787,
+      "home_points_for_per_game": 4.228,
+      "points_against_per_game": 4.087,
+      "points_for_per_game": 4.537
+    },
+    "St.Louis Cardinals": {
+      "away_points_against_per_game": 4.622,
+      "away_points_for_per_game": 4.575,
+      "home_points_against_per_game": 4.356,
+      "home_points_for_per_game": 4.486,
+      "points_against_per_game": 4.487,
+      "points_for_per_game": 4.53
+    },
+    "Sugar Land": {
+      "away_points_against_per_game": 1.0,
+      "away_points_for_per_game": 3.0,
+      "points_against_per_game": 1.0,
+      "points_for_per_game": 3.0
+    },
+    "Tampa Bay Rays": {
+      "away_points_against_per_game": 4.287,
+      "away_points_for_per_game": 4.46,
+      "home_points_against_per_game": 3.903,
+      "home_points_for_per_game": 4.331,
+      "points_against_per_game": 4.096,
+      "points_for_per_game": 4.396
+    },
+    "Texas Rangers": {
+      "away_points_against_per_game": 4.577,
+      "away_points_for_per_game": 4.817,
+      "home_points_against_per_game": 4.609,
+      "home_points_for_per_game": 4.79,
+      "points_against_per_game": 4.588,
+      "points_for_per_game": 4.802
+    },
+    "Toronto Blue Jays": {
+      "away_points_against_per_game": 4.259,
+      "away_points_for_per_game": 4.766,
+      "home_points_against_per_game": 4.511,
+      "home_points_for_per_game": 4.463,
+      "points_against_per_game": 4.385,
+      "points_for_per_game": 4.615
+    },
+    "Washington Nationals": {
+      "away_points_against_per_game": 4.865,
+      "away_points_for_per_game": 4.086,
+      "home_points_against_per_game": 5.248,
+      "home_points_for_per_game": 4.095,
+      "points_against_per_game": 5.058,
+      "points_for_per_game": 4.09
+    }
+  },
   "leaderboards": {
     "away_points_against_per_game": {
-      "entries": [],
+      "entries": [
+        {
+          "seasons_counted": 1,
+          "team": "Sugar Land",
+          "value": 1.0
+        },
+        {
+          "seasons_counted": 1,
+          "team": "American League",
+          "value": 2.0
+        },
+        {
+          "seasons_counted": 2,
+          "team": "National League",
+          "value": 3.846
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Houston Astros",
+          "value": 3.882
+        },
+        {
+          "seasons_counted": 3,
+          "team": "San Diego Padres",
+          "value": 4.092
+        },
+        {
+          "seasons_counted": 3,
+          "team": "New York Yankees",
+          "value": 4.148
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Atlanta Braves",
+          "value": 4.165
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Cleveland Guardians",
+          "value": 4.165
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Detroit Tigers",
+          "value": 4.182
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Milwaukee Brewers",
+          "value": 4.222
+        }
+      ],
       "order": "ascending"
     },
     "away_points_for_per_game": {
+      "entries": [
+        {
+          "seasons_counted": 3,
+          "team": "Los Angeles Dodgers",
+          "value": 5.598
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Atlanta Braves",
+          "value": 5.061
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Baltimore Orioles",
+          "value": 5.031
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Arizona Diamondbacks",
+          "value": 4.963
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Seattle Mariners",
+          "value": 4.859
+        },
+        {
+          "seasons_counted": 3,
+          "team": "San Diego Padres",
+          "value": 4.852
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Houston Astros",
+          "value": 4.842
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Milwaukee Brewers",
+          "value": 4.836
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Chicago Cubs",
+          "value": 4.765
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Texas Rangers",
+          "value": 4.735
+        }
+      ],
+      "order": "descending"
+    },
+    "hits_per_game": {
       "entries": [],
       "order": "descending"
     },
     "home_points_against_per_game": {
-      "entries": [],
+      "entries": [
+        {
+          "seasons_counted": 2,
+          "team": "American League",
+          "value": 3.0
+        },
+        {
+          "seasons_counted": 1,
+          "team": "National League",
+          "value": 3.0
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Seattle Mariners",
+          "value": 3.761
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Tampa Bay Rays",
+          "value": 3.994
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Los Angeles Dodgers",
+          "value": 3.998
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Houston Astros",
+          "value": 4.016
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Atlanta Braves",
+          "value": 4.025
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Chicago Cubs",
+          "value": 4.073
+        },
+        {
+          "seasons_counted": 3,
+          "team": "New York Mets",
+          "value": 4.073
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Philadelphia Phillies",
+          "value": 4.122
+        }
+      ],
       "order": "ascending"
     },
     "home_points_for_per_game": {
+      "entries": [
+        {
+          "seasons_counted": 3,
+          "team": "Colorado Rockies",
+          "value": 5.211
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Los Angeles Dodgers",
+          "value": 5.075
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Philadelphia Phillies",
+          "value": 5.029
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Arizona Diamondbacks",
+          "value": 4.91
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Boston Red Sox",
+          "value": 4.877
+        },
+        {
+          "seasons_counted": 3,
+          "team": "New York Yankees",
+          "value": 4.862
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Kansas City Royals",
+          "value": 4.725
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Texas Rangers",
+          "value": 4.713
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Baltimore Orioles",
+          "value": 4.689
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Milwaukee Brewers",
+          "value": 4.644
+        }
+      ],
+      "order": "descending"
+    },
+    "home_runs_per_game": {
       "entries": [],
       "order": "descending"
     },
     "points_against_per_game": {
-      "entries": [],
+      "entries": [
+        {
+          "seasons_counted": 1,
+          "team": "Sugar Land",
+          "value": 1.0
+        },
+        {
+          "seasons_counted": 3,
+          "team": "American League",
+          "value": 2.812
+        },
+        {
+          "seasons_counted": 3,
+          "team": "National League",
+          "value": 3.688
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Houston Astros",
+          "value": 3.95
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Atlanta Braves",
+          "value": 4.094
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Seattle Mariners",
+          "value": 4.096
+        },
+        {
+          "seasons_counted": 3,
+          "team": "San Diego Padres",
+          "value": 4.154
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Tampa Bay Rays",
+          "value": 4.157
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Los Angeles Dodgers",
+          "value": 4.16
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Cleveland Guardians",
+          "value": 4.181
+        }
+      ],
       "order": "ascending"
     },
     "points_for_per_game": {
+      "entries": [
+        {
+          "seasons_counted": 3,
+          "team": "Los Angeles Dodgers",
+          "value": 5.333
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Arizona Diamondbacks",
+          "value": 4.938
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Baltimore Orioles",
+          "value": 4.858
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Atlanta Braves",
+          "value": 4.842
+        },
+        {
+          "seasons_counted": 3,
+          "team": "New York Yankees",
+          "value": 4.783
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Philadelphia Phillies",
+          "value": 4.766
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Milwaukee Brewers",
+          "value": 4.741
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Texas Rangers",
+          "value": 4.722
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Houston Astros",
+          "value": 4.704
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Boston Red Sox",
+          "value": 4.665
+        }
+      ],
+      "order": "descending"
+    },
+    "runs_batted_in_per_game": {
       "entries": [],
       "order": "descending"
     }
@@ -29,12 +616,285 @@
   "player_leaderboards": {},
   "summary": {
     "classification": "Historical",
-    "label": "no seasons held",
-    "label_detail": "No normalized seasons are held for this sport yet.",
-    "season_count": 0,
-    "seasons_held": [],
+    "label": "3-season average",
+    "label_detail": "Averages cover the 3 held season(s): 2022, 2023, 2024.",
+    "season_count": 3,
+    "seasons_held": [
+      "2022",
+      "2023",
+      "2024"
+    ],
     "sport": "baseball",
-    "teams": 0
+    "teams": 34
   },
-  "weighted_averages": {}
+  "weighted_averages": {
+    "American League": {
+      "away_points_against_per_game": 2.0,
+      "away_points_for_per_game": 3.0,
+      "home_points_against_per_game": 3.0,
+      "home_points_for_per_game": 3.846,
+      "points_against_per_game": 2.812,
+      "points_for_per_game": 3.688
+    },
+    "Arizona Diamondbacks": {
+      "away_points_against_per_game": 4.905,
+      "away_points_for_per_game": 4.963,
+      "home_points_against_per_game": 4.695,
+      "home_points_for_per_game": 4.91,
+      "points_against_per_game": 4.801,
+      "points_for_per_game": 4.938
+    },
+    "Atlanta Braves": {
+      "away_points_against_per_game": 4.165,
+      "away_points_for_per_game": 5.061,
+      "home_points_against_per_game": 4.025,
+      "home_points_for_per_game": 4.622,
+      "points_against_per_game": 4.094,
+      "points_for_per_game": 4.842
+    },
+    "Baltimore Orioles": {
+      "away_points_against_per_game": 4.355,
+      "away_points_for_per_game": 5.031,
+      "home_points_against_per_game": 4.305,
+      "home_points_for_per_game": 4.689,
+      "points_against_per_game": 4.329,
+      "points_for_per_game": 4.858
+    },
+    "Boston Red Sox": {
+      "away_points_against_per_game": 4.412,
+      "away_points_for_per_game": 4.452,
+      "home_points_against_per_game": 4.888,
+      "home_points_for_per_game": 4.877,
+      "points_against_per_game": 4.649,
+      "points_for_per_game": 4.665
+    },
+    "Chicago Cubs": {
+      "away_points_against_per_game": 4.674,
+      "away_points_for_per_game": 4.765,
+      "home_points_against_per_game": 4.073,
+      "home_points_for_per_game": 4.552,
+      "points_against_per_game": 4.371,
+      "points_for_per_game": 4.657
+    },
+    "Chicago White Sox": {
+      "away_points_against_per_game": 4.962,
+      "away_points_for_per_game": 3.821,
+      "home_points_against_per_game": 5.048,
+      "home_points_for_per_game": 3.651,
+      "points_against_per_game": 5.005,
+      "points_for_per_game": 3.736
+    },
+    "Cincinnati Reds": {
+      "away_points_against_per_game": 4.508,
+      "away_points_for_per_game": 4.579,
+      "home_points_against_per_game": 5.18,
+      "home_points_for_per_game": 4.616,
+      "points_against_per_game": 4.844,
+      "points_for_per_game": 4.598
+    },
+    "Cleveland Guardians": {
+      "away_points_against_per_game": 4.165,
+      "away_points_for_per_game": 4.298,
+      "home_points_against_per_game": 4.194,
+      "home_points_for_per_game": 4.392,
+      "points_against_per_game": 4.181,
+      "points_for_per_game": 4.346
+    },
+    "Colorado Rockies": {
+      "away_points_against_per_game": 5.4,
+      "away_points_for_per_game": 3.731,
+      "home_points_against_per_game": 5.946,
+      "home_points_for_per_game": 5.211,
+      "points_against_per_game": 5.675,
+      "points_for_per_game": 4.468
+    },
+    "Detroit Tigers": {
+      "away_points_against_per_game": 4.182,
+      "away_points_for_per_game": 4.223,
+      "home_points_against_per_game": 4.494,
+      "home_points_for_per_game": 4.155,
+      "points_against_per_game": 4.337,
+      "points_for_per_game": 4.19
+    },
+    "Houston Astros": {
+      "away_points_against_per_game": 3.882,
+      "away_points_for_per_game": 4.842,
+      "home_points_against_per_game": 4.016,
+      "home_points_for_per_game": 4.569,
+      "points_against_per_game": 3.95,
+      "points_for_per_game": 4.704
+    },
+    "Kansas City Royals": {
+      "away_points_against_per_game": 4.595,
+      "away_points_for_per_game": 4.166,
+      "home_points_against_per_game": 4.727,
+      "home_points_for_per_game": 4.725,
+      "points_against_per_game": 4.661,
+      "points_for_per_game": 4.442
+    },
+    "Los Angeles Angels": {
+      "away_points_against_per_game": 4.767,
+      "away_points_for_per_game": 4.128,
+      "home_points_against_per_game": 4.811,
+      "home_points_for_per_game": 4.317,
+      "points_against_per_game": 4.788,
+      "points_for_per_game": 4.222
+    },
+    "Los Angeles Dodgers": {
+      "away_points_against_per_game": 4.326,
+      "away_points_for_per_game": 5.598,
+      "home_points_against_per_game": 3.998,
+      "home_points_for_per_game": 5.075,
+      "points_against_per_game": 4.16,
+      "points_for_per_game": 5.333
+    },
+    "Miami Marlins": {
+      "away_points_against_per_game": 4.283,
+      "away_points_for_per_game": 3.704,
+      "home_points_against_per_game": 5.191,
+      "home_points_for_per_game": 4.006,
+      "points_against_per_game": 4.738,
+      "points_for_per_game": 3.854
+    },
+    "Milwaukee Brewers": {
+      "away_points_against_per_game": 4.222,
+      "away_points_for_per_game": 4.836,
+      "home_points_against_per_game": 4.281,
+      "home_points_for_per_game": 4.644,
+      "points_against_per_game": 4.252,
+      "points_for_per_game": 4.741
+    },
+    "Minnesota Twins": {
+      "away_points_against_per_game": 4.522,
+      "away_points_for_per_game": 4.446,
+      "home_points_against_per_game": 4.334,
+      "home_points_for_per_game": 4.623,
+      "points_against_per_game": 4.429,
+      "points_for_per_game": 4.535
+    },
+    "National League": {
+      "away_points_against_per_game": 3.846,
+      "away_points_for_per_game": 3.0,
+      "home_points_against_per_game": 3.0,
+      "home_points_for_per_game": 2.0,
+      "points_against_per_game": 3.688,
+      "points_for_per_game": 2.812
+    },
+    "New York Mets": {
+      "away_points_against_per_game": 4.457,
+      "away_points_for_per_game": 4.685,
+      "home_points_against_per_game": 4.073,
+      "home_points_for_per_game": 4.534,
+      "points_against_per_game": 4.264,
+      "points_for_per_game": 4.609
+    },
+    "New York Yankees": {
+      "away_points_against_per_game": 4.148,
+      "away_points_for_per_game": 4.703,
+      "home_points_against_per_game": 4.275,
+      "home_points_for_per_game": 4.862,
+      "points_against_per_game": 4.212,
+      "points_for_per_game": 4.783
+    },
+    "Northeastern": {
+      "away_points_against_per_game": 5.0,
+      "away_points_for_per_game": 3.0,
+      "points_against_per_game": 5.0,
+      "points_for_per_game": 3.0
+    },
+    "Oakland Athletics": {
+      "away_points_against_per_game": 5.278,
+      "away_points_for_per_game": 4.205,
+      "home_points_against_per_game": 5.049,
+      "home_points_for_per_game": 3.837,
+      "points_against_per_game": 5.164,
+      "points_for_per_game": 4.02
+    },
+    "Philadelphia Phillies": {
+      "away_points_against_per_game": 4.556,
+      "away_points_for_per_game": 4.502,
+      "home_points_against_per_game": 4.122,
+      "home_points_for_per_game": 5.029,
+      "points_against_per_game": 4.338,
+      "points_for_per_game": 4.766
+    },
+    "Pittsburgh Pirates": {
+      "away_points_against_per_game": 4.743,
+      "away_points_for_per_game": 4.047,
+      "home_points_against_per_game": 4.901,
+      "home_points_for_per_game": 4.269,
+      "points_against_per_game": 4.823,
+      "points_for_per_game": 4.159
+    },
+    "San Diego Padres": {
+      "away_points_against_per_game": 4.092,
+      "away_points_for_per_game": 4.852,
+      "home_points_against_per_game": 4.201,
+      "home_points_for_per_game": 4.449,
+      "points_against_per_game": 4.154,
+      "points_for_per_game": 4.65
+    },
+    "San Francisco Giants": {
+      "away_points_against_per_game": 4.71,
+      "away_points_for_per_game": 4.594,
+      "home_points_against_per_game": 4.473,
+      "home_points_for_per_game": 4.417,
+      "points_against_per_game": 4.592,
+      "points_for_per_game": 4.505
+    },
+    "Seattle Mariners": {
+      "away_points_against_per_game": 4.426,
+      "away_points_for_per_game": 4.859,
+      "home_points_against_per_game": 3.761,
+      "home_points_for_per_game": 4.256,
+      "points_against_per_game": 4.096,
+      "points_for_per_game": 4.561
+    },
+    "St.Louis Cardinals": {
+      "away_points_against_per_game": 4.62,
+      "away_points_for_per_game": 4.472,
+      "home_points_against_per_game": 4.49,
+      "home_points_for_per_game": 4.399,
+      "points_against_per_game": 4.554,
+      "points_for_per_game": 4.435
+    },
+    "Sugar Land": {
+      "away_points_against_per_game": 1.0,
+      "away_points_for_per_game": 3.0,
+      "points_against_per_game": 1.0,
+      "points_for_per_game": 3.0
+    },
+    "Tampa Bay Rays": {
+      "away_points_against_per_game": 4.319,
+      "away_points_for_per_game": 4.408,
+      "home_points_against_per_game": 3.994,
+      "home_points_for_per_game": 4.27,
+      "points_against_per_game": 4.157,
+      "points_for_per_game": 4.339
+    },
+    "Texas Rangers": {
+      "away_points_against_per_game": 4.729,
+      "away_points_for_per_game": 4.735,
+      "home_points_against_per_game": 4.455,
+      "home_points_for_per_game": 4.713,
+      "points_against_per_game": 4.586,
+      "points_for_per_game": 4.722
+    },
+    "Toronto Blue Jays": {
+      "away_points_against_per_game": 4.318,
+      "away_points_for_per_game": 4.631,
+      "home_points_against_per_game": 4.613,
+      "home_points_for_per_game": 4.45,
+      "points_against_per_game": 4.465,
+      "points_for_per_game": 4.541
+    },
+    "Washington Nationals": {
+      "away_points_against_per_game": 4.794,
+      "away_points_for_per_game": 4.162,
+      "home_points_against_per_game": 5.112,
+      "home_points_for_per_game": 4.138,
+      "points_against_per_game": 4.954,
+      "points_for_per_game": 4.15
+    }
+  }
 }

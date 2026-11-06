@@ -1,0 +1,615 @@
+{
+  "classification": "Historical",
+  "season": "2024",
+  "sport": "baseball",
+  "teams": [
+    {
+      "away_games": 0,
+      "away_points_against_per_game": null,
+      "away_points_for_per_game": null,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 1,
+      "home_games": 1,
+      "home_points_against_per_game": 3.0,
+      "home_points_for_per_game": 5.0,
+      "points_against_per_game": 3.0,
+      "points_for_per_game": 5.0,
+      "season": "2024",
+      "team": "American League",
+      "team_id": 1
+    },
+    {
+      "away_games": 96,
+      "away_points_against_per_game": 4.854,
+      "away_points_for_per_game": 5.229,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 195,
+      "home_games": 99,
+      "home_points_against_per_game": 4.869,
+      "home_points_for_per_game": 5.343,
+      "points_against_per_game": 4.862,
+      "points_for_per_game": 5.287,
+      "season": "2024",
+      "team": "Arizona Diamondbacks",
+      "team_id": 2
+    },
+    {
+      "away_games": 98,
+      "away_points_against_per_game": 4.051,
+      "away_points_for_per_game": 4.755,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 195,
+      "home_games": 97,
+      "home_points_against_per_game": 3.804,
+      "home_points_for_per_game": 3.835,
+      "points_against_per_game": 3.928,
+      "points_for_per_game": 4.297,
+      "season": "2024",
+      "team": "Atlanta Braves",
+      "team_id": 3
+    },
+    {
+      "away_games": 97,
+      "away_points_against_per_game": 4.155,
+      "away_points_for_per_game": 5.175,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 195,
+      "home_games": 98,
+      "home_points_against_per_game": 4.327,
+      "home_points_for_per_game": 4.776,
+      "points_against_per_game": 4.241,
+      "points_for_per_game": 4.974,
+      "season": "2024",
+      "team": "Baltimore Orioles",
+      "team_id": 4
+    },
+    {
+      "away_games": 99,
+      "away_points_against_per_game": 4.202,
+      "away_points_for_per_game": 4.495,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 196,
+      "home_games": 97,
+      "home_points_against_per_game": 4.753,
+      "home_points_for_per_game": 4.711,
+      "points_against_per_game": 4.474,
+      "points_for_per_game": 4.602,
+      "season": "2024",
+      "team": "Boston Red Sox",
+      "team_id": 5
+    },
+    {
+      "away_games": 97,
+      "away_points_against_per_game": 4.784,
+      "away_points_for_per_game": 5.052,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 196,
+      "home_games": 99,
+      "home_points_against_per_game": 3.717,
+      "home_points_for_per_game": 4.182,
+      "points_against_per_game": 4.245,
+      "points_for_per_game": 4.612,
+      "season": "2024",
+      "team": "Chicago Cubs",
+      "team_id": 6
+    },
+    {
+      "away_games": 98,
+      "away_points_against_per_game": 5.276,
+      "away_points_for_per_game": 3.306,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 194,
+      "home_games": 96,
+      "home_points_against_per_game": 4.844,
+      "home_points_for_per_game": 3.312,
+      "points_against_per_game": 5.062,
+      "points_for_per_game": 3.309,
+      "season": "2024",
+      "team": "Chicago White Sox",
+      "team_id": 7
+    },
+    {
+      "away_games": 95,
+      "away_points_against_per_game": 4.084,
+      "away_points_for_per_game": 4.484,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 190,
+      "home_games": 95,
+      "home_points_against_per_game": 4.979,
+      "home_points_for_per_game": 4.474,
+      "points_against_per_game": 4.532,
+      "points_for_per_game": 4.479,
+      "season": "2024",
+      "team": "Cincinnati Reds",
+      "team_id": 8
+    },
+    {
+      "away_games": 101,
+      "away_points_against_per_game": 3.861,
+      "away_points_for_per_game": 4.099,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 202,
+      "home_games": 101,
+      "home_points_against_per_game": 4.188,
+      "home_points_for_per_game": 4.812,
+      "points_against_per_game": 4.025,
+      "points_for_per_game": 4.455,
+      "season": "2024",
+      "team": "Cleveland Guardians",
+      "team_id": 9
+    },
+    {
+      "away_games": 98,
+      "away_points_against_per_game": 5.694,
+      "away_points_for_per_game": 3.704,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 193,
+      "home_games": 95,
+      "home_points_against_per_game": 5.684,
+      "home_points_for_per_game": 5.105,
+      "points_against_per_game": 5.689,
+      "points_for_per_game": 4.394,
+      "season": "2024",
+      "team": "Colorado Rockies",
+      "team_id": 10
+    },
+    {
+      "away_games": 103,
+      "away_points_against_per_game": 3.913,
+      "away_points_for_per_game": 4.437,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 202,
+      "home_games": 99,
+      "home_points_against_per_game": 4.051,
+      "home_points_for_per_game": 4.202,
+      "points_against_per_game": 3.98,
+      "points_for_per_game": 4.322,
+      "season": "2024",
+      "team": "Detroit Tigers",
+      "team_id": 12
+    },
+    {
+      "away_games": 95,
+      "away_points_against_per_game": 4.137,
+      "away_points_for_per_game": 4.558,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 191,
+      "home_games": 96,
+      "home_points_against_per_game": 4.0,
+      "home_points_for_per_game": 4.594,
+      "points_against_per_game": 4.068,
+      "points_for_per_game": 4.576,
+      "season": "2024",
+      "team": "Houston Astros",
+      "team_id": 15
+    },
+    {
+      "away_games": 99,
+      "away_points_against_per_game": 3.929,
+      "away_points_for_per_game": 4.364,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 197,
+      "home_games": 98,
+      "home_points_against_per_game": 4.265,
+      "home_points_for_per_game": 4.704,
+      "points_against_per_game": 4.096,
+      "points_for_per_game": 4.533,
+      "season": "2024",
+      "team": "Kansas City Royals",
+      "team_id": 16
+    },
+    {
+      "away_games": 98,
+      "away_points_against_per_game": 4.796,
+      "away_points_for_per_game": 3.888,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 194,
+      "home_games": 96,
+      "home_points_against_per_game": 4.969,
+      "home_points_for_per_game": 4.042,
+      "points_against_per_game": 4.881,
+      "points_for_per_game": 3.964,
+      "season": "2024",
+      "team": "Los Angeles Angels",
+      "team_id": 17
+    },
+    {
+      "away_games": 98,
+      "away_points_against_per_game": 4.439,
+      "away_points_for_per_game": 5.673,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 200,
+      "home_games": 102,
+      "home_points_against_per_game": 4.069,
+      "home_points_for_per_game": 5.049,
+      "points_against_per_game": 4.25,
+      "points_for_per_game": 5.355,
+      "season": "2024",
+      "team": "Los Angeles Dodgers",
+      "team_id": 18
+    },
+    {
+      "away_games": 94,
+      "away_points_against_per_game": 4.277,
+      "away_points_for_per_game": 3.745,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 189,
+      "home_games": 95,
+      "home_points_against_per_game": 5.853,
+      "home_points_for_per_game": 4.053,
+      "points_against_per_game": 5.069,
+      "points_for_per_game": 3.899,
+      "season": "2024",
+      "team": "Miami Marlins",
+      "team_id": 19
+    },
+    {
+      "away_games": 99,
+      "away_points_against_per_game": 4.091,
+      "away_points_for_per_game": 5.152,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 198,
+      "home_games": 99,
+      "home_points_against_per_game": 4.303,
+      "home_points_for_per_game": 4.657,
+      "points_against_per_game": 4.197,
+      "points_for_per_game": 4.904,
+      "season": "2024",
+      "team": "Milwaukee Brewers",
+      "team_id": 20
+    },
+    {
+      "away_games": 96,
+      "away_points_against_per_game": 4.625,
+      "away_points_for_per_game": 4.198,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 193,
+      "home_games": 97,
+      "home_points_against_per_game": 4.711,
+      "home_points_for_per_game": 4.753,
+      "points_against_per_game": 4.668,
+      "points_for_per_game": 4.477,
+      "season": "2024",
+      "team": "Minnesota Twins",
+      "team_id": 22
+    },
+    {
+      "away_games": 1,
+      "away_points_against_per_game": 5.0,
+      "away_points_for_per_game": 3.0,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 1,
+      "home_games": 0,
+      "home_points_against_per_game": null,
+      "home_points_for_per_game": null,
+      "points_against_per_game": 5.0,
+      "points_for_per_game": 3.0,
+      "season": "2024",
+      "team": "National League",
+      "team_id": 23
+    },
+    {
+      "away_games": 104,
+      "away_points_against_per_game": 4.385,
+      "away_points_for_per_game": 4.635,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 205,
+      "home_games": 101,
+      "home_points_against_per_game": 4.158,
+      "home_points_for_per_game": 4.663,
+      "points_against_per_game": 4.273,
+      "points_for_per_game": 4.649,
+      "season": "2024",
+      "team": "New York Mets",
+      "team_id": 24
+    },
+    {
+      "away_games": 103,
+      "away_points_against_per_game": 4.146,
+      "away_points_for_per_game": 5.0,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 208,
+      "home_games": 105,
+      "home_points_against_per_game": 4.448,
+      "home_points_for_per_game": 5.01,
+      "points_against_per_game": 4.298,
+      "points_for_per_game": 5.005,
+      "season": "2024",
+      "team": "New York Yankees",
+      "team_id": 25
+    },
+    {
+      "away_games": 97,
+      "away_points_against_per_game": 5.031,
+      "away_points_for_per_game": 4.289,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 193,
+      "home_games": 96,
+      "home_points_against_per_game": 4.615,
+      "home_points_for_per_game": 4.125,
+      "points_against_per_game": 4.824,
+      "points_for_per_game": 4.207,
+      "season": "2024",
+      "team": "Oakland Athletics",
+      "team_id": 26
+    },
+    {
+      "away_games": 98,
+      "away_points_against_per_game": 4.449,
+      "away_points_for_per_game": 4.5,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 197,
+      "home_games": 99,
+      "home_points_against_per_game": 4.081,
+      "home_points_for_per_game": 4.879,
+      "points_against_per_game": 4.264,
+      "points_for_per_game": 4.69,
+      "season": "2024",
+      "team": "Philadelphia Phillies",
+      "team_id": 27
+    },
+    {
+      "away_games": 95,
+      "away_points_against_per_game": 4.505,
+      "away_points_for_per_game": 4.105,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 192,
+      "home_games": 97,
+      "home_points_against_per_game": 4.67,
+      "home_points_for_per_game": 4.34,
+      "points_against_per_game": 4.589,
+      "points_for_per_game": 4.224,
+      "season": "2024",
+      "team": "Pittsburgh Pirates",
+      "team_id": 28
+    },
+    {
+      "away_games": 93,
+      "away_points_against_per_game": 3.828,
+      "away_points_for_per_game": 4.957,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 191,
+      "home_games": 98,
+      "home_points_against_per_game": 4.531,
+      "home_points_for_per_game": 4.388,
+      "points_against_per_game": 4.188,
+      "points_for_per_game": 4.665,
+      "season": "2024",
+      "team": "San Diego Padres",
+      "team_id": 30
+    },
+    {
+      "away_games": 95,
+      "away_points_against_per_game": 4.547,
+      "away_points_for_per_game": 4.6,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 191,
+      "home_games": 96,
+      "home_points_against_per_game": 4.635,
+      "home_points_for_per_game": 4.594,
+      "points_against_per_game": 4.592,
+      "points_for_per_game": 4.597,
+      "season": "2024",
+      "team": "San Francisco Giants",
+      "team_id": 31
+    },
+    {
+      "away_games": 98,
+      "away_points_against_per_game": 4.541,
+      "away_points_for_per_game": 4.857,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 194,
+      "home_games": 96,
+      "home_points_against_per_game": 3.625,
+      "home_points_for_per_game": 4.188,
+      "points_against_per_game": 4.088,
+      "points_for_per_game": 4.526,
+      "season": "2024",
+      "team": "Seattle Mariners",
+      "team_id": 32
+    },
+    {
+      "away_games": 97,
+      "away_points_against_per_game": 4.505,
+      "away_points_for_per_game": 4.299,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 192,
+      "home_games": 95,
+      "home_points_against_per_game": 4.505,
+      "home_points_for_per_game": 4.158,
+      "points_against_per_game": 4.505,
+      "points_for_per_game": 4.229,
+      "season": "2024",
+      "team": "St.Louis Cardinals",
+      "team_id": 33
+    },
+    {
+      "away_games": 97,
+      "away_points_against_per_game": 4.34,
+      "away_points_for_per_game": 3.876,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 192,
+      "home_games": 95,
+      "home_points_against_per_game": 4.179,
+      "home_points_for_per_game": 3.863,
+      "points_against_per_game": 4.26,
+      "points_for_per_game": 3.87,
+      "season": "2024",
+      "team": "Tampa Bay Rays",
+      "team_id": 34
+    },
+    {
+      "away_games": 95,
+      "away_points_against_per_game": 5.274,
+      "away_points_for_per_game": 4.421,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 193,
+      "home_games": 98,
+      "home_points_against_per_game": 4.0,
+      "home_points_for_per_game": 4.163,
+      "points_against_per_game": 4.627,
+      "points_for_per_game": 4.29,
+      "season": "2024",
+      "team": "Texas Rangers",
+      "team_id": 35
+    },
+    {
+      "away_games": 98,
+      "away_points_against_per_game": 4.459,
+      "away_points_for_per_game": 4.347,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 194,
+      "home_games": 96,
+      "home_points_against_per_game": 5.01,
+      "home_points_for_per_game": 4.438,
+      "points_against_per_game": 4.732,
+      "points_for_per_game": 4.392,
+      "season": "2024",
+      "team": "Toronto Blue Jays",
+      "team_id": 36
+    },
+    {
+      "away_games": 95,
+      "away_points_against_per_game": 4.642,
+      "away_points_for_per_game": 4.253,
+      "categories": {
+        "hits_per_game": null,
+        "home_runs_per_game": null,
+        "runs_batted_in_per_game": null
+      },
+      "games_played": 190,
+      "home_games": 95,
+      "home_points_against_per_game": 4.8,
+      "home_points_for_per_game": 4.179,
+      "points_against_per_game": 4.721,
+      "points_for_per_game": 4.216,
+      "season": "2024",
+      "team": "Washington Nationals",
+      "team_id": 37
+    }
+  ]
+}

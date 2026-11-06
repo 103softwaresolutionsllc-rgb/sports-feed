@@ -1,3 +1,12 @@
+# SETUP (one step, Isaac): this file must live at
+#   .github/workflows/intelligence-harvest.yml
+# The agent's GitHub token cannot create workflow files (no `workflow`
+# scope), so it is parked here. In the GitHub web UI: Add file -> Create
+# new file -> name it .github/workflows/intelligence-harvest.yml ->
+# paste everything below this comment block -> commit to main.
+# Also add the repo secret APISPORTS_KEY (Settings -> Secrets and
+# variables -> Actions) — the job no-ops cleanly until it exists.
+#
 name: Intelligence Engine daily harvest
 
 # Runs the Intelligence Engine pipeline once a day at a 20-requests-per-

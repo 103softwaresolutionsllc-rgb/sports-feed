@@ -480,22 +480,52 @@ ALL_SPORTS = ["basketball", "american-football", "baseball", "hockey",
               "soccer"]
 
 
+def _discover_seasons(raw_root: Path, sport: str) -> list[str]:
+    """Seasons present in the raw landing, from harvest manifest params.
+
+    The daily workflow normalizes everything harvested without naming
+    seasons; an explicit --season still normalizes exactly one.
+    """
+    seasons = set()
+    raw_dir = Path(raw_root) / "raw" / sport
+    if raw_dir.exists():
+        for manifest in raw_dir.rglob("manifest.jsonl"):
+            for line in manifest.read_text().splitlines():
+                if not line.strip():
+                    continue
+                try:
+                    entry = json.loads(line)
+                except json.JSONDecodeError:
+                    continue
+                season = entry.get("params", {}).get("season")
+                if season is not None:
+                    seasons.add(str(season))
+    return sorted(seasons)
+
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--sport", required=True, choices=ALL_SPORTS)
-    parser.add_argument("--season", required=True)
+    parser.add_argument("--season", default=None,
+                        help="season to normalize (default: every season "
+                             "present in the raw landing manifests)")
     parser.add_argument("--data-root", default="data/intelligence")
     args = parser.parse_args(argv)
     root = Path(args.data_root)
-    path = write_normalized(args.sport, root, root, args.season)
-    result = json.loads(path.read_text())
-    print(f"{path}: {len(result['teams'])} teams "
-          f"({args.sport} {args.season}, {CLASSIFICATION})")
-    if args.sport in PLAYER_CATEGORIES:
-        ppath = write_normalized_players(args.sport, root, root, args.season)
-        presult = json.loads(ppath.read_text())
-        print(f"{ppath}: {len(presult['players'])} players "
-              f"({args.sport} {args.season}, {CLASSIFICATION})")
+    seasons = ([args.season] if args.season
+               else _discover_seasons(root, args.sport))
+    if not seasons:
+        print(f"no seasons found in raw landing for {args.sport}")
+        return 0
+    for season in seasons:
+        path = write_normalized(args.sport, root, root, season)
+        result = json.loads(path.read_text())
+        print(f"{path}: {len(result['teams'])} teams "
+              f"({args.sport} {season}, {CLASSIFICATION})")
+        if args.sport in PLAYER_CATEGORIES:
+            ppath = write_normalized_players(args.sport, root, root, season)
+            presult = json.loads(ppath.read_text())
+            print(f"{ppath}: {len(presult['players'])} players "
+                  f"({args.sport} {season}, {CLASSIFICATION})")
     return 0
 
 

@@ -1,0 +1,395 @@
+{
+  "errors": [],
+  "get": "teams",
+  "parameters": {
+    "league": "1",
+    "season": "2022"
+  },
+  "response": [
+    {
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 1,
+        "name": "USA"
+      },
+      "id": 1,
+      "logo": "https://media.api-sports.io/baseball/teams/1.png",
+      "name": "American League",
+      "national": false
+    },
+    {
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 1,
+        "name": "USA"
+      },
+      "id": 2,
+      "logo": "https://media.api-sports.io/baseball/teams/2.png",
+      "name": "Arizona Diamondbacks",
+      "national": false
+    },
+    {
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 1,
+        "name": "USA"
+      },
+      "id": 3,
+      "logo": "https://media.api-sports.io/baseball/teams/3.png",
+      "name": "Atlanta Braves",
+      "national": false
+    },
+    {
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 1,
+        "name": "USA"
+      },
+      "id": 4,
+      "logo": "https://media.api-sports.io/baseball/teams/4.png",
+      "name": "Baltimore Orioles",
+      "national": false
+    },
+    {
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 1,
+        "name": "USA"
+      },
+      "id": 5,
+      "logo": "https://media.api-sports.io/baseball/teams/5.png",
+      "name": "Boston Red Sox",
+      "national": false
+    },
+    {
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 1,
+        "name": "USA"
+      },
+      "id": 6,
+      "logo": "https://media.api-sports.io/baseball/teams/6.png",
+      "name": "Chicago Cubs",
+      "national": false
+    },
+    {
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 1,
+        "name": "USA"
+      },
+      "id": 7,
+      "logo": "https://media.api-sports.io/baseball/teams/7.png",
+      "name": "Chicago White Sox",
+      "national": false
+    },
+    {
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 1,
+        "name": "USA"
+      },
+      "id": 8,
+      "logo": "https://media.api-sports.io/baseball/teams/8.png",
+      "name": "Cincinnati Reds",
+      "national": false
+    },
+    {
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 1,
+        "name": "USA"
+      },
+      "id": 9,
+      "logo": "https://media.api-sports.io/baseball/teams/9.png",
+      "name": "Cleveland Guardians",
+      "national": false
+    },
+    {
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 1,
+        "name": "USA"
+      },
+      "id": 10,
+      "logo": "https://media.api-sports.io/baseball/teams/10.png",
+      "name": "Colorado Rockies",
+      "national": false
+    },
+    {
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 1,
+        "name": "USA"
+      },
+      "id": 12,
+      "logo": "https://media.api-sports.io/baseball/teams/12.png",
+      "name": "Detroit Tigers",
+      "national": false
+    },
+    {
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 1,
+        "name": "USA"
+      },
+      "id": 15,
+      "logo": "https://media.api-sports.io/baseball/teams/15.png",
+      "name": "Houston Astros",
+      "national": false
+    },
+    {
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 1,
+        "name": "USA"
+      },
+      "id": 16,
+      "logo": "https://media.api-sports.io/baseball/teams/16.png",
+      "name": "Kansas City Royals",
+      "national": false
+    },
+    {
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 1,
+        "name": "USA"
+      },
+      "id": 17,
+      "logo": "https://media.api-sports.io/baseball/teams/17.png",
+      "name": "Los Angeles Angels",
+      "national": false
+    },
+    {
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 1,
+        "name": "USA"
+      },
+      "id": 18,
+      "logo": "https://media.api-sports.io/baseball/teams/18.png",
+      "name": "Los Angeles Dodgers",
+      "national": false
+    },
+    {
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 1,
+        "name": "USA"
+      },
+      "id": 19,
+      "logo": "https://media.api-sports.io/baseball/teams/19.png",
+      "name": "Miami Marlins",
+      "national": false
+    },
+    {
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 1,
+        "name": "USA"
+      },
+      "id": 20,
+      "logo": "https://media.api-sports.io/baseball/teams/20.png",
+      "name": "Milwaukee Brewers",
+      "national": false
+    },
+    {
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 1,
+        "name": "USA"
+      },
+      "id": 22,
+      "logo": "https://media.api-sports.io/baseball/teams/22.png",
+      "name": "Minnesota Twins",
+      "national": false
+    },
+    {
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 1,
+        "name": "USA"
+      },
+      "id": 23,
+      "logo": "https://media.api-sports.io/baseball/teams/23.png",
+      "name": "National League",
+      "national": false
+    },
+    {
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 1,
+        "name": "USA"
+      },
+      "id": 24,
+      "logo": "https://media.api-sports.io/baseball/teams/24.png",
+      "name": "New York Mets",
+      "national": false
+    },
+    {
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 1,
+        "name": "USA"
+      },
+      "id": 25,
+      "logo": "https://media.api-sports.io/baseball/teams/25.png",
+      "name": "New York Yankees",
+      "national": false
+    },
+    {
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 1,
+        "name": "USA"
+      },
+      "id": 26,
+      "logo": "https://media.api-sports.io/baseball/teams/26.png",
+      "name": "Oakland Athletics",
+      "national": false
+    },
+    {
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 1,
+        "name": "USA"
+      },
+      "id": 27,
+      "logo": "https://media.api-sports.io/baseball/teams/27.png",
+      "name": "Philadelphia Phillies",
+      "national": false
+    },
+    {
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 1,
+        "name": "USA"
+      },
+      "id": 28,
+      "logo": "https://media.api-sports.io/baseball/teams/28.png",
+      "name": "Pittsburgh Pirates",
+      "national": false
+    },
+    {
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 1,
+        "name": "USA"
+      },
+      "id": 30,
+      "logo": "https://media.api-sports.io/baseball/teams/30.png",
+      "name": "San Diego Padres",
+      "national": false
+    },
+    {
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 1,
+        "name": "USA"
+      },
+      "id": 31,
+      "logo": "https://media.api-sports.io/baseball/teams/31.png",
+      "name": "San Francisco Giants",
+      "national": false
+    },
+    {
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 1,
+        "name": "USA"
+      },
+      "id": 32,
+      "logo": "https://media.api-sports.io/baseball/teams/32.png",
+      "name": "Seattle Mariners",
+      "national": false
+    },
+    {
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 1,
+        "name": "USA"
+      },
+      "id": 33,
+      "logo": "https://media.api-sports.io/baseball/teams/33.png",
+      "name": "St.Louis Cardinals",
+      "national": false
+    },
+    {
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 1,
+        "name": "USA"
+      },
+      "id": 34,
+      "logo": "https://media.api-sports.io/baseball/teams/34.png",
+      "name": "Tampa Bay Rays",
+      "national": false
+    },
+    {
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 1,
+        "name": "USA"
+      },
+      "id": 35,
+      "logo": "https://media.api-sports.io/baseball/teams/35.png",
+      "name": "Texas Rangers",
+      "national": false
+    },
+    {
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 1,
+        "name": "USA"
+      },
+      "id": 36,
+      "logo": "https://media.api-sports.io/baseball/teams/36.png",
+      "name": "Toronto Blue Jays",
+      "national": false
+    },
+    {
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 1,
+        "name": "USA"
+      },
+      "id": 37,
+      "logo": "https://media.api-sports.io/baseball/teams/37.png",
+      "name": "Washington Nationals",
+      "national": false
+    }
+  ],
+  "results": 32
+}

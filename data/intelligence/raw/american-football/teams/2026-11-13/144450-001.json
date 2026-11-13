@@ -1,0 +1,555 @@
+{
+  "errors": [],
+  "get": "teams",
+  "parameters": {
+    "league": "1",
+    "season": "2022"
+  },
+  "response": [
+    {
+      "city": "Las Vegas",
+      "coach": "Antonio Pierce (interim)",
+      "code": "LV",
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "name": "USA"
+      },
+      "established": 1960,
+      "id": 1,
+      "logo": "https://media.api-sports.io/american-football/teams/1.png",
+      "name": "Las Vegas Raiders",
+      "owner": "Carol and Mark Davis",
+      "stadium": "Allegiant Stadium"
+    },
+    {
+      "city": "Jacksonville",
+      "coach": "Doug Pederson",
+      "code": "JAX",
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "name": "USA"
+      },
+      "established": 1995,
+      "id": 2,
+      "logo": "https://media.api-sports.io/american-football/teams/2.png",
+      "name": "Jacksonville Jaguars",
+      "owner": "Shahid Khan",
+      "stadium": "EverBank Stadium"
+    },
+    {
+      "city": "Foxborough",
+      "coach": "Bill Belichick",
+      "code": "NE",
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "name": "USA"
+      },
+      "established": 1960,
+      "id": 3,
+      "logo": "https://media.api-sports.io/american-football/teams/3.png",
+      "name": "New England Patriots",
+      "owner": "Robert Kraft",
+      "stadium": "Gillette Stadium"
+    },
+    {
+      "city": "New York",
+      "coach": "Brian Daboll",
+      "code": "NYG",
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "name": "USA"
+      },
+      "established": 1925,
+      "id": 4,
+      "logo": "https://media.api-sports.io/american-football/teams/4.png",
+      "name": "New York Giants",
+      "owner": "John Mara, Steve Tisch",
+      "stadium": "MetLife Stadium"
+    },
+    {
+      "city": "Baltimore",
+      "coach": "John Harbaugh",
+      "code": "BAL",
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "name": "USA"
+      },
+      "established": 1996,
+      "id": 5,
+      "logo": "https://media.api-sports.io/american-football/teams/5.png",
+      "name": "Baltimore Ravens",
+      "owner": "Steve Bisciotti",
+      "stadium": "M&T Bank Stadium"
+    },
+    {
+      "city": "Nashville",
+      "coach": "Mike Vrabel",
+      "code": "TEN",
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "name": "USA"
+      },
+      "established": 1960,
+      "id": 6,
+      "logo": "https://media.api-sports.io/american-football/teams/6.png",
+      "name": "Tennessee Titans",
+      "owner": "Amy Adams Strunk",
+      "stadium": "Nissan Stadium"
+    },
+    {
+      "city": "Detroit",
+      "coach": "Dan Campbell",
+      "code": "DET",
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "name": "USA"
+      },
+      "established": 1930,
+      "id": 7,
+      "logo": "https://media.api-sports.io/american-football/teams/7.png",
+      "name": "Detroit Lions",
+      "owner": "Sheila Ford Hamp",
+      "stadium": "Ford Field"
+    },
+    {
+      "city": "Atlanta",
+      "coach": "Arthur Smith",
+      "code": "ATL",
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "name": "USA"
+      },
+      "established": 1966,
+      "id": 8,
+      "logo": "https://media.api-sports.io/american-football/teams/8.png",
+      "name": "Atlanta Falcons",
+      "owner": "Arthur Blank",
+      "stadium": "Mercedes-Benz Stadium"
+    },
+    {
+      "city": "Cleveland",
+      "coach": "Kevin Stefanski",
+      "code": "CLE",
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "name": "USA"
+      },
+      "established": 1946,
+      "id": 9,
+      "logo": "https://media.api-sports.io/american-football/teams/9.png",
+      "name": "Cleveland Browns",
+      "owner": "Dee and Jimmy Haslam",
+      "stadium": "Cleveland Browns Stadium"
+    },
+    {
+      "city": "Cincinnati",
+      "coach": "Zac Taylor",
+      "code": "CIN",
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "name": "USA"
+      },
+      "established": 1968,
+      "id": 10,
+      "logo": "https://media.api-sports.io/american-football/teams/10.png",
+      "name": "Cincinnati Bengals",
+      "owner": "Mike Brown",
+      "stadium": "Paycor Stadium"
+    },
+    {
+      "city": "Glendale",
+      "coach": "Jonathan Gannon",
+      "code": "ARI",
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "name": "USA"
+      },
+      "established": 1920,
+      "id": 11,
+      "logo": "https://media.api-sports.io/american-football/teams/11.png",
+      "name": "Arizona Cardinals",
+      "owner": "Michael Bidwill",
+      "stadium": "State Farm Stadium"
+    },
+    {
+      "city": "Philadelphia",
+      "coach": "Nick Sirianni",
+      "code": "PHI",
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "name": "USA"
+      },
+      "established": 1933,
+      "id": 12,
+      "logo": "https://media.api-sports.io/american-football/teams/12.png",
+      "name": "Philadelphia Eagles",
+      "owner": "Jeffrey Lurie",
+      "stadium": "Lincoln Financial Field"
+    },
+    {
+      "city": "New York",
+      "coach": "Robert Saleh",
+      "code": "NYJ",
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "name": "USA"
+      },
+      "established": 1960,
+      "id": 13,
+      "logo": "https://media.api-sports.io/american-football/teams/13.png",
+      "name": "New York Jets",
+      "owner": "Robert Wood Johnson IV",
+      "stadium": "MetLife Stadium"
+    },
+    {
+      "city": "San Francisco",
+      "coach": "Kyle Shanahan",
+      "code": "SF",
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "name": "USA"
+      },
+      "established": 1946,
+      "id": 14,
+      "logo": "https://media.api-sports.io/american-football/teams/14.png",
+      "name": "San Francisco 49ers",
+      "owner": "Jed York",
+      "stadium": "Levi's\u00ae Stadium"
+    },
+    {
+      "city": "Green Bay",
+      "coach": "Matt LaFleur",
+      "code": "GB",
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "name": "USA"
+      },
+      "established": 1921,
+      "id": 15,
+      "logo": "https://media.api-sports.io/american-football/teams/15.png",
+      "name": "Green Bay Packers",
+      "owner": "Green Bay Packers, Inc.",
+      "stadium": "Lambeau Field"
+    },
+    {
+      "city": "Chicago",
+      "coach": "Matt Eberflus",
+      "code": "CHI",
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "name": "USA"
+      },
+      "established": 1920,
+      "id": 16,
+      "logo": "https://media.api-sports.io/american-football/teams/16.png",
+      "name": "Chicago Bears",
+      "owner": "Virginia Halas McCaskey",
+      "stadium": "Soldier Field"
+    },
+    {
+      "city": "Kansas City",
+      "coach": "Andy Reid",
+      "code": "KC",
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "name": "USA"
+      },
+      "established": 1960,
+      "id": 17,
+      "logo": "https://media.api-sports.io/american-football/teams/17.png",
+      "name": "Kansas City Chiefs",
+      "owner": "Clark Hunt",
+      "stadium": "GEHA Field at Arrowhead Stadium"
+    },
+    {
+      "city": "Washington",
+      "coach": "Ron Rivera",
+      "code": "WAS",
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "name": "USA"
+      },
+      "established": 1932,
+      "id": 18,
+      "logo": "https://media.api-sports.io/american-football/teams/18.png",
+      "name": "Washington Commanders",
+      "owner": "Josh Harris",
+      "stadium": "FedExField"
+    },
+    {
+      "city": "Charlotte",
+      "coach": "Chris Tabor (interim)",
+      "code": "CAR",
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "name": "USA"
+      },
+      "established": 1995,
+      "id": 19,
+      "logo": "https://media.api-sports.io/american-football/teams/19.png",
+      "name": "Carolina Panthers",
+      "owner": "David Tepper",
+      "stadium": "Bank of America Stadium"
+    },
+    {
+      "city": "Buffalo",
+      "coach": "Sean McDermott",
+      "code": "BUF",
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "name": "USA"
+      },
+      "established": 1960,
+      "id": 20,
+      "logo": "https://media.api-sports.io/american-football/teams/20.png",
+      "name": "Buffalo Bills",
+      "owner": "Kim and Terry Pegula",
+      "stadium": "Highmark Stadium"
+    },
+    {
+      "city": "Indianapolis",
+      "coach": "Shane Steichen",
+      "code": "IND",
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "name": "USA"
+      },
+      "established": 1944,
+      "id": 21,
+      "logo": "https://media.api-sports.io/american-football/teams/21.png",
+      "name": "Indianapolis Colts",
+      "owner": "Jim Irsay",
+      "stadium": "Lucas Oil Stadium"
+    },
+    {
+      "city": "Pittsburgh",
+      "coach": "Mike Tomlin",
+      "code": "PIT",
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "name": "USA"
+      },
+      "established": 1933,
+      "id": 22,
+      "logo": "https://media.api-sports.io/american-football/teams/22.png",
+      "name": "Pittsburgh Steelers",
+      "owner": "Art Rooney II and Family",
+      "stadium": "Acrisure Stadium"
+    },
+    {
+      "city": "Seattle",
+      "coach": "Pete Carroll",
+      "code": "SEA",
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "name": "USA"
+      },
+      "established": 1976,
+      "id": 23,
+      "logo": "https://media.api-sports.io/american-football/teams/23.png",
+      "name": "Seattle Seahawks",
+      "owner": "Seattle Seahawks Ownership Trust",
+      "stadium": "Lumen Field"
+    },
+    {
+      "city": "Tampa",
+      "coach": "Todd Bowles",
+      "code": "TB",
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "name": "USA"
+      },
+      "established": 1976,
+      "id": 24,
+      "logo": "https://media.api-sports.io/american-football/teams/24.png",
+      "name": "Tampa Bay Buccaneers",
+      "owner": "Bryan Glazer, Edward Glazer, Joel Glazer",
+      "stadium": "Raymond James Stadium"
+    },
+    {
+      "city": "Miami",
+      "coach": "Mike McDaniel",
+      "code": "MIA",
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "name": "USA"
+      },
+      "established": 1966,
+      "id": 25,
+      "logo": "https://media.api-sports.io/american-football/teams/25.png",
+      "name": "Miami Dolphins",
+      "owner": "Stephen M. Ross",
+      "stadium": "Hard Rock Stadium"
+    },
+    {
+      "city": "Houston",
+      "coach": "DeMeco Ryans",
+      "code": "HOU",
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "name": "USA"
+      },
+      "established": 2002,
+      "id": 26,
+      "logo": "https://media.api-sports.io/american-football/teams/26.png",
+      "name": "Houston Texans",
+      "owner": "Janice S. McNair",
+      "stadium": "NRG Stadium"
+    },
+    {
+      "city": "New Orleans",
+      "coach": "Dennis Allen",
+      "code": "NO",
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "name": "USA"
+      },
+      "established": 1967,
+      "id": 27,
+      "logo": "https://media.api-sports.io/american-football/teams/27.png",
+      "name": "New Orleans Saints",
+      "owner": "Gayle Benson",
+      "stadium": "Caesars Superdome"
+    },
+    {
+      "city": "Denver",
+      "coach": "Sean Payton",
+      "code": "DEN",
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "name": "USA"
+      },
+      "established": 1960,
+      "id": 28,
+      "logo": "https://media.api-sports.io/american-football/teams/28.png",
+      "name": "Denver Broncos",
+      "owner": "Walton-Penner Family Ownership Group",
+      "stadium": "Empower Field at Mile High"
+    },
+    {
+      "city": "Dallas",
+      "coach": "Mike McCarthy",
+      "code": "DAL",
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "name": "USA"
+      },
+      "established": 1960,
+      "id": 29,
+      "logo": "https://media.api-sports.io/american-football/teams/29.png",
+      "name": "Dallas Cowboys",
+      "owner": "Jerry Jones",
+      "stadium": "AT&T Stadium"
+    },
+    {
+      "city": "Los Angeles",
+      "coach": "Giff Smith (interim)",
+      "code": "LAC",
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "name": "USA"
+      },
+      "established": 1960,
+      "id": 30,
+      "logo": "https://media.api-sports.io/american-football/teams/30.png",
+      "name": "Los Angeles Chargers",
+      "owner": "Alex Spanos and Family",
+      "stadium": "SoFi Stadium"
+    },
+    {
+      "city": "Los Angeles",
+      "coach": "Sean McVay",
+      "code": "LA",
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "name": "USA"
+      },
+      "established": 1937,
+      "id": 31,
+      "logo": "https://media.api-sports.io/american-football/teams/31.png",
+      "name": "Los Angeles Rams",
+      "owner": "Stan Kroenke",
+      "stadium": "SoFi Stadium"
+    },
+    {
+      "city": "Minneapolis",
+      "coach": "Kevin O'Connell",
+      "code": "MIN",
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "name": "USA"
+      },
+      "established": 1961,
+      "id": 32,
+      "logo": "https://media.api-sports.io/american-football/teams/32.png",
+      "name": "Minnesota Vikings",
+      "owner": "Zygi Wilf",
+      "stadium": "U.S. Bank Stadium"
+    },
+    {
+      "city": null,
+      "coach": null,
+      "code": null,
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "name": "USA"
+      },
+      "established": null,
+      "id": 33,
+      "logo": "https://media.api-sports.io/american-football/teams/33.png",
+      "name": "NFC",
+      "owner": null,
+      "stadium": null
+    },
+    {
+      "city": null,
+      "coach": null,
+      "code": null,
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "name": "USA"
+      },
+      "established": null,
+      "id": 34,
+      "logo": "https://media.api-sports.io/american-football/teams/34.png",
+      "name": "AFC",
+      "owner": null,
+      "stadium": null
+    }
+  ],
+  "results": 34
+}

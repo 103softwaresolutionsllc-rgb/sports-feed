@@ -1,0 +1,1419 @@
+{
+  "errors": [],
+  "get": "standings",
+  "parameters": {
+    "league": "1",
+    "season": "2024"
+  },
+  "response": [
+    {
+      "conference": "American Football Conference",
+      "division": "AFC East",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2024
+      },
+      "lost": 4,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 368,
+        "difference": 157,
+        "for": 525
+      },
+      "position": 1,
+      "records": {
+        "conference": "9-3",
+        "division": "5-1",
+        "home": "8-0",
+        "road": "5-4"
+      },
+      "streak": "L1",
+      "team": {
+        "id": 20,
+        "logo": "https://media.api-sports.io/american-football/teams/20.png",
+        "name": "Buffalo Bills"
+      },
+      "ties": 0,
+      "won": 13
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "AFC East",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2024
+      },
+      "lost": 9,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 364,
+        "difference": -19,
+        "for": 345
+      },
+      "position": 2,
+      "records": {
+        "conference": "6-6",
+        "division": "3-3",
+        "home": "5-3",
+        "road": "3-6"
+      },
+      "streak": "L1",
+      "team": {
+        "id": 25,
+        "logo": "https://media.api-sports.io/american-football/teams/25.png",
+        "name": "Miami Dolphins"
+      },
+      "ties": 0,
+      "won": 8
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "AFC East",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2024
+      },
+      "lost": 12,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 404,
+        "difference": -66,
+        "for": 338
+      },
+      "position": 3,
+      "records": {
+        "conference": "5-7",
+        "division": "2-4",
+        "home": "3-5",
+        "road": "2-7"
+      },
+      "streak": "W1",
+      "team": {
+        "id": 13,
+        "logo": "https://media.api-sports.io/american-football/teams/13.png",
+        "name": "New York Jets"
+      },
+      "ties": 0,
+      "won": 5
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "AFC East",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2024
+      },
+      "lost": 13,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 417,
+        "difference": -128,
+        "for": 289
+      },
+      "position": 4,
+      "records": {
+        "conference": "3-9",
+        "division": "2-4",
+        "home": "2-6",
+        "road": "2-7"
+      },
+      "streak": "W1",
+      "team": {
+        "id": 3,
+        "logo": "https://media.api-sports.io/american-football/teams/3.png",
+        "name": "New England Patriots"
+      },
+      "ties": 0,
+      "won": 4
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "AFC North",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2024
+      },
+      "lost": 5,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 361,
+        "difference": 157,
+        "for": 518
+      },
+      "position": 1,
+      "records": {
+        "conference": "8-4",
+        "division": "4-2",
+        "home": "6-2",
+        "road": "6-3"
+      },
+      "streak": "W4",
+      "team": {
+        "id": 5,
+        "logo": "https://media.api-sports.io/american-football/teams/5.png",
+        "name": "Baltimore Ravens"
+      },
+      "ties": 0,
+      "won": 12
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "AFC North",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2024
+      },
+      "lost": 7,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 347,
+        "difference": 33,
+        "for": 380
+      },
+      "position": 2,
+      "records": {
+        "conference": "7-5",
+        "division": "3-3",
+        "home": "5-3",
+        "road": "5-4"
+      },
+      "streak": "L4",
+      "team": {
+        "id": 22,
+        "logo": "https://media.api-sports.io/american-football/teams/22.png",
+        "name": "Pittsburgh Steelers"
+      },
+      "ties": 0,
+      "won": 10
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "AFC North",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2024
+      },
+      "lost": 8,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 434,
+        "difference": 38,
+        "for": 472
+      },
+      "position": 3,
+      "records": {
+        "conference": "6-6",
+        "division": "3-3",
+        "home": "3-5",
+        "road": "6-3"
+      },
+      "streak": "W5",
+      "team": {
+        "id": 10,
+        "logo": "https://media.api-sports.io/american-football/teams/10.png",
+        "name": "Cincinnati Bengals"
+      },
+      "ties": 0,
+      "won": 9
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "AFC North",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2024
+      },
+      "lost": 14,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 435,
+        "difference": -177,
+        "for": 258
+      },
+      "position": 4,
+      "records": {
+        "conference": "3-9",
+        "division": "2-4",
+        "home": "2-6",
+        "road": "1-8"
+      },
+      "streak": "L6",
+      "team": {
+        "id": 9,
+        "logo": "https://media.api-sports.io/american-football/teams/9.png",
+        "name": "Cleveland Browns"
+      },
+      "ties": 0,
+      "won": 3
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "AFC South",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2024
+      },
+      "lost": 7,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 372,
+        "difference": 0,
+        "for": 372
+      },
+      "position": 1,
+      "records": {
+        "conference": "8-4",
+        "division": "5-1",
+        "home": "5-3",
+        "road": "5-4"
+      },
+      "streak": "W1",
+      "team": {
+        "id": 26,
+        "logo": "https://media.api-sports.io/american-football/teams/26.png",
+        "name": "Houston Texans"
+      },
+      "ties": 0,
+      "won": 10
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "AFC South",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2024
+      },
+      "lost": 9,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 427,
+        "difference": -50,
+        "for": 377
+      },
+      "position": 2,
+      "records": {
+        "conference": "7-5",
+        "division": "3-3",
+        "home": "5-3",
+        "road": "3-6"
+      },
+      "streak": "W1",
+      "team": {
+        "id": 21,
+        "logo": "https://media.api-sports.io/american-football/teams/21.png",
+        "name": "Indianapolis Colts"
+      },
+      "ties": 0,
+      "won": 8
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "AFC South",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2024
+      },
+      "lost": 13,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 435,
+        "difference": -115,
+        "for": 320
+      },
+      "position": 3,
+      "records": {
+        "conference": "4-8",
+        "division": "3-3",
+        "home": "3-5",
+        "road": "1-8"
+      },
+      "streak": "L1",
+      "team": {
+        "id": 2,
+        "logo": "https://media.api-sports.io/american-football/teams/2.png",
+        "name": "Jacksonville Jaguars"
+      },
+      "ties": 0,
+      "won": 4
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "AFC South",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2024
+      },
+      "lost": 14,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 460,
+        "difference": -149,
+        "for": 311
+      },
+      "position": 4,
+      "records": {
+        "conference": "3-9",
+        "division": "1-5",
+        "home": "1-7",
+        "road": "2-7"
+      },
+      "streak": "L6",
+      "team": {
+        "id": 6,
+        "logo": "https://media.api-sports.io/american-football/teams/6.png",
+        "name": "Tennessee Titans"
+      },
+      "ties": 0,
+      "won": 3
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "AFC West",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2024
+      },
+      "lost": 2,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 326,
+        "difference": 59,
+        "for": 385
+      },
+      "position": 1,
+      "records": {
+        "conference": "10-2",
+        "division": "5-1",
+        "home": "8-0",
+        "road": "7-2"
+      },
+      "streak": "L1",
+      "team": {
+        "id": 17,
+        "logo": "https://media.api-sports.io/american-football/teams/17.png",
+        "name": "Kansas City Chiefs"
+      },
+      "ties": 0,
+      "won": 15
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "AFC West",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2024
+      },
+      "lost": 6,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 301,
+        "difference": 101,
+        "for": 402
+      },
+      "position": 2,
+      "records": {
+        "conference": "8-4",
+        "division": "4-2",
+        "home": "5-3",
+        "road": "6-3"
+      },
+      "streak": "W3",
+      "team": {
+        "id": 30,
+        "logo": "https://media.api-sports.io/american-football/teams/30.png",
+        "name": "Los Angeles Chargers"
+      },
+      "ties": 0,
+      "won": 11
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "AFC West",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2024
+      },
+      "lost": 7,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 311,
+        "difference": 114,
+        "for": 425
+      },
+      "position": 3,
+      "records": {
+        "conference": "6-6",
+        "division": "3-3",
+        "home": "6-2",
+        "road": "4-5"
+      },
+      "streak": "W1",
+      "team": {
+        "id": 28,
+        "logo": "https://media.api-sports.io/american-football/teams/28.png",
+        "name": "Denver Broncos"
+      },
+      "ties": 0,
+      "won": 10
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "AFC West",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2024
+      },
+      "lost": 13,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 434,
+        "difference": -125,
+        "for": 309
+      },
+      "position": 4,
+      "records": {
+        "conference": "3-9",
+        "division": "0-6",
+        "home": "2-6",
+        "road": "2-7"
+      },
+      "streak": "L1",
+      "team": {
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/teams/1.png",
+        "name": "Las Vegas Raiders"
+      },
+      "ties": 0,
+      "won": 4
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "NFC East",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2024
+      },
+      "lost": 3,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 303,
+        "difference": 160,
+        "for": 463
+      },
+      "position": 1,
+      "records": {
+        "conference": "9-3",
+        "division": "5-1",
+        "home": "8-1",
+        "road": "6-2"
+      },
+      "streak": "W2",
+      "team": {
+        "id": 12,
+        "logo": "https://media.api-sports.io/american-football/teams/12.png",
+        "name": "Philadelphia Eagles"
+      },
+      "ties": 0,
+      "won": 14
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "NFC East",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2024
+      },
+      "lost": 5,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 391,
+        "difference": 94,
+        "for": 485
+      },
+      "position": 2,
+      "records": {
+        "conference": "9-3",
+        "division": "4-2",
+        "home": "7-2",
+        "road": "5-3"
+      },
+      "streak": "W5",
+      "team": {
+        "id": 18,
+        "logo": "https://media.api-sports.io/american-football/teams/18.png",
+        "name": "Washington Commanders"
+      },
+      "ties": 0,
+      "won": 12
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "NFC East",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2024
+      },
+      "lost": 10,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 468,
+        "difference": -118,
+        "for": 350
+      },
+      "position": 3,
+      "records": {
+        "conference": "5-7",
+        "division": "3-3",
+        "home": "2-7",
+        "road": "5-3"
+      },
+      "streak": "L2",
+      "team": {
+        "id": 29,
+        "logo": "https://media.api-sports.io/american-football/teams/29.png",
+        "name": "Dallas Cowboys"
+      },
+      "ties": 0,
+      "won": 7
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "NFC East",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2024
+      },
+      "lost": 14,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 415,
+        "difference": -142,
+        "for": 273
+      },
+      "position": 4,
+      "records": {
+        "conference": "1-11",
+        "division": "0-6",
+        "home": "1-8",
+        "road": "2-6"
+      },
+      "streak": "L1",
+      "team": {
+        "id": 4,
+        "logo": "https://media.api-sports.io/american-football/teams/4.png",
+        "name": "New York Giants"
+      },
+      "ties": 0,
+      "won": 3
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "NFC North",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2024
+      },
+      "lost": 2,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 342,
+        "difference": 222,
+        "for": 564
+      },
+      "position": 1,
+      "records": {
+        "conference": "11-1",
+        "division": "6-0",
+        "home": "7-2",
+        "road": "8-0"
+      },
+      "streak": "W3",
+      "team": {
+        "id": 7,
+        "logo": "https://media.api-sports.io/american-football/teams/7.png",
+        "name": "Detroit Lions"
+      },
+      "ties": 0,
+      "won": 15
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "NFC North",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2024
+      },
+      "lost": 3,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 332,
+        "difference": 100,
+        "for": 432
+      },
+      "position": 2,
+      "records": {
+        "conference": "9-3",
+        "division": "4-2",
+        "home": "8-1",
+        "road": "6-2"
+      },
+      "streak": "L1",
+      "team": {
+        "id": 32,
+        "logo": "https://media.api-sports.io/american-football/teams/32.png",
+        "name": "Minnesota Vikings"
+      },
+      "ties": 0,
+      "won": 14
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "NFC North",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2024
+      },
+      "lost": 6,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 338,
+        "difference": 122,
+        "for": 460
+      },
+      "position": 3,
+      "records": {
+        "conference": "6-6",
+        "division": "1-5",
+        "home": "6-3",
+        "road": "5-3"
+      },
+      "streak": "L2",
+      "team": {
+        "id": 15,
+        "logo": "https://media.api-sports.io/american-football/teams/15.png",
+        "name": "Green Bay Packers"
+      },
+      "ties": 0,
+      "won": 11
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "NFC North",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2024
+      },
+      "lost": 12,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 370,
+        "difference": -60,
+        "for": 310
+      },
+      "position": 4,
+      "records": {
+        "conference": "3-9",
+        "division": "1-5",
+        "home": "4-5",
+        "road": "1-7"
+      },
+      "streak": "W1",
+      "team": {
+        "id": 16,
+        "logo": "https://media.api-sports.io/american-football/teams/16.png",
+        "name": "Chicago Bears"
+      },
+      "ties": 0,
+      "won": 5
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "NFC South",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2024
+      },
+      "lost": 7,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 385,
+        "difference": 117,
+        "for": 502
+      },
+      "position": 1,
+      "records": {
+        "conference": "8-4",
+        "division": "4-2",
+        "home": "5-4",
+        "road": "5-3"
+      },
+      "streak": "W2",
+      "team": {
+        "id": 24,
+        "logo": "https://media.api-sports.io/american-football/teams/24.png",
+        "name": "Tampa Bay Buccaneers"
+      },
+      "ties": 0,
+      "won": 10
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "NFC South",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2024
+      },
+      "lost": 9,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 423,
+        "difference": -34,
+        "for": 389
+      },
+      "position": 2,
+      "records": {
+        "conference": "7-5",
+        "division": "4-2",
+        "home": "4-5",
+        "road": "4-4"
+      },
+      "streak": "L2",
+      "team": {
+        "id": 8,
+        "logo": "https://media.api-sports.io/american-football/teams/8.png",
+        "name": "Atlanta Falcons"
+      },
+      "ties": 0,
+      "won": 8
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "NFC South",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2024
+      },
+      "lost": 12,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 534,
+        "difference": -193,
+        "for": 341
+      },
+      "position": 3,
+      "records": {
+        "conference": "4-8",
+        "division": "2-4",
+        "home": "3-6",
+        "road": "2-6"
+      },
+      "streak": "W1",
+      "team": {
+        "id": 19,
+        "logo": "https://media.api-sports.io/american-football/teams/19.png",
+        "name": "Carolina Panthers"
+      },
+      "ties": 0,
+      "won": 5
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "NFC South",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2024
+      },
+      "lost": 12,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 398,
+        "difference": -60,
+        "for": 338
+      },
+      "position": 4,
+      "records": {
+        "conference": "4-8",
+        "division": "2-4",
+        "home": "3-6",
+        "road": "2-6"
+      },
+      "streak": "L4",
+      "team": {
+        "id": 27,
+        "logo": "https://media.api-sports.io/american-football/teams/27.png",
+        "name": "New Orleans Saints"
+      },
+      "ties": 0,
+      "won": 5
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "NFC West",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2024
+      },
+      "lost": 7,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 386,
+        "difference": -19,
+        "for": 367
+      },
+      "position": 1,
+      "records": {
+        "conference": "6-6",
+        "division": "4-2",
+        "home": "5-4",
+        "road": "5-3"
+      },
+      "streak": "L1",
+      "team": {
+        "id": 31,
+        "logo": "https://media.api-sports.io/american-football/teams/31.png",
+        "name": "Los Angeles Rams"
+      },
+      "ties": 0,
+      "won": 10
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "NFC West",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2024
+      },
+      "lost": 7,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 368,
+        "difference": 7,
+        "for": 375
+      },
+      "position": 2,
+      "records": {
+        "conference": "6-6",
+        "division": "4-2",
+        "home": "3-6",
+        "road": "7-1"
+      },
+      "streak": "W2",
+      "team": {
+        "id": 23,
+        "logo": "https://media.api-sports.io/american-football/teams/23.png",
+        "name": "Seattle Seahawks"
+      },
+      "ties": 0,
+      "won": 10
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "NFC West",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2024
+      },
+      "lost": 9,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 379,
+        "difference": 21,
+        "for": 400
+      },
+      "position": 3,
+      "records": {
+        "conference": "4-8",
+        "division": "3-3",
+        "home": "6-3",
+        "road": "2-6"
+      },
+      "streak": "W1",
+      "team": {
+        "id": 11,
+        "logo": "https://media.api-sports.io/american-football/teams/11.png",
+        "name": "Arizona Cardinals"
+      },
+      "ties": 0,
+      "won": 8
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "NFC West",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2024
+      },
+      "lost": 11,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 436,
+        "difference": -47,
+        "for": 389
+      },
+      "position": 4,
+      "records": {
+        "conference": "4-8",
+        "division": "1-5",
+        "home": "4-5",
+        "road": "2-6"
+      },
+      "streak": "L4",
+      "team": {
+        "id": 14,
+        "logo": "https://media.api-sports.io/american-football/teams/14.png",
+        "name": "San Francisco 49ers"
+      },
+      "ties": 0,
+      "won": 6
+    }
+  ],
+  "results": 32
+}

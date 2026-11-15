@@ -1,0 +1,12 @@
+{
+  "errors": {
+    "season": "The Season field must contain an integer."
+  },
+  "get": "standings",
+  "parameters": {
+    "league": "57",
+    "season": "2024-2025"
+  },
+  "response": [],
+  "results": 0
+}

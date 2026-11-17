@@ -35,6 +35,11 @@ the clock, regardless of user count.
   a documented-envelope API-Sports /odds fixture
   (`tests/fixtures/apisports-nba-odds.json`), including missing-market and
   malformed-bookmaker cases.
+- `oddsapi.mjs` — The Odds API board layer (mapping, bookmaker choice,
+  sweep gate, carry-over, fallback merge; pure functions, no I/O).
+- `tests/oddsapi.test.mjs` — unit tests for that layer, run against a
+  documented-envelope Odds API fixture
+  (`tests/fixtures/oddsapi-nba-odds.json`). No live calls.
 - `aggregates.mjs` — republishes the Intelligence Engine aggregates the
   daily harvest already produced into the feed's `aggregates` section
   (see below). Zero provider requests.
@@ -61,9 +66,9 @@ The same collector also runs on Vercel (project `sports-feed`, team
   `CRON_SECRET` bearer header automatically; the function requires it
   whenever `CRON_SECRET` is set.
 - Keys live only as project environment variables on Vercel
-  (`APISPORTS_KEY` / per-sport overrides, `CRON_SECRET`,
-  `BLOB_READ_WRITE_TOKEN` from the connected Blob store) — never in the
-  repo, never in the app.
+  (`APISPORTS_KEY` / per-sport overrides, `ODDS_API_KEY` for the
+  board's Odds API layer, `CRON_SECRET`, `BLOB_READ_WRITE_TOKEN` from
+  the connected Blob store) — never in the repo, never in the app.
 - Feed URL (Vercel Blob, stable): _pending first verified publish — see
   git history / project dashboard._
 - The GitHub Pages feed
@@ -109,7 +114,7 @@ would blow the cap.)
 ```json
 {
   "generatedAt": "ISO timestamp",
-  "source": "103 sports-feed collector — API-Sports (games/odds), ESPN (news)",
+  "source": "103 sports-feed collector — API-Sports (games/stats), The Odds API (board odds), ESPN (news)",
   "sportsConfigured": ["Basketball", "Football"],
   "picks":  [ /* Notable Lines cards: favorite, implied %, bookmaker */ ],
   "slate":  [ /* live + upcoming games */ ],
@@ -125,8 +130,16 @@ would blow the cap.)
                  weighted_averages: { team: { metric: value } },
                  data_as_of?: ISO } — see Aggregates section below.
                  Football reads the Engine's american-football doc. */ },
+  "boardMeta": { /* The Odds API board layer: { source: "the-odds-api",
+                 oddsApiFetchedAt, creditsRemaining, creditsUsed, status,
+                 oddsApiGameIds } — sweep provenance + credit state; see
+                 Board rules below. */ },
   "aggregatesErrors": { /* display sport -> message, only for sports
                  whose aggregates document could not be loaded */ },
+  "apiSportsErrors": { /* display sport -> API-Sports failure message,
+                 ONLY for sports The Odds API covered this run (their
+                 API-Sports message is kept out of `errors` so it cannot
+                 stale their board prices in the app) */ },
   "news": {
     "fetchedAt": "ISO timestamp",
     "Basketball": {
@@ -147,17 +160,31 @@ probability implied by the odds (never a "model probability"); sports
 without keys or with failed fetches appear in `errors` and contribute no
 items — the app shows empty states rather than placeholder data.
 
-Board rules (spec §§4.2/4.4/8): the board is published from the odds
-responses the collector already fetches for the pick cards — zero extra
-provider requests, so coverage is the same ≤3 near-term games per sport
-per run. Prices are the provider's decimals converted to American format
-at publish time. The spread `line` is signed from the home team's
-perspective (negative = home favored). A market publishes only when both
-sides are present at the same line (first complete pair wins when a
-bookmaker lists alternate lines); a market the provider does not carry
-is `null`, a malformed bookmaker is dropped whole, and nothing is ever
-repaired into an invented price. Every line set carries its bookmaker's
-name and the snapshot's `fetchedAt` — no as-of time, no publication.
+Board rules (spec §§4.2/4.4/8): Prices are published in American format.
+The spread `line` is signed from the home team's perspective (negative
+= home favored). A market publishes only when both sides are present at
+the same line (first complete pair wins when a bookmaker lists alternate
+lines); a market the provider does not carry is `null`, a malformed
+bookmaker is dropped whole, and nothing is ever repaired into an
+invented price. Every line set carries its bookmaker's name and the
+snapshot's `fetchedAt` — no as-of time, no publication.
+
+Board odds source (since 2026-11-17, design-doc amendment): The Odds
+API free tier (`ODDS_API_KEY`, the key shared with the SportsBettingGPT
+backend — 500 credits/month total). API-Sports' free plan refuses the
+current season for Basketball/Baseball/Hockey, which left its board
+empty. The collector runs ONE bulk sweep (4 sports × markets × regions
+= 12 credits) at most every ~22 hours, gated by the prior published
+feed's `boardMeta` and the response credit headers, and never when
+remaining credits are under 50; between sweeps the last sweep's entries
+carry over verbatim (their `fetchedAt` stays the sweep time). Each game
+publishes ONE bookmaker's complete line set — DraftKings, then FanDuel,
+then BetMGM, then Caesars, else the first book carrying all three
+markets. The API-Sports board (published from the odds responses the
+collector already fetches for the pick cards — zero extra provider
+requests, ≤3 near-term games per sport per run, decimals converted at
+publish time) remains as a fallback for games The Odds API does not
+carry; the two sources' prices are never blended into one entry.
 
 News honesty rules: a league whose ESPN JSON *and* RSS fetches both fail
 (or return nothing usable) gets `"articles": []` and a plain-language

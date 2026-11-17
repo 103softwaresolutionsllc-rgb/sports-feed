@@ -22,6 +22,14 @@
  *   that is at most 80 requests/day per sport — inside the cap with
  *   headroom for manual runs. (Hourly would be 120/day and blow the cap.)
  *
+ * Board layer (Predict remake spec §4.2): the same odds responses also
+ * publish a `board` section — per covered game, per-bookmaker moneyline /
+ * spread / total line sets in American format, each carrying the
+ * bookmaker's name and the snapshot's fetch time. This is a publishing
+ * change on responses already fetched: ZERO extra provider requests, and
+ * board coverage is exactly the odds candidates above (≤3 near-term
+ * games per sport per run).
+ *
  * News layer (news.mjs): the same run also collects headlines per league
  * from ESPN's unofficial news JSON (no key, no quota), with the league's
  * ESPN RSS feed as fallback, into the feed's top-level `news` object.
@@ -38,6 +46,7 @@ import {
   toSlateItem,
   toPickCard,
   extractFavoriteLine,
+  extractBoardGame,
 } from './normalize.mjs';
 import { collectNews } from './news.mjs';
 
@@ -113,21 +122,33 @@ async function buildSportFeed(sport, key) {
   const slate = games.slice(0, MAX_SLATE_PER_SPORT).map(toSlateItem);
 
   const picks = [];
+  const board = [];
   const windowEnd = Date.now() + ODDS_WINDOW_HOURS * 60 * 60 * 1000;
   const candidates = games
     .filter((g) => g.status === 'upcoming' && g.startTs <= windowEnd)
     .slice(0, MAX_ODDS_LOOKUPS);
+  // Every candidate's odds response feeds BOTH the pick card and the
+  // board entry, so the loop never stops early: candidates are already
+  // capped at MAX_ODDS_LOOKUPS, and the request count is unchanged.
   for (const game of candidates) {
-    if (picks.length >= MAX_PICKS_PER_SPORT) break;
     try {
       const odds = await apiGet(sport, key, `/odds?game=${game.id}`);
+      // Board publishing (spec §4.2) reuses THIS response — the full odds
+      // payload already arrived for the pick card; publishing the board
+      // costs zero extra provider requests. fetchedAt is the moment this
+      // snapshot arrived; every line set in it carries that as-of time.
+      const fetchedAt = new Date().toISOString();
       const line = extractFavoriteLine(odds, game);
-      if (line && line.impliedPct != null) picks.push(toPickCard(game, line));
+      if (line && line.impliedPct != null && picks.length < MAX_PICKS_PER_SPORT) {
+        picks.push(toPickCard(game, line));
+      }
+      const boardGame = extractBoardGame(odds, game, fetchedAt);
+      if (boardGame) board.push(boardGame);
     } catch {
       // Odds are best-effort per game; a failed lookup never blocks the slate.
     }
   }
-  return { slate, picks };
+  return { slate, picks, board };
 }
 
 /**
@@ -139,6 +160,7 @@ async function buildSportFeed(sport, key) {
 export async function collectFeed() {
   const picks = [];
   const slate = [];
+  const board = [];
   const errors = {};
   const sportsConfigured = [];
 
@@ -155,8 +177,9 @@ export async function collectFeed() {
       const feed = await buildSportFeed(sport, key);
       picks.push(...feed.picks);
       slate.push(...feed.slate);
+      board.push(...feed.board);
       console.log(
-        `${sport}: ${feed.slate.length} slate, ${feed.picks.length} picks`
+        `${sport}: ${feed.slate.length} slate, ${feed.picks.length} picks, ${feed.board.length} board`
       );
     } catch (err) {
       errors[sport] = String(err?.message || err);
@@ -165,6 +188,7 @@ export async function collectFeed() {
   }
 
   picks.sort((a, b) => a.startTs - b.startTs);
+  board.sort((a, b) => a.startTs - b.startTs);
   slate.sort((a, b) => {
     if (a.status !== b.status) return a.status === 'live' ? -1 : 1;
     return a.startTs - b.startTs;
@@ -189,6 +213,7 @@ export async function collectFeed() {
     sportsConfigured,
     picks,
     slate,
+    board,
     news,
     errors,
   };
@@ -205,7 +230,7 @@ async function main() {
   );
   await writeFile(outPath, JSON.stringify(feed, null, 2));
   console.log(
-    `Wrote ${outPath}: ${feed.picks.length} picks, ${feed.slate.length} slate items, ${newsCount} news articles, sports: ${feed.sportsConfigured.join(', ') || 'none'}`
+    `Wrote ${outPath}: ${feed.picks.length} picks, ${feed.slate.length} slate items, ${feed.board.length} board games, ${newsCount} news articles, sports: ${feed.sportsConfigured.join(', ') || 'none'}`
   );
 }
 

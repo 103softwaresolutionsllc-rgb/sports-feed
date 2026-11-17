@@ -35,6 +35,18 @@
  * ESPN RSS feed as fallback, into the feed's top-level `news` object.
  * News failures are per-league `error` entries — they never block the
  * API-Sports sections, and empty leagues stay honestly empty.
+ *
+ * Aggregates layer (aggregates.mjs): the same run also republishes the
+ * Intelligence Engine aggregates the daily harvest already produced
+ * (data branch, data/intelligence/aggregates/<sport>.json) into the
+ * feed's top-level `aggregates` section — { summary, weighted_averages }
+ * per display sport, summary carried verbatim — so the BetTracker board's
+ * model overlay (boardEngineInputs) can run on live games. ZERO extra
+ * provider requests: the documents are read over HTTPS from the data
+ * branch's published directory (or a local INTELLIGENCE_DATA_DIR), never
+ * from API-Sports. Failures land in the feed's `aggregatesErrors`, never
+ * in `errors` (a per-sport `errors` entry means that sport's collector
+ * run failed and would stale its board prices), and never block the feed.
  */
 
 import { writeFile } from 'node:fs/promises';
@@ -49,6 +61,7 @@ import {
   extractBoardGame,
 } from './normalize.mjs';
 import { collectNews } from './news.mjs';
+import { collectAggregates } from './aggregates.mjs';
 
 const MAX_PICKS_PER_SPORT = 3;
 const MAX_SLATE_PER_SPORT = 6;
@@ -207,6 +220,22 @@ export async function collectFeed() {
     };
     console.error(news.error);
   }
+  // Aggregates layer runs in the same pass. collectAggregates() is fully
+  // guarded per sport and never throws; this catch is a last resort so an
+  // aggregates-layer surprise can never block publishing the feed — the
+  // section degrades to {} and the app's no-stats gate withholds model
+  // reads, exactly as it did before this section existed.
+  let aggregates = {};
+  let aggregatesErrors = {};
+  try {
+    ({ aggregates, errors: aggregatesErrors } = await collectAggregates());
+    for (const [sport, message] of Object.entries(aggregatesErrors)) {
+      console.error(`aggregates ${sport}: FAILED — ${message}`);
+    }
+  } catch (err) {
+    aggregatesErrors = { Aggregates: String(err?.message || err) };
+    console.error(`aggregates layer failed: ${aggregatesErrors.Aggregates}`);
+  }
   const feed = {
     generatedAt: new Date().toISOString(),
     source: '103 sports-feed collector — API-Sports (games/odds), ESPN (news)',
@@ -214,6 +243,8 @@ export async function collectFeed() {
     picks,
     slate,
     board,
+    aggregates,
+    aggregatesErrors,
     news,
     errors,
   };
@@ -230,7 +261,7 @@ async function main() {
   );
   await writeFile(outPath, JSON.stringify(feed, null, 2));
   console.log(
-    `Wrote ${outPath}: ${feed.picks.length} picks, ${feed.slate.length} slate items, ${feed.board.length} board games, ${newsCount} news articles, sports: ${feed.sportsConfigured.join(', ') || 'none'}`
+    `Wrote ${outPath}: ${feed.picks.length} picks, ${feed.slate.length} slate items, ${feed.board.length} board games, ${newsCount} news articles, aggregates for ${Object.keys(feed.aggregates ?? {}).length} sports, sports: ${feed.sportsConfigured.join(', ') || 'none'}`
   );
 }
 

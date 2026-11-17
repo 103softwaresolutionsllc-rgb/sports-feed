@@ -54,6 +54,7 @@ export default async function handler(req, res) {
     const articles = newsArticleCount(feed.news);
     console.log(
       `collect ok: ${articles} news articles, ` +
+        `aggregates: ${Object.keys(feed.aggregates ?? {}).join(', ') || 'none'}, ` +
         `sports configured: ${feed.sportsConfigured.join(', ') || 'none'} ` +
         `-> ${blob.url}`
     );
@@ -61,6 +62,7 @@ export default async function handler(req, res) {
       ok: true,
       generatedAt: feed.generatedAt,
       articles,
+      aggregatesSports: Object.keys(feed.aggregates ?? {}),
       sportsConfigured: feed.sportsConfigured,
       feedUrl: blob.url,
     });

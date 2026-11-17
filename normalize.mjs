@@ -277,6 +277,188 @@ export function extractFavoriteLine(oddsPayload, game) {
   return null;
 }
 
+/**
+ * ---------------------------------------------------------------------------
+ * Board extraction — the sportsbook board contract (Predict remake spec
+ * §4.2, Option B). The collector ALREADY receives the full /odds response
+ * for every game it fetches odds for; extractFavoriteLine above keeps only
+ * the favorite's moneyline and discards the rest. These functions publish
+ * the rest — per bookmaker: moneyline (both prices), spread (line + both
+ * prices), total (line + both prices) — where the provider's response
+ * carries them. Publishing only: no new provider calls, no new data.
+ *
+ * Honesty rules (spec §§4.2/4.4/8):
+ *  - Markets are matched by the SHAPE of their values, exactly as
+ *    extractFavoriteLine matches them — never by bet names, which differ
+ *    per sport.
+ *  - Prices are converted from the provider's decimals to American format
+ *    at publish time (decimalToAmerican). A price that cannot be read
+ *    (non-numeric, <= 1) drops its market — it is never repaired, rounded
+ *    into existence, or borrowed from another market/bookmaker.
+ *  - A market is published only when BOTH sides are present at the SAME
+ *    line (spread/total) — a lone side is not a line set.
+ *  - When a bookmaker lists several lines for a market (main + alternate
+ *    lines in one bet's values), the FIRST complete pair in provider
+ *    order is the published line.
+ *  - A bookmaker with no readable name, no bets list, or no valid market
+ *    is dropped whole; other bookmakers in the same payload are kept.
+ *  - No line set publishes without the snapshot's fetch time: a price
+ *    with no as-of time must never reach the board (spec §8), so an
+ *    unreadable fetchedAt yields no board entry at all.
+ * ---------------------------------------------------------------------------
+ */
+
+/** Provider decimal odd → American price string, or null when unreadable. */
+function americanPrice(rawOdd) {
+  return decimalToAmerican(rawOdd);
+}
+
+const SPREAD_VALUE_RE = /^(Home|Away)\s+([+-]?\d+(?:\.\d+)?)$/;
+const TOTAL_VALUE_RE = /^(Over|Under)\s+([+-]?\d+(?:\.\d+)?)$/;
+
+/**
+ * Moneyline from one bet's values: the exact Home/Away pair. Returns
+ * { home, away } American price strings, or null unless BOTH sides carry
+ * a readable price.
+ */
+function moneylineFromValues(values) {
+  const homeVal = values.find((v) => v?.value === 'Home');
+  const awayVal = values.find((v) => v?.value === 'Away');
+  if (!homeVal || !awayVal) return null;
+  const home = americanPrice(homeVal.odd);
+  const away = americanPrice(awayVal.odd);
+  if (home == null || away == null) return null;
+  return { home, away };
+}
+
+/**
+ * Spread from one bet's values ("Home -5.5" / "Away +5.5"). The published
+ * line is signed from the HOME team's perspective (negative = home
+ * favored), matching how the favorite's spread already renders. Returns
+ * { line, home, away } for the first pair of sides carrying the same
+ * absolute line with opposite signs (or a 0 / pick'em pair), else null.
+ */
+function spreadFromValues(values) {
+  const homes = [];
+  const aways = [];
+  for (const v of values) {
+    const m = SPREAD_VALUE_RE.exec(String(v?.value || ''));
+    if (!m) continue;
+    const price = americanPrice(v.odd);
+    if (price == null) continue;
+    (m[1] === 'Home' ? homes : aways).push({ line: Number(m[2]), price });
+  }
+  for (const h of homes) {
+    const a = aways.find((x) => x.line === -h.line);
+    if (a) return { line: h.line, home: h.price, away: a.price };
+  }
+  return null;
+}
+
+/**
+ * Total from one bet's values ("Over 221.5" / "Under 221.5"). Returns
+ * { line, over, under } for the first line both sides carry, else null.
+ */
+function totalFromValues(values) {
+  const overs = [];
+  const unders = [];
+  for (const v of values) {
+    const m = TOTAL_VALUE_RE.exec(String(v?.value || ''));
+    if (!m) continue;
+    const line = Number(m[2]);
+    if (!(line > 0)) continue;
+    const price = americanPrice(v.odd);
+    if (price == null) continue;
+    (m[1] === 'Over' ? overs : unders).push({ line, price });
+  }
+  for (const o of overs) {
+    const u = unders.find((x) => x.line === o.line);
+    if (u) return { line: o.line, over: o.price, under: u.price };
+  }
+  return null;
+}
+
+/**
+ * One bookmaker's board line set, or null when the bookmaker is malformed
+ * (not an object, no readable name, no bets list) or carries no valid
+ * market. Markets the provider does not carry — or carries unreadably —
+ * are null in the set, never invented.
+ */
+export function extractBoardLineSet(bookmaker, fetchedAt) {
+  if (!bookmaker || typeof bookmaker !== 'object') return null;
+  const name =
+    typeof bookmaker.name === 'string' ? bookmaker.name.trim() : '';
+  if (!name) return null;
+  if (!Array.isArray(bookmaker.bets)) return null;
+  let moneyline = null;
+  let spread = null;
+  let total = null;
+  for (const bet of bookmaker.bets) {
+    const values = Array.isArray(bet?.values) ? bet.values : null;
+    if (!values) continue;
+    if (!moneyline) moneyline = moneylineFromValues(values);
+    if (!spread) spread = spreadFromValues(values);
+    if (!total) total = totalFromValues(values);
+    if (moneyline && spread && total) break;
+  }
+  if (!moneyline && !spread && !total) return null;
+  return { bookmaker: name, fetchedAt, moneyline, spread, total };
+}
+
+/**
+ * All valid line sets in a raw /odds payload (array or { response }),
+ * deduped by bookmaker name (first valid set wins). Malformed bookmakers
+ * drop out individually. Never throws.
+ */
+export function extractBoardLineSets(oddsPayload, fetchedAt) {
+  const entries = Array.isArray(oddsPayload) ? oddsPayload : oddsPayload?.response;
+  if (!Array.isArray(entries)) return [];
+  const seen = new Set();
+  const sets = [];
+  for (const entry of entries) {
+    if (!entry || typeof entry !== 'object') continue;
+    for (const bookmaker of Array.isArray(entry.bookmakers) ? entry.bookmakers : []) {
+      const set = extractBoardLineSet(bookmaker, fetchedAt);
+      if (!set || seen.has(set.bookmaker)) continue;
+      seen.add(set.bookmaker);
+      sets.push(set);
+    }
+  }
+  return sets;
+}
+
+/**
+ * Board entry for one covered game (spec §4.2): game id, league, teams,
+ * start time, and the per-bookmaker line sets from the odds response the
+ * collector already fetched for that game. `game` is a normalizeGame()
+ * result; `fetchedAt` is the ISO time that odds snapshot was fetched.
+ * Returns null when the game cannot be identified honestly, the fetch
+ * time is unreadable, or no bookmaker yields a valid line set.
+ */
+export function extractBoardGame(oddsPayload, game, fetchedAt) {
+  if (!game || typeof game !== 'object') return null;
+  if (game.id == null || !game.home || !game.away || !game.sportLabel) return null;
+  if (!Number.isFinite(game.startTs) || game.startTs <= 0) return null;
+  const fetchedMs = Date.parse(typeof fetchedAt === 'string' ? fetchedAt : '');
+  if (!Number.isFinite(fetchedMs)) return null;
+  const fetchedIso = new Date(fetchedMs).toISOString();
+  const lineSets = extractBoardLineSets(oddsPayload, fetchedIso);
+  if (lineSets.length === 0) return null;
+  return {
+    id: `apisp-board-${game.sport}-${game.id}`,
+    gameId: game.id,
+    sport: game.sport,
+    league: game.sportLabel,
+    home: game.home,
+    away: game.away,
+    homeCode: game.homeCode || null,
+    awayCode: game.awayCode || null,
+    startTs: game.startTs,
+    startAt: new Date(game.startTs).toISOString(),
+    lineSets,
+  };
+}
+
 const BAR_BY_BADGE = { high: '#4a9eff', signal: '#22c55e', caution: '#eab308' };
 
 // ---------------------------------------------------------------------------

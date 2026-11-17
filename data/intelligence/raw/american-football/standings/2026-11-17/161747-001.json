@@ -1,0 +1,1419 @@
+{
+  "errors": [],
+  "get": "standings",
+  "parameters": {
+    "league": "1",
+    "season": "2023"
+  },
+  "response": [
+    {
+      "conference": "American Football Conference",
+      "division": "AFC East",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2023
+      },
+      "lost": 6,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 311,
+        "difference": 140,
+        "for": 451
+      },
+      "position": 1,
+      "records": {
+        "conference": "7-5",
+        "division": "4-2",
+        "home": "7-2",
+        "road": "4-4"
+      },
+      "streak": "W5",
+      "team": {
+        "id": 20,
+        "logo": "https://media.api-sports.io/american-football/teams/20.png",
+        "name": "Buffalo Bills"
+      },
+      "ties": 0,
+      "won": 11
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "AFC East",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2023
+      },
+      "lost": 6,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 391,
+        "difference": 105,
+        "for": 496
+      },
+      "position": 2,
+      "records": {
+        "conference": "7-5",
+        "division": "4-2",
+        "home": "7-2",
+        "road": "4-4"
+      },
+      "streak": "L2",
+      "team": {
+        "id": 25,
+        "logo": "https://media.api-sports.io/american-football/teams/25.png",
+        "name": "Miami Dolphins"
+      },
+      "ties": 0,
+      "won": 11
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "AFC East",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2023
+      },
+      "lost": 10,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 355,
+        "difference": -87,
+        "for": 268
+      },
+      "position": 3,
+      "records": {
+        "conference": "4-8",
+        "division": "2-4",
+        "home": "4-5",
+        "road": "3-5"
+      },
+      "streak": "W1",
+      "team": {
+        "id": 13,
+        "logo": "https://media.api-sports.io/american-football/teams/13.png",
+        "name": "New York Jets"
+      },
+      "ties": 0,
+      "won": 7
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "AFC East",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2023
+      },
+      "lost": 13,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 366,
+        "difference": -130,
+        "for": 236
+      },
+      "position": 4,
+      "records": {
+        "conference": "4-8",
+        "division": "2-4",
+        "home": "1-8",
+        "road": "3-5"
+      },
+      "streak": "L2",
+      "team": {
+        "id": 3,
+        "logo": "https://media.api-sports.io/american-football/teams/3.png",
+        "name": "New England Patriots"
+      },
+      "ties": 0,
+      "won": 4
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "AFC North",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2023
+      },
+      "lost": 4,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 280,
+        "difference": 203,
+        "for": 483
+      },
+      "position": 1,
+      "records": {
+        "conference": "8-4",
+        "division": "3-3",
+        "home": "6-3",
+        "road": "7-1"
+      },
+      "streak": "L1",
+      "team": {
+        "id": 5,
+        "logo": "https://media.api-sports.io/american-football/teams/5.png",
+        "name": "Baltimore Ravens"
+      },
+      "ties": 0,
+      "won": 13
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "AFC North",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2023
+      },
+      "lost": 6,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 362,
+        "difference": 34,
+        "for": 396
+      },
+      "position": 2,
+      "records": {
+        "conference": "8-4",
+        "division": "3-3",
+        "home": "8-1",
+        "road": "3-5"
+      },
+      "streak": "L1",
+      "team": {
+        "id": 9,
+        "logo": "https://media.api-sports.io/american-football/teams/9.png",
+        "name": "Cleveland Browns"
+      },
+      "ties": 0,
+      "won": 11
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "AFC North",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2023
+      },
+      "lost": 7,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 324,
+        "difference": -20,
+        "for": 304
+      },
+      "position": 3,
+      "records": {
+        "conference": "7-5",
+        "division": "5-1",
+        "home": "5-4",
+        "road": "5-3"
+      },
+      "streak": "W3",
+      "team": {
+        "id": 22,
+        "logo": "https://media.api-sports.io/american-football/teams/22.png",
+        "name": "Pittsburgh Steelers"
+      },
+      "ties": 0,
+      "won": 10
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "AFC North",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2023
+      },
+      "lost": 8,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 384,
+        "difference": -18,
+        "for": 366
+      },
+      "position": 4,
+      "records": {
+        "conference": "4-8",
+        "division": "1-5",
+        "home": "6-3",
+        "road": "3-5"
+      },
+      "streak": "W1",
+      "team": {
+        "id": 10,
+        "logo": "https://media.api-sports.io/american-football/teams/10.png",
+        "name": "Cincinnati Bengals"
+      },
+      "ties": 0,
+      "won": 9
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "AFC South",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2023
+      },
+      "lost": 7,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 353,
+        "difference": 24,
+        "for": 377
+      },
+      "position": 1,
+      "records": {
+        "conference": "7-5",
+        "division": "4-2",
+        "home": "6-3",
+        "road": "4-4"
+      },
+      "streak": "W2",
+      "team": {
+        "id": 26,
+        "logo": "https://media.api-sports.io/american-football/teams/26.png",
+        "name": "Houston Texans"
+      },
+      "ties": 0,
+      "won": 10
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "AFC South",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2023
+      },
+      "lost": 8,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 371,
+        "difference": 6,
+        "for": 377
+      },
+      "position": 2,
+      "records": {
+        "conference": "6-6",
+        "division": "4-2",
+        "home": "4-5",
+        "road": "5-3"
+      },
+      "streak": "L1",
+      "team": {
+        "id": 2,
+        "logo": "https://media.api-sports.io/american-football/teams/2.png",
+        "name": "Jacksonville Jaguars"
+      },
+      "ties": 0,
+      "won": 9
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "AFC South",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2023
+      },
+      "lost": 8,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 415,
+        "difference": -19,
+        "for": 396
+      },
+      "position": 3,
+      "records": {
+        "conference": "7-5",
+        "division": "3-3",
+        "home": "4-5",
+        "road": "5-3"
+      },
+      "streak": "L1",
+      "team": {
+        "id": 21,
+        "logo": "https://media.api-sports.io/american-football/teams/21.png",
+        "name": "Indianapolis Colts"
+      },
+      "ties": 0,
+      "won": 9
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "AFC South",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2023
+      },
+      "lost": 11,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 367,
+        "difference": -62,
+        "for": 305
+      },
+      "position": 4,
+      "records": {
+        "conference": "4-8",
+        "division": "1-5",
+        "home": "5-4",
+        "road": "1-7"
+      },
+      "streak": "W1",
+      "team": {
+        "id": 6,
+        "logo": "https://media.api-sports.io/american-football/teams/6.png",
+        "name": "Tennessee Titans"
+      },
+      "ties": 0,
+      "won": 6
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "AFC West",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2023
+      },
+      "lost": 6,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 294,
+        "difference": 77,
+        "for": 371
+      },
+      "position": 1,
+      "records": {
+        "conference": "9-3",
+        "division": "4-2",
+        "home": "5-4",
+        "road": "6-2"
+      },
+      "streak": "W2",
+      "team": {
+        "id": 17,
+        "logo": "https://media.api-sports.io/american-football/teams/17.png",
+        "name": "Kansas City Chiefs"
+      },
+      "ties": 0,
+      "won": 11
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "AFC West",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2023
+      },
+      "lost": 9,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 331,
+        "difference": 1,
+        "for": 332
+      },
+      "position": 2,
+      "records": {
+        "conference": "6-6",
+        "division": "4-2",
+        "home": "6-3",
+        "road": "2-6"
+      },
+      "streak": "W1",
+      "team": {
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/teams/1.png",
+        "name": "Las Vegas Raiders"
+      },
+      "ties": 0,
+      "won": 8
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "AFC West",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2023
+      },
+      "lost": 9,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 413,
+        "difference": -56,
+        "for": 357
+      },
+      "position": 3,
+      "records": {
+        "conference": "5-7",
+        "division": "3-3",
+        "home": "5-4",
+        "road": "3-5"
+      },
+      "streak": "L1",
+      "team": {
+        "id": 28,
+        "logo": "https://media.api-sports.io/american-football/teams/28.png",
+        "name": "Denver Broncos"
+      },
+      "ties": 0,
+      "won": 8
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "AFC West",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2023
+      },
+      "lost": 12,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 398,
+        "difference": -52,
+        "for": 346
+      },
+      "position": 4,
+      "records": {
+        "conference": "3-9",
+        "division": "1-5",
+        "home": "2-7",
+        "road": "3-5"
+      },
+      "streak": "L5",
+      "team": {
+        "id": 30,
+        "logo": "https://media.api-sports.io/american-football/teams/30.png",
+        "name": "Los Angeles Chargers"
+      },
+      "ties": 0,
+      "won": 5
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "NFC East",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2023
+      },
+      "lost": 5,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 315,
+        "difference": 194,
+        "for": 509
+      },
+      "position": 1,
+      "records": {
+        "conference": "9-3",
+        "division": "5-1",
+        "home": "8-0",
+        "road": "4-5"
+      },
+      "streak": "W2",
+      "team": {
+        "id": 29,
+        "logo": "https://media.api-sports.io/american-football/teams/29.png",
+        "name": "Dallas Cowboys"
+      },
+      "ties": 0,
+      "won": 12
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "NFC East",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2023
+      },
+      "lost": 6,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 428,
+        "difference": 5,
+        "for": 433
+      },
+      "position": 2,
+      "records": {
+        "conference": "7-5",
+        "division": "4-2",
+        "home": "6-2",
+        "road": "5-4"
+      },
+      "streak": "L2",
+      "team": {
+        "id": 12,
+        "logo": "https://media.api-sports.io/american-football/teams/12.png",
+        "name": "Philadelphia Eagles"
+      },
+      "ties": 0,
+      "won": 11
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "NFC East",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2023
+      },
+      "lost": 11,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 407,
+        "difference": -141,
+        "for": 266
+      },
+      "position": 3,
+      "records": {
+        "conference": "5-7",
+        "division": "3-3",
+        "home": "4-4",
+        "road": "2-7"
+      },
+      "streak": "W1",
+      "team": {
+        "id": 4,
+        "logo": "https://media.api-sports.io/american-football/teams/4.png",
+        "name": "New York Giants"
+      },
+      "ties": 0,
+      "won": 6
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "NFC East",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2023
+      },
+      "lost": 13,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 518,
+        "difference": -189,
+        "for": 329
+      },
+      "position": 4,
+      "records": {
+        "conference": "2-10",
+        "division": "0-6",
+        "home": "1-7",
+        "road": "3-6"
+      },
+      "streak": "L8",
+      "team": {
+        "id": 18,
+        "logo": "https://media.api-sports.io/american-football/teams/18.png",
+        "name": "Washington Commanders"
+      },
+      "ties": 0,
+      "won": 4
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "NFC North",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2023
+      },
+      "lost": 5,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 395,
+        "difference": 66,
+        "for": 461
+      },
+      "position": 1,
+      "records": {
+        "conference": "8-4",
+        "division": "4-2",
+        "home": "6-2",
+        "road": "6-3"
+      },
+      "streak": "W1",
+      "team": {
+        "id": 7,
+        "logo": "https://media.api-sports.io/american-football/teams/7.png",
+        "name": "Detroit Lions"
+      },
+      "ties": 0,
+      "won": 12
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "NFC North",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2023
+      },
+      "lost": 8,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 350,
+        "difference": 33,
+        "for": 383
+      },
+      "position": 2,
+      "records": {
+        "conference": "7-5",
+        "division": "4-2",
+        "home": "5-3",
+        "road": "4-5"
+      },
+      "streak": "W3",
+      "team": {
+        "id": 15,
+        "logo": "https://media.api-sports.io/american-football/teams/15.png",
+        "name": "Green Bay Packers"
+      },
+      "ties": 0,
+      "won": 9
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "NFC North",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2023
+      },
+      "lost": 10,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 362,
+        "difference": -18,
+        "for": 344
+      },
+      "position": 3,
+      "records": {
+        "conference": "6-6",
+        "division": "2-4",
+        "home": "2-6",
+        "road": "5-4"
+      },
+      "streak": "L4",
+      "team": {
+        "id": 32,
+        "logo": "https://media.api-sports.io/american-football/teams/32.png",
+        "name": "Minnesota Vikings"
+      },
+      "ties": 0,
+      "won": 7
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "NFC North",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2023
+      },
+      "lost": 10,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 379,
+        "difference": -19,
+        "for": 360
+      },
+      "position": 4,
+      "records": {
+        "conference": "6-6",
+        "division": "2-4",
+        "home": "5-3",
+        "road": "2-7"
+      },
+      "streak": "L1",
+      "team": {
+        "id": 16,
+        "logo": "https://media.api-sports.io/american-football/teams/16.png",
+        "name": "Chicago Bears"
+      },
+      "ties": 0,
+      "won": 7
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "NFC South",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2023
+      },
+      "lost": 8,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 325,
+        "difference": 23,
+        "for": 348
+      },
+      "position": 1,
+      "records": {
+        "conference": "7-5",
+        "division": "4-2",
+        "home": "4-4",
+        "road": "5-4"
+      },
+      "streak": "W1",
+      "team": {
+        "id": 24,
+        "logo": "https://media.api-sports.io/american-football/teams/24.png",
+        "name": "Tampa Bay Buccaneers"
+      },
+      "ties": 0,
+      "won": 9
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "NFC South",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2023
+      },
+      "lost": 8,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 327,
+        "difference": 75,
+        "for": 402
+      },
+      "position": 2,
+      "records": {
+        "conference": "6-6",
+        "division": "4-2",
+        "home": "5-3",
+        "road": "4-5"
+      },
+      "streak": "W2",
+      "team": {
+        "id": 27,
+        "logo": "https://media.api-sports.io/american-football/teams/27.png",
+        "name": "New Orleans Saints"
+      },
+      "ties": 0,
+      "won": 9
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "NFC South",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2023
+      },
+      "lost": 10,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 373,
+        "difference": -52,
+        "for": 321
+      },
+      "position": 3,
+      "records": {
+        "conference": "4-8",
+        "division": "3-3",
+        "home": "5-3",
+        "road": "2-7"
+      },
+      "streak": "L2",
+      "team": {
+        "id": 8,
+        "logo": "https://media.api-sports.io/american-football/teams/8.png",
+        "name": "Atlanta Falcons"
+      },
+      "ties": 0,
+      "won": 7
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "NFC South",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2023
+      },
+      "lost": 15,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 416,
+        "difference": -180,
+        "for": 236
+      },
+      "position": 4,
+      "records": {
+        "conference": "1-11",
+        "division": "1-5",
+        "home": "2-6",
+        "road": "0-9"
+      },
+      "streak": "L3",
+      "team": {
+        "id": 19,
+        "logo": "https://media.api-sports.io/american-football/teams/19.png",
+        "name": "Carolina Panthers"
+      },
+      "ties": 0,
+      "won": 2
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "NFC West",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2023
+      },
+      "lost": 5,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 298,
+        "difference": 193,
+        "for": 491
+      },
+      "position": 1,
+      "records": {
+        "conference": "10-2",
+        "division": "5-1",
+        "home": "5-3",
+        "road": "7-2"
+      },
+      "streak": "L1",
+      "team": {
+        "id": 14,
+        "logo": "https://media.api-sports.io/american-football/teams/14.png",
+        "name": "San Francisco 49ers"
+      },
+      "ties": 0,
+      "won": 12
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "NFC West",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2023
+      },
+      "lost": 7,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 377,
+        "difference": 27,
+        "for": 404
+      },
+      "position": 2,
+      "records": {
+        "conference": "8-4",
+        "division": "5-1",
+        "home": "5-3",
+        "road": "5-4"
+      },
+      "streak": "W4",
+      "team": {
+        "id": 31,
+        "logo": "https://media.api-sports.io/american-football/teams/31.png",
+        "name": "Los Angeles Rams"
+      },
+      "ties": 0,
+      "won": 10
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "NFC West",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2023
+      },
+      "lost": 8,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 402,
+        "difference": -38,
+        "for": 364
+      },
+      "position": 3,
+      "records": {
+        "conference": "7-5",
+        "division": "2-4",
+        "home": "5-3",
+        "road": "4-5"
+      },
+      "streak": "W1",
+      "team": {
+        "id": 23,
+        "logo": "https://media.api-sports.io/american-football/teams/23.png",
+        "name": "Seattle Seahawks"
+      },
+      "ties": 0,
+      "won": 9
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "NFC West",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2023
+      },
+      "lost": 13,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 455,
+        "difference": -125,
+        "for": 330
+      },
+      "position": 4,
+      "records": {
+        "conference": "3-9",
+        "division": "0-6",
+        "home": "2-6",
+        "road": "2-7"
+      },
+      "streak": "L1",
+      "team": {
+        "id": 11,
+        "logo": "https://media.api-sports.io/american-football/teams/11.png",
+        "name": "Arizona Cardinals"
+      },
+      "ties": 0,
+      "won": 4
+    }
+  ],
+  "results": 32
+}

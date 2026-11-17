@@ -1,0 +1,1419 @@
+{
+  "errors": [],
+  "get": "standings",
+  "parameters": {
+    "league": "1",
+    "season": "2022"
+  },
+  "response": [
+    {
+      "conference": "American Football Conference",
+      "division": "East",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2022
+      },
+      "lost": 3,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 286,
+        "difference": 169,
+        "for": 455
+      },
+      "position": 1,
+      "records": {
+        "conference": "9-2",
+        "division": "4-2",
+        "home": "7-1",
+        "road": "6-2"
+      },
+      "streak": "W7",
+      "team": {
+        "id": 20,
+        "logo": "https://media.api-sports.io/american-football/teams/20.png",
+        "name": "Buffalo Bills"
+      },
+      "ties": 0,
+      "won": 13
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "East",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2022
+      },
+      "lost": 8,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 399,
+        "difference": -2,
+        "for": 397
+      },
+      "position": 2,
+      "records": {
+        "conference": "7-5",
+        "division": "3-3",
+        "home": "6-2",
+        "road": "3-6"
+      },
+      "streak": "W1",
+      "team": {
+        "id": 25,
+        "logo": "https://media.api-sports.io/american-football/teams/25.png",
+        "name": "Miami Dolphins"
+      },
+      "ties": 0,
+      "won": 9
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "East",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2022
+      },
+      "lost": 9,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 347,
+        "difference": 17,
+        "for": 364
+      },
+      "position": 3,
+      "records": {
+        "conference": "6-6",
+        "division": "3-3",
+        "home": "4-4",
+        "road": "4-5"
+      },
+      "streak": "L1",
+      "team": {
+        "id": 3,
+        "logo": "https://media.api-sports.io/american-football/teams/3.png",
+        "name": "New England Patriots"
+      },
+      "ties": 0,
+      "won": 8
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "East",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2022
+      },
+      "lost": 10,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 316,
+        "difference": -20,
+        "for": 296
+      },
+      "position": 4,
+      "records": {
+        "conference": "5-7",
+        "division": "2-4",
+        "home": "3-5",
+        "road": "4-5"
+      },
+      "streak": "L6",
+      "team": {
+        "id": 13,
+        "logo": "https://media.api-sports.io/american-football/teams/13.png",
+        "name": "New York Jets"
+      },
+      "ties": 0,
+      "won": 7
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "North",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2022
+      },
+      "lost": 4,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 322,
+        "difference": 96,
+        "for": 418
+      },
+      "position": 1,
+      "records": {
+        "conference": "8-3",
+        "division": "3-3",
+        "home": "6-1",
+        "road": "6-3"
+      },
+      "streak": "W8",
+      "team": {
+        "id": 10,
+        "logo": "https://media.api-sports.io/american-football/teams/10.png",
+        "name": "Cincinnati Bengals"
+      },
+      "ties": 0,
+      "won": 12
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "North",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2022
+      },
+      "lost": 7,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 315,
+        "difference": 35,
+        "for": 350
+      },
+      "position": 2,
+      "records": {
+        "conference": "6-6",
+        "division": "3-3",
+        "home": "5-3",
+        "road": "5-4"
+      },
+      "streak": "L2",
+      "team": {
+        "id": 5,
+        "logo": "https://media.api-sports.io/american-football/teams/5.png",
+        "name": "Baltimore Ravens"
+      },
+      "ties": 0,
+      "won": 10
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "North",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2022
+      },
+      "lost": 8,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 346,
+        "difference": -38,
+        "for": 308
+      },
+      "position": 3,
+      "records": {
+        "conference": "5-7",
+        "division": "3-3",
+        "home": "4-4",
+        "road": "5-4"
+      },
+      "streak": "W4",
+      "team": {
+        "id": 22,
+        "logo": "https://media.api-sports.io/american-football/teams/22.png",
+        "name": "Pittsburgh Steelers"
+      },
+      "ties": 0,
+      "won": 9
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "North",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2022
+      },
+      "lost": 10,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 381,
+        "difference": -20,
+        "for": 361
+      },
+      "position": 4,
+      "records": {
+        "conference": "4-8",
+        "division": "3-3",
+        "home": "4-4",
+        "road": "3-6"
+      },
+      "streak": "L1",
+      "team": {
+        "id": 9,
+        "logo": "https://media.api-sports.io/american-football/teams/9.png",
+        "name": "Cleveland Browns"
+      },
+      "ties": 0,
+      "won": 7
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "South",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2022
+      },
+      "lost": 8,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 350,
+        "difference": 54,
+        "for": 404
+      },
+      "position": 1,
+      "records": {
+        "conference": "8-4",
+        "division": "4-2",
+        "home": "5-3",
+        "road": "4-5"
+      },
+      "streak": "W5",
+      "team": {
+        "id": 2,
+        "logo": "https://media.api-sports.io/american-football/teams/2.png",
+        "name": "Jacksonville Jaguars"
+      },
+      "ties": 0,
+      "won": 9
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "South",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2022
+      },
+      "lost": 10,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 359,
+        "difference": -61,
+        "for": 298
+      },
+      "position": 2,
+      "records": {
+        "conference": "5-7",
+        "division": "3-3",
+        "home": "3-5",
+        "road": "4-5"
+      },
+      "streak": "L7",
+      "team": {
+        "id": 6,
+        "logo": "https://media.api-sports.io/american-football/teams/6.png",
+        "name": "Tennessee Titans"
+      },
+      "ties": 0,
+      "won": 7
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "South",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2022
+      },
+      "lost": 12,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 427,
+        "difference": -138,
+        "for": 289
+      },
+      "position": 3,
+      "records": {
+        "conference": "4-7-1",
+        "division": "1-4-1",
+        "home": "2-6",
+        "road": "2-6-1"
+      },
+      "streak": "L7",
+      "team": {
+        "id": 21,
+        "logo": "https://media.api-sports.io/american-football/teams/21.png",
+        "name": "Indianapolis Colts"
+      },
+      "ties": 1,
+      "won": 4
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "South",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2022
+      },
+      "lost": 13,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 420,
+        "difference": -131,
+        "for": 289
+      },
+      "position": 4,
+      "records": {
+        "conference": "3-8-1",
+        "division": "3-2-1",
+        "home": "0-7-1",
+        "road": "3-6"
+      },
+      "streak": "W1",
+      "team": {
+        "id": 26,
+        "logo": "https://media.api-sports.io/american-football/teams/26.png",
+        "name": "Houston Texans"
+      },
+      "ties": 1,
+      "won": 3
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "West",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2022
+      },
+      "lost": 3,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 369,
+        "difference": 127,
+        "for": 496
+      },
+      "position": 1,
+      "records": {
+        "conference": "9-3",
+        "division": "6-0",
+        "home": "7-1",
+        "road": "7-2"
+      },
+      "streak": "W5",
+      "team": {
+        "id": 17,
+        "logo": "https://media.api-sports.io/american-football/teams/17.png",
+        "name": "Kansas City Chiefs"
+      },
+      "ties": 0,
+      "won": 14
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "West",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2022
+      },
+      "lost": 7,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 384,
+        "difference": 7,
+        "for": 391
+      },
+      "position": 2,
+      "records": {
+        "conference": "7-5",
+        "division": "2-4",
+        "home": "5-3",
+        "road": "5-4"
+      },
+      "streak": "L1",
+      "team": {
+        "id": 30,
+        "logo": "https://media.api-sports.io/american-football/teams/30.png",
+        "name": "Los Angeles Chargers"
+      },
+      "ties": 0,
+      "won": 10
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "West",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2022
+      },
+      "lost": 11,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 418,
+        "difference": -23,
+        "for": 395
+      },
+      "position": 3,
+      "records": {
+        "conference": "5-7",
+        "division": "3-3",
+        "home": "4-4",
+        "road": "2-7"
+      },
+      "streak": "L3",
+      "team": {
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/teams/1.png",
+        "name": "Las Vegas Raiders"
+      },
+      "ties": 0,
+      "won": 6
+    },
+    {
+      "conference": "American Football Conference",
+      "division": "West",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2022
+      },
+      "lost": 12,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 359,
+        "difference": -72,
+        "for": 287
+      },
+      "position": 4,
+      "records": {
+        "conference": "3-9",
+        "division": "1-5",
+        "home": "4-4",
+        "road": "1-8"
+      },
+      "streak": "W1",
+      "team": {
+        "id": 28,
+        "logo": "https://media.api-sports.io/american-football/teams/28.png",
+        "name": "Denver Broncos"
+      },
+      "ties": 0,
+      "won": 5
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "East",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2022
+      },
+      "lost": 3,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 344,
+        "difference": 133,
+        "for": 477
+      },
+      "position": 1,
+      "records": {
+        "conference": "9-3",
+        "division": "4-2",
+        "home": "7-2",
+        "road": "7-1"
+      },
+      "streak": "W1",
+      "team": {
+        "id": 12,
+        "logo": "https://media.api-sports.io/american-football/teams/12.png",
+        "name": "Philadelphia Eagles"
+      },
+      "ties": 0,
+      "won": 14
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "East",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2022
+      },
+      "lost": 5,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 342,
+        "difference": 125,
+        "for": 467
+      },
+      "position": 2,
+      "records": {
+        "conference": "8-4",
+        "division": "4-2",
+        "home": "8-1",
+        "road": "4-4"
+      },
+      "streak": "L1",
+      "team": {
+        "id": 29,
+        "logo": "https://media.api-sports.io/american-football/teams/29.png",
+        "name": "Dallas Cowboys"
+      },
+      "ties": 0,
+      "won": 12
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "East",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2022
+      },
+      "lost": 7,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 371,
+        "difference": -6,
+        "for": 365
+      },
+      "position": 3,
+      "records": {
+        "conference": "4-7-1",
+        "division": "1-4-1",
+        "home": "5-3-1",
+        "road": "4-4"
+      },
+      "streak": "L1",
+      "team": {
+        "id": 4,
+        "logo": "https://media.api-sports.io/american-football/teams/4.png",
+        "name": "New York Giants"
+      },
+      "ties": 1,
+      "won": 9
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "East",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2022
+      },
+      "lost": 8,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 343,
+        "difference": -22,
+        "for": 321
+      },
+      "position": 4,
+      "records": {
+        "conference": "5-6-1",
+        "division": "2-3-1",
+        "home": "4-5",
+        "road": "4-3-1"
+      },
+      "streak": "W1",
+      "team": {
+        "id": 18,
+        "logo": "https://media.api-sports.io/american-football/teams/18.png",
+        "name": "Washington Commanders"
+      },
+      "ties": 1,
+      "won": 8
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "North",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2022
+      },
+      "lost": 4,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 427,
+        "difference": -3,
+        "for": 424
+      },
+      "position": 1,
+      "records": {
+        "conference": "8-4",
+        "division": "4-2",
+        "home": "8-1",
+        "road": "5-3"
+      },
+      "streak": "W1",
+      "team": {
+        "id": 32,
+        "logo": "https://media.api-sports.io/american-football/teams/32.png",
+        "name": "Minnesota Vikings"
+      },
+      "ties": 0,
+      "won": 13
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "North",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2022
+      },
+      "lost": 8,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 427,
+        "difference": 26,
+        "for": 453
+      },
+      "position": 2,
+      "records": {
+        "conference": "7-5",
+        "division": "5-1",
+        "home": "5-4",
+        "road": "4-4"
+      },
+      "streak": "W2",
+      "team": {
+        "id": 7,
+        "logo": "https://media.api-sports.io/american-football/teams/7.png",
+        "name": "Detroit Lions"
+      },
+      "ties": 0,
+      "won": 9
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "North",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2022
+      },
+      "lost": 9,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 371,
+        "difference": -1,
+        "for": 370
+      },
+      "position": 3,
+      "records": {
+        "conference": "6-6",
+        "division": "3-3",
+        "home": "5-4",
+        "road": "3-5"
+      },
+      "streak": "L1",
+      "team": {
+        "id": 15,
+        "logo": "https://media.api-sports.io/american-football/teams/15.png",
+        "name": "Green Bay Packers"
+      },
+      "ties": 0,
+      "won": 8
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "North",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2022
+      },
+      "lost": 14,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 463,
+        "difference": -137,
+        "for": 326
+      },
+      "position": 4,
+      "records": {
+        "conference": "1-11",
+        "division": "0-6",
+        "home": "2-7",
+        "road": "1-7"
+      },
+      "streak": "L10",
+      "team": {
+        "id": 16,
+        "logo": "https://media.api-sports.io/american-football/teams/16.png",
+        "name": "Chicago Bears"
+      },
+      "ties": 0,
+      "won": 3
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "South",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2022
+      },
+      "lost": 9,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 358,
+        "difference": -45,
+        "for": 313
+      },
+      "position": 1,
+      "records": {
+        "conference": "8-4",
+        "division": "4-2",
+        "home": "5-4",
+        "road": "3-5"
+      },
+      "streak": "L1",
+      "team": {
+        "id": 24,
+        "logo": "https://media.api-sports.io/american-football/teams/24.png",
+        "name": "Tampa Bay Buccaneers"
+      },
+      "ties": 0,
+      "won": 8
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "South",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2022
+      },
+      "lost": 10,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 374,
+        "difference": -27,
+        "for": 347
+      },
+      "position": 2,
+      "records": {
+        "conference": "6-6",
+        "division": "4-2",
+        "home": "5-4",
+        "road": "2-6"
+      },
+      "streak": "W1",
+      "team": {
+        "id": 19,
+        "logo": "https://media.api-sports.io/american-football/teams/19.png",
+        "name": "Carolina Panthers"
+      },
+      "ties": 0,
+      "won": 7
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "South",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2022
+      },
+      "lost": 10,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 345,
+        "difference": -15,
+        "for": 330
+      },
+      "position": 3,
+      "records": {
+        "conference": "5-7",
+        "division": "2-4",
+        "home": "4-5",
+        "road": "3-5"
+      },
+      "streak": "L1",
+      "team": {
+        "id": 27,
+        "logo": "https://media.api-sports.io/american-football/teams/27.png",
+        "name": "New Orleans Saints"
+      },
+      "ties": 0,
+      "won": 7
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "South",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2022
+      },
+      "lost": 10,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 386,
+        "difference": -21,
+        "for": 365
+      },
+      "position": 4,
+      "records": {
+        "conference": "6-6",
+        "division": "2-4",
+        "home": "6-3",
+        "road": "1-7"
+      },
+      "streak": "W2",
+      "team": {
+        "id": 8,
+        "logo": "https://media.api-sports.io/american-football/teams/8.png",
+        "name": "Atlanta Falcons"
+      },
+      "ties": 0,
+      "won": 7
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "West",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2022
+      },
+      "lost": 4,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 277,
+        "difference": 173,
+        "for": 450
+      },
+      "position": 1,
+      "records": {
+        "conference": "10-2",
+        "division": "6-0",
+        "home": "8-1",
+        "road": "5-3"
+      },
+      "streak": "W10",
+      "team": {
+        "id": 14,
+        "logo": "https://media.api-sports.io/american-football/teams/14.png",
+        "name": "San Francisco 49ers"
+      },
+      "ties": 0,
+      "won": 13
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "West",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2022
+      },
+      "lost": 8,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 401,
+        "difference": 6,
+        "for": 407
+      },
+      "position": 2,
+      "records": {
+        "conference": "6-6",
+        "division": "4-2",
+        "home": "5-4",
+        "road": "4-4"
+      },
+      "streak": "W2",
+      "team": {
+        "id": 23,
+        "logo": "https://media.api-sports.io/american-football/teams/23.png",
+        "name": "Seattle Seahawks"
+      },
+      "ties": 0,
+      "won": 9
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "West",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2022
+      },
+      "lost": 12,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 384,
+        "difference": -77,
+        "for": 307
+      },
+      "position": 3,
+      "records": {
+        "conference": "3-9",
+        "division": "1-5",
+        "home": "4-5",
+        "road": "1-7"
+      },
+      "streak": "L2",
+      "team": {
+        "id": 31,
+        "logo": "https://media.api-sports.io/american-football/teams/31.png",
+        "name": "Los Angeles Rams"
+      },
+      "ties": 0,
+      "won": 5
+    },
+    {
+      "conference": "National Football Conference",
+      "division": "West",
+      "league": {
+        "country": {
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg",
+          "name": "USA"
+        },
+        "id": 1,
+        "logo": "https://media.api-sports.io/american-football/leagues/1.png",
+        "name": "NFL",
+        "season": 2022
+      },
+      "lost": 13,
+      "ncaa_conference": {
+        "lost": null,
+        "points": {
+          "against": null,
+          "for": null
+        },
+        "won": null
+      },
+      "points": {
+        "against": 449,
+        "difference": -109,
+        "for": 340
+      },
+      "position": 4,
+      "records": {
+        "conference": "3-9",
+        "division": "1-5",
+        "home": "1-8",
+        "road": "3-5"
+      },
+      "streak": "L7",
+      "team": {
+        "id": 11,
+        "logo": "https://media.api-sports.io/american-football/teams/11.png",
+        "name": "Arizona Cardinals"
+      },
+      "ties": 0,
+      "won": 4
+    }
+  ],
+  "results": 32
+}

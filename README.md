@@ -31,6 +31,10 @@ the clock, regardless of user count.
   source attribution — never full article text.
 - `tests/news.test.mjs` — unit tests for the news normalizers, run against
   real ESPN responses recorded as fixtures (`node --test tests/news.test.mjs`).
+- `tests/board.test.mjs` — unit tests for the board extraction, run against
+  a documented-envelope API-Sports /odds fixture
+  (`tests/fixtures/apisports-nba-odds.json`), including missing-market and
+  malformed-bookmaker cases.
 - `sports-feed.workflow.yml` — GitHub Actions template that runs the pass
   every 90 minutes and commits the refreshed `feed.json`. Setup steps are in
   the file header. A cron on any always-on machine works too:
@@ -102,6 +106,12 @@ would blow the cap.)
   "sportsConfigured": ["Basketball", "Football"],
   "picks":  [ /* Notable Lines cards: favorite, implied %, bookmaker */ ],
   "slate":  [ /* live + upcoming games */ ],
+  "board":  [ /* sportsbook board (Predict remake spec §4.2): per covered
+                 game { id, gameId, sport, league, home, away, homeCode,
+                 awayCode, startTs, startAt, lineSets: [ { bookmaker,
+                 fetchedAt, moneyline: { home, away } | null,
+                 spread: { line, home, away } | null,
+                 total: { line, over, under } | null } ] } */ ],
   "news": {
     "fetchedAt": "ISO timestamp",
     "Basketball": {
@@ -121,6 +131,18 @@ Honesty rules baked in: picks show the bookmaker's favorite and the
 probability implied by the odds (never a "model probability"); sports
 without keys or with failed fetches appear in `errors` and contribute no
 items — the app shows empty states rather than placeholder data.
+
+Board rules (spec §§4.2/4.4/8): the board is published from the odds
+responses the collector already fetches for the pick cards — zero extra
+provider requests, so coverage is the same ≤3 near-term games per sport
+per run. Prices are the provider's decimals converted to American format
+at publish time. The spread `line` is signed from the home team's
+perspective (negative = home favored). A market publishes only when both
+sides are present at the same line (first complete pair wins when a
+bookmaker lists alternate lines); a market the provider does not carry
+is `null`, a malformed bookmaker is dropped whole, and nothing is ever
+repaired into an invented price. Every line set carries its bookmaker's
+name and the snapshot's `fetchedAt` — no as-of time, no publication.
 
 News honesty rules: a league whose ESPN JSON *and* RSS fetches both fail
 (or return nothing usable) gets `"articles": []` and a plain-language

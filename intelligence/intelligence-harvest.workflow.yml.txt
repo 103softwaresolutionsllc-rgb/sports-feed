@@ -66,6 +66,28 @@ jobs:
             python3 ../src/intelligence/intelligence_aggregates.py --sport $sport || true
           done
 
+      - name: Player fan-out (budget-capped, same ledger)
+        working-directory: work
+        env:
+          APISPORTS_KEY: ${{ secrets.APISPORTS_KEY }}
+        run: |
+          if [ -z "$APISPORTS_KEY" ]; then
+            echo "APISPORTS_KEY secret not set — skipping player fan-out."
+            exit 0
+          fi
+          # Player Props Phase 2: per-team player-statistics fan-out for
+          # basketball + american-football. Spends from the SAME daily
+          # ledger as the base harvest (harvest_state.json), so the
+          # 20-requests-per-sport cap covers both — the fan-out gets
+          # only the headroom the base harvest left, prioritizes teams
+          # of registry players, and rotates across days until every
+          # team is covered. Registry + game logs + rotation state live
+          # under data/intelligence/props/ on this data branch and are
+          # committed by the step below. No-ops explicitly when the
+          # normalized team data is not there yet.
+          python3 ../src/intelligence/player_props_harvest.py --sport basketball || true
+          python3 ../src/intelligence/player_props_harvest.py --sport american-football || true
+
       - name: NFL open-dataset import (best effort — URL template unverified)
         working-directory: work
         continue-on-error: true

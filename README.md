@@ -35,6 +35,13 @@ the clock, regardless of user count.
   a documented-envelope API-Sports /odds fixture
   (`tests/fixtures/apisports-nba-odds.json`), including missing-market and
   malformed-bookmaker cases.
+- `aggregates.mjs` — republishes the Intelligence Engine aggregates the
+  daily harvest already produced into the feed's `aggregates` section
+  (see below). Zero provider requests.
+- `tests/aggregates.test.mjs` — unit tests for the aggregates publishing,
+  run against an excerpt of the real published basketball aggregates
+  document (`tests/fixtures/intelligence-aggregates-basketball.json`),
+  with all transport injected (no live calls).
 - `sports-feed.workflow.yml` — GitHub Actions template that runs the pass
   every 90 minutes and commits the refreshed `feed.json`. Setup steps are in
   the file header. A cron on any always-on machine works too:
@@ -112,6 +119,14 @@ would blow the cap.)
                  fetchedAt, moneyline: { home, away } | null,
                  spread: { line, home, away } | null,
                  total: { line, over, under } | null } ] } */ ],
+  "aggregates": { /* Intelligence Engine aggregates per display sport,
+                 e.g. "Basketball": { summary: { sport, classification,
+                 seasons_held, season_count, label, label_detail, teams },
+                 weighted_averages: { team: { metric: value } },
+                 data_as_of?: ISO } — see Aggregates section below.
+                 Football reads the Engine's american-football doc. */ },
+  "aggregatesErrors": { /* display sport -> message, only for sports
+                 whose aggregates document could not be loaded */ },
   "news": {
     "fetchedAt": "ISO timestamp",
     "Basketball": {
@@ -151,6 +166,56 @@ the article URL (dedupe key), descriptions are truncated to ~200 chars,
 lists are newest-first and capped at 10 per league. `via` records whether
 the JSON endpoint or the RSS fallback served the league. Team tags come
 only from ESPN's own article categories; RSS stories carry none.
+
+## Aggregates (Intelligence Engine → board model overlay)
+
+Where the aggregates live: the daily harvest job
+(`.github/workflows/intelligence-harvest.yml`) runs
+`intelligence/intelligence_aggregates.py` per sport and commits the
+output to this repo's `data` branch at
+`data/intelligence/aggregates/<sport>.json` (Engine file sports:
+`basketball`, `american-football`, `baseball`, `hockey`, `soccer`).
+SportsBettingGPT's router reads them from that branch over HTTPS via
+`INTELLIGENCE_AGGREGATES_BASE_URL` (see `intelligence/SYNC.md`).
+
+How the feed build reaches them: `aggregates.mjs` (`collectAggregates`,
+run inside `collectFeed`) reads the SAME already-produced documents —
+zero extra provider requests, no new harvest, no API-Sports quota spent.
+Source resolution mirrors the router's: a local `INTELLIGENCE_DATA_DIR`
+(directory laid out `<dir>/aggregates/<sport>.json`) wins per sport;
+otherwise the documents are fetched from `INTELLIGENCE_AGGREGATES_BASE_URL`
+when set, defaulting to the data branch's published aggregates directory
+on raw.githubusercontent.com (the repo is public). Soccer is not
+published: the collector has no Soccer board sport for the app to key by.
+
+Section shape: `aggregates` is keyed by display sport name
+(`Basketball` / `Football` / `Baseball` / `Hockey`) — the keying the
+app's `boardService.aggregatesOf` passes through — and each value is the
+per-sport document in the shape `boardEngineInputs` consumes:
+`{ summary, weighted_averages }`, plus `data_as_of` when a source
+timestamp exists. Only those two sections are republished; the Engine's
+`averages` / `leaderboards` / `player_leaderboards` are not (the overlay
+does not consume them).
+
+Provenance: `summary` is carried VERBATIM from the Engine document —
+`classification` ("Historical"), `seasons_held`, `season_count`, `label`,
+`label_detail`, `teams` — because the app labels model inputs Historical
+with the seasons held. `data_as_of` follows the router's as-of rule (the
+document's `generated_at`, else the source's Last-Modified / file write
+time) and is omitted when no source provides one — never invented (the
+raw file host sends no Last-Modified, so remote documents normally carry
+no `data_as_of`; their provenance is the summary plus the feed's own
+`generatedAt`).
+
+Aggregates honesty rules: a sport whose document cannot be loaded or
+fails validation is omitted from `aggregates` and named in
+`aggregatesErrors` — deliberately NOT in the feed's `errors`, whose
+per-sport entries mean "this sport's collector run failed" and would
+stale that sport's board prices in the app. The app's no-stats gate then
+withholds that sport's model reads while prices still render. A valid
+document with empty `weighted_averages` (seasons held, no team averages
+yet — the current hockey state) publishes as-is. The aggregates layer
+never throws and never blocks the feed.
 
 ## App side
 

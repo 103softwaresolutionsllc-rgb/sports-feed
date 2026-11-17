@@ -44,6 +44,7 @@ export default async function handler(req, res) {
       access: 'public',
       addRandomSuffix: false,
       allowOverwrite: true,
+      cacheControlMaxAge: 60,
       contentType: 'application/json',
     });
     // Forward accumulation (history.mjs): snapshot the SAME payload under

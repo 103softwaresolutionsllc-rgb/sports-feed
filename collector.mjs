@@ -78,6 +78,7 @@ import {
 } from './normalize.mjs';
 import { collectNews } from './news.mjs';
 import { collectAggregates } from './aggregates.mjs';
+import { collectBetstackSlate, BETSTACK_SPORTS } from './betstack.mjs';
 import {
   ODDS_API_SPORT_KEYS,
   LOW_CREDIT_FLOOR,
@@ -447,10 +448,37 @@ export async function collectFeed() {
     aggregatesErrors = { Aggregates: String(err?.message || err) };
     console.error(`aggregates layer failed: ${aggregatesErrors.Aggregates}`);
   }
+  // BetStack layer (audit 2026-11-17, docs/extra-sources-audit-2026-11-17.md):
+  // slate fill ONLY for sports whose slate is still empty after the
+  // API-Sports and Odds API passes — BetStack fills empty slots, it does
+  // not compete with a primary source, and its consensus line is never
+  // published as a board price (slate fixtures/scores only). Key-gated
+  // inside betstack.mjs (BETSTACK_API_KEY); collectBetstackSlate never
+  // throws, and this catch is a last resort — failures degrade to the
+  // feed's betstackErrors map and can never block publishing.
+  let betstackErrors = {};
+  let betstackFilled = false;
+  try {
+    const emptySports = Object.keys(BETSTACK_SPORTS).filter(
+      (s) => !slate.some((item) => item.sport === s)
+    );
+    const fill = await collectBetstackSlate({ sports: emptySports });
+    betstackErrors = fill.errors;
+    betstackFilled = fill.slate.length > 0;
+    slate.push(...fill.slate);
+    slate.sort((a, b) => {
+      if (a.status !== b.status) return a.status === 'live' ? -1 : 1;
+      return a.startTs - b.startTs;
+    });
+  } catch (err) {
+    betstackErrors = { BetStack: String(err?.message || err) };
+    console.error(`betstack layer failed: ${betstackErrors.BetStack}`);
+  }
   const feed = {
     generatedAt: new Date().toISOString(),
     source:
-      '103 sports-feed collector — API-Sports (games/stats), The Odds API (board odds), ESPN (news)',
+      '103 sports-feed collector — API-Sports (games/stats), The Odds API (board odds), ESPN (news)' +
+      (betstackFilled ? ', BetStack (slate fill)' : ''),
     sportsConfigured,
     picks,
     slate,
@@ -458,6 +486,7 @@ export async function collectFeed() {
     boardMeta: oddsLayer.meta,
     aggregates,
     aggregatesErrors,
+    betstackErrors,
     apiSportsErrors,
     news,
     errors,

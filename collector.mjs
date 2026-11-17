@@ -341,6 +341,21 @@ async function buildSportFeed(sport, key) {
  * feed object; never throws for per-sport or per-league failures (those
  * land in the feed's `errors` / per-league `error` entries).
  */
+/**
+ * The BetStack slate fill is gated OFF by default: it runs only when
+ * BETSTACK_FILL_ENABLED is exactly "true" (unset in the Vercel project,
+ * so the layer is dark). A live probe on 2026-11-17 showed the real
+ * BetStack payload does not match betstack.mjs's expectations — the
+ * league parameter does not filter (every league query returns one
+ * identical mixed-league slate) and no scores appear anywhere — so as
+ * written the fill would publish other leagues' fixtures mislabeled
+ * under the requested sport. Do not enable until betstack.mjs is
+ * reworked against the real payload shape.
+ */
+export function betstackFillEnabled(env = process.env) {
+  return env.BETSTACK_FILL_ENABLED === 'true';
+}
+
 export async function collectFeed() {
   const picks = [];
   let slate = [];
@@ -448,31 +463,35 @@ export async function collectFeed() {
     aggregatesErrors = { Aggregates: String(err?.message || err) };
     console.error(`aggregates layer failed: ${aggregatesErrors.Aggregates}`);
   }
-  // BetStack layer (audit 2026-11-17, docs/extra-sources-audit-2026-11-17.md):
-  // slate fill ONLY for sports whose slate is still empty after the
-  // API-Sports and Odds API passes — BetStack fills empty slots, it does
-  // not compete with a primary source, and its consensus line is never
-  // published as a board price (slate fixtures/scores only). Key-gated
-  // inside betstack.mjs (BETSTACK_API_KEY); collectBetstackSlate never
-  // throws, and this catch is a last resort — failures degrade to the
-  // feed's betstackErrors map and can never block publishing.
+  // BetStack layer (audit 2026-11-17, docs/extra-sources-audit-2026-11-17.md)
+  // — GATED OFF by default via betstackFillEnabled() (see its note: the
+  // live payload does not match betstack.mjs yet). When enabled, it fills
+  // slate ONLY for sports whose slate is still empty after the API-Sports
+  // and Odds API passes — BetStack fills empty slots, it does not compete
+  // with a primary source, and its consensus line is never published as a
+  // board price (slate fixtures/scores only). Key-gated inside
+  // betstack.mjs (BETSTACK_API_KEY); collectBetstackSlate never throws,
+  // and this catch is a last resort — failures degrade to the feed's
+  // betstackErrors map and can never block publishing.
   let betstackErrors = {};
   let betstackFilled = false;
-  try {
-    const emptySports = Object.keys(BETSTACK_SPORTS).filter(
-      (s) => !slate.some((item) => item.sport === s)
-    );
-    const fill = await collectBetstackSlate({ sports: emptySports });
-    betstackErrors = fill.errors;
-    betstackFilled = fill.slate.length > 0;
-    slate.push(...fill.slate);
-    slate.sort((a, b) => {
-      if (a.status !== b.status) return a.status === 'live' ? -1 : 1;
-      return a.startTs - b.startTs;
-    });
-  } catch (err) {
-    betstackErrors = { BetStack: String(err?.message || err) };
-    console.error(`betstack layer failed: ${betstackErrors.BetStack}`);
+  if (betstackFillEnabled()) {
+    try {
+      const emptySports = Object.keys(BETSTACK_SPORTS).filter(
+        (s) => !slate.some((item) => item.sport === s)
+      );
+      const fill = await collectBetstackSlate({ sports: emptySports });
+      betstackErrors = fill.errors;
+      betstackFilled = fill.slate.length > 0;
+      slate.push(...fill.slate);
+      slate.sort((a, b) => {
+        if (a.status !== b.status) return a.status === 'live' ? -1 : 1;
+        return a.startTs - b.startTs;
+      });
+    } catch (err) {
+      betstackErrors = { BetStack: String(err?.message || err) };
+      console.error(`betstack layer failed: ${betstackErrors.BetStack}`);
+    }
   }
   const feed = {
     generatedAt: new Date().toISOString(),

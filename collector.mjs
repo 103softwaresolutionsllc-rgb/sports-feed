@@ -37,12 +37,17 @@
  * the published board empty, so the board's prices now come from The
  * Odds API free tier (key in ODDS_API_KEY — the same key the
  * SportsBettingGPT backend's Sage get_live_odds uses; the 500
- * credits/month are SHARED). One bulk sweep (4 sports × 3 credits = 12)
- * runs at most every ~22 hours, gated by the prior published feed's
- * boardMeta and the credit headers; between sweeps the prior sweep's
- * entries carry over verbatim. API-Sports board entries remain only as
- * a fallback for games The Odds API does not carry, and a sport The
- * Odds API covers no longer reports its API-Sports failure in `errors`
+ * credits/month are SHARED). Sweeps are gated PER SPORT: each sport
+ * fetches at most every ~22 hours (4 team sports × 3 credits + MMA
+ * h2h-only × 1 credit = 13 when every sport is due), gated by the
+ * prior published feed's boardMeta (oddsApiSportsFetchedAt) and the
+ * credit headers; between a sport's sweeps its entries carry over
+ * verbatim. MMA (sport "MMA", league "UFC") is an Odds-only board
+ * sport — API-Sports MMA is not wired — and publishes moneyline-only
+ * line sets. API-Sports board entries remain only as a fallback for
+ * games The Odds API does not carry, and a sport The Odds API covers
+ * (entries this run, or a sweep that succeeded this run — even a
+ * zero-game one) no longer reports its API-Sports failure in `errors`
  * (an errors entry would stale that sport's board prices in the app) —
  * the API-Sports message moves to `apiSportsErrors` instead.
  *
@@ -81,10 +86,12 @@ import { collectAggregates } from './aggregates.mjs';
 import { collectBetstackSlate, BETSTACK_SPORTS } from './betstack.mjs';
 import {
   ODDS_API_SPORT_KEYS,
+  ODDS_API_SPORT_MARKETS,
   LOW_CREDIT_FLOOR,
   oddsApiPayloadToBoard,
   boardEntryToSlateItem,
-  shouldSweep,
+  sportsFetchedAtFromMeta,
+  sweepPlan,
   carryOverEntries,
   mergeBoard,
   mergeSlate,
@@ -115,11 +122,11 @@ async function readPriorFeed() {
   }
 }
 
-async function oddsApiGet(sportKey, key) {
+async function oddsApiGet(sportKey, key, markets) {
   const url =
     `https://api.the-odds-api.com/v4/sports/${sportKey}/odds/` +
     `?apiKey=${encodeURIComponent(key)}&regions=us` +
-    `&markets=h2h,spreads,totals&oddsFormat=american`;
+    `&markets=${markets.join(',')}&oddsFormat=american`;
   const res = await fetch(url, { signal: AbortSignal.timeout(20000) });
   const remaining = Number(res.headers.get('x-requests-remaining'));
   const used = Number(res.headers.get('x-requests-used'));
@@ -132,106 +139,178 @@ async function oddsApiGet(sportKey, key) {
   };
 }
 
+/** { oddsSportKey: epochMs } → { oddsSportKey: ISO string }, finite only. */
+function sportsFetchedAtIso(byKeyMs) {
+  const iso = {};
+  for (const [sportKey, ms] of Object.entries(byKeyMs ?? {})) {
+    if (Number.isFinite(ms)) iso[sportKey] = new Date(ms).toISOString();
+  }
+  return iso;
+}
+
+/** The most recent sweep time in a per-sport map, as ISO, or null. */
+function latestSweepIso(byKeyMs) {
+  const times = Object.values(byKeyMs ?? {}).filter(Number.isFinite);
+  return times.length ? new Date(Math.max(...times)).toISOString() : null;
+}
+
 /**
- * The Odds API board layer for one run. Decision flow (oddsapi.mjs
- * holds the pure rules):
- *   - sweep due (gate open) → fetch all four sports, map to board +
- *     slate, boardMeta records the sweep time and the credit headers.
- *   - gate closed / no key / sweep failed → carry the prior published
- *     sweep's entries over verbatim; boardMeta says why.
- * Never throws: a layer failure degrades to whatever carry-over exists
- * (possibly none) plus a boardMeta status, never a blocked feed.
+ * The Odds API board layer for one run. The sweep gate is PER SPORT
+ * (oddsapi.mjs's sweepPlan): a sport is fetched when its own last
+ * successful sweep is at least ~22h old — or it has never swept, so a
+ * newly added sport (MMA, 2026-11-17) fetches on the first run after
+ * it ships instead of waiting for the other sports' gate. Sports not
+ * due carry their prior published entries over verbatim; a due sport
+ * whose fetch fails carries over too and stays due next run. The
+ * low-credit floor stays global: under it, nothing sweeps.
+ * boardMeta records the per-sport sweep times
+ * (oddsApiSportsFetchedAt), the most recent sweep overall
+ * (oddsApiFetchedAt), and the credit headers. Never throws: a layer
+ * failure degrades to whatever carry-over exists (possibly none) plus
+ * a boardMeta status, never a blocked feed.
  */
 async function buildOddsLayer(prior, nowMs) {
   const priorMeta = prior?.boardMeta ?? null;
-  const carried = carryOverEntries(prior?.board, priorMeta, nowMs);
-  const carriedSlate = carried
+  const carriedAll = carryOverEntries(prior?.board, priorMeta, nowMs);
+  const carriedSlateAll = carriedAll
     .map((entry) => boardEntryToSlateItem(entry, nowMs))
     .filter(Boolean);
+  const carriedBySport = new Map(
+    Object.keys(ODDS_API_SPORT_KEYS).map((sport) => [
+      sport,
+      { entries: [], slateItems: [] },
+    ])
+  );
+  for (const entry of carriedAll) {
+    carriedBySport.get(entry.sport)?.entries.push(entry);
+  }
+  for (const item of carriedSlateAll) {
+    carriedBySport.get(item.sport)?.slateItems.push(item);
+  }
+  const lastFetchMs = sportsFetchedAtFromMeta(priorMeta);
   const baseMeta = {
     source: 'the-odds-api',
-    oddsApiFetchedAt: priorMeta?.oddsApiFetchedAt ?? null,
+    oddsApiFetchedAt: latestSweepIso(lastFetchMs),
+    oddsApiSportsFetchedAt: sportsFetchedAtIso(lastFetchMs),
     creditsRemaining: priorMeta?.creditsRemaining ?? null,
     creditsUsed: priorMeta?.creditsUsed ?? null,
-    oddsApiGameIds: carried.map((e) => e.id),
+    oddsApiGameIds: carriedAll.map((e) => e.id),
   };
   const key = process.env.ODDS_API_KEY;
   if (!key) {
     return {
-      entries: carried,
-      slateItems: carriedSlate,
+      entries: carriedAll,
+      slateItems: carriedSlateAll,
       meta: { ...baseMeta, status: 'not-configured' },
       note: null,
+      sweptSports: [],
     };
   }
-  const lastSweepMs = Date.parse(priorMeta?.oddsApiFetchedAt || '');
-  const decision = shouldSweep({
+  const plan = sweepPlan({
     nowMs,
-    lastSweepMs: Number.isFinite(lastSweepMs) ? lastSweepMs : null,
+    priorMeta,
     creditsRemaining: priorMeta?.creditsRemaining ?? null,
   });
-  if (!decision.sweep) {
+  if (plan.lowCredits) {
     return {
-      entries: carried,
-      slateItems: carriedSlate,
-      meta: { ...baseMeta, status: decision.reason },
-      note:
-        decision.reason === 'skipped-low-credits'
-          ? `sweep skipped: ${priorMeta?.creditsRemaining} credits remaining (floor ${LOW_CREDIT_FLOOR})`
-          : null,
+      entries: carriedAll,
+      slateItems: carriedSlateAll,
+      meta: { ...baseMeta, status: 'skipped-low-credits' },
+      note: `sweep skipped: ${priorMeta?.creditsRemaining} credits remaining (floor ${LOW_CREDIT_FLOOR})`,
+      sweptSports: [],
     };
   }
   const fetchedAt = new Date(nowMs).toISOString();
   const entries = [];
   const slateItems = [];
   const sportErrors = {};
-  let creditsRemaining = null;
-  let creditsUsed = null;
-  let anyOk = false;
+  const sweptSports = [];
+  const fetchMsByKey = { ...plan.lastFetchMs };
+  let creditsRemaining = priorMeta?.creditsRemaining ?? null;
+  let creditsUsed = priorMeta?.creditsUsed ?? null;
   for (const [sport, sportKey] of Object.entries(ODDS_API_SPORT_KEYS)) {
+    const carried = carriedBySport.get(sport) ?? { entries: [], slateItems: [] };
+    if (!plan.due.includes(sport)) {
+      entries.push(...carried.entries);
+      slateItems.push(...carried.slateItems);
+      continue;
+    }
     try {
       const { games, creditsRemaining: rem, creditsUsed: used } =
-        await oddsApiGet(sportKey, key);
+        await oddsApiGet(sportKey, key, ODDS_API_SPORT_MARKETS[sport]);
       if (rem != null) creditsRemaining = rem;
       if (used != null) creditsUsed = used;
       const mapped = oddsApiPayloadToBoard(games, sport, fetchedAt);
       entries.push(...mapped.entries);
       slateItems.push(...mapped.slateItems);
-      anyOk = true;
+      fetchMsByKey[sportKey] = nowMs;
+      sweptSports.push(sport);
       console.log(
         `Odds API ${sport}: ${games.length} games, ${mapped.entries.length} board entries`
       );
     } catch (err) {
       sportErrors[sport] = String(err?.message || err);
+      entries.push(...carried.entries);
+      slateItems.push(...carried.slateItems);
       console.error(`Odds API ${sport}: FAILED — ${sportErrors[sport]}`);
     }
   }
-  if (!anyOk) {
-    return {
-      entries: carried,
-      slateItems: carriedSlate,
-      meta: {
-        ...baseMeta,
-        status: 'sweep-failed-carried',
-        sportErrors,
-      },
-      note: 'sweep failed for every sport; prior board carried over',
-    };
-  }
+  const failedDue = plan.due.filter((sport) => sportErrors[sport]);
+  let status;
+  if (plan.due.length === 0) status = 'carried';
+  else if (failedDue.length === plan.due.length) status = 'sweep-failed-carried';
+  else if (failedDue.length > 0) status = 'partial';
+  else status = 'ok';
   return {
     entries,
     slateItems,
     meta: {
       source: 'the-odds-api',
-      oddsApiFetchedAt: fetchedAt,
+      oddsApiFetchedAt: latestSweepIso(fetchMsByKey),
+      oddsApiSportsFetchedAt: sportsFetchedAtIso(fetchMsByKey),
       creditsRemaining,
       creditsUsed,
-      status: Object.keys(sportErrors).length ? 'partial' : 'ok',
+      status,
       ...(Object.keys(sportErrors).length ? { sportErrors } : {}),
       oddsApiGameIds: entries.map((e) => e.id),
     },
-    note: null,
+    note:
+      status === 'sweep-failed-carried'
+        ? 'sweep failed for every due sport; prior board carried over'
+        : null,
+    sweptSports,
   };
+}
+
+/**
+ * The sports whose API-Sports failure must NOT stay in the feed's
+ * `errors`: every sport with Odds API board entries this run, PLUS
+ * every sport whose Odds sweep SUCCEEDED this run — even one that
+ * came back with zero games (a successful empty MLB sweep in the
+ * offseason is coverage, not an error state; the sport's dead
+ * API-Sports season message must not gate its board in the app).
+ */
+export function oddsCoveredSports(oddsLayer) {
+  return new Set([
+    ...(oddsLayer?.entries ?? []).map((e) => e.sport),
+    ...(oddsLayer?.sweptSports ?? []),
+  ]);
+}
+
+/**
+ * Move the covered sports' messages out of `errors` (mutated) into a
+ * fresh apiSportsErrors map — the same separation aggregatesErrors
+ * already uses. Returns the apiSportsErrors map.
+ */
+export function extractApiSportsErrors(errors, coveredSports) {
+  const apiSportsErrors = {};
+  for (const sport of coveredSports ?? []) {
+    if (errors?.[sport]) {
+      apiSportsErrors[sport] = errors[sport];
+      delete errors[sport];
+    }
+  }
+  return apiSportsErrors;
 }
 
 const MAX_PICKS_PER_SPORT = 3;
@@ -401,31 +480,31 @@ export async function collectFeed() {
       meta: {
         source: 'the-odds-api',
         oddsApiFetchedAt: null,
+        oddsApiSportsFetchedAt: {},
         creditsRemaining: null,
         creditsUsed: null,
         status: 'layer-failed',
         oddsApiGameIds: [],
       },
       note: `Odds API layer failed: ${String(err?.message || err)}`,
+      sweptSports: [],
     };
     console.error(oddsLayer.note);
   }
   board = mergeBoard(oddsLayer.entries, board);
   slate = mergeSlate(oddsLayer.slateItems, slate);
   if (oddsLayer.note) errors.OddsApi = oddsLayer.note;
-  // A sport The Odds API covers (fresh sweep or carry-over) did not
-  // fail its board run, even when its API-Sports attempt did — leaving
-  // the API-Sports message in `errors` would stale that sport's board
-  // prices in the app. The message moves to `apiSportsErrors`, the
-  // same separation aggregatesErrors already uses.
-  const apiSportsErrors = {};
-  const oddsCoveredSports = new Set(oddsLayer.entries.map((e) => e.sport));
-  for (const sport of oddsCoveredSports) {
-    if (errors[sport]) {
-      apiSportsErrors[sport] = errors[sport];
-      delete errors[sport];
-    }
-  }
+  // A sport The Odds API covers (fresh sweep, carry-over, or a sweep
+  // that succeeded this run — even one that returned zero games, like
+  // MLB in the offseason) did not fail its board run, even when its
+  // API-Sports attempt did — leaving the API-Sports message in
+  // `errors` would stale that sport's board prices in the app. The
+  // message moves to `apiSportsErrors`, the same separation
+  // aggregatesErrors already uses.
+  const apiSportsErrors = extractApiSportsErrors(
+    errors,
+    oddsCoveredSports(oddsLayer)
+  );
 
   picks.sort((a, b) => a.startTs - b.startTs);
   board.sort((a, b) => a.startTs - b.startTs);

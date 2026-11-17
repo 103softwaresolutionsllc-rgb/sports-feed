@@ -20,25 +20,65 @@
  *
  * Credit discipline (free tier = 500 credits/month, SHARED with the
  * SportsBettingGPT backend's Sage get_live_odds usage on the same key):
- * one bulk odds call costs markets × regions = 3 markets × 1 region =
- * 3 credits, so a four-sport sweep costs 12 credits. Sweeps are gated
- * to at most one per SWEEP_MIN_INTERVAL_MS; at 22h that projects
- * ~33 sweeps/month ≈ 393 credits — inside the ≤400/month sweep budget
- * with the shared pool protected by the LOW_CREDIT_FLOOR skip below.
- * Between sweeps the board CARRIES OVER the prior published Odds API
- * entries verbatim (their lineSets keep the sweep's fetchedAt, so the
- * app ages them honestly) instead of republishing an empty board.
+ * one bulk odds call costs markets × regions. The four team sports
+ * fetch 3 markets × 1 region = 3 credits each; MMA fetches h2h only
+ * (books offer no spreads/totals for fights) = 1 credit. A sweep with
+ * every sport due costs 13 credits. Sweeps are gated PER SPORT to at
+ * most one fetch per SWEEP_MIN_INTERVAL_MS (see sweepPlan): each sport
+ * projects ~33 fetches/month, so all five sports together project
+ * ~429 credits/month at the 22h cadence — the shared pool is protected
+ * by the LOW_CREDIT_FLOOR global skip below, and in practice sports
+ * rarely align (a sport fetches only when its own gate opens). Between
+ * a sport's sweeps its board entries CARRY OVER from the prior
+ * published feed verbatim (their lineSets keep the sweep's fetchedAt,
+ * so the app ages them honestly) instead of republishing an empty
+ * board.
  */
 
 import { SPORT_APIS, toSlateItem } from './normalize.mjs';
 
-/** Display sport (SPORT_APIS key) → The Odds API sport key. */
+/** Display sport → The Odds API sport key. */
 export const ODDS_API_SPORT_KEYS = {
   Basketball: 'basketball_nba',
   Football: 'americanfootball_nfl',
   Baseball: 'baseball_mlb',
   Hockey: 'icehockey_nhl',
+  MMA: 'mma_mixed_martial_arts',
 };
+
+/**
+ * Display sport → published league code for Odds API board entries.
+ * Mirrors SPORT_APIS' sportLabel for the four API-Sports sports; MMA
+ * is an Odds-API-only board sport (API-Sports MMA is intentionally
+ * not wired in normalize.mjs) and publishes under league "UFC" — the
+ * app joins board entries, slate items and tabs on these exact
+ * strings.
+ */
+export const ODDS_API_SPORT_LABELS = {
+  Basketball: 'NBA',
+  Football: 'NFL',
+  Baseball: 'MLB',
+  Hockey: 'NHL',
+  MMA: 'UFC',
+};
+
+/**
+ * Display sport → The Odds API markets fetched for it (the credit
+ * cost of a fetch is markets × regions). Team sports carry the full
+ * h2h / spreads / totals set. MMA is h2h ONLY: books do not offer
+ * spreads or totals for fights, so a complete moneyline (both
+ * fighters priced) is a complete MMA line set (see completeMarkets).
+ */
+export const ODDS_API_SPORT_MARKETS = {
+  Basketball: ['h2h', 'spreads', 'totals'],
+  Football: ['h2h', 'spreads', 'totals'],
+  Baseball: ['h2h', 'spreads', 'totals'],
+  Hockey: ['h2h', 'spreads', 'totals'],
+  MMA: ['h2h'],
+};
+
+/** The full team-sport market set — the default completeness rule. */
+export const ALL_MARKETS = ['h2h', 'spreads', 'totals'];
 
 /**
  * Bookmaker preference, by The Odds API bookmaker `key`. The published
@@ -83,29 +123,17 @@ function outcomeOf(market, name) {
   return outcomes.find((o) => o?.name === name) || null;
 }
 
-/**
- * One bookmaker's three markets from a raw Odds API game, in the board
- * line-set market shapes — or null unless ALL THREE markets are
- * complete. The board's Odds API sets are always complete: a partial
- * book never publishes here (the fallback merge, not a partial set, is
- * how a thin game gets covered).
- *
- *   moneyline { home, away }          — h2h outcomes named by team
- *   spread    { line, home, away }    — line signed from the HOME
- *                                       team's perspective (the home
- *                                       outcome's point, verbatim)
- *   total     { line, over, under }   — Over/Under outcomes' shared point
- */
-export function completeMarkets(bookmaker, homeTeam, awayTeam) {
-  if (!bookmaker || typeof bookmaker !== 'object') return null;
-
+/** One book's moneyline (h2h outcomes named by team), or null. */
+function moneylineOf(bookmaker, homeTeam, awayTeam) {
   const h2h = marketOf(bookmaker, 'h2h');
-  const homeMl = outcomeOf(h2h, homeTeam);
-  const awayMl = outcomeOf(h2h, awayTeam);
-  const mlHome = americanPriceString(homeMl?.price);
-  const mlAway = americanPriceString(awayMl?.price);
+  const mlHome = americanPriceString(outcomeOf(h2h, homeTeam)?.price);
+  const mlAway = americanPriceString(outcomeOf(h2h, awayTeam)?.price);
   if (mlHome == null || mlAway == null) return null;
+  return { home: mlHome, away: mlAway };
+}
 
+/** One book's spread, line signed from the HOME team's perspective. */
+function spreadOf(bookmaker, homeTeam, awayTeam) {
   const spreads = marketOf(bookmaker, 'spreads');
   const homeSp = outcomeOf(spreads, homeTeam);
   const awaySp = outcomeOf(spreads, awayTeam);
@@ -118,7 +146,11 @@ export function completeMarkets(bookmaker, homeTeam, awayTeam) {
   // The two sides of a spread are the same line with opposite signs
   // (or a 0 / pick'em pair). Anything else is not one honest line.
   if (awayPoint !== -homePoint) return null;
+  return { line: homePoint, home: spHome, away: spAway };
+}
 
+/** One book's total (Over/Under outcomes' shared point), or null. */
+function totalOf(bookmaker) {
   const totals = marketOf(bookmaker, 'totals');
   const over = outcomeOf(totals, 'Over');
   const under = outcomeOf(totals, 'Under');
@@ -130,21 +162,59 @@ export function completeMarkets(bookmaker, homeTeam, awayTeam) {
   if (!Number.isFinite(overPoint) || !(overPoint > 0) || overPoint !== underPoint) {
     return null;
   }
+  return { line: overPoint, over: tOver, under: tUnder };
+}
 
-  return {
-    moneyline: { home: mlHome, away: mlAway },
-    spread: { line: homePoint, home: spHome, away: spAway },
-    total: { line: overPoint, over: tOver, under: tUnder },
-  };
+/**
+ * One bookmaker's markets from a raw Odds API game, in the board
+ * line-set market shapes — or null unless every market in `markets`
+ * is complete. The board's Odds API sets are always complete FOR THE
+ * MARKETS THE SPORT CARRIES: a partial book never publishes here (the
+ * fallback merge, not a partial set, is how a thin game gets covered).
+ *
+ * The default is the team-sport set (h2h + spreads + totals): all
+ * three must be complete, and the set publishes all three. MMA passes
+ * ['h2h']: a complete moneyline IS a complete set, and spread / total
+ * publish as null — the published shape always carries all three keys
+ * (normalize.mjs's line sets do the same).
+ *
+ *   moneyline { home, away }          — h2h outcomes named by team
+ *   spread    { line, home, away }    — line signed from the HOME
+ *                                       team's perspective (the home
+ *                                       outcome's point, verbatim)
+ *   total     { line, over, under }   — Over/Under outcomes' shared point
+ */
+export function completeMarkets(bookmaker, homeTeam, awayTeam, markets = ALL_MARKETS) {
+  if (!bookmaker || typeof bookmaker !== 'object') return null;
+  const wanted = Array.isArray(markets) && markets.length ? markets : ALL_MARKETS;
+
+  const moneyline = moneylineOf(bookmaker, homeTeam, awayTeam);
+  if (wanted.includes('h2h') && moneyline == null) return null;
+
+  let spread = null;
+  if (wanted.includes('spreads')) {
+    spread = spreadOf(bookmaker, homeTeam, awayTeam);
+    if (spread == null) return null;
+  }
+
+  let total = null;
+  if (wanted.includes('totals')) {
+    total = totalOf(bookmaker);
+    if (total == null) return null;
+  }
+
+  if (!moneyline && !spread && !total) return null;
+  return { moneyline, spread, total };
 }
 
 /**
  * Choose the ONE bookmaker whose line set publishes for a game:
  * BOOKMAKER_PREFERENCE order first, then payload order — in both cases
- * only a bookmaker carrying all three markets complete qualifies.
- * Returns { bookmaker, markets } or null when no book qualifies.
+ * only a bookmaker complete for the sport's markets (`markets`,
+ * defaulting to the full team-sport set) qualifies. Returns
+ * { bookmaker, markets } or null when no book qualifies.
  */
-export function chooseBookmaker(game) {
+export function chooseBookmaker(game, markets = ALL_MARKETS) {
   const books = Array.isArray(game?.bookmakers) ? game.bookmakers : [];
   const usable = books.filter(
     (b) => b && typeof b === 'object' && typeof b.title === 'string' && b.title.trim()
@@ -154,8 +224,8 @@ export function chooseBookmaker(game) {
     ...usable.filter((b) => !BOOKMAKER_PREFERENCE.includes(b.key)),
   ];
   for (const bookmaker of ordered) {
-    const markets = completeMarkets(bookmaker, game.home_team, game.away_team);
-    if (markets) return { bookmaker, markets };
+    const chosen = completeMarkets(bookmaker, game.home_team, game.away_team, markets);
+    if (chosen) return { bookmaker, markets: chosen };
   }
   return null;
 }
@@ -172,8 +242,12 @@ export function chooseBookmaker(game) {
  * honestly by the line set's bookmaker name and the feed's boardMeta.
  */
 export function oddsApiGameToBoard(game, sport, fetchedAt) {
-  const cfg = SPORT_APIS[sport];
-  if (!cfg || !game || typeof game !== 'object') return null;
+  // The league code and market set come from THIS layer's maps, not
+  // SPORT_APIS: MMA is a board sport only here (API-Sports MMA is not
+  // wired), and it must still publish — sport "MMA", league "UFC".
+  const league = ODDS_API_SPORT_LABELS[sport];
+  const markets = ODDS_API_SPORT_MARKETS[sport];
+  if (!league || !markets || !game || typeof game !== 'object') return null;
   if (typeof game.id !== 'string' || !game.id) return null;
   const home = typeof game.home_team === 'string' ? game.home_team.trim() : '';
   const away = typeof game.away_team === 'string' ? game.away_team.trim() : '';
@@ -184,7 +258,7 @@ export function oddsApiGameToBoard(game, sport, fetchedAt) {
   if (!Number.isFinite(fetchedMs)) return null;
   const fetchedIso = new Date(fetchedMs).toISOString();
 
-  const chosen = chooseBookmaker(game);
+  const chosen = chooseBookmaker(game, markets);
   if (!chosen) return null;
   const lineSet = {
     bookmaker: chosen.bookmaker.title.trim(),
@@ -197,7 +271,7 @@ export function oddsApiGameToBoard(game, sport, fetchedAt) {
     id: `apisp-board-${sport}-${game.id}`,
     gameId: game.id,
     sport,
-    league: cfg.sportLabel,
+    league,
     home,
     away,
     homeCode: null,
@@ -212,7 +286,7 @@ export function oddsApiGameToBoard(game, sport, fetchedAt) {
   const slateItem = toSlateItem({
     id: game.id,
     sport,
-    sportLabel: cfg.sportLabel,
+    sportLabel: league,
     home,
     away,
     homeCode: null,
@@ -234,7 +308,15 @@ export function oddsApiGameToBoard(game, sport, fetchedAt) {
  */
 export function boardEntryToSlateItem(entry, nowMs) {
   if (!entry || typeof entry !== 'object') return null;
-  if (!SPORT_APIS[entry.sport] || !entry.home || !entry.away) return null;
+  // A carried entry may belong to an API-Sports sport OR an
+  // Odds-API-only board sport (MMA) — accept either map's sports.
+  if (
+    (!SPORT_APIS[entry.sport] && !ODDS_API_SPORT_LABELS[entry.sport]) ||
+    !entry.home ||
+    !entry.away
+  ) {
+    return null;
+  }
   if (!Number.isFinite(entry.startTs) || entry.startTs <= 0) return null;
   return toSlateItem({
     id: entry.gameId,
@@ -266,14 +348,15 @@ export function oddsApiPayloadToBoard(games, sport, fetchedAt) {
 }
 
 /**
- * The sweep decision. Inputs are the prior published feed's boardMeta
- * (oddsApiFetchedAt + creditsRemaining, as persisted by the last run)
- * and the current time. Rules, in order:
+ * The PER-SPORT sweep decision (the gate is per sport since the MMA
+ * addition, 2026-11-17: a newly added sport must not wait for the
+ * other sports' gate). Inputs are that sport's last successful sweep
+ * time and the shared pool's remaining credits. Rules, in order:
  *   - remaining credits known and below LOW_CREDIT_FLOOR → skip
  *     ('skipped-low-credits'); the shared pool is never drained by the
  *     board.
  *   - last sweep younger than SWEEP_MIN_INTERVAL_MS → skip ('carried').
- *   - otherwise → sweep ('due'; also the no-prior-state first run).
+ *   - otherwise → sweep ('due'; also a sport with no recorded sweep).
  */
 export function shouldSweep({ nowMs, lastSweepMs, creditsRemaining }) {
   if (
@@ -291,6 +374,67 @@ export function shouldSweep({ nowMs, lastSweepMs, creditsRemaining }) {
     return { sweep: false, reason: 'carried' };
   }
   return { sweep: true, reason: 'due' };
+}
+
+/**
+ * Per-sport last-successful-sweep times from a prior feed's boardMeta,
+ * as { oddsSportKey: epochMs }. Reads boardMeta.oddsApiSportsFetchedAt
+ * (the per-sport map, ISO values); MIGRATION: a meta written before
+ * the per-sport map existed carries only the global oddsApiFetchedAt
+ * (the moment every then-wired sport swept together), so the four
+ * original sports inherit it for any key the map lacks. A sport with
+ * no time in either place (e.g. MMA on its first run) has no entry —
+ * it is due immediately. Unknown keys and unparseable times drop out.
+ */
+export function sportsFetchedAtFromMeta(priorMeta) {
+  const byKey = {};
+  const map =
+    priorMeta?.oddsApiSportsFetchedAt &&
+    typeof priorMeta.oddsApiSportsFetchedAt === 'object'
+      ? priorMeta.oddsApiSportsFetchedAt
+      : {};
+  for (const sportKey of Object.values(ODDS_API_SPORT_KEYS)) {
+    const ms = Date.parse(typeof map[sportKey] === 'string' ? map[sportKey] : '');
+    if (Number.isFinite(ms)) byKey[sportKey] = ms;
+  }
+  const globalMs = Date.parse(
+    typeof priorMeta?.oddsApiFetchedAt === 'string' ? priorMeta.oddsApiFetchedAt : ''
+  );
+  if (Number.isFinite(globalMs)) {
+    for (const sport of ['Basketball', 'Football', 'Baseball', 'Hockey']) {
+      const sportKey = ODDS_API_SPORT_KEYS[sport];
+      if (byKey[sportKey] == null) byKey[sportKey] = globalMs;
+    }
+  }
+  return byKey;
+}
+
+/**
+ * This run's sweep plan: which display sports are DUE (their own gate
+ * is open — no recorded sweep, or the last one is at least
+ * SWEEP_MIN_INTERVAL_MS old) and which CARRY OVER. The low-credit
+ * floor is GLOBAL: when the shared pool is under it, nothing sweeps
+ * (lowCredits: true, due: []) regardless of any sport's gate.
+ * `lastFetchMs` is the migrated per-sport map (see
+ * sportsFetchedAtFromMeta), echoed back so the caller can persist the
+ * updated map without recomputing the migration.
+ */
+export function sweepPlan({ nowMs, priorMeta, creditsRemaining }) {
+  const lastFetchMs = sportsFetchedAtFromMeta(priorMeta);
+  const due = [];
+  const carriedSports = [];
+  let lowCredits = false;
+  for (const [sport, sportKey] of Object.entries(ODDS_API_SPORT_KEYS)) {
+    const decision = shouldSweep({
+      nowMs,
+      lastSweepMs: lastFetchMs[sportKey] ?? null,
+      creditsRemaining,
+    });
+    if (decision.reason === 'skipped-low-credits') lowCredits = true;
+    else if (decision.sweep) due.push(sport);
+    else carriedSports.push(sport);
+  }
+  return { lowCredits, due, carriedSports, lastFetchMs };
 }
 
 /**

@@ -27,13 +27,18 @@ import {
   oddsApiPayloadToBoard,
   boardEntryToSlateItem,
   shouldSweep,
+  sportsFetchedAtFromMeta,
+  sweepPlan,
   carryOverEntries,
   sameGame,
   mergeBoard,
   mergeSlate,
+  ODDS_API_SPORT_KEYS,
+  ODDS_API_SPORT_MARKETS,
   SWEEP_MIN_INTERVAL_MS,
   LOW_CREDIT_FLOOR,
 } from '../oddsapi.mjs';
+import { oddsCoveredSports, extractApiSportsErrors } from '../collector.mjs';
 
 const FETCHED_AT = '2026-11-17T12:00:00.000Z';
 const FETCHED_MS = Date.parse(FETCHED_AT);
@@ -41,6 +46,10 @@ const payload = JSON.parse(
   readFileSync(new URL('./fixtures/oddsapi-nba-odds.json', import.meta.url), 'utf8')
 );
 const [lakersGame, warriorsGame, knicksGame] = payload;
+const mmaPayload = JSON.parse(
+  readFileSync(new URL('./fixtures/oddsapi-mma-odds.json', import.meta.url), 'utf8')
+);
+const [topuriaFight, merabFight, islamFight] = mmaPayload;
 
 // --- price formatting ------------------------------------------------------
 
@@ -301,6 +310,185 @@ test('mergeBoard: the Odds API entry wins a shared game; API-Sports-only games s
   };
   const merged = mergeBoard([oddsEntry], [dupApiSports, otherApiSports]);
   assert.deepEqual(merged, [oddsEntry, otherApiSports]);
+});
+
+// --- MMA / UFC (h2h-only board sport, added 2026-11-17) ----------------------
+
+test('MMA wiring: sport key mma_mixed_martial_arts, h2h-only markets', () => {
+  assert.equal(ODDS_API_SPORT_KEYS.MMA, 'mma_mixed_martial_arts');
+  assert.deepEqual(ODDS_API_SPORT_MARKETS.MMA, ['h2h']);
+  // Team sports keep the full three-market set.
+  assert.deepEqual(ODDS_API_SPORT_MARKETS.Basketball, ['h2h', 'spreads', 'totals']);
+  assert.deepEqual(ODDS_API_SPORT_MARKETS.Hockey, ['h2h', 'spreads', 'totals']);
+});
+
+test('completeMarkets with h2h only: a moneyline-only book IS complete for MMA', () => {
+  const dk = topuriaFight.bookmakers.find((b) => b.key === 'draftkings');
+  const markets = completeMarkets(dk, topuriaFight.home_team, topuriaFight.away_team, ['h2h']);
+  assert.deepEqual(markets.moneyline, { home: '-425', away: '+330' });
+  // The published shape still carries all three keys; uncarried
+  // markets are null (normalize.mjs's line sets do the same).
+  assert.equal(markets.spread, null);
+  assert.equal(markets.total, null);
+});
+
+test('completeMarkets with h2h only: a partial moneyline (one fighter) does NOT publish', () => {
+  const dk = merabFight.bookmakers[0];
+  assert.equal(
+    completeMarkets(dk, merabFight.home_team, merabFight.away_team, ['h2h']),
+    null
+  );
+});
+
+test('chooseBookmaker for MMA: preference order holds among moneyline-only books', () => {
+  // FanDuel is first in payload order and complete; DraftKings must
+  // still win by preference.
+  const chosen = chooseBookmaker(topuriaFight, ['h2h']);
+  assert.equal(chosen.bookmaker.key, 'draftkings');
+  assert.deepEqual(chosen.markets.moneyline, { home: '-425', away: '+330' });
+});
+
+test('chooseBookmaker for MMA: a partial preferred book is skipped for a complete one', () => {
+  // DraftKings prices only one fighter here; BetMGM prices both.
+  const chosen = chooseBookmaker(islamFight, ['h2h']);
+  assert.equal(chosen.bookmaker.key, 'betmgm');
+  assert.deepEqual(chosen.markets.moneyline, { home: '-275', away: '+235' });
+  // And when the ONLY book is partial, no book qualifies at all.
+  assert.equal(chooseBookmaker(merabFight, ['h2h']), null);
+});
+
+test('oddsApiGameToBoard maps an MMA fight: sport MMA, league UFC, moneyline-only set', () => {
+  const { entry, slateItem } = oddsApiGameToBoard(topuriaFight, 'MMA', FETCHED_AT);
+  assert.equal(entry.id, `apisp-board-MMA-${topuriaFight.id}`);
+  assert.equal(entry.sport, 'MMA');
+  assert.equal(entry.league, 'UFC');
+  assert.equal(entry.home, 'Ilia Topuria');
+  assert.equal(entry.away, 'Charles Oliveira');
+  assert.equal(entry.lineSets.length, 1);
+  assert.equal(entry.lineSets[0].bookmaker, 'DraftKings');
+  assert.deepEqual(entry.lineSets[0].moneyline, { home: '-425', away: '+330' });
+  assert.equal(entry.lineSets[0].spread, null);
+  assert.equal(entry.lineSets[0].total, null);
+  // Slate twin through the existing toSlateItem path.
+  assert.equal(slateItem.id, `apisp-slate-MMA-${topuriaFight.id}`);
+  assert.equal(slateItem.sport, 'MMA');
+  assert.equal(slateItem.sportLabel, 'UFC');
+  assert.equal(slateItem.teams, 'Charles Oliveira vs Ilia Topuria');
+});
+
+test('oddsApiPayloadToBoard for MMA drops the fight no book carries complete', () => {
+  const { entries, slateItems } = oddsApiPayloadToBoard(mmaPayload, 'MMA', FETCHED_AT);
+  assert.equal(entries.length, 2);
+  assert.equal(slateItems.length, 2);
+  assert.deepEqual(
+    entries.map((e) => e.lineSets[0].bookmaker),
+    ['DraftKings', 'BetMGM']
+  );
+});
+
+test('boardEntryToSlateItem rebuilds the slate twin for a carried MMA entry', () => {
+  const { entry } = oddsApiGameToBoard(topuriaFight, 'MMA', FETCHED_AT);
+  const item = boardEntryToSlateItem(entry, FETCHED_MS);
+  assert.equal(item.id, `apisp-slate-MMA-${topuriaFight.id}`);
+  assert.equal(item.sportLabel, 'UFC');
+  assert.equal(item.teams, 'Charles Oliveira vs Ilia Topuria');
+});
+
+// --- per-sport sweep gate -------------------------------------------------------
+
+test('sportsFetchedAtFromMeta migrates the pre-map global time to the four original sports only', () => {
+  const byKey = sportsFetchedAtFromMeta({ oddsApiFetchedAt: FETCHED_AT });
+  assert.equal(byKey.basketball_nba, FETCHED_MS);
+  assert.equal(byKey.americanfootball_nfl, FETCHED_MS);
+  assert.equal(byKey.baseball_mlb, FETCHED_MS);
+  assert.equal(byKey.icehockey_nhl, FETCHED_MS);
+  // MMA was not wired for the global sweep — no inherited time, so
+  // it is due immediately.
+  assert.equal(byKey.mma_mixed_martial_arts, undefined);
+});
+
+test('sportsFetchedAtFromMeta prefers the per-sport map where it has a key', () => {
+  const later = '2026-11-17T18:00:00.000Z';
+  const byKey = sportsFetchedAtFromMeta({
+    oddsApiFetchedAt: FETCHED_AT,
+    oddsApiSportsFetchedAt: { basketball_nba: later, mma_mixed_martial_arts: later },
+  });
+  assert.equal(byKey.basketball_nba, Date.parse(later));
+  assert.equal(byKey.mma_mixed_martial_arts, Date.parse(later));
+  assert.equal(byKey.icehockey_nhl, FETCHED_MS); // migrated from the global time
+});
+
+test('sweepPlan: a newly added sport is due immediately while the others carry over', () => {
+  const plan = sweepPlan({
+    nowMs: FETCHED_MS + 60 * 60 * 1000, // 1h after the last full sweep
+    priorMeta: { oddsApiFetchedAt: FETCHED_AT },
+    creditsRemaining: 491,
+  });
+  assert.equal(plan.lowCredits, false);
+  assert.deepEqual(plan.due, ['MMA']);
+  assert.deepEqual(
+    [...plan.carriedSports].sort(),
+    ['Baseball', 'Basketball', 'Football', 'Hockey']
+  );
+});
+
+test('sweepPlan: the 22h boundary — due at exactly the interval, carried 1ms before', () => {
+  const meta = { oddsApiFetchedAt: FETCHED_AT };
+  const justBefore = sweepPlan({
+    nowMs: FETCHED_MS + SWEEP_MIN_INTERVAL_MS - 1,
+    priorMeta: meta,
+    creditsRemaining: 491,
+  });
+  assert.deepEqual(justBefore.due, ['MMA']); // only the never-swept sport
+  const atBoundary = sweepPlan({
+    nowMs: FETCHED_MS + SWEEP_MIN_INTERVAL_MS,
+    priorMeta: meta,
+    creditsRemaining: 491,
+  });
+  assert.deepEqual(
+    [...atBoundary.due].sort(),
+    ['Baseball', 'Basketball', 'Football', 'Hockey', 'MMA']
+  );
+  assert.deepEqual(atBoundary.carriedSports, []);
+});
+
+test('sweepPlan: low credits close every sport gate (global floor)', () => {
+  const plan = sweepPlan({
+    nowMs: FETCHED_MS + SWEEP_MIN_INTERVAL_MS * 3,
+    priorMeta: { oddsApiFetchedAt: FETCHED_AT },
+    creditsRemaining: LOW_CREDIT_FLOOR - 1,
+  });
+  assert.equal(plan.lowCredits, true);
+  assert.deepEqual(plan.due, []);
+});
+
+// --- API-Sports error relocation -------------------------------------------------
+
+test('error relocation: a successful EMPTY sweep still covers its sport (MLB offseason)', () => {
+  // Baseball's sweep came back HTTP OK with zero games: no board
+  // entries, but the sport was swept — its dead API-Sports season
+  // message must move out of `errors` all the same.
+  const layer = { entries: [], sweptSports: ['Baseball'] };
+  const covered = oddsCoveredSports(layer);
+  assert.equal(covered.has('Baseball'), true);
+  const errors = {
+    Baseball: 'API-Sports Baseball error: {"plan":"Free plans do not have access to this season"}',
+    Hockey: 'API-Sports Hockey error: {"plan":"Free plans do not have access to this season"}',
+  };
+  const apiSportsErrors = extractApiSportsErrors(errors, covered);
+  assert.deepEqual(Object.keys(apiSportsErrors), ['Baseball']);
+  assert.deepEqual(Object.keys(errors), ['Hockey']);
+});
+
+test('error relocation: sports with board entries stay covered via entries (carry-over runs)', () => {
+  const layer = {
+    entries: [{ sport: 'Hockey' }, { sport: 'Basketball' }],
+    sweptSports: [],
+  };
+  const covered = oddsCoveredSports(layer);
+  assert.equal(covered.has('Hockey'), true);
+  assert.equal(covered.has('Basketball'), true);
+  assert.equal(covered.has('Baseball'), false);
 });
 
 test('mergeSlate: a shared game lists once, as the Odds API item (the id that joins the board)', () => {

@@ -37,9 +37,10 @@ the clock, regardless of user count.
   malformed-bookmaker cases.
 - `oddsapi.mjs` — The Odds API board layer (mapping, bookmaker choice,
   sweep gate, carry-over, fallback merge; pure functions, no I/O).
-- `tests/oddsapi.test.mjs` — unit tests for that layer, run against a
-  documented-envelope Odds API fixture
-  (`tests/fixtures/oddsapi-nba-odds.json`). No live calls.
+- `tests/oddsapi.test.mjs` — unit tests for that layer, run against
+  documented-envelope Odds API fixtures
+  (`tests/fixtures/oddsapi-nba-odds.json`,
+  `tests/fixtures/oddsapi-mma-odds.json`). No live calls.
 - `aggregates.mjs` — republishes the Intelligence Engine aggregates the
   daily harvest already produced into the feed's `aggregates` section
   (see below). Zero provider requests.
@@ -131,15 +132,22 @@ would blow the cap.)
                  data_as_of?: ISO } — see Aggregates section below.
                  Football reads the Engine's american-football doc. */ },
   "boardMeta": { /* The Odds API board layer: { source: "the-odds-api",
-                 oddsApiFetchedAt, creditsRemaining, creditsUsed, status,
-                 oddsApiGameIds } — sweep provenance + credit state; see
-                 Board rules below. */ },
+                 oddsApiFetchedAt, oddsApiSportsFetchedAt,
+                 creditsRemaining, creditsUsed, status,
+                 oddsApiGameIds } — sweep provenance + credit state;
+                 oddsApiFetchedAt is the most recent sweep of ANY
+                 sport, oddsApiSportsFetchedAt maps each Odds API
+                 sport key (basketball_nba, …, mma_mixed_martial_arts)
+                 to that sport's last successful sweep — the per-sport
+                 gate state; see Board rules below. */ },
   "aggregatesErrors": { /* display sport -> message, only for sports
                  whose aggregates document could not be loaded */ },
   "apiSportsErrors": { /* display sport -> API-Sports failure message,
-                 ONLY for sports The Odds API covered this run (their
-                 API-Sports message is kept out of `errors` so it cannot
-                 stale their board prices in the app) */ },
+                 ONLY for sports The Odds API covered this run — board
+                 entries this run OR a sweep that succeeded this run,
+                 even one that returned zero games (their API-Sports
+                 message is kept out of `errors` so it cannot stale
+                 their board prices in the app) */ },
   "news": {
     "fetchedAt": "ISO timestamp",
     "Basketball": {
@@ -173,18 +181,35 @@ Board odds source (since 2026-11-17, design-doc amendment): The Odds
 API free tier (`ODDS_API_KEY`, the key shared with the SportsBettingGPT
 backend — 500 credits/month total). API-Sports' free plan refuses the
 current season for Basketball/Baseball/Hockey, which left its board
-empty. The collector runs ONE bulk sweep (4 sports × markets × regions
-= 12 credits) at most every ~22 hours, gated by the prior published
-feed's `boardMeta` and the response credit headers, and never when
-remaining credits are under 50; between sweeps the last sweep's entries
-carry over verbatim (their `fetchedAt` stays the sweep time). Each game
-publishes ONE bookmaker's complete line set — DraftKings, then FanDuel,
-then BetMGM, then Caesars, else the first book carrying all three
-markets. The API-Sports board (published from the odds responses the
-collector already fetches for the pick cards — zero extra provider
-requests, ≤3 near-term games per sport per run, decimals converted at
-publish time) remains as a fallback for games The Odds API does not
-carry; the two sources' prices are never blended into one entry.
+empty. Sweeps are gated PER SPORT: each sport is fetched at most every
+~22 hours, gated by its own last successful sweep in the prior
+published feed's `boardMeta.oddsApiSportsFetchedAt` and the response
+credit headers, and never when remaining credits are under 50 (the
+floor is global — under it nothing sweeps). A sport with no recorded
+sweep is due immediately, so a newly added sport fetches on the first
+run after it ships rather than waiting for the other sports' gates.
+Between a sport's sweeps its last entries carry over verbatim (their
+`fetchedAt` stays the sweep time). A full sweep with every sport due
+costs 13 credits (4 team sports × 3 markets × 1 region, plus MMA at
+1 market × 1 region). Each game publishes ONE bookmaker's complete
+line set — DraftKings, then FanDuel, then BetMGM, then Caesars, else
+the first book complete for the sport's markets. For team sports
+complete means all three markets; MMA (below) is moneyline-only.
+
+MMA / UFC (added 2026-11-17): a fifth board category, Odds-API-only —
+API-Sports MMA is not wired, so MMA has no slate/picks/aggregates
+presence beyond the board. Board entries carry sport `"MMA"` and
+league `"UFC"` (the app joins on those exact strings), with slate
+twins in the usual `apisp-slate-MMA-<gameId>` scheme. Books offer no
+spreads or totals for fights, so the sweep requests `h2h` only
+(1 credit) and a complete moneyline — both fighters priced — IS a
+complete line set: MMA line sets publish with `spread: null` and
+`total: null`. A book pricing only one fighter is partial and never
+publishes. A successful MMA sweep also counts as Odds coverage for
+the error-relocation rule above, exactly like the team sports — as
+does any successful sweep that returns zero games (a November MLB
+sweep is the standing example: coverage, an empty board, no error
+state).
 
 News honesty rules: a league whose ESPN JSON *and* RSS fetches both fail
 (or return nothing usable) gets `"articles": []` and a plain-language

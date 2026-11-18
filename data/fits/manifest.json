@@ -1,0 +1,75 @@
+{
+  "contract": "fit-manifest",
+  "v": 1,
+  "sports": {
+    "NBA": {
+      "fitVersion": "1.4144.20261118",
+      "artifact": "nba-fit.json",
+      "sha256": "661c2c1524ffa1bc0533a9ecb652c8d252b8adf491985c7b47ed0a8d65f4b1a8",
+      "trainedOn": {
+        "seasons": [
+          "2022-2023",
+          "2023-2024",
+          "2024-2025"
+        ],
+        "gamesUsed": 4144,
+        "gamesExcluded": 5
+      },
+      "publishedAt": "2026-11-18T09:12:05.508Z",
+      "producedBy": "simulation-lab scripts/fit-pipeline.mjs (working-tree — simulation-lab is not under git) · inputs: sports-feed data branch @ 9c744b0",
+      "supersedes": "0 (hand-built v0 fit (simulation-lab/data))"
+    },
+    "NFL": {
+      "fitVersion": "1.805.20261118",
+      "artifact": "nfl-fit.json",
+      "sha256": "8ee1f92f44c45a5c2f213408a5cc5aec40031903476688ce4ab14834ab8efe78",
+      "trainedOn": {
+        "seasons": [
+          "2022",
+          "2023",
+          "2024"
+        ],
+        "gamesUsed": 805,
+        "gamesExcluded": 0
+      },
+      "publishedAt": "2026-11-18T09:12:05.508Z",
+      "producedBy": "simulation-lab scripts/fit-pipeline.mjs (working-tree — simulation-lab is not under git) · inputs: sports-feed data branch @ 9c744b0",
+      "supersedes": "0 (hand-built v0 fit (simulation-lab/data))"
+    },
+    "MLB": {
+      "fitVersion": "1.7413.20261118",
+      "artifact": "mlb-fit.json",
+      "sha256": "a0d1bad0470f27f9f996ba7794dcf4fa764bcb23ee53a48bafc7f90326e4f83c",
+      "trainedOn": {
+        "seasons": [
+          "2022",
+          "2023",
+          "2024"
+        ],
+        "gamesUsed": 7413,
+        "gamesExcluded": 0
+      },
+      "publishedAt": "2026-11-18T09:12:05.508Z",
+      "producedBy": "simulation-lab scripts/fit-pipeline.mjs (working-tree — simulation-lab is not under git) · inputs: sports-feed data branch @ 9c744b0",
+      "supersedes": "0 (hand-built v0 fit (simulation-lab/data))"
+    },
+    "NHL": {
+      "fitVersion": "1.4198.20261118",
+      "artifact": "nhl-fit.json",
+      "sha256": "2a39811c05f3e588264e7bbd2eba848b2f07ee6630e0d3ed3e09da93f7108685",
+      "trainedOn": {
+        "seasons": [
+          "2022-2023",
+          "2023-2024",
+          "2024-2025"
+        ],
+        "gamesUsed": 4198,
+        "gamesExcluded": 0
+      },
+      "publishedAt": "2026-11-18T09:12:05.508Z",
+      "producedBy": "simulation-lab scripts/fit-pipeline.mjs (working-tree — simulation-lab is not under git) · inputs: sports-feed data branch @ 9c744b0",
+      "supersedes": "0 (hand-built v0 fit (simulation-lab/data))"
+    }
+  },
+  "generatedAt": "2026-11-18T09:12:05.508Z"
+}

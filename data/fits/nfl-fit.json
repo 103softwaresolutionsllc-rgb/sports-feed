@@ -1,0 +1,230 @@
+{
+  "contract": "fit-artifact",
+  "v": 1,
+  "class": "Historical",
+  "source": "api-sports — Intelligence Engine harvest, sports-feed data branch (data/intelligence/raw/american-football)",
+  "fetchedAt": "2026-11-18T08:49:09+00:00",
+  "id": "fit-artifact:nfl:1.805.20261118",
+  "sport": "NFL",
+  "fitVersion": "1.805.20261118",
+  "parameters": {
+    "leagueAvg": 22.068944099378882,
+    "homeEdge": 2.55527950310559,
+    "shrink": 0.45,
+    "totalSD": 13.2841922810549,
+    "marginSD": 13.202954155841187
+  },
+  "trainedOn": {
+    "seasons": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "gamesUsed": 805,
+    "gamesExcluded": 0
+  },
+  "teams": {
+    "Arizona Cardinals": {
+      "homePF": 23.38888888888889,
+      "homePA": 26.28240740740741,
+      "awayPF": 17.878306878306876,
+      "awayPA": 24.13227513227513
+    },
+    "Kansas City Chiefs": {
+      "homePF": 24.276094276094273,
+      "homePA": 18.17845117845118,
+      "awayPF": 25.455555555555552,
+      "awayPA": 21.566666666666666
+    },
+    "Los Angeles Chargers": {
+      "homePF": 22.60780423280423,
+      "homePA": 22.894179894179896,
+      "awayPF": 21.695238095238096,
+      "awayPA": 20.795238095238094
+    },
+    "Los Angeles Rams": {
+      "homePF": 23.25462962962963,
+      "homePA": 22.15092592592593,
+      "awayPF": 18,
+      "awayPA": 21.892857142857142
+    },
+    "New England Patriots": {
+      "homePF": 16.822751322751323,
+      "homePA": 21.826058201058203,
+      "awayPF": 17.958333333333332,
+      "awayPA": 22.583333333333332
+    },
+    "New Orleans Saints": {
+      "homePF": 22.671296296296294,
+      "homePA": 20.77314814814815,
+      "awayPF": 19.194444444444443,
+      "awayPA": 21.185185185185187
+    },
+    "Philadelphia Eagles": {
+      "homePF": 29.235042735042736,
+      "homePA": 21.583333333333332,
+      "awayPF": 25.625,
+      "awayPA": 20.875
+    },
+    "San Francisco 49ers": {
+      "homePF": 27.0989898989899,
+      "homePA": 19.07239057239057,
+      "awayPF": 23.541666666666668,
+      "awayPA": 21.666666666666668
+    },
+    "Seattle Seahawks": {
+      "homePF": 20.952380952380953,
+      "homePA": 21.351190476190478,
+      "awayPF": 23.055555555555557,
+      "awayPA": 23.944444444444443
+    },
+    "Atlanta Falcons": {
+      "homePF": 22.50595238095238,
+      "homePA": 20.226190476190478,
+      "awayPF": 17.79563492063492,
+      "awayPA": 24.195767195767193
+    },
+    "Chicago Bears": {
+      "homePF": 21.51851851851852,
+      "homePA": 20.791666666666668,
+      "awayPF": 17.296296296296294,
+      "awayPA": 26.39814814814815
+    },
+    "Cleveland Browns": {
+      "homePF": 19.878968253968253,
+      "homePA": 19.474867724867725,
+      "awayPF": 19.59259259259259,
+      "awayPA": 27.62962962962963
+    },
+    "Pittsburgh Steelers": {
+      "homePF": 19.902777777777775,
+      "homePA": 18.36574074074074,
+      "awayPF": 18.427777777777777,
+      "awayPA": 22.04074074074074
+    },
+    "Tampa Bay Buccaneers": {
+      "homePF": 22.54074074074074,
+      "homePA": 20.640740740740743,
+      "awayPF": 23.333333333333332,
+      "awayPA": 20.11111111111111
+    },
+    "Baltimore Ravens": {
+      "homePF": 26.930555555555557,
+      "homePA": 16.97685185185185,
+      "awayPF": 24.55925925925926,
+      "awayPA": 18.925925925925927
+    },
+    "Buffalo Bills": {
+      "homePF": 30.41683501683502,
+      "homePA": 17.803703703703704,
+      "awayPF": 25.76388888888889,
+      "awayPA": 20.480555555555558
+    },
+    "Carolina Panthers": {
+      "homePF": 17.99537037037037,
+      "homePA": 23.384259259259256,
+      "awayPF": 15.301587301587302,
+      "awayPA": 28.51322751322751
+    },
+    "Cincinnati Bengals": {
+      "homePF": 26.567460317460316,
+      "homePA": 21.047619047619047,
+      "awayPF": 22.59259259259259,
+      "awayPA": 23.113997113997115
+    },
+    "Denver Broncos": {
+      "homePF": 23.759259259259256,
+      "homePA": 17.699074074074076,
+      "awayPF": 18.26851851851852,
+      "awayPA": 25.10648148148148
+    },
+    "Miami Dolphins": {
+      "homePF": 25.74272486772487,
+      "homePA": 18.468253968253965,
+      "awayPF": 21.944444444444443,
+      "awayPA": 26.633333333333336
+    },
+    "Green Bay Packers": {
+      "homePF": 22.860449735449738,
+      "homePA": 18.925925925925927,
+      "awayPF": 23.939814814814813,
+      "awayPA": 22.653619528619526
+    },
+    "New York Jets": {
+      "homePF": 18.708333333333332,
+      "homePA": 19.083333333333332,
+      "awayPF": 16.224206349206348,
+      "awayPA": 23.556878306878307
+    },
+    "Tennessee Titans": {
+      "homePF": 18.5734126984127,
+      "homePA": 20.38293650793651,
+      "awayPF": 16.652777777777775,
+      "awayPA": 25.51388888888889
+    },
+    "Detroit Lions": {
+      "homePF": 32.925925925925924,
+      "homePA": 23.40740740740741,
+      "awayPF": 24.974999999999998,
+      "awayPA": 22.866666666666664
+    },
+    "Houston Texans": {
+      "homePF": 20.348148148148148,
+      "homePA": 22.400000000000002,
+      "awayPF": 19.810185185185187,
+      "awayPA": 22.94074074074074
+    },
+    "Minnesota Vikings": {
+      "homePF": 24.194444444444443,
+      "homePA": 22.083333333333332,
+      "awayPF": 20.58928571428571,
+      "awayPA": 21.261904761904763
+    },
+    "Washington Commanders": {
+      "homePF": 21.425925925925924,
+      "homePA": 24.625,
+      "awayPF": 22.949134199134196,
+      "awayPA": 25.344155844155846
+    },
+    "Dallas Cowboys": {
+      "homePF": 28.222222222222218,
+      "homePA": 23.444444444444446,
+      "awayPF": 23.069444444444443,
+      "awayPA": 20.046296296296294
+    },
+    "Indianapolis Colts": {
+      "homePF": 22.46428571428571,
+      "homePA": 23.51190476190476,
+      "awayPF": 17.203703703703706,
+      "awayPA": 26.703703703703706
+    },
+    "New York Giants": {
+      "homePF": 17.261243386243386,
+      "homePA": 22.402116402116405,
+      "awayPF": 18.400000000000002,
+      "awayPA": 25.21746031746032
+    },
+    "Jacksonville Jaguars": {
+      "homePF": 21.125,
+      "homePA": 20,
+      "awayPF": 20.916666666666668,
+      "awayPA": 24.766666666666666
+    },
+    "Las Vegas Raiders": {
+      "homePF": 22.546296296296294,
+      "homePA": 21.587962962962962,
+      "awayPF": 16.83399470899471,
+      "awayPA": 24.08531746031746
+    }
+  },
+  "playerStatSDs": {
+    "passingYards": 80.76,
+    "rushingYards": 25.46,
+    "receivingYards": 30.19,
+    "receptions": 2.08,
+    "passingTouchdowns": 1.17
+  },
+  "playerStatSDSource": "fitted — pooled within-player residual SDs over regulars (mean ≥ half the 75th-percentile mean) from espn-fallback per-game logs, season 2024 (players with ≥10 games per stat; passingTouchdowns: 28 players / 423 lines, passingYards: 31 players / 454 lines, receivingYards: 141 players / 2170 lines, receptions: 157 players / 2418 lines, rushingYards: 103 players / 1572 lines). Any stat not listed keeps its tagged parameter value.",
+  "producedBy": "simulation-lab scripts/fit-pipeline.mjs (working-tree — simulation-lab is not under git) · inputs: sports-feed data branch @ 9c744b0",
+  "producedAt": "2026-11-18T09:12:05.508Z"
+}

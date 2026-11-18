@@ -1,0 +1,219 @@
+{
+  "contract": "fit-artifact",
+  "v": 1,
+  "class": "Historical",
+  "source": "api-sports — Intelligence Engine harvest, sports-feed data branch (data/intelligence/raw/basketball)",
+  "fetchedAt": "2026-11-18T08:49:09+00:00",
+  "id": "fit-artifact:nba:1.4144.20261118",
+  "sport": "NBA",
+  "fitVersion": "1.4144.20261118",
+  "parameters": {
+    "leagueAvg": 113.68315637065638,
+    "homeEdge": 2.2432432432432434,
+    "shrink": 0.8,
+    "totalSD": 18.77133362022785,
+    "marginSD": 13.822295990380116
+  },
+  "trainedOn": {
+    "seasons": [
+      "2022-2023",
+      "2023-2024",
+      "2024-2025"
+    ],
+    "gamesUsed": 4144,
+    "gamesExcluded": 5
+  },
+  "teams": {
+    "Atlanta Hawks": {
+      "homePF": 119.47105279284249,
+      "homePA": 119.01173514722554,
+      "awayPF": 116.12047366290317,
+      "awayPA": 119.27162145952349
+    },
+    "Boston Celtics": {
+      "homePF": 118.700987654321,
+      "homePA": 107.44469135802468,
+      "awayPF": 115.05700100553042,
+      "awayPA": 109.05448717948718
+    },
+    "Brooklyn Nets": {
+      "homePF": 109.42535991140642,
+      "homePA": 111.13592961732498,
+      "awayPF": 109.1929371231697,
+      "awayPA": 113.88406546080965
+    },
+    "Charlotte Hornets": {
+      "homePF": 107.80021141649048,
+      "homePA": 114.76603241719522,
+      "awayPF": 107.03505990133897,
+      "awayPA": 117.04633544749824
+    },
+    "Chicago Bulls": {
+      "homePF": 114.60723905723906,
+      "homePA": 114.2181818181818,
+      "awayPF": 114.13407329105003,
+      "awayPA": 115.55673009161382
+    },
+    "Cleveland Cavaliers": {
+      "homePF": 115.26056763285023,
+      "homePA": 108.41153381642512,
+      "awayPF": 113.3877904826233,
+      "awayPA": 110.513529856387
+    },
+    "Dallas Mavericks": {
+      "homePF": 115.06527856132946,
+      "homePA": 111.91309192976591,
+      "awayPF": 113.49571294338735,
+      "awayPA": 115.67086889567508
+    },
+    "Denver Nuggets": {
+      "homePF": 117.77136039601025,
+      "homePA": 110.32262534643486,
+      "awayPF": 113.3566037735849,
+      "awayPA": 114.05647798742139
+    },
+    "Detroit Pistons": {
+      "homePF": 112.26348141264687,
+      "homePA": 116.4554856929074,
+      "awayPF": 110.81481855971238,
+      "awayPA": 116.77687525746171
+    },
+    "Golden State Warriors": {
+      "homePF": 116.42454545454545,
+      "homePA": 112.4139393939394,
+      "awayPF": 115.79939393939394,
+      "awayPA": 114.64969696969696
+    },
+    "Houston Rockets": {
+      "homePF": 113.86417256488035,
+      "homePA": 110.60886417256489,
+      "awayPF": 112.52036254013,
+      "awayPA": 116.09672304439745
+    },
+    "Indiana Pacers": {
+      "homePF": 120.00392190640252,
+      "homePA": 116.36383577375825,
+      "awayPF": 116.26647321366885,
+      "awayPA": 118.78984371761389
+    },
+    "Los Angeles Clippers": {
+      "homePF": 113.08101646455684,
+      "homePA": 108.80745957803411,
+      "awayPF": 113.44208754208755,
+      "awayPA": 113.13468013468014
+    },
+    "Los Angeles Lakers": {
+      "homePF": 115.56750722353559,
+      "homePA": 112.61334384029419,
+      "awayPF": 114.03653500047362,
+      "awayPA": 117.64693568248555
+    },
+    "Memphis Grizzlies": {
+      "homePF": 115.04887091338053,
+      "homePA": 111.95736434108528,
+      "awayPF": 113.27192134107027,
+      "awayPA": 116.34026434558349
+    },
+    "Miami Heat": {
+      "homePF": 110.84514999339235,
+      "homePA": 109.84377340205278,
+      "awayPF": 108.30154508611956,
+      "awayPA": 108.68173758865248
+    },
+    "Milwaukee Bucks": {
+      "homePF": 118.60133247367291,
+      "homePA": 113.2029729923347,
+      "awayPF": 113.61207729468599,
+      "awayPA": 115.44669887278583
+    },
+    "Minnesota Timberwolves": {
+      "homePF": 114.35185185185185,
+      "homePA": 109.01555555555557,
+      "awayPF": 113.02498691784406,
+      "awayPA": 111.14272632129776
+    },
+    "New Orleans Pelicans": {
+      "homePF": 112.71783266727657,
+      "homePA": 112.40181681031022,
+      "awayPF": 112.06200767363559,
+      "awayPA": 115.06566831101715
+    },
+    "New York Knicks": {
+      "homePF": 114.79967884589733,
+      "homePA": 109.13922492073753,
+      "awayPF": 112.60808783415166,
+      "awayPA": 111.64271913075105
+    },
+    "Oklahoma City Thunder": {
+      "homePF": 121.1714862914863,
+      "homePA": 110.36051948051947,
+      "awayPF": 115.25528356934463,
+      "awayPA": 112.86118622358215
+    },
+    "Orlando Magic": {
+      "homePF": 110.66942291128338,
+      "homePA": 107.13109388458226,
+      "awayPF": 106.45002507342933,
+      "awayPA": 110.26947847266996
+    },
+    "Philadelphia 76ers": {
+      "homePF": 112.3294284025667,
+      "homePA": 111.33937014522121,
+      "awayPF": 112.33681356600611,
+      "awayPA": 113.12032600479806
+    },
+    "Phoenix Suns": {
+      "homePF": 114.60431739879414,
+      "homePA": 112.70052756244617,
+      "awayPF": 114.09335016835017,
+      "awayPA": 115.17239057239057
+    },
+    "Portland Trail Blazers": {
+      "homePF": 112.12698412698414,
+      "homePA": 115.58730158730161,
+      "awayPF": 108.09161381254405,
+      "awayPA": 115.2961592670895
+    },
+    "Sacramento Kings": {
+      "homePF": 118.76461547688665,
+      "homePA": 116.31530295533264,
+      "awayPF": 115.11419997072171,
+      "awayPA": 114.46622017274193
+    },
+    "San Antonio Spurs": {
+      "homePF": 114.85606060606061,
+      "homePA": 118.47727272727273,
+      "awayPF": 110.7751937984496,
+      "awayPA": 119.66666666666667
+    },
+    "Toronto Raptors": {
+      "homePF": 112.5381567614126,
+      "homePA": 113.24409991386737,
+      "awayPF": 111.73243229638577,
+      "awayPA": 116.46676901909461
+    },
+    "Utah Jazz": {
+      "homePF": 116.24012550756737,
+      "homePA": 118.1795865633075,
+      "awayPF": 112.92758985200847,
+      "awayPA": 120.92882311486962
+    },
+    "Washington Wizards": {
+      "homePF": 111.80214101144334,
+      "homePA": 118.89294942783316,
+      "awayPF": 110.66120507399576,
+      "awayPA": 118.89182522903452
+    }
+  },
+  "playerStatSDs": {
+    "points": 6.86,
+    "rebounds": 2.82,
+    "assists": 2.25,
+    "steals": 1.01,
+    "blocks": 0.93,
+    "threePointersMade": 1.51
+  },
+  "playerStatSDSource": "fitted — pooled within-player residual SDs over regulars (mean ≥ half the 75th-percentile mean) from espn-fallback per-game logs, season 2024-2025 (players with ≥15 games per stat; assists: 187 players / 11533 lines, blocks: 194 players / 11555 lines, points: 226 players / 14295 lines, rebounds: 253 players / 15519 lines, steals: 267 players / 16339 lines, threePointersMade: 212 players / 13340 lines). Any stat not listed keeps its tagged parameter value.",
+  "producedBy": "simulation-lab scripts/fit-pipeline.mjs (working-tree — simulation-lab is not under git) · inputs: sports-feed data branch @ 9c744b0",
+  "producedAt": "2026-11-18T09:12:05.508Z"
+}

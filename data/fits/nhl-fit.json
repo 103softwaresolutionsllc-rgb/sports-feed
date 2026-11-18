@@ -1,0 +1,235 @@
+{
+  "contract": "fit-artifact",
+  "v": 1,
+  "class": "Historical",
+  "source": "espn-fallback — ESPN scoreboard via Intelligence Engine harvest, sports-feed data branch (data/intelligence/raw/hockey)",
+  "fetchedAt": "2026-11-18T08:49:09+00:00",
+  "id": "fit-artifact:nhl:1.4198.20261118",
+  "sport": "NHL",
+  "fitVersion": "1.4198.20261118",
+  "parameters": {
+    "leagueAvg": 3.106241067174845,
+    "homeEdge": 0.24249642686993805,
+    "shrink": 0.55,
+    "totalSD": 2.3018651140582245,
+    "marginSD": 2.5554883876677676
+  },
+  "trainedOn": {
+    "seasons": [
+      "2022-2023",
+      "2023-2024",
+      "2024-2025"
+    ],
+    "gamesUsed": 4198,
+    "gamesExcluded": 0
+  },
+  "teams": {
+    "Anaheim Ducks": {
+      "homePF": 2.6666666666666665,
+      "homePA": 3.5365853658536586,
+      "awayPF": 2.4878048780487805,
+      "awayPA": 3.747967479674797
+    },
+    "Arizona Coyotes": {
+      "homePF": 3.2439024390243905,
+      "homePA": 3.3414634146341466,
+      "awayPF": 2.6585365853658534,
+      "awayPA": 3.6463414634146343
+    },
+    "Boston Bruins": {
+      "homePF": 3.2010727190605244,
+      "homePA": 2.5063121047877144,
+      "awayPF": 3.183394662766744,
+      "awayPA": 3.017415986538976
+    },
+    "Buffalo Sabres": {
+      "homePF": 3.3658536585365852,
+      "homePA": 3.357723577235772,
+      "awayPF": 3.2276422764227646,
+      "awayPA": 3.414634146341463
+    },
+    "Calgary Flames": {
+      "homePF": 3.040650406504065,
+      "homePA": 3,
+      "awayPF": 2.959349593495935,
+      "awayPA": 3.186991869918699
+    },
+    "Carolina Hurricanes": {
+      "homePF": 3.4609929078014185,
+      "homePA": 2.4970328556954695,
+      "awayPF": 3.0824275362318843,
+      "awayPA": 2.879227053140097
+    },
+    "Chicago Blackhawks": {
+      "homePF": 2.747967479674797,
+      "homePA": 3.4878048780487805,
+      "awayPF": 2.203252032520325,
+      "awayPA": 3.7235772357723573
+    },
+    "Colorado Avalanche": {
+      "homePF": 3.6111330698287225,
+      "homePA": 2.73341384863124,
+      "awayPF": 3.375660863958737,
+      "awayPA": 3.087047782792464
+    },
+    "Columbus Blue Jackets": {
+      "homePF": 3.2845528455284554,
+      "homePA": 3.422764227642277,
+      "awayPF": 2.6016260162601625,
+      "awayPA": 3.8780487804878043
+    },
+    "Dallas Stars": {
+      "homePF": 3.457516339869281,
+      "homePA": 2.7908496732026147,
+      "awayPF": 3.266666666666667,
+      "awayPA": 2.8074829931972793
+    },
+    "Detroit Red Wings": {
+      "homePF": 3.2601626016260163,
+      "homePA": 3.138211382113821,
+      "awayPF": 2.886178861788618,
+      "awayPA": 3.4634146341463414
+    },
+    "Edmonton Oilers": {
+      "homePF": 3.8225927062916703,
+      "homePA": 2.8966029339609523,
+      "awayPF": 3.354272913352266,
+      "awayPA": 3.1062665100534765
+    },
+    "Florida Panthers": {
+      "homePF": 3.3014088598402327,
+      "homePA": 2.6447785039941905,
+      "awayPF": 3.3201230984249857,
+      "awayPA": 2.9786817538389863
+    },
+    "Los Angeles Kings": {
+      "homePF": 3.425123326286117,
+      "homePA": 2.5801620859760397,
+      "awayPF": 2.984848484848485,
+      "awayPA": 3.1363636363636367
+    },
+    "Minnesota Wild": {
+      "homePF": 2.941611234294161,
+      "homePA": 2.981707317073171,
+      "awayPF": 2.939948263118995,
+      "awayPA": 2.967110125646711
+    },
+    "Montreal Canadiens": {
+      "homePF": 2.9984874267347323,
+      "homePA": 3.404613348459066,
+      "awayPF": 2.7767923133776793,
+      "awayPA": 3.6084626755358467
+    },
+    "Nashville Predators": {
+      "homePF": 3.0042498152254247,
+      "homePA": 3.007575757575758,
+      "awayPF": 2.7261640798226168,
+      "awayPA": 3.13229859571323
+    },
+    "New Jersey Devils": {
+      "homePF": 3.108651838621306,
+      "homePA": 3.058584054420455,
+      "awayPF": 3.252622226415688,
+      "awayPA": 2.9827451997924235
+    },
+    "New York Islanders": {
+      "homePF": 2.957862802729507,
+      "homePA": 2.8610237370872653,
+      "awayPF": 2.795269770879527,
+      "awayPA": 3.2154471544715446
+    },
+    "New York Rangers": {
+      "homePF": 3.197535333423835,
+      "homePA": 2.855494969606468,
+      "awayPF": 3.3245543203731356,
+      "awayPA": 2.830068395922055
+    },
+    "Ottawa Senators": {
+      "homePF": 3.45509977827051,
+      "homePA": 3.118810051736881,
+      "awayPF": 2.702143385070214,
+      "awayPA": 3.285661492978566
+    },
+    "Philadelphia Flyers": {
+      "homePF": 2.902439024390244,
+      "homePA": 3.211382113821138,
+      "awayPF": 2.7479674796747964,
+      "awayPA": 3.4878048780487805
+    },
+    "Pittsburgh Penguins": {
+      "homePF": 3.308943089430894,
+      "homePA": 3.1951219512195124,
+      "awayPF": 2.8699186991869916,
+      "awayPA": 3.373983739837399
+    },
+    "San Jose Sharks": {
+      "homePF": 2.528455284552846,
+      "homePA": 3.9186991869918697,
+      "awayPF": 2.5528455284552845,
+      "awayPA": 3.943089430894309
+    },
+    "Seattle Kraken": {
+      "homePF": 3.076803321224702,
+      "homePA": 3.0313094620307908,
+      "awayPF": 3.0074664011946246,
+      "awayPA": 3.132901941264311
+    },
+    "St. Louis Blues": {
+      "homePF": 3.265890613451589,
+      "homePA": 3.0012934220251295,
+      "awayPF": 2.9223125564588983,
+      "awayPA": 3.379223125564589
+    },
+    "Tampa Bay Lightning": {
+      "homePF": 3.855003523608175,
+      "homePA": 2.743128964059197,
+      "awayPF": 3.130725863284003,
+      "awayPA": 3.3867159971811134
+    },
+    "Toronto Maple Leafs": {
+      "homePF": 3.4246319578766387,
+      "homePA": 2.9463115194498175,
+      "awayPF": 3.305248912186933,
+      "awayPA": 2.9196525850549904
+    },
+    "Vancouver Canucks": {
+      "homePF": 3.123814363143632,
+      "homePA": 3.0365853658536586,
+      "awayPF": 3.2274692959695557,
+      "awayPA": 3.2622383670645214
+    },
+    "Vegas Golden Knights": {
+      "homePF": 3.3970779655243724,
+      "homePA": 2.64085556488206,
+      "awayPF": 3.201695557450033,
+      "awayPA": 2.9651889741403807
+    },
+    "Washington Capitals": {
+      "homePF": 3.178254345631037,
+      "homePA": 2.9474139422245287,
+      "awayPF": 2.9201697443331027,
+      "awayPA": 3.193441314258104
+    },
+    "Winnipeg Jets": {
+      "homePF": 3.3443886539816767,
+      "homePA": 2.392206953253465,
+      "awayPF": 2.9433636213695586,
+      "awayPA": 2.839848259937325
+    },
+    "Utah Hockey Club": {
+      "homePF": 2.8780487804878048,
+      "homePA": 2.902439024390244,
+      "awayPF": 3,
+      "awayPA": 3.2195121951219514
+    }
+  },
+  "playerStatSDs": {
+    "goals": 0.75,
+    "assists": 0.85,
+    "shotsOnGoal": 1.9,
+    "saves": 6.5
+  },
+  "playerStatSDSource": "parameter — league-typical regulars’ spreads; the harvest player fan-out does not cover hockey, so these are NOT fitted",
+  "producedBy": "simulation-lab scripts/fit-pipeline.mjs (working-tree — simulation-lab is not under git) · inputs: sports-feed data branch @ 9c744b0",
+  "producedAt": "2026-11-18T09:12:05.508Z"
+}

@@ -1,0 +1,217 @@
+{
+  "contract": "fit-artifact",
+  "v": 1,
+  "class": "Historical",
+  "source": "api-sports — Intelligence Engine harvest, sports-feed data branch (data/intelligence/raw/baseball)",
+  "fetchedAt": "2026-11-18T08:49:09+00:00",
+  "id": "fit-artifact:mlb:1.7413.20261118",
+  "sport": "MLB",
+  "fitVersion": "1.7413.20261118",
+  "parameters": {
+    "leagueAvg": 4.422028868204506,
+    "homeEdge": -0.006879805746661271,
+    "shrink": 0.6,
+    "totalSD": 4.390503968447114,
+    "marginSD": 4.359512146616917
+  },
+  "trainedOn": {
+    "seasons": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "gamesUsed": 7413,
+    "gamesExcluded": 0
+  },
+  "teams": {
+    "Arizona Diamondbacks": {
+      "homePF": 4.795454545454546,
+      "homePA": 4.684530490086046,
+      "awayPF": 4.7877266766155655,
+      "awayPA": 4.686202686202686
+    },
+    "Atlanta Braves": {
+      "homePF": 4.858644454360653,
+      "homePA": 3.9910754127621604,
+      "awayPF": 5.072289156626506,
+      "awayPA": 4.012048192771084
+    },
+    "Chicago Cubs": {
+      "homePF": 4.423868312757201,
+      "homePA": 4.024691358024692,
+      "awayPF": 4.679012345679013,
+      "awayPA": 4.711934156378601
+    },
+    "Cincinnati Reds": {
+      "homePF": 4.518518518518519,
+      "homePA": 5.0740740740740735,
+      "awayPF": 4.246913580246914,
+      "awayPA": 4.51440329218107
+    },
+    "Colorado Rockies": {
+      "homePF": 5.2551440329218115,
+      "homePA": 6.098765432098766,
+      "awayPF": 3.390946502057613,
+      "awayPA": 5.25514403292181
+    },
+    "Detroit Tigers": {
+      "homePF": 3.8677177847191238,
+      "homePA": 4.469135802469136,
+      "awayPF": 3.9167862953392674,
+      "awayPA": 4.130443104603311
+    },
+    "Houston Astros": {
+      "homePF": 4.584765918428154,
+      "homePA": 3.964484374278724,
+      "awayPF": 4.854278045085984,
+      "awayPA": 3.722453889334403
+    },
+    "Kansas City Royals": {
+      "homePF": 4.541772026377114,
+      "homePA": 4.833308542813228,
+      "awayPF": 3.8517066085693537,
+      "awayPA": 4.652674897119342
+    },
+    "Los Angeles Dodgers": {
+      "homePF": 5.113590726542534,
+      "homePA": 3.795408908360715,
+      "awayPF": 5.501506711967079,
+      "awayPA": 4.02916351621889
+    },
+    "Miami Marlins": {
+      "homePF": 4.082304526748971,
+      "homePA": 4.9259259259259265,
+      "awayPF": 3.668352422033814,
+      "awayPA": 4.300461103673955
+    },
+    "Milwaukee Brewers": {
+      "homePF": 4.523848480341118,
+      "homePA": 4.007738183775667,
+      "awayPF": 4.625514403292182,
+      "awayPA": 4.148148148148148
+    },
+    "Minnesota Twins": {
+      "homePF": 4.580973129992738,
+      "homePA": 4.196562575647543,
+      "awayPF": 4.495711240021816,
+      "awayPA": 4.341266299766969
+    },
+    "New York Mets": {
+      "homePF": 4.541658121761481,
+      "homePA": 3.9215646063191287,
+      "awayPF": 4.731677995098719,
+      "awayPA": 4.512738706246822
+    },
+    "Philadelphia Phillies": {
+      "homePF": 5.053517440548712,
+      "homePA": 4.004286810161997,
+      "awayPF": 4.467630729636894,
+      "awayPA": 4.391433433994376
+    },
+    "Pittsburgh Pirates": {
+      "homePF": 4.094650205761317,
+      "homePA": 4.987654320987654,
+      "awayPF": 3.921810699588477,
+      "awayPA": 4.666666666666667
+    },
+    "San Diego Padres": {
+      "homePF": 4.209674240066398,
+      "homePA": 3.9109191824878096,
+      "awayPF": 4.855162082648809,
+      "awayPA": 4.168771632514244
+    },
+    "San Francisco Giants": {
+      "homePF": 4.135451169326508,
+      "homePA": 4.081702298504466,
+      "awayPF": 4.423868312757201,
+      "awayPA": 4.617283950617284
+    },
+    "St.Louis Cardinals": {
+      "homePF": 4.516386533789479,
+      "homePA": 4.374436015667609,
+      "awayPF": 4.3580246913580245,
+      "awayPA": 4.621399176954733
+    },
+    "Washington Nationals": {
+      "homePF": 4.032921810699588,
+      "homePA": 5.119341563786008,
+      "awayPF": 4.045267489711935,
+      "awayPA": 5.020576131687243
+    },
+    "Boston Red Sox": {
+      "homePF": 4.798353909465021,
+      "homePA": 5.0288065843621395,
+      "awayPF": 4.493827160493827,
+      "awayPA": 4.477366255144033
+    },
+    "Los Angeles Angels": {
+      "homePF": 4.173040248921008,
+      "homePA": 4.753136605440129,
+      "awayPF": 4.045267489711935,
+      "awayPA": 4.679012345679013
+    },
+    "Oakland Athletics": {
+      "homePF": 3.4732510288065845,
+      "homePA": 5.0246913580246915,
+      "awayPF": 3.91383117534879,
+      "awayPA": 5.075178159188998
+    },
+    "Baltimore Orioles": {
+      "homePF": 4.4155386980018845,
+      "homePA": 4.185829738707918,
+      "awayPF": 4.866506072468132,
+      "awayPA": 4.323848238482385
+    },
+    "Chicago White Sox": {
+      "homePF": 3.6666666666666665,
+      "homePA": 5.053497942386831,
+      "awayPF": 3.8806584362139915,
+      "awayPA": 4.703703703703703
+    },
+    "Cleveland Guardians": {
+      "homePF": 4.143037048296207,
+      "homePA": 4.005903745362629,
+      "awayPF": 4.31389321160563,
+      "awayPA": 4.030475153024173
+    },
+    "New York Yankees": {
+      "homePF": 4.653264992735277,
+      "homePA": 4.007819365054507,
+      "awayPF": 4.715786954512446,
+      "awayPA": 3.946981250412623
+    },
+    "Seattle Mariners": {
+      "homePF": 4.016962762220214,
+      "homePA": 3.5610759811301818,
+      "awayPF": 4.725974340353425,
+      "awayPA": 4.221253933672234
+    },
+    "Tampa Bay Rays": {
+      "homePF": 4.3246070702563335,
+      "homePA": 3.863205910059993,
+      "awayPF": 4.374584758788239,
+      "awayPA": 4.118746591303485
+    },
+    "Texas Rangers": {
+      "homePF": 4.7403150276713495,
+      "homePA": 4.538952745849298,
+      "awayPF": 4.629316514582215,
+      "awayPA": 4.480318482733942
+    },
+    "Toronto Blue Jays": {
+      "homePF": 4.259804650701572,
+      "homePA": 4.4654668054935795,
+      "awayPF": 4.725271456195151,
+      "awayPA": 4.154990331697159
+    }
+  },
+  "playerStatSDs": {
+    "hits": 1.1,
+    "totalBases": 1.9,
+    "homeRuns": 0.55,
+    "strikeoutsPitching": 2.6
+  },
+  "playerStatSDSource": "parameter — league-typical regulars’ spreads; the harvest player fan-out has not landed, so these are NOT fitted yet",
+  "producedBy": "simulation-lab scripts/fit-pipeline.mjs (working-tree — simulation-lab is not under git) · inputs: sports-feed data branch @ 9c744b0",
+  "producedAt": "2026-11-18T09:12:05.508Z"
+}

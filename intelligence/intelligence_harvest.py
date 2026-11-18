@@ -388,6 +388,218 @@ def urllib_transport(url: str, params: dict, headers: dict):
         raise HarvestError(f"GET {url} failed: {type(exc).__name__}") from exc
 
 
+# --------------------------------------------------------------------------
+# ESPN games failover — governing rule 10 (Isaac, Nov 17, 2026): "when one
+# account is suspended due to whatever reason the next API takes its place
+# and we keep going like nothing happened."
+#
+# The harvest's games datasets are the results record everything else
+# builds on (normalized teams, aggregates, the Simulation Lab's fits).
+# When the API-Sports payload for a games task comes back as an error
+# (suspension, lockout, quota death) or empty, the SAME task is served
+# from ESPN's public scoreboards and translated into the API-Sports
+# shape, so the normalizer and everything downstream see one format.
+# The fallback payload is stored as its own raw file with
+# params.source = "espn-fallback" — provenance is never hidden, and
+# the two sources are never blended inside one payload: a season's
+# games come from one source or the other. ESPN is keyless, so
+# fallback fetches never touch the API-Sports budget ledger.
+# --------------------------------------------------------------------------
+
+ESPN_BASE = "https://site.api.espn.com/apis/site/v2/sports"
+
+ESPN_SPORTS = {
+    "basketball": {"path": "basketball/nba", "league_name": "NBA"},
+    "american-football": {"path": "football/nfl", "league_name": "NFL"},
+    "baseball": {"path": "baseball/mlb", "league_name": "MLB"},
+    "hockey": {"path": "hockey/nhl", "league_name": "NHL"},
+}
+
+# ESPN display names that differ from the API-Sports spellings the
+# rest of the stack keys on. Applied at translation time so a
+# fallback season joins cleanly with primary-source seasons.
+ESPN_NAME_ALIASES = {
+    "LA Clippers": "Los Angeles Clippers",
+    "St. Louis Cardinals": "St.Louis Cardinals",
+    "Athletics": "Oakland Athletics",
+}
+
+# Club allowlists (API-Sports spellings, post-alias). ESPN types some
+# non-club events as regular season — the Feb 2025 NHL scoreboard
+# carries the 4 Nations Face-Off national teams (Canada / Finland /
+# Sweden / USA) as season.type 2 — so a fallback game counts only
+# when BOTH sides are league clubs. All-Star sides (Team LeBron,
+# American League / National League) are excluded by the same check.
+# These mirror the Simulation Lab fit lists; clubs change rarely,
+# and a missing club shows up as a short fallback_games count rather
+# than silent pollution.
+ESPN_FALLBACK_CLUBS = {
+    "basketball": {
+        "Atlanta Hawks", "Boston Celtics", "Brooklyn Nets", "Charlotte Hornets",
+        "Chicago Bulls", "Cleveland Cavaliers", "Dallas Mavericks", "Denver Nuggets",
+        "Detroit Pistons", "Golden State Warriors", "Houston Rockets", "Indiana Pacers",
+        "Los Angeles Clippers", "Los Angeles Lakers", "Memphis Grizzlies", "Miami Heat",
+        "Milwaukee Bucks", "Minnesota Timberwolves", "New Orleans Pelicans",
+        "New York Knicks", "Oklahoma City Thunder", "Orlando Magic", "Philadelphia 76ers",
+        "Phoenix Suns", "Portland Trail Blazers", "Sacramento Kings", "San Antonio Spurs",
+        "Toronto Raptors", "Utah Jazz", "Washington Wizards",
+    },
+    "american-football": {
+        "Arizona Cardinals", "Atlanta Falcons", "Baltimore Ravens", "Buffalo Bills",
+        "Carolina Panthers", "Chicago Bears", "Cincinnati Bengals", "Cleveland Browns",
+        "Dallas Cowboys", "Denver Broncos", "Detroit Lions", "Green Bay Packers",
+        "Houston Texans", "Indianapolis Colts", "Jacksonville Jaguars",
+        "Kansas City Chiefs", "Las Vegas Raiders", "Los Angeles Chargers",
+        "Los Angeles Rams", "Miami Dolphins", "Minnesota Vikings", "New England Patriots",
+        "New Orleans Saints", "New York Giants", "New York Jets", "Philadelphia Eagles",
+        "Pittsburgh Steelers", "San Francisco 49ers", "Seattle Seahawks",
+        "Tampa Bay Buccaneers", "Tennessee Titans", "Washington Commanders",
+    },
+    "baseball": {
+        "Arizona Diamondbacks", "Atlanta Braves", "Baltimore Orioles", "Boston Red Sox",
+        "Chicago Cubs", "Chicago White Sox", "Cincinnati Reds", "Cleveland Guardians",
+        "Colorado Rockies", "Detroit Tigers", "Houston Astros", "Kansas City Royals",
+        "Los Angeles Angels", "Los Angeles Dodgers", "Miami Marlins", "Milwaukee Brewers",
+        "Minnesota Twins", "New York Mets", "New York Yankees", "Oakland Athletics",
+        "Philadelphia Phillies", "Pittsburgh Pirates", "San Diego Padres",
+        "San Francisco Giants", "Seattle Mariners", "St.Louis Cardinals", "Tampa Bay Rays",
+        "Texas Rangers", "Toronto Blue Jays", "Washington Nationals",
+    },
+    "hockey": {
+        "Anaheim Ducks", "Arizona Coyotes", "Boston Bruins", "Buffalo Sabres",
+        "Calgary Flames", "Carolina Hurricanes", "Chicago Blackhawks", "Colorado Avalanche",
+        "Columbus Blue Jackets", "Dallas Stars", "Detroit Red Wings", "Edmonton Oilers",
+        "Florida Panthers", "Los Angeles Kings", "Minnesota Wild", "Montreal Canadiens",
+        "Nashville Predators", "New Jersey Devils", "New York Islanders", "New York Rangers",
+        "Ottawa Senators", "Philadelphia Flyers", "Pittsburgh Penguins", "San Jose Sharks",
+        "Seattle Kraken", "St. Louis Blues", "Tampa Bay Lightning", "Toronto Maple Leafs",
+        "Utah Hockey Club", "Vancouver Canucks", "Vegas Golden Knights",
+        "Washington Capitals", "Winnipeg Jets",
+    },
+}
+
+
+def _espn_months(sport: str, season_label: str) -> list[str]:
+    """YYYYMM scoreboard months covering one harvest season."""
+    label = str(season_label)
+    if sport in ("basketball", "hockey"):
+        start = int(label.split("-")[0])
+        months = [(start, m) for m in (10, 11, 12)] + \
+                 [(start + 1, m) for m in (1, 2, 3, 4, 5, 6)]
+    elif sport == "american-football":
+        start = int(label)
+        months = [(start, m) for m in (9, 10, 11, 12)] + \
+                 [(start + 1, m) for m in (1, 2)]
+    elif sport == "baseball":
+        start = int(label)
+        months = [(start, m) for m in (3, 4, 5, 6, 7, 8, 9, 10, 11)]
+    else:
+        return []
+    return [f"{y}{m:02d}" for y, m in months]
+
+
+def _espn_score(raw):
+    try:
+        return int(float(raw))
+    except (TypeError, ValueError):
+        return None
+
+
+def espn_games_payload(sport: str, season_label: str, transport) -> dict:
+    """Fetch one season of game RESULTS from ESPN, API-Sports-shaped.
+
+    Only regular-season and postseason games (ESPN season.type 2/3),
+    only completed ones. Raises on total failure so the caller can
+    record the fallback error and move on.
+    """
+    cfg = ESPN_SPORTS[sport]
+    url = f"{ESPN_BASE}/{cfg['path']}/scoreboard"
+    events: dict = {}
+    for month in _espn_months(sport, season_label):
+        payload = transport(url, {"dates": month, "limit": 1000},
+                            {"User-Agent": "Mozilla/5.0"})
+        for event in (payload or {}).get("events", []):
+            events[event.get("id")] = event
+    games = []
+    for event in events.values():
+        if not isinstance(event, dict):
+            continue
+        season_info = event.get("season") or {}
+        if season_info.get("type") not in (2, 3):
+            continue  # preseason / spring training / exhibitions
+        status = (event.get("status") or {}).get("type") or {}
+        if not status.get("completed"):
+            continue
+        competitions = event.get("competitions") or []
+        if not competitions:
+            continue
+        competitors = competitions[0].get("competitors") or []
+        sides = {}
+        for comp in competitors:
+            team = comp.get("team") or {}
+            name = ESPN_NAME_ALIASES.get(team.get("displayName"),
+                                         team.get("displayName"))
+            score = _espn_score(comp.get("score"))
+            if name is None or score is None:
+                sides = {}
+                break
+            try:
+                team_id = int(team.get("id"))
+            except (TypeError, ValueError):
+                team_id = abs(hash(name)) % 1_000_000_000
+            sides[comp.get("homeAway")] = {
+                "id": team_id, "name": name, "score": score,
+            }
+        if set(sides) != {"home", "away"}:
+            continue
+        clubs = ESPN_FALLBACK_CLUBS.get(sport)
+        if clubs and (sides["home"]["name"] not in clubs
+                      or sides["away"]["name"] not in clubs):
+            continue  # national teams, All-Star sides, exhibitions
+        try:
+            game_id = int(event.get("id"))
+        except (TypeError, ValueError):
+            continue
+        games.append({
+            "id": game_id,
+            "date": event.get("date"),
+            "league": {"id": SPORT_CONFIG[sport]["league"],
+                       "name": cfg["league_name"],
+                       "season": str(season_label)},
+            "teams": {
+                "home": {"id": sides["home"]["id"], "name": sides["home"]["name"]},
+                "away": {"id": sides["away"]["id"], "name": sides["away"]["name"]},
+            },
+            "scores": {
+                "home": {"total": sides["home"]["score"]},
+                "away": {"total": sides["away"]["score"]},
+            },
+            "status": {"short": "FT", "long": "Finished"},
+        })
+    if not games:
+        raise HarvestError(
+            f"ESPN fallback returned no games for {sport} {season_label}")
+    games.sort(key=lambda g: (g["date"] or "", g["id"]))
+    return {
+        "get": "games",
+        "parameters": {"league": str(SPORT_CONFIG[sport]["league"]),
+                       "season": str(season_label),
+                       "source": "espn-fallback"},
+        "errors": [],
+        "results": len(games),
+        "response": games,
+    }
+
+
+def _payload_failed(payload) -> bool:
+    """An API-Sports payload that carries no usable data."""
+    if not isinstance(payload, dict):
+        return True
+    if payload.get("errors"):
+        return True
+    return payload.get("results") == 0
+
+
 @dataclass
 class Harvester:
     api_key: str | None
@@ -409,6 +621,10 @@ class Harvester:
                 "planned": len(tasks),
                 "fetched": 0,
                 "skipped_budget": 0,
+                "fetch_errors": 0,
+                "fallback_files": [],
+                "fallback_games": 0,
+                "fallback_errors": 0,
                 "files": [],
                 "budget_used_today": self.ledger.used(sport),
                 "budget_cap": self.ledger.daily_cap,
@@ -425,12 +641,34 @@ class Harvester:
                         entry["skipped_budget"] += 1
                         continue
                     self.ledger.spend(sport)
-                    payload = self._fetch(sport, task)
-                    path = self.landing.store(
-                        sport, task.dataset, task.path, task.params, payload
-                    )
-                    entry["fetched"] += 1
-                    entry["files"].append(str(path))
+                    payload = None
+                    try:
+                        payload = self._fetch(sport, task)
+                    except Exception:  # noqa: BLE001 — recorded, not hidden
+                        entry["fetch_errors"] += 1
+                    if payload is not None:
+                        path = self.landing.store(
+                            sport, task.dataset, task.path, task.params, payload
+                        )
+                        entry["fetched"] += 1
+                        entry["files"].append(str(path))
+                    # Governing rule 10: a failed games payload (suspended
+                    # account, lockout, quota death — any reason) promotes
+                    # the next API in the chain automatically.
+                    if task.dataset == "games" and sport in ESPN_SPORTS \
+                            and _payload_failed(payload):
+                        try:
+                            fallback = espn_games_payload(
+                                sport, task.season, self.transport)
+                            fb_path = self.landing.store(
+                                sport, task.dataset, task.path,
+                                {**task.params, "source": "espn-fallback"},
+                                fallback,
+                            )
+                            entry["fallback_files"].append(str(fb_path))
+                            entry["fallback_games"] += fallback["results"]
+                        except Exception:  # noqa: BLE001 — recorded, run continues
+                            entry["fallback_errors"] += 1
                 entry["budget_used_today"] = self.ledger.used(sport)
             report[sport] = entry
         return report

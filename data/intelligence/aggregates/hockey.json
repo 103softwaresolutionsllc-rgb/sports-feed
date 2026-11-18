@@ -1,27 +1,606 @@
 {
-  "averages": {},
+  "averages": {
+    "Anaheim Ducks": {
+      "away_points_against_per_game": 3.748,
+      "away_points_for_per_game": 2.488,
+      "home_points_against_per_game": 3.537,
+      "home_points_for_per_game": 2.667,
+      "points_against_per_game": 3.642,
+      "points_for_per_game": 2.577
+    },
+    "Arizona Coyotes": {
+      "away_points_against_per_game": 3.646,
+      "away_points_for_per_game": 2.659,
+      "home_points_against_per_game": 3.341,
+      "home_points_for_per_game": 3.244,
+      "points_against_per_game": 3.494,
+      "points_for_per_game": 2.951
+    },
+    "Boston Bruins": {
+      "away_points_against_per_game": 3.017,
+      "away_points_for_per_game": 3.183,
+      "home_points_against_per_game": 2.507,
+      "home_points_for_per_game": 3.201,
+      "points_against_per_game": 2.761,
+      "points_for_per_game": 3.191
+    },
+    "Buffalo Sabres": {
+      "away_points_against_per_game": 3.414,
+      "away_points_for_per_game": 3.228,
+      "home_points_against_per_game": 3.358,
+      "home_points_for_per_game": 3.366,
+      "points_against_per_game": 3.386,
+      "points_for_per_game": 3.297
+    },
+    "Calgary Flames": {
+      "away_points_against_per_game": 3.187,
+      "away_points_for_per_game": 2.959,
+      "home_points_against_per_game": 3.0,
+      "home_points_for_per_game": 3.041,
+      "points_against_per_game": 3.093,
+      "points_for_per_game": 3.0
+    },
+    "Carolina Hurricanes": {
+      "away_points_against_per_game": 2.879,
+      "away_points_for_per_game": 3.083,
+      "home_points_against_per_game": 2.497,
+      "home_points_for_per_game": 3.461,
+      "points_against_per_game": 2.686,
+      "points_for_per_game": 3.274
+    },
+    "Chicago Blackhawks": {
+      "away_points_against_per_game": 3.724,
+      "away_points_for_per_game": 2.203,
+      "home_points_against_per_game": 3.488,
+      "home_points_for_per_game": 2.748,
+      "points_against_per_game": 3.606,
+      "points_for_per_game": 2.476
+    },
+    "Colorado Avalanche": {
+      "away_points_against_per_game": 3.087,
+      "away_points_for_per_game": 3.376,
+      "home_points_against_per_game": 2.733,
+      "home_points_for_per_game": 3.611,
+      "points_against_per_game": 2.912,
+      "points_for_per_game": 3.491
+    },
+    "Columbus Blue Jackets": {
+      "away_points_against_per_game": 3.878,
+      "away_points_for_per_game": 2.602,
+      "home_points_against_per_game": 3.422,
+      "home_points_for_per_game": 3.284,
+      "points_against_per_game": 3.65,
+      "points_for_per_game": 2.943
+    },
+    "Dallas Stars": {
+      "away_points_against_per_game": 2.807,
+      "away_points_for_per_game": 3.267,
+      "home_points_against_per_game": 2.791,
+      "home_points_for_per_game": 3.457,
+      "points_against_per_game": 2.798,
+      "points_for_per_game": 3.364
+    },
+    "Detroit Red Wings": {
+      "away_points_against_per_game": 3.463,
+      "away_points_for_per_game": 2.886,
+      "home_points_against_per_game": 3.138,
+      "home_points_for_per_game": 3.26,
+      "points_against_per_game": 3.301,
+      "points_for_per_game": 3.073
+    },
+    "Edmonton Oilers": {
+      "away_points_against_per_game": 3.106,
+      "away_points_for_per_game": 3.354,
+      "home_points_against_per_game": 2.897,
+      "home_points_for_per_game": 3.823,
+      "points_against_per_game": 3.002,
+      "points_for_per_game": 3.585
+    },
+    "Florida Panthers": {
+      "away_points_against_per_game": 2.979,
+      "away_points_for_per_game": 3.32,
+      "home_points_against_per_game": 2.645,
+      "home_points_for_per_game": 3.301,
+      "points_against_per_game": 2.816,
+      "points_for_per_game": 3.31
+    },
+    "Los Angeles Kings": {
+      "away_points_against_per_game": 3.136,
+      "away_points_for_per_game": 2.985,
+      "home_points_against_per_game": 2.58,
+      "home_points_for_per_game": 3.425,
+      "points_against_per_game": 2.859,
+      "points_for_per_game": 3.205
+    },
+    "Minnesota Wild": {
+      "away_points_against_per_game": 2.967,
+      "away_points_for_per_game": 2.94,
+      "home_points_against_per_game": 2.982,
+      "home_points_for_per_game": 2.942,
+      "points_against_per_game": 2.974,
+      "points_for_per_game": 2.941
+    },
+    "Montreal Canadiens": {
+      "away_points_against_per_game": 3.608,
+      "away_points_for_per_game": 2.777,
+      "home_points_against_per_game": 3.404,
+      "home_points_for_per_game": 2.998,
+      "points_against_per_game": 3.507,
+      "points_for_per_game": 2.887
+    },
+    "Nashville Predators": {
+      "away_points_against_per_game": 3.132,
+      "away_points_for_per_game": 2.726,
+      "home_points_against_per_game": 3.008,
+      "home_points_for_per_game": 3.004,
+      "points_against_per_game": 3.07,
+      "points_for_per_game": 2.865
+    },
+    "New Jersey Devils": {
+      "away_points_against_per_game": 2.983,
+      "away_points_for_per_game": 3.253,
+      "home_points_against_per_game": 3.059,
+      "home_points_for_per_game": 3.108,
+      "points_against_per_game": 3.02,
+      "points_for_per_game": 3.181
+    },
+    "New York Islanders": {
+      "away_points_against_per_game": 3.215,
+      "away_points_for_per_game": 2.795,
+      "home_points_against_per_game": 2.861,
+      "home_points_for_per_game": 2.958,
+      "points_against_per_game": 3.039,
+      "points_for_per_game": 2.877
+    },
+    "New York Rangers": {
+      "away_points_against_per_game": 2.83,
+      "away_points_for_per_game": 3.324,
+      "home_points_against_per_game": 2.855,
+      "home_points_for_per_game": 3.198,
+      "points_against_per_game": 2.842,
+      "points_for_per_game": 3.261
+    },
+    "Ottawa Senators": {
+      "away_points_against_per_game": 3.286,
+      "away_points_for_per_game": 2.702,
+      "home_points_against_per_game": 3.119,
+      "home_points_for_per_game": 3.455,
+      "points_against_per_game": 3.202,
+      "points_for_per_game": 3.079
+    },
+    "Philadelphia Flyers": {
+      "away_points_against_per_game": 3.488,
+      "away_points_for_per_game": 2.748,
+      "home_points_against_per_game": 3.211,
+      "home_points_for_per_game": 2.903,
+      "points_against_per_game": 3.35,
+      "points_for_per_game": 2.825
+    },
+    "Pittsburgh Penguins": {
+      "away_points_against_per_game": 3.374,
+      "away_points_for_per_game": 2.87,
+      "home_points_against_per_game": 3.195,
+      "home_points_for_per_game": 3.309,
+      "points_against_per_game": 3.285,
+      "points_for_per_game": 3.089
+    },
+    "San Jose Sharks": {
+      "away_points_against_per_game": 3.943,
+      "away_points_for_per_game": 2.553,
+      "home_points_against_per_game": 3.919,
+      "home_points_for_per_game": 2.528,
+      "points_against_per_game": 3.931,
+      "points_for_per_game": 2.541
+    },
+    "Seattle Kraken": {
+      "away_points_against_per_game": 3.133,
+      "away_points_for_per_game": 3.008,
+      "home_points_against_per_game": 3.031,
+      "home_points_for_per_game": 3.077,
+      "points_against_per_game": 3.082,
+      "points_for_per_game": 3.042
+    },
+    "St. Louis Blues": {
+      "away_points_against_per_game": 3.379,
+      "away_points_for_per_game": 2.922,
+      "home_points_against_per_game": 3.002,
+      "home_points_for_per_game": 3.266,
+      "points_against_per_game": 3.191,
+      "points_for_per_game": 3.093
+    },
+    "Tampa Bay Lightning": {
+      "away_points_against_per_game": 3.387,
+      "away_points_for_per_game": 3.131,
+      "home_points_against_per_game": 2.743,
+      "home_points_for_per_game": 3.855,
+      "points_against_per_game": 3.065,
+      "points_for_per_game": 3.493
+    },
+    "Toronto Maple Leafs": {
+      "away_points_against_per_game": 2.919,
+      "away_points_for_per_game": 3.305,
+      "home_points_against_per_game": 2.946,
+      "home_points_for_per_game": 3.425,
+      "points_against_per_game": 2.931,
+      "points_for_per_game": 3.365
+    },
+    "Utah Hockey Club": {
+      "away_points_against_per_game": 3.22,
+      "away_points_for_per_game": 3.0,
+      "home_points_against_per_game": 2.902,
+      "home_points_for_per_game": 2.878,
+      "points_against_per_game": 3.061,
+      "points_for_per_game": 2.939
+    },
+    "Vancouver Canucks": {
+      "away_points_against_per_game": 3.262,
+      "away_points_for_per_game": 3.227,
+      "home_points_against_per_game": 3.037,
+      "home_points_for_per_game": 3.124,
+      "points_against_per_game": 3.148,
+      "points_for_per_game": 3.176
+    },
+    "Vegas Golden Knights": {
+      "away_points_against_per_game": 2.965,
+      "away_points_for_per_game": 3.202,
+      "home_points_against_per_game": 2.641,
+      "home_points_for_per_game": 3.397,
+      "points_against_per_game": 2.805,
+      "points_for_per_game": 3.3
+    },
+    "Washington Capitals": {
+      "away_points_against_per_game": 3.194,
+      "away_points_for_per_game": 2.92,
+      "home_points_against_per_game": 2.948,
+      "home_points_for_per_game": 3.178,
+      "points_against_per_game": 3.07,
+      "points_for_per_game": 3.051
+    },
+    "Winnipeg Jets": {
+      "away_points_against_per_game": 2.84,
+      "away_points_for_per_game": 2.943,
+      "home_points_against_per_game": 2.392,
+      "home_points_for_per_game": 3.344,
+      "points_against_per_game": 2.615,
+      "points_for_per_game": 3.144
+    }
+  },
   "leaderboards": {
     "away_points_against_per_game": {
-      "entries": [],
+      "entries": [
+        {
+          "seasons_counted": 3,
+          "team": "Winnipeg Jets",
+          "value": 2.834
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Dallas Stars",
+          "value": 2.877
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Florida Panthers",
+          "value": 2.882
+        },
+        {
+          "seasons_counted": 3,
+          "team": "New York Rangers",
+          "value": 2.925
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Carolina Hurricanes",
+          "value": 2.933
+        },
+        {
+          "seasons_counted": 3,
+          "team": "New Jersey Devils",
+          "value": 2.94
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Minnesota Wild",
+          "value": 2.952
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Toronto Maple Leafs",
+          "value": 2.953
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Vegas Golden Knights",
+          "value": 3.002
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Edmonton Oilers",
+          "value": 3.056
+        }
+      ],
       "order": "ascending"
     },
     "away_points_for_per_game": {
-      "entries": [],
+      "entries": [
+        {
+          "seasons_counted": 3,
+          "team": "Florida Panthers",
+          "value": 3.338
+        },
+        {
+          "seasons_counted": 3,
+          "team": "New York Rangers",
+          "value": 3.337
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Colorado Avalanche",
+          "value": 3.324
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Toronto Maple Leafs",
+          "value": 3.318
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Edmonton Oilers",
+          "value": 3.219
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Dallas Stars",
+          "value": 3.197
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Tampa Bay Lightning",
+          "value": 3.173
+        },
+        {
+          "seasons_counted": 3,
+          "team": "New Jersey Devils",
+          "value": 3.165
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Vancouver Canucks",
+          "value": 3.157
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Vegas Golden Knights",
+          "value": 3.145
+        }
+      ],
       "order": "descending"
     },
     "home_points_against_per_game": {
-      "entries": [],
+      "entries": [
+        {
+          "seasons_counted": 3,
+          "team": "Winnipeg Jets",
+          "value": 2.284
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Los Angeles Kings",
+          "value": 2.441
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Carolina Hurricanes",
+          "value": 2.512
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Florida Panthers",
+          "value": 2.555
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Vegas Golden Knights",
+          "value": 2.592
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Boston Bruins",
+          "value": 2.638
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Tampa Bay Lightning",
+          "value": 2.69
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Colorado Avalanche",
+          "value": 2.739
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Dallas Stars",
+          "value": 2.748
+        },
+        {
+          "seasons_counted": 3,
+          "team": "St. Louis Blues",
+          "value": 2.862
+        }
+      ],
       "order": "ascending"
     },
     "home_points_for_per_game": {
-      "entries": [],
+      "entries": [
+        {
+          "seasons_counted": 3,
+          "team": "Tampa Bay Lightning",
+          "value": 3.83
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Edmonton Oilers",
+          "value": 3.759
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Colorado Avalanche",
+          "value": 3.654
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Carolina Hurricanes",
+          "value": 3.524
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Columbus Blue Jackets",
+          "value": 3.486
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Dallas Stars",
+          "value": 3.461
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Los Angeles Kings",
+          "value": 3.424
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Ottawa Senators",
+          "value": 3.402
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Vegas Golden Knights",
+          "value": 3.397
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Winnipeg Jets",
+          "value": 3.379
+        }
+      ],
       "order": "descending"
     },
     "points_against_per_game": {
-      "entries": [],
+      "entries": [
+        {
+          "seasons_counted": 3,
+          "team": "Winnipeg Jets",
+          "value": 2.557
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Carolina Hurricanes",
+          "value": 2.721
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Florida Panthers",
+          "value": 2.723
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Los Angeles Kings",
+          "value": 2.776
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Vegas Golden Knights",
+          "value": 2.798
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Dallas Stars",
+          "value": 2.81
+        },
+        {
+          "seasons_counted": 3,
+          "team": "New York Rangers",
+          "value": 2.916
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Colorado Avalanche",
+          "value": 2.924
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Boston Bruins",
+          "value": 2.925
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Toronto Maple Leafs",
+          "value": 2.942
+        }
+      ],
       "order": "ascending"
     },
     "points_for_per_game": {
+      "entries": [
+        {
+          "seasons_counted": 3,
+          "team": "Tampa Bay Lightning",
+          "value": 3.502
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Colorado Avalanche",
+          "value": 3.487
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Edmonton Oilers",
+          "value": 3.485
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Toronto Maple Leafs",
+          "value": 3.335
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Dallas Stars",
+          "value": 3.331
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Florida Panthers",
+          "value": 3.293
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Vegas Golden Knights",
+          "value": 3.272
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Carolina Hurricanes",
+          "value": 3.266
+        },
+        {
+          "seasons_counted": 3,
+          "team": "Buffalo Sabres",
+          "value": 3.254
+        },
+        {
+          "seasons_counted": 3,
+          "team": "New York Rangers",
+          "value": 3.229
+        }
+      ],
+      "order": "descending"
+    },
+    "saves_per_game": {
+      "entries": [],
+      "order": "descending"
+    },
+    "shots_on_goal_per_game": {
       "entries": [],
       "order": "descending"
     }
@@ -38,7 +617,272 @@
       "2024-2025"
     ],
     "sport": "hockey",
-    "teams": 0
+    "teams": 33
   },
-  "weighted_averages": {}
+  "weighted_averages": {
+    "Anaheim Ducks": {
+      "away_points_against_per_game": 3.61,
+      "away_points_for_per_game": 2.463,
+      "home_points_against_per_game": 3.392,
+      "home_points_for_per_game": 2.742,
+      "points_against_per_game": 3.501,
+      "points_for_per_game": 2.603
+    },
+    "Arizona Coyotes": {
+      "away_points_against_per_game": 3.6,
+      "away_points_for_per_game": 2.726,
+      "home_points_against_per_game": 3.311,
+      "home_points_for_per_game": 3.262,
+      "points_against_per_game": 3.455,
+      "points_for_per_game": 2.994
+    },
+    "Boston Bruins": {
+      "away_points_against_per_game": 3.214,
+      "away_points_for_per_game": 2.954,
+      "home_points_against_per_game": 2.638,
+      "home_points_for_per_game": 3.114,
+      "points_against_per_game": 2.925,
+      "points_for_per_game": 3.033
+    },
+    "Buffalo Sabres": {
+      "away_points_against_per_game": 3.495,
+      "away_points_for_per_game": 3.137,
+      "home_points_against_per_game": 3.261,
+      "home_points_for_per_game": 3.372,
+      "points_against_per_game": 3.378,
+      "points_for_per_game": 3.254
+    },
+    "Calgary Flames": {
+      "away_points_against_per_game": 3.175,
+      "away_points_for_per_game": 2.84,
+      "home_points_against_per_game": 2.945,
+      "home_points_for_per_game": 3.022,
+      "points_against_per_game": 3.06,
+      "points_for_per_game": 2.931
+    },
+    "Carolina Hurricanes": {
+      "away_points_against_per_game": 2.933,
+      "away_points_for_per_game": 3.003,
+      "home_points_against_per_game": 2.512,
+      "home_points_for_per_game": 3.524,
+      "points_against_per_game": 2.721,
+      "points_for_per_game": 3.266
+    },
+    "Chicago Blackhawks": {
+      "away_points_against_per_game": 3.732,
+      "away_points_for_per_game": 2.265,
+      "home_points_against_per_game": 3.465,
+      "home_points_for_per_game": 2.788,
+      "points_against_per_game": 3.599,
+      "points_for_per_game": 2.527
+    },
+    "Colorado Avalanche": {
+      "away_points_against_per_game": 3.106,
+      "away_points_for_per_game": 3.324,
+      "home_points_against_per_game": 2.739,
+      "home_points_for_per_game": 3.654,
+      "points_against_per_game": 2.924,
+      "points_for_per_game": 3.487
+    },
+    "Columbus Blue Jackets": {
+      "away_points_against_per_game": 3.776,
+      "away_points_for_per_game": 2.628,
+      "home_points_against_per_game": 3.288,
+      "home_points_for_per_game": 3.486,
+      "points_against_per_game": 3.532,
+      "points_for_per_game": 3.057
+    },
+    "Dallas Stars": {
+      "away_points_against_per_game": 2.877,
+      "away_points_for_per_game": 3.197,
+      "home_points_against_per_game": 2.748,
+      "home_points_for_per_game": 3.461,
+      "points_against_per_game": 2.81,
+      "points_for_per_game": 3.331
+    },
+    "Detroit Red Wings": {
+      "away_points_against_per_game": 3.427,
+      "away_points_for_per_game": 2.858,
+      "home_points_against_per_game": 3.096,
+      "home_points_for_per_game": 3.261,
+      "points_against_per_game": 3.261,
+      "points_for_per_game": 3.059
+    },
+    "Edmonton Oilers": {
+      "away_points_against_per_game": 3.056,
+      "away_points_for_per_game": 3.219,
+      "home_points_against_per_game": 2.883,
+      "home_points_for_per_game": 3.759,
+      "points_against_per_game": 2.97,
+      "points_for_per_game": 3.485
+    },
+    "Florida Panthers": {
+      "away_points_against_per_game": 2.882,
+      "away_points_for_per_game": 3.338,
+      "home_points_against_per_game": 2.555,
+      "home_points_for_per_game": 3.249,
+      "points_against_per_game": 2.723,
+      "points_for_per_game": 3.293
+    },
+    "Los Angeles Kings": {
+      "away_points_against_per_game": 3.109,
+      "away_points_for_per_game": 2.901,
+      "home_points_against_per_game": 2.441,
+      "home_points_for_per_game": 3.424,
+      "points_against_per_game": 2.776,
+      "points_for_per_game": 3.162
+    },
+    "Minnesota Wild": {
+      "away_points_against_per_game": 2.952,
+      "away_points_for_per_game": 2.927,
+      "home_points_against_per_game": 3.021,
+      "home_points_for_per_game": 2.901,
+      "points_against_per_game": 2.986,
+      "points_for_per_game": 2.914
+    },
+    "Montreal Canadiens": {
+      "away_points_against_per_game": 3.545,
+      "away_points_for_per_game": 2.799,
+      "home_points_against_per_game": 3.312,
+      "home_points_for_per_game": 3.016,
+      "points_against_per_game": 3.43,
+      "points_for_per_game": 2.907
+    },
+    "Nashville Predators": {
+      "away_points_against_per_game": 3.231,
+      "away_points_for_per_game": 2.631,
+      "home_points_against_per_game": 3.053,
+      "home_points_for_per_game": 3.022,
+      "points_against_per_game": 3.142,
+      "points_for_per_game": 2.826
+    },
+    "New Jersey Devils": {
+      "away_points_against_per_game": 2.94,
+      "away_points_for_per_game": 3.165,
+      "home_points_against_per_game": 3.053,
+      "home_points_for_per_game": 3.035,
+      "points_against_per_game": 2.996,
+      "points_for_per_game": 3.101
+    },
+    "New York Islanders": {
+      "away_points_against_per_game": 3.218,
+      "away_points_for_per_game": 2.767,
+      "home_points_against_per_game": 2.991,
+      "home_points_for_per_game": 2.918,
+      "points_against_per_game": 3.106,
+      "points_for_per_game": 2.843
+    },
+    "New York Rangers": {
+      "away_points_against_per_game": 2.925,
+      "away_points_for_per_game": 3.337,
+      "home_points_against_per_game": 2.908,
+      "home_points_for_per_game": 3.121,
+      "points_against_per_game": 2.916,
+      "points_for_per_game": 3.229
+    },
+    "Ottawa Senators": {
+      "away_points_against_per_game": 3.186,
+      "away_points_for_per_game": 2.678,
+      "home_points_against_per_game": 3.07,
+      "home_points_for_per_game": 3.402,
+      "points_against_per_game": 3.128,
+      "points_for_per_game": 3.04
+    },
+    "Philadelphia Flyers": {
+      "away_points_against_per_game": 3.535,
+      "away_points_for_per_game": 2.805,
+      "home_points_against_per_game": 3.209,
+      "home_points_for_per_game": 2.904,
+      "points_against_per_game": 3.372,
+      "points_for_per_game": 2.854
+    },
+    "Pittsburgh Penguins": {
+      "away_points_against_per_game": 3.43,
+      "away_points_for_per_game": 2.835,
+      "home_points_against_per_game": 3.264,
+      "home_points_for_per_game": 3.27,
+      "points_against_per_game": 3.347,
+      "points_for_per_game": 3.052
+    },
+    "San Jose Sharks": {
+      "away_points_against_per_game": 3.992,
+      "away_points_for_per_game": 2.512,
+      "home_points_against_per_game": 3.84,
+      "home_points_for_per_game": 2.498,
+      "points_against_per_game": 3.916,
+      "points_for_per_game": 2.505
+    },
+    "Seattle Kraken": {
+      "away_points_against_per_game": 3.192,
+      "away_points_for_per_game": 2.939,
+      "home_points_against_per_game": 3.015,
+      "home_points_for_per_game": 3.028,
+      "points_against_per_game": 3.103,
+      "points_for_per_game": 2.983
+    },
+    "St. Louis Blues": {
+      "away_points_against_per_game": 3.272,
+      "away_points_for_per_game": 2.876,
+      "home_points_against_per_game": 2.862,
+      "home_points_for_per_game": 3.309,
+      "points_against_per_game": 3.068,
+      "points_for_per_game": 3.091
+    },
+    "Tampa Bay Lightning": {
+      "away_points_against_per_game": 3.298,
+      "away_points_for_per_game": 3.173,
+      "home_points_against_per_game": 2.69,
+      "home_points_for_per_game": 3.83,
+      "points_against_per_game": 2.993,
+      "points_for_per_game": 3.502
+    },
+    "Toronto Maple Leafs": {
+      "away_points_against_per_game": 2.953,
+      "away_points_for_per_game": 3.318,
+      "home_points_against_per_game": 2.933,
+      "home_points_for_per_game": 3.354,
+      "points_against_per_game": 2.942,
+      "points_for_per_game": 3.335
+    },
+    "Utah Hockey Club": {
+      "away_points_against_per_game": 3.22,
+      "away_points_for_per_game": 3.0,
+      "home_points_against_per_game": 2.902,
+      "home_points_for_per_game": 2.878,
+      "points_against_per_game": 3.061,
+      "points_for_per_game": 2.939
+    },
+    "Vancouver Canucks": {
+      "away_points_against_per_game": 3.157,
+      "away_points_for_per_game": 3.157,
+      "home_points_against_per_game": 2.996,
+      "home_points_for_per_game": 3.035,
+      "points_against_per_game": 3.076,
+      "points_for_per_game": 3.096
+    },
+    "Vegas Golden Knights": {
+      "away_points_against_per_game": 3.002,
+      "away_points_for_per_game": 3.145,
+      "home_points_against_per_game": 2.592,
+      "home_points_for_per_game": 3.397,
+      "points_against_per_game": 2.798,
+      "points_for_per_game": 3.272
+    },
+    "Washington Capitals": {
+      "away_points_against_per_game": 3.115,
+      "away_points_for_per_game": 2.957,
+      "home_points_against_per_game": 2.891,
+      "home_points_for_per_game": 3.256,
+      "points_against_per_game": 3.002,
+      "points_for_per_game": 3.109
+    },
+    "Winnipeg Jets": {
+      "away_points_against_per_game": 2.834,
+      "away_points_for_per_game": 2.997,
+      "home_points_against_per_game": 2.284,
+      "home_points_for_per_game": 3.379,
+      "points_against_per_game": 2.557,
+      "points_for_per_game": 3.189
+    }
+  }
 }

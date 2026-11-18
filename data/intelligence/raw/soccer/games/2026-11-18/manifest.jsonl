@@ -1,3 +1,6 @@
 {"classification": "Historical", "endpoint": "/fixtures", "file": "051156-001.json", "params": {"league": 39, "season": "2022"}, "retrieved_at": "2026-11-18T05:11:56.227379+00:00"}
 {"classification": "Historical", "endpoint": "/fixtures", "file": "051156-002.json", "params": {"league": 39, "season": "2023"}, "retrieved_at": "2026-11-18T05:11:56.647198+00:00"}
 {"classification": "Historical", "endpoint": "/fixtures", "file": "051157-001.json", "params": {"league": 39, "season": "2024"}, "retrieved_at": "2026-11-18T05:11:57.262149+00:00"}
+{"classification": "Historical", "endpoint": "/fixtures", "file": "053743-001.json", "params": {"league": 39, "season": "2022"}, "retrieved_at": "2026-11-18T05:37:43.416208+00:00"}
+{"classification": "Historical", "endpoint": "/fixtures", "file": "053743-002.json", "params": {"league": 39, "season": "2023"}, "retrieved_at": "2026-11-18T05:37:43.794272+00:00"}
+{"classification": "Historical", "endpoint": "/fixtures", "file": "053744-001.json", "params": {"league": 39, "season": "2024"}, "retrieved_at": "2026-11-18T05:37:44.165550+00:00"}

@@ -2,5 +2,582 @@
   "classification": "Historical",
   "season": "2023-2024",
   "sport": "hockey",
-  "teams": []
+  "teams": [
+    {
+      "away_games": 41,
+      "away_points_against_per_game": 3.78,
+      "away_points_for_per_game": 2.537,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 82,
+      "home_games": 41,
+      "home_points_against_per_game": 3.415,
+      "home_points_for_per_game": 2.439,
+      "points_against_per_game": 3.598,
+      "points_for_per_game": 2.488,
+      "season": "2023-2024",
+      "team": "Anaheim Ducks",
+      "team_id": 25
+    },
+    {
+      "away_games": 41,
+      "away_points_against_per_game": 3.463,
+      "away_points_for_per_game": 2.927,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 82,
+      "home_games": 41,
+      "home_points_against_per_game": 3.22,
+      "home_points_for_per_game": 3.317,
+      "points_against_per_game": 3.341,
+      "points_for_per_game": 3.122,
+      "season": "2023-2024",
+      "team": "Arizona Coyotes",
+      "team_id": 24
+    },
+    {
+      "away_games": 47,
+      "away_points_against_per_game": 2.681,
+      "away_points_for_per_game": 3.085,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 95,
+      "home_games": 48,
+      "home_points_against_per_game": 2.688,
+      "home_points_for_per_game": 3.188,
+      "points_against_per_game": 2.684,
+      "points_for_per_game": 3.137,
+      "season": "2023-2024",
+      "team": "Boston Bruins",
+      "team_id": 1
+    },
+    {
+      "away_games": 41,
+      "away_points_against_per_game": 3.146,
+      "away_points_for_per_game": 2.951,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 82,
+      "home_games": 41,
+      "home_points_against_per_game": 2.805,
+      "home_points_for_per_game": 3.049,
+      "points_against_per_game": 2.976,
+      "points_for_per_game": 3.0,
+      "season": "2023-2024",
+      "team": "Buffalo Sabres",
+      "team_id": 2
+    },
+    {
+      "away_games": 41,
+      "away_points_against_per_game": 3.439,
+      "away_points_for_per_game": 3.122,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 82,
+      "home_games": 41,
+      "home_points_against_per_game": 3.171,
+      "home_points_for_per_game": 3.049,
+      "points_against_per_game": 3.305,
+      "points_for_per_game": 3.085,
+      "season": "2023-2024",
+      "team": "Calgary Flames",
+      "team_id": 3
+    },
+    {
+      "away_games": 46,
+      "away_points_against_per_game": 2.804,
+      "away_points_for_per_game": 3.435,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 93,
+      "home_games": 47,
+      "home_points_against_per_game": 2.532,
+      "home_points_for_per_game": 3.383,
+      "points_against_per_game": 2.667,
+      "points_for_per_game": 3.409,
+      "season": "2023-2024",
+      "team": "Carolina Hurricanes",
+      "team_id": 7
+    },
+    {
+      "away_games": 41,
+      "away_points_against_per_game": 3.951,
+      "away_points_for_per_game": 1.927,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 82,
+      "home_games": 41,
+      "home_points_against_per_game": 3.122,
+      "home_points_for_per_game": 2.439,
+      "points_against_per_game": 3.537,
+      "points_for_per_game": 2.183,
+      "season": "2023-2024",
+      "team": "Chicago Blackhawks",
+      "team_id": 4
+    },
+    {
+      "away_games": 47,
+      "away_points_against_per_game": 3.511,
+      "away_points_for_per_game": 3.404,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 93,
+      "home_games": 46,
+      "home_points_against_per_game": 2.739,
+      "home_points_for_per_game": 4.065,
+      "points_against_per_game": 3.129,
+      "points_for_per_game": 3.731,
+      "season": "2023-2024",
+      "team": "Colorado Avalanche",
+      "team_id": 17
+    },
+    {
+      "away_games": 41,
+      "away_points_against_per_game": 3.976,
+      "away_points_for_per_game": 2.732,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 82,
+      "home_games": 41,
+      "home_points_against_per_game": 3.341,
+      "home_points_for_per_game": 3.049,
+      "points_against_per_game": 3.659,
+      "points_for_per_game": 2.89,
+      "season": "2023-2024",
+      "team": "Columbus Blue Jackets",
+      "team_id": 29
+    },
+    {
+      "away_games": 50,
+      "away_points_against_per_game": 2.58,
+      "away_points_for_per_game": 3.38,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 101,
+      "home_games": 51,
+      "home_points_against_per_game": 3.0,
+      "home_points_for_per_game": 3.549,
+      "points_against_per_game": 2.792,
+      "points_for_per_game": 3.465,
+      "season": "2023-2024",
+      "team": "Dallas Stars",
+      "team_id": 9
+    },
+    {
+      "away_games": 41,
+      "away_points_against_per_game": 3.659,
+      "away_points_for_per_game": 3.171,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 82,
+      "home_games": 41,
+      "home_points_against_per_game": 3.024,
+      "home_points_for_per_game": 3.61,
+      "points_against_per_game": 3.341,
+      "points_for_per_game": 3.39,
+      "season": "2023-2024",
+      "team": "Detroit Red Wings",
+      "team_id": 5
+    },
+    {
+      "away_games": 54,
+      "away_points_against_per_game": 3.019,
+      "away_points_for_per_game": 2.926,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 107,
+      "home_games": 53,
+      "home_points_against_per_game": 2.623,
+      "home_points_for_per_game": 4.189,
+      "points_against_per_game": 2.822,
+      "points_for_per_game": 3.551,
+      "season": "2023-2024",
+      "team": "Edmonton Oilers",
+      "team_id": 6
+    },
+    {
+      "away_games": 52,
+      "away_points_against_per_game": 2.481,
+      "away_points_for_per_game": 3.288,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 106,
+      "home_games": 54,
+      "home_points_against_per_game": 2.463,
+      "home_points_for_per_game": 3.148,
+      "points_against_per_game": 2.472,
+      "points_for_per_game": 3.217,
+      "season": "2023-2024",
+      "team": "Florida Panthers",
+      "team_id": 26
+    },
+    {
+      "away_games": 44,
+      "away_points_against_per_game": 2.864,
+      "away_points_for_per_game": 3.068,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 87,
+      "home_games": 43,
+      "home_points_against_per_game": 2.581,
+      "home_points_for_per_game": 3.116,
+      "points_against_per_game": 2.724,
+      "points_for_per_game": 3.092,
+      "season": "2023-2024",
+      "team": "Los Angeles Kings",
+      "team_id": 8
+    },
+    {
+      "away_games": 41,
+      "away_points_against_per_game": 3.22,
+      "away_points_for_per_game": 3.024,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 82,
+      "home_games": 41,
+      "home_points_against_per_game": 3.195,
+      "home_points_for_per_game": 3.098,
+      "points_against_per_game": 3.207,
+      "points_for_per_game": 3.061,
+      "season": "2023-2024",
+      "team": "Minnesota Wild",
+      "team_id": 30
+    },
+    {
+      "away_games": 41,
+      "away_points_against_per_game": 3.659,
+      "away_points_for_per_game": 2.854,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 82,
+      "home_games": 41,
+      "home_points_against_per_game": 3.39,
+      "home_points_for_per_game": 2.902,
+      "points_against_per_game": 3.524,
+      "points_for_per_game": 2.878,
+      "season": "2023-2024",
+      "team": "Montreal Canadiens",
+      "team_id": 10
+    },
+    {
+      "away_games": 44,
+      "away_points_against_per_game": 2.909,
+      "away_points_for_per_game": 3.227,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 88,
+      "home_games": 44,
+      "home_points_against_per_game": 3.023,
+      "home_points_for_per_game": 3.159,
+      "points_against_per_game": 2.966,
+      "points_for_per_game": 3.193,
+      "season": "2023-2024",
+      "team": "Nashville Predators",
+      "team_id": 27
+    },
+    {
+      "away_games": 41,
+      "away_points_against_per_game": 3.22,
+      "away_points_for_per_game": 3.293,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 82,
+      "home_games": 41,
+      "home_points_against_per_game": 3.683,
+      "home_points_for_per_game": 3.146,
+      "points_against_per_game": 3.451,
+      "points_for_per_game": 3.22,
+      "season": "2023-2024",
+      "team": "New Jersey Devils",
+      "team_id": 11
+    },
+    {
+      "away_games": 44,
+      "away_points_against_per_game": 3.409,
+      "away_points_for_per_game": 2.909,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 87,
+      "home_games": 43,
+      "home_points_against_per_game": 3.07,
+      "home_points_for_per_game": 3.023,
+      "points_against_per_game": 3.241,
+      "points_for_per_game": 2.966,
+      "season": "2023-2024",
+      "team": "New York Islanders",
+      "team_id": 12
+    },
+    {
+      "away_games": 49,
+      "away_points_against_per_game": 2.857,
+      "away_points_for_per_game": 3.388,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 98,
+      "home_games": 49,
+      "home_points_against_per_game": 2.673,
+      "home_points_for_per_game": 3.327,
+      "points_against_per_game": 2.765,
+      "points_for_per_game": 3.357,
+      "season": "2023-2024",
+      "team": "New York Rangers",
+      "team_id": 13
+    },
+    {
+      "away_games": 41,
+      "away_points_against_per_game": 3.317,
+      "away_points_for_per_game": 2.902,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 82,
+      "home_games": 41,
+      "home_points_against_per_game": 3.537,
+      "home_points_for_per_game": 3.317,
+      "points_against_per_game": 3.427,
+      "points_for_per_game": 3.11,
+      "season": "2023-2024",
+      "team": "Ottawa Senators",
+      "team_id": 14
+    },
+    {
+      "away_games": 41,
+      "away_points_against_per_game": 3.317,
+      "away_points_for_per_game": 3.0,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 82,
+      "home_games": 41,
+      "home_points_against_per_game": 3.049,
+      "home_points_for_per_game": 2.732,
+      "points_against_per_game": 3.183,
+      "points_for_per_game": 2.866,
+      "season": "2023-2024",
+      "team": "Philadelphia Flyers",
+      "team_id": 15
+    },
+    {
+      "away_games": 41,
+      "away_points_against_per_game": 3.171,
+      "away_points_for_per_game": 3.0,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 82,
+      "home_games": 41,
+      "home_points_against_per_game": 2.951,
+      "home_points_for_per_game": 3.22,
+      "points_against_per_game": 3.061,
+      "points_for_per_game": 3.11,
+      "season": "2023-2024",
+      "team": "Pittsburgh Penguins",
+      "team_id": 16
+    },
+    {
+      "away_games": 41,
+      "away_points_against_per_game": 4.073,
+      "away_points_for_per_game": 2.146,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 82,
+      "home_games": 41,
+      "home_points_against_per_game": 4.0,
+      "home_points_for_per_game": 2.268,
+      "points_against_per_game": 4.037,
+      "points_for_per_game": 2.207,
+      "season": "2023-2024",
+      "team": "San Jose Sharks",
+      "team_id": 18
+    },
+    {
+      "away_games": 41,
+      "away_points_against_per_game": 2.902,
+      "away_points_for_per_game": 2.537,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 82,
+      "home_games": 41,
+      "home_points_against_per_game": 2.854,
+      "home_points_for_per_game": 2.756,
+      "points_against_per_game": 2.878,
+      "points_for_per_game": 2.646,
+      "season": "2023-2024",
+      "team": "Seattle Kraken",
+      "team_id": 124292
+    },
+    {
+      "away_games": 41,
+      "away_points_against_per_game": 3.244,
+      "away_points_for_per_game": 2.634,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 82,
+      "home_games": 41,
+      "home_points_against_per_game": 2.854,
+      "home_points_for_per_game": 3.195,
+      "points_against_per_game": 3.049,
+      "points_for_per_game": 2.915,
+      "season": "2023-2024",
+      "team": "St. Louis Blues",
+      "team_id": 19
+    },
+    {
+      "away_games": 44,
+      "away_points_against_per_game": 3.523,
+      "away_points_for_per_game": 3.159,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 87,
+      "home_games": 43,
+      "home_points_against_per_game": 3.093,
+      "home_points_for_per_game": 3.86,
+      "points_against_per_game": 3.31,
+      "points_for_per_game": 3.506,
+      "season": "2023-2024",
+      "team": "Tampa Bay Lightning",
+      "team_id": 20
+    },
+    {
+      "away_games": 45,
+      "away_points_against_per_game": 2.933,
+      "away_points_for_per_game": 3.422,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 89,
+      "home_games": 44,
+      "home_points_against_per_game": 3.386,
+      "home_points_for_per_game": 3.659,
+      "points_against_per_game": 3.157,
+      "points_for_per_game": 3.539,
+      "season": "2023-2024",
+      "team": "Toronto Maple Leafs",
+      "team_id": 21
+    },
+    {
+      "away_games": 47,
+      "away_points_against_per_game": 2.957,
+      "away_points_for_per_game": 3.17,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 95,
+      "home_games": 48,
+      "home_points_against_per_game": 2.5,
+      "home_points_for_per_game": 3.396,
+      "points_against_per_game": 2.726,
+      "points_for_per_game": 3.284,
+      "season": "2023-2024",
+      "team": "Vancouver Canucks",
+      "team_id": 22
+    },
+    {
+      "away_games": 45,
+      "away_points_against_per_game": 3.333,
+      "away_points_for_per_game": 3.089,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 89,
+      "home_games": 44,
+      "home_points_against_per_game": 2.523,
+      "home_points_for_per_game": 3.273,
+      "points_against_per_game": 2.933,
+      "points_for_per_game": 3.18,
+      "season": "2023-2024",
+      "team": "Vegas Golden Knights",
+      "team_id": 37
+    },
+    {
+      "away_games": 43,
+      "away_points_against_per_game": 3.326,
+      "away_points_for_per_game": 2.465,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 86,
+      "home_games": 43,
+      "home_points_against_per_game": 3.0,
+      "home_points_for_per_game": 2.814,
+      "points_against_per_game": 3.163,
+      "points_for_per_game": 2.64,
+      "season": "2023-2024",
+      "team": "Washington Capitals",
+      "team_id": 23
+    },
+    {
+      "away_games": 43,
+      "away_points_against_per_game": 2.605,
+      "away_points_for_per_game": 2.907,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 87,
+      "home_games": 44,
+      "home_points_against_per_game": 2.614,
+      "home_points_for_per_game": 3.386,
+      "points_against_per_game": 2.609,
+      "points_for_per_game": 3.149,
+      "season": "2023-2024",
+      "team": "Winnipeg Jets",
+      "team_id": 28
+    }
+  ]
 }

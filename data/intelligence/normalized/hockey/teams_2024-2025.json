@@ -2,5 +2,582 @@
   "classification": "Historical",
   "season": "2024-2025",
   "sport": "hockey",
-  "teams": []
+  "teams": [
+    {
+      "away_games": 41,
+      "away_points_against_per_game": 3.293,
+      "away_points_for_per_game": 2.39,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 82,
+      "home_games": 41,
+      "home_points_against_per_game": 3.122,
+      "home_points_for_per_game": 3.0,
+      "points_against_per_game": 3.207,
+      "points_for_per_game": 2.695,
+      "season": "2024-2025",
+      "team": "Anaheim Ducks",
+      "team_id": 25
+    },
+    {
+      "away_games": 41,
+      "away_points_against_per_game": 3.78,
+      "away_points_for_per_game": 2.488,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 82,
+      "home_games": 41,
+      "home_points_against_per_game": 2.854,
+      "home_points_for_per_game": 2.927,
+      "points_against_per_game": 3.317,
+      "points_for_per_game": 2.707,
+      "season": "2024-2025",
+      "team": "Boston Bruins",
+      "team_id": 1
+    },
+    {
+      "away_games": 41,
+      "away_points_against_per_game": 3.78,
+      "away_points_for_per_game": 3.049,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 82,
+      "home_games": 41,
+      "home_points_against_per_game": 3.268,
+      "home_points_for_per_game": 3.512,
+      "points_against_per_game": 3.524,
+      "points_for_per_game": 3.28,
+      "season": "2024-2025",
+      "team": "Buffalo Sabres",
+      "team_id": 2
+    },
+    {
+      "away_games": 41,
+      "away_points_against_per_game": 3.049,
+      "away_points_for_per_game": 2.512,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 82,
+      "home_games": 41,
+      "home_points_against_per_game": 2.756,
+      "home_points_for_per_game": 2.976,
+      "points_against_per_game": 2.902,
+      "points_for_per_game": 2.744,
+      "season": "2024-2025",
+      "team": "Calgary Flames",
+      "team_id": 3
+    },
+    {
+      "away_games": 48,
+      "away_points_against_per_game": 3.083,
+      "away_points_for_per_game": 2.688,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 97,
+      "home_games": 49,
+      "home_points_against_per_game": 2.531,
+      "home_points_for_per_game": 3.694,
+      "points_against_per_game": 2.804,
+      "points_for_per_game": 3.196,
+      "season": "2024-2025",
+      "team": "Carolina Hurricanes",
+      "team_id": 7
+    },
+    {
+      "away_games": 41,
+      "away_points_against_per_game": 3.659,
+      "away_points_for_per_game": 2.512,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 82,
+      "home_games": 41,
+      "home_points_against_per_game": 3.561,
+      "home_points_for_per_game": 3.0,
+      "points_against_per_game": 3.61,
+      "points_for_per_game": 2.756,
+      "season": "2024-2025",
+      "team": "Chicago Blackhawks",
+      "team_id": 4
+    },
+    {
+      "away_games": 45,
+      "away_points_against_per_game": 2.978,
+      "away_points_for_per_game": 3.2,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 89,
+      "home_games": 44,
+      "home_points_against_per_game": 2.75,
+      "home_points_for_per_game": 3.568,
+      "points_against_per_game": 2.865,
+      "points_for_per_game": 3.382,
+      "season": "2024-2025",
+      "team": "Colorado Avalanche",
+      "team_id": 17
+    },
+    {
+      "away_games": 41,
+      "away_points_against_per_game": 3.512,
+      "away_points_for_per_game": 2.634,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 82,
+      "home_games": 41,
+      "home_points_against_per_game": 3.024,
+      "home_points_for_per_game": 4.024,
+      "points_against_per_game": 3.268,
+      "points_for_per_game": 3.329,
+      "season": "2024-2025",
+      "team": "Columbus Blue Jackets",
+      "team_id": 29
+    },
+    {
+      "away_games": 49,
+      "away_points_against_per_game": 3.122,
+      "away_points_for_per_game": 3.0,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 100,
+      "home_games": 51,
+      "home_points_against_per_game": 2.569,
+      "home_points_for_per_game": 3.431,
+      "points_against_per_game": 2.84,
+      "points_for_per_game": 3.22,
+      "season": "2024-2025",
+      "team": "Dallas Stars",
+      "team_id": 9
+    },
+    {
+      "away_games": 41,
+      "away_points_against_per_game": 3.268,
+      "away_points_for_per_game": 2.683,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 82,
+      "home_games": 41,
+      "home_points_against_per_game": 3.049,
+      "home_points_for_per_game": 3.122,
+      "points_against_per_game": 3.159,
+      "points_for_per_game": 2.902,
+      "season": "2024-2025",
+      "team": "Detroit Red Wings",
+      "team_id": 5
+    },
+    {
+      "away_games": 53,
+      "away_points_against_per_game": 2.981,
+      "away_points_for_per_game": 3.094,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 104,
+      "home_games": 51,
+      "home_points_against_per_game": 2.961,
+      "home_points_for_per_game": 3.471,
+      "points_against_per_game": 2.971,
+      "points_for_per_game": 3.279,
+      "season": "2024-2025",
+      "team": "Edmonton Oilers",
+      "team_id": 6
+    },
+    {
+      "away_games": 54,
+      "away_points_against_per_game": 2.87,
+      "away_points_for_per_game": 3.389,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 105,
+      "home_games": 51,
+      "home_points_against_per_game": 2.431,
+      "home_points_for_per_game": 3.196,
+      "points_against_per_game": 2.657,
+      "points_for_per_game": 3.295,
+      "season": "2024-2025",
+      "team": "Florida Panthers",
+      "team_id": 26
+    },
+    {
+      "away_games": 44,
+      "away_points_against_per_game": 3.159,
+      "away_points_for_per_game": 2.682,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 88,
+      "home_games": 44,
+      "home_points_against_per_game": 2.136,
+      "home_points_for_per_game": 3.545,
+      "points_against_per_game": 2.648,
+      "points_for_per_game": 3.114,
+      "season": "2024-2025",
+      "team": "Los Angeles Kings",
+      "team_id": 8
+    },
+    {
+      "away_games": 44,
+      "away_points_against_per_game": 2.818,
+      "away_points_for_per_game": 2.864,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 88,
+      "home_games": 44,
+      "home_points_against_per_game": 3.023,
+      "home_points_for_per_game": 2.75,
+      "points_against_per_game": 2.92,
+      "points_for_per_game": 2.807,
+      "season": "2024-2025",
+      "team": "Minnesota Wild",
+      "team_id": 30
+    },
+    {
+      "away_games": 44,
+      "away_points_against_per_game": 3.386,
+      "away_points_for_per_game": 2.818,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 87,
+      "home_games": 43,
+      "home_points_against_per_game": 3.116,
+      "home_points_for_per_game": 3.093,
+      "points_against_per_game": 3.253,
+      "points_for_per_game": 2.954,
+      "season": "2024-2025",
+      "team": "Montreal Canadiens",
+      "team_id": 10
+    },
+    {
+      "away_games": 41,
+      "away_points_against_per_game": 3.537,
+      "away_points_for_per_game": 2.22,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 82,
+      "home_games": 41,
+      "home_points_against_per_game": 3.146,
+      "home_points_for_per_game": 3.0,
+      "points_against_per_game": 3.341,
+      "points_for_per_game": 2.61,
+      "season": "2024-2025",
+      "team": "Nashville Predators",
+      "team_id": 27
+    },
+    {
+      "away_games": 44,
+      "away_points_against_per_game": 2.75,
+      "away_points_for_per_game": 2.955,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 87,
+      "home_games": 43,
+      "home_points_against_per_game": 2.791,
+      "home_points_for_per_game": 2.86,
+      "points_against_per_game": 2.77,
+      "points_for_per_game": 2.908,
+      "season": "2024-2025",
+      "team": "New Jersey Devils",
+      "team_id": 11
+    },
+    {
+      "away_games": 41,
+      "away_points_against_per_game": 3.146,
+      "away_points_for_per_game": 2.659,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 82,
+      "home_games": 41,
+      "home_points_against_per_game": 3.195,
+      "home_points_for_per_game": 2.805,
+      "points_against_per_game": 3.171,
+      "points_for_per_game": 2.732,
+      "season": "2024-2025",
+      "team": "New York Islanders",
+      "team_id": 12
+    },
+    {
+      "away_games": 41,
+      "away_points_against_per_game": 3.122,
+      "away_points_for_per_game": 3.341,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 82,
+      "home_games": 41,
+      "home_points_against_per_game": 3.098,
+      "home_points_for_per_game": 2.902,
+      "points_against_per_game": 3.11,
+      "points_for_per_game": 3.122,
+      "season": "2024-2025",
+      "team": "New York Rangers",
+      "team_id": 13
+    },
+    {
+      "away_games": 44,
+      "away_points_against_per_game": 2.955,
+      "away_points_for_per_game": 2.545,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 88,
+      "home_games": 44,
+      "home_points_against_per_game": 2.795,
+      "home_points_for_per_game": 3.341,
+      "points_against_per_game": 2.875,
+      "points_for_per_game": 2.943,
+      "season": "2024-2025",
+      "team": "Ottawa Senators",
+      "team_id": 14
+    },
+    {
+      "away_games": 41,
+      "away_points_against_per_game": 3.707,
+      "away_points_for_per_game": 2.829,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 82,
+      "home_games": 41,
+      "home_points_against_per_game": 3.268,
+      "home_points_for_per_game": 2.976,
+      "points_against_per_game": 3.488,
+      "points_for_per_game": 2.902,
+      "season": "2024-2025",
+      "team": "Philadelphia Flyers",
+      "team_id": 15
+    },
+    {
+      "away_games": 41,
+      "away_points_against_per_game": 3.634,
+      "away_points_for_per_game": 2.707,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 82,
+      "home_games": 41,
+      "home_points_against_per_game": 3.512,
+      "home_points_for_per_game": 3.22,
+      "points_against_per_game": 3.573,
+      "points_for_per_game": 2.963,
+      "season": "2024-2025",
+      "team": "Pittsburgh Penguins",
+      "team_id": 16
+    },
+    {
+      "away_games": 41,
+      "away_points_against_per_game": 4.049,
+      "away_points_for_per_game": 2.585,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 82,
+      "home_games": 41,
+      "home_points_against_per_game": 3.634,
+      "home_points_for_per_game": 2.537,
+      "points_against_per_game": 3.841,
+      "points_for_per_game": 2.561,
+      "season": "2024-2025",
+      "team": "San Jose Sharks",
+      "team_id": 18
+    },
+    {
+      "away_games": 41,
+      "away_points_against_per_game": 3.415,
+      "away_points_for_per_game": 2.976,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 82,
+      "home_games": 41,
+      "home_points_against_per_game": 3.049,
+      "home_points_for_per_game": 3.049,
+      "points_against_per_game": 3.232,
+      "points_for_per_game": 3.012,
+      "season": "2024-2025",
+      "team": "Seattle Kraken",
+      "team_id": 124292
+    },
+    {
+      "away_games": 45,
+      "away_points_against_per_game": 3.089,
+      "away_points_for_per_game": 2.889,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 89,
+      "home_games": 44,
+      "home_points_against_per_game": 2.614,
+      "home_points_for_per_game": 3.432,
+      "points_against_per_game": 2.854,
+      "points_for_per_game": 3.157,
+      "season": "2024-2025",
+      "team": "St. Louis Blues",
+      "team_id": 19
+    },
+    {
+      "away_games": 43,
+      "away_points_against_per_game": 3.047,
+      "away_points_for_per_game": 3.256,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 87,
+      "home_games": 44,
+      "home_points_against_per_game": 2.432,
+      "home_points_for_per_game": 3.773,
+      "points_against_per_game": 2.736,
+      "points_for_per_game": 3.517,
+      "season": "2024-2025",
+      "team": "Tampa Bay Lightning",
+      "team_id": 20
+    },
+    {
+      "away_games": 47,
+      "away_points_against_per_game": 3.021,
+      "away_points_for_per_game": 3.298,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 95,
+      "home_games": 48,
+      "home_points_against_per_game": 2.729,
+      "home_points_for_per_game": 3.104,
+      "points_against_per_game": 2.874,
+      "points_for_per_game": 3.2,
+      "season": "2024-2025",
+      "team": "Toronto Maple Leafs",
+      "team_id": 21
+    },
+    {
+      "away_games": 41,
+      "away_points_against_per_game": 3.22,
+      "away_points_for_per_game": 3.0,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 82,
+      "home_games": 41,
+      "home_points_against_per_game": 2.902,
+      "home_points_for_per_game": 2.878,
+      "points_against_per_game": 3.061,
+      "points_for_per_game": 2.939,
+      "season": "2024-2025",
+      "team": "Utah Hockey Club",
+      "team_id": 129764
+    },
+    {
+      "away_games": 41,
+      "away_points_against_per_game": 3.049,
+      "away_points_for_per_game": 3.024,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 82,
+      "home_games": 41,
+      "home_points_against_per_game": 3.122,
+      "home_points_for_per_game": 2.732,
+      "points_against_per_game": 3.085,
+      "points_for_per_game": 2.878,
+      "season": "2024-2025",
+      "team": "Vancouver Canucks",
+      "team_id": 22
+    },
+    {
+      "away_games": 46,
+      "away_points_against_per_game": 2.935,
+      "away_points_for_per_game": 3.065,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 93,
+      "home_games": 47,
+      "home_points_against_per_game": 2.532,
+      "home_points_for_per_game": 3.447,
+      "points_against_per_game": 2.731,
+      "points_for_per_game": 3.258,
+      "season": "2024-2025",
+      "team": "Vegas Golden Knights",
+      "team_id": 37
+    },
+    {
+      "away_games": 45,
+      "away_points_against_per_game": 2.889,
+      "away_points_for_per_game": 3.222,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 92,
+      "home_games": 47,
+      "home_points_against_per_game": 2.745,
+      "home_points_for_per_game": 3.574,
+      "points_against_per_game": 2.815,
+      "points_for_per_game": 3.402,
+      "season": "2024-2025",
+      "team": "Washington Capitals",
+      "team_id": 23
+    },
+    {
+      "away_games": 47,
+      "away_points_against_per_game": 2.915,
+      "away_points_for_per_game": 3.128,
+      "categories": {
+        "saves_per_game": null,
+        "shots_on_goal_per_game": null
+      },
+      "games_played": 95,
+      "home_games": 48,
+      "home_points_against_per_game": 1.958,
+      "home_points_for_per_game": 3.438,
+      "points_against_per_game": 2.432,
+      "points_for_per_game": 3.284,
+      "season": "2024-2025",
+      "team": "Winnipeg Jets",
+      "team_id": 28
+    }
+  ]
 }

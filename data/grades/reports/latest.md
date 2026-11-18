@@ -1,6 +1,6 @@
 # Grading ledger — calibration report
 
-Generated 2026-11-18T08:48:25.779Z from 40 ledger records.
+Generated 2026-11-18T09:44:21.478Z from 40 ledger records.
 
 Streams are reported separately and are never blended. The book-implied streams grade the market’s prices, not the model.
 
@@ -49,3 +49,19 @@ Sample: 19 graded picks (14W / 5L / 0P). Brier: **0.1742** over 19 probability-c
 | 0.6-0.7 | 11 | 0.656 | 0.636 | 0.020 |
 | 0.7-0.8 | 4 | 0.735 | 1.000 | 0.265 |
 | 0.8-0.9 | 3 | 0.837 | 1.000 | 0.163 |
+
+## Source health
+
+Nightly rollup: `data/health/latest.json` · Collector board: `health.json` (Blob store, beside feed.json). The board reports; it never changes a gate.
+
+- api-sports — gated-off (not a link)
+- espn-fallback — ok
+- player-fan-out — not-in-production (not a link)
+- fit-pipeline — ok
+- grading-ledger — ok
+- sim-service — not-deployed (not a link)
+
+Needs attention:
+- FLAG: API-Sports is not serving the harvest — games are coming from the ESPN fallback, so the games chain is down to its last verified link. API-Sports stays gated off until the Legion runner is installed.
+- FLAG: soccer's newest harvest day (2026-11-18) carried no games from either source — neither API-Sports nor the ESPN fallback served it.
+- FLAG: The player fan-out has never had a production run (proof runs only, Nov 17) — its production home is the Legion runner, which is not installed yet.

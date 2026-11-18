@@ -1,0 +1,142 @@
+{
+  "contract": "source-health",
+  "v": 1,
+  "class": "Historical",
+  "source": "sports-feed grading rollup (grading/health-rollup.mjs)",
+  "fetchedAt": "2026-11-18T09:44:21.478Z",
+  "id": "source-health:nightly:2026-11-18T09:44:21.478Z",
+  "publisher": "grading-rollup",
+  "board": "nightly-rollup",
+  "generatedAt": "2026-11-18T09:44:21.478Z",
+  "sources": [
+    {
+      "name": "api-sports",
+      "role": "Games/fixtures/stats for the Intelligence Engine harvest (primary)",
+      "chain": "games-harvest",
+      "chainPosition": 1,
+      "link": false,
+      "status": "gated-off",
+      "reason": "Account suspended (shared-IP cause confirmed by API-Sports support, 2026-11-17) and the harvest gate is default-deny: INTELLIGENCE_ALLOW_API is set only on the Legion runner, which is not installed yet (the laptop is at the Lenovo depot). This board observes the effect: in every sampled sport, the games in the newest stored payloads were carried by the ESPN fallback; the native payloads beside them are empty.",
+      "observedBy": "data-branch",
+      "lastGoodAt": "2026-11-17",
+      "lastAttemptAt": null,
+      "since": "2026-11-17",
+      "quota": null,
+      "detail": "ESPN-fallback payloads run from 2026-11-18 through the newest stored day (2026-11-18)."
+    },
+    {
+      "name": "espn-fallback",
+      "role": "Failover source for the games harvest (keyless public scoreboards)",
+      "chain": "games-harvest",
+      "chainPosition": 2,
+      "link": true,
+      "status": "ok",
+      "reason": null,
+      "observedBy": "data-branch",
+      "lastGoodAt": "2026-11-18",
+      "lastAttemptAt": "2026-11-18",
+      "since": null,
+      "quota": null,
+      "detail": "Currently serving the games harvest — stored as its own payloads with source \"espn-fallback\", never blended into an API-Sports payload."
+    },
+    {
+      "name": "player-fan-out",
+      "role": "Player game logs for props (Intelligence Engine fan-out)",
+      "chain": null,
+      "chainPosition": null,
+      "link": false,
+      "status": "not-in-production",
+      "reason": "No production run: the fan-out is not in the Actions workflow and its production home is the pending Legion runner. The only stores are the Nov 17, 2026 ESPN-fallback proof runs (NBA 30/30 teams, NFL 32/32) in ~/workspace/.tmp-fanout — data/intelligence/props/ is absent from the data branch.",
+      "observedBy": "data-branch",
+      "lastGoodAt": null,
+      "lastAttemptAt": null,
+      "since": "2026-11-17",
+      "quota": null,
+      "detail": null
+    },
+    {
+      "name": "fit-pipeline",
+      "role": "Publishes versioned FitArtifacts for the Simulation Lab (Phase C)",
+      "chain": "fit-publication",
+      "chainPosition": 1,
+      "link": true,
+      "status": "ok",
+      "reason": null,
+      "observedBy": "data-branch",
+      "lastGoodAt": "2026-11-18T09:12:05.508Z",
+      "lastAttemptAt": null,
+      "since": null,
+      "quota": null,
+      "detail": "NBA 1.4144.20261118 (0d old, 4144 games) · NFL 1.805.20261118 (0d old, 805 games) · MLB 1.7413.20261118 (0d old, 7413 games) · NHL 1.4198.20261118 (0d old, 4198 games)"
+    },
+    {
+      "name": "grading-ledger",
+      "role": "Grades the model's live probability stream nightly (Phase B)",
+      "chain": null,
+      "chainPosition": null,
+      "link": true,
+      "status": "ok",
+      "reason": null,
+      "observedBy": "data-branch",
+      "lastGoodAt": "2026-11-18T08:48:21.600Z",
+      "lastAttemptAt": "2026-11-18T09:44:21.478Z",
+      "since": null,
+      "quota": null,
+      "detail": "NHL: 11 grades, newest 2026-11-18T08:48:21.600Z · NBA: 10 grades, newest 2026-11-18T08:48:21.600Z · NFL: 19 grades, newest 2026-11-18T08:48:21.600Z"
+    },
+    {
+      "name": "sim-service",
+      "role": "Serves the canonical simulation engine to Sage (Phase D)",
+      "chain": null,
+      "chainPosition": null,
+      "link": false,
+      "status": "not-deployed",
+      "reason": "Built Nov 18, 2026 (sportsbettinggpt sim-service/, commit 3c0167e) and proven locally, but not deployed to Railway — the deploy is Isaac's separate word. Sage's sim client waits behind SAGE_SIM_ENABLED (default off). Deployment state is not observable from the data branch; this entry is the standing build record and changes when the deploy lands.",
+      "observedBy": "standing-record",
+      "lastGoodAt": null,
+      "lastAttemptAt": null,
+      "since": "2026-11-18",
+      "quota": null,
+      "detail": null
+    }
+  ],
+  "seams": {
+    "grading-ledger": {
+      "status": "ok",
+      "detail": null,
+      "counts": {
+        "totalRecords": 40,
+        "appendedTonight": 0,
+        "archivesOnBranch": 103
+      }
+    },
+    "fits": {
+      "status": "ok",
+      "detail": "NBA 1.4144.20261118 · NFL 1.805.20261118 · MLB 1.7413.20261118 · NHL 1.4198.20261118",
+      "counts": {
+        "sports": 4,
+        "oldestFitAgeDays": 0,
+        "newestFitAgeDays": 0
+      }
+    },
+    "harvest": {
+      "status": "degraded",
+      "detail": "Serving source (newest stored day): espn-fallback. No source carried games on the newest day for: soccer. Last harvest commit touching data/intelligence: 2026-11-18T06:30:05+00:00.",
+      "counts": {
+        "lastHarvestDay": "2026-11-18",
+        "sportsSampled": 4,
+        "sportsUnserved": 1
+      }
+    },
+    "collector-board": {
+      "status": "not-observed",
+      "detail": "The collector publishes health.json to the Blob store beside feed.json every tick; it is not mirrored on the data branch, so the nightly rollup does not observe it.",
+      "counts": null
+    }
+  },
+  "flags": [
+    "API-Sports is not serving the harvest — games are coming from the ESPN fallback, so the games chain is down to its last verified link. API-Sports stays gated off until the Legion runner is installed.",
+    "soccer's newest harvest day (2026-11-18) carried no games from either source — neither API-Sports nor the ESPN fallback served it.",
+    "The player fan-out has never had a production run (proof runs only, Nov 17) — its production home is the Legion runner, which is not installed yet."
+  ]
+}

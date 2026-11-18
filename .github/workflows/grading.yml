@@ -1,0 +1,73 @@
+name: Grading ledger nightly run
+
+# Quant Apparatus Phase B (spec §5.1): close the grading loop nightly,
+# after the harvest window (harvest cron is 23 6 * * * UTC).
+#
+#   1. Archive final scores from ESPN's public scoreboards (the
+#      apparatus's keyless rule-10 failover source) into
+#      data/grades/results on the data branch.
+#   2. Materialize prediction archives from the collector's Blob
+#      archive, grade every settled game through the ledger
+#      (validated, idempotent), and regenerate the reports.
+#   3. Commit grades + reports + archives to the data branch.
+#
+# The grading script itself makes no provider calls; step 1 is the
+# only fetcher and is bounded (one request per sport per month).
+#
+# STATUS: created locally with Phase B, NOT yet pushed — the repo's
+# gh token lacks the `workflow` scope, so this file lands on GitHub
+# through the web UI or Isaac's push, like the harvest workflow's
+# edits before it. Until then the nightly job is run by hand:
+#   node grading/fetch-results.mjs --root <data checkout>
+#   node grading/run.mjs --root <data checkout> --blob-base <feed blob base>
+
+on:
+  schedule:
+    - cron: "47 7 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  grade:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code (main)
+        uses: actions/checkout@v4
+        with:
+          path: src
+
+      - name: Check out data branch
+        uses: actions/checkout@v4
+        with:
+          ref: data
+          path: work
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Archive final scores (ESPN failover source, bounded)
+        working-directory: src
+        run: node grading/fetch-results.mjs --root ../work
+
+      - name: Grade and regenerate reports
+        working-directory: src
+        run: >
+          node grading/run.mjs --root ../work
+          --blob-base https://lmiqgg08ux9djfii.public.blob.vercel-storage.com
+
+      - name: Commit grades, reports, and archives to the data branch
+        working-directory: work
+        run: |
+          git config user.name "Isaac Jones"
+          git config user.email "103softwaresolutionsllc@gmail.com"
+          git add data/grades data/predictions
+          if git diff --cached --quiet; then
+            echo "No grading changes tonight."
+            exit 0
+          fi
+          git commit -m "Grading ledger nightly run $(date -u +%F)"
+          git push origin data

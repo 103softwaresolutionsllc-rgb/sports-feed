@@ -17,6 +17,7 @@
 import { put } from '@vercel/blob';
 import { collectFeed } from '../collector.mjs';
 import { persistFeedHistory } from '../history.mjs';
+import { persistFeedPredictions } from '../predictions.mjs';
 
 // A collection pass can fan out to ESPN (JSON + RSS fallback per league)
 // with 15s fetch timeouts; give it generous room over the platform default.
@@ -52,6 +53,12 @@ export default async function handler(req, res) {
     // above has succeeded; persistFeedHistory is fully guarded and never
     // throws, so a history failure cannot affect the published feed.
     await persistFeedHistory(feedJson, feed.generatedAt);
+    // Grading ledger (predictions.mjs): archive the edition's gradable
+    // content — line sets, app-model probabilities, pick cards — under
+    // predictions/ for the nightly grading job. Same guarantee as the
+    // history snapshot: fully guarded, never throws, runs only after
+    // the feed write above has succeeded.
+    await persistFeedPredictions(feed);
     const articles = newsArticleCount(feed.news);
     console.log(
       `collect ok: ${articles} news articles, ` +

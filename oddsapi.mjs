@@ -35,7 +35,7 @@
  * board.
  */
 
-import { SPORT_APIS, toSlateItem } from './normalize.mjs';
+import { SPORT_APIS, toSlateItem, toPickCard } from './normalize.mjs';
 
 /** Display sport → The Odds API sport key. */
 export const ODDS_API_SPORT_KEYS = {
@@ -527,4 +527,180 @@ export function mergeSlate(oddsItems, apiSportsItems) {
     }
   }
   return merged;
+}
+
+// ---------------------------------------------------------------------------
+// Notable Lines failover (Phase 5, 2026-11-17)
+//
+// The feed's `picks` — the cards the BetTracker Home screen renders as
+// "Today's notable lines", whose first card the app also features as
+// the "Model snapshot" matchup — normally come from the API-Sports
+// picks pipeline in collector.mjs (buildSportFeed → toPickCard). When
+// API-Sports suspended the account on 2026-11-17 that pipeline went
+// dark (its collector pass is gated off — see collector.mjs's
+// apiSportsCollectorEnabled) and the Home sections emptied, while the
+// Odds API board above stayed full. This failover rebuilds the same
+// pick cards from the board entries THIS layer already produced, so
+// the product stays whole. It is a FALLBACK only: the collector calls
+// it solely when the API-Sports pass produced zero picks, one edition's
+// picks come from ONE source, and every fallback card is labeled
+// (below). Sources are never blended inside one edition's picks.
+//
+// Honesty rules:
+//  - The probability on a fallback card is the probability IMPLIED BY
+//    THE BOOKMAKER'S MONEYLINE — the exact quantity the API-Sports
+//    cards publish (normalize.mjs's "how far off" rule). No model
+//    probability, projection, or pick the board does not support is
+//    invented: the card's "pick" is the moneyline favorite, with its
+//    spread from the SAME book's line set when that book carries one.
+//  - Every fallback card carries `source: 'the-odds-api'` — the same
+//    provenance string boardMeta uses — and the collector records the
+//    edition's picks source in the feed's `picksMeta`. API-Sports
+//    cards are byte-for-byte the toPickCard shape they have always
+//    been (no source field — their provenance is picksMeta's
+//    'api-sports'); a fallback card is the toPickCard shape PLUS the
+//    source field, nothing else changed, so the app's reader sees the
+//    fields it already consumes.
+//  - Only the four API-Sports pipeline sports are eligible (the keys
+//    of SPORT_APIS). MMA stays board-only, exactly as it is on the
+//    primary path — README: "MMA has no slate/picks/aggregates
+//    presence beyond the board."
+//  - Input is the Odds layer's OWN entries (fresh sweeps + verbatim
+//    carry-over), never the merged board: the merged board can contain
+//    API-Sports fallback entries, and labeling one of those
+//    'the-odds-api' would be a false provenance claim.
+//
+// Selection rule ("notable"), deterministic, per sport:
+//  1. Eligible: the entry starts in the future and within the next
+//     NOTABLE_WINDOW_MS (24h — the same window the API-Sports pass
+//     uses for its odds candidates, ODDS_WINDOW_HOURS in
+//     collector.mjs), and its chosen line set carries a complete
+//     moneyline (both prices readable as American odds).
+//  2. Ranked by CLOSEST LINE first: ascending gap between the two
+//     sides' implied probabilities — the most competitive matchups
+//     are the notable ones. Ties break by earliest start, then by
+//     entry id, so the same board always yields the same cards.
+//  3. Capped at NOTABLE_MAX_PER_SPORT per sport — the same cap the
+//     API-Sports pass applies (MAX_PICKS_PER_SPORT in collector.mjs).
+//  The published list is then ordered by start time, exactly like the
+//  primary path's editions (the collector sorts picks by startTs), so
+//  the featured first card is the earliest-starting selected matchup.
+// ---------------------------------------------------------------------------
+
+/** The provenance label every Odds-derived pick card carries. */
+export const NOTABLE_PICKS_SOURCE = 'the-odds-api';
+
+/** Per-sport cap for fallback picks — mirrors the primary path's cap. */
+export const NOTABLE_MAX_PER_SPORT = 3;
+
+/** Fallback eligibility window — mirrors the primary path's 24h odds window. */
+export const NOTABLE_WINDOW_MS = 24 * 60 * 60 * 1000;
+
+/**
+ * American price ('-150' / '+130', string or number) → the probability
+ * it implies, 0–100 rounded, or null when the price cannot be a real
+ * American price (same validity rule as americanPriceString).
+ */
+export function americanToImpliedPct(price) {
+  const n = Number(typeof price === 'string' ? price.trim() : price);
+  if (!Number.isFinite(n) || n === 0 || Math.abs(n) < 100) return null;
+  const pct = n < 0 ? (Math.abs(n) / (Math.abs(n) + 100)) * 100 : (100 / (n + 100)) * 100;
+  return Math.round(pct);
+}
+
+/** Both sides' implied percentages from a board entry's chosen line set, or null. */
+function moneylineImplied(entry) {
+  const set = Array.isArray(entry?.lineSets) ? entry.lineSets[0] : null;
+  const ml = set?.moneyline;
+  if (!ml) return null;
+  const homePct = americanToImpliedPct(ml.home);
+  const awayPct = americanToImpliedPct(ml.away);
+  if (homePct == null || awayPct == null) return null;
+  return { homePct, awayPct };
+}
+
+/** The favorite's spread as a signed string ('-4.5'), from the HOME-signed board line. */
+function favoriteSpreadString(spread, favSide) {
+  if (!spread || !Number.isFinite(spread.line) || spread.line === 0) return null;
+  const favLine = favSide === 'home' ? spread.line : -spread.line;
+  return favLine > 0 ? `+${favLine}` : `${favLine}`;
+}
+
+/**
+ * One Odds API board entry → a pick card in the exact toPickCard shape
+ * the app already renders, PLUS `source: 'the-odds-api'`. The favorite
+ * is the moneyline favorite of the entry's chosen (single-book) line
+ * set; an exact pick'em goes to the home side, mirroring
+ * extractFavoriteLine's tie rule. Returns null when the entry cannot
+ * produce an honest card: not an API-Sports-pipeline sport (MMA),
+ * unidentifiable game, no named bookmaker, or no complete moneyline.
+ */
+export function boardEntryToPickCard(entry) {
+  if (!entry || typeof entry !== 'object') return null;
+  if (!SPORT_APIS[entry.sport]) return null;
+  if (entry.gameId == null || !entry.home || !entry.away || !entry.league) return null;
+  if (!Number.isFinite(entry.startTs) || entry.startTs <= 0) return null;
+  const set = Array.isArray(entry.lineSets) ? entry.lineSets[0] : null;
+  if (!set || typeof set.bookmaker !== 'string' || !set.bookmaker.trim()) return null;
+  const implied = moneylineImplied(entry);
+  if (!implied) return null;
+  const favSide = implied.homePct >= implied.awayPct ? 'home' : 'away';
+  const card = toPickCard(
+    {
+      id: entry.gameId,
+      sport: entry.sport,
+      sportLabel: entry.league,
+      home: entry.home,
+      away: entry.away,
+      startTs: entry.startTs,
+    },
+    {
+      favName: favSide === 'home' ? entry.home : entry.away,
+      impliedPct: favSide === 'home' ? implied.homePct : implied.awayPct,
+      bookmaker: set.bookmaker.trim(),
+      spread: favoriteSpreadString(set.spread, favSide),
+    }
+  );
+  return { ...card, source: NOTABLE_PICKS_SOURCE };
+}
+
+/**
+ * The failover pick list for one edition: the notable cards from the
+ * Odds layer's board entries, selected by the rule in the section
+ * header above (closest moneylines, per-sport cap, 24h upcoming
+ * window), published in start-time order. Pure — `nowMs` is injected
+ * so tests are deterministic.
+ */
+export function notablePicksFromBoard(
+  entries,
+  { nowMs = Date.now(), maxPerSport = NOTABLE_MAX_PER_SPORT, windowMs = NOTABLE_WINDOW_MS } = {}
+) {
+  const bySport = new Map();
+  for (const entry of Array.isArray(entries) ? entries : []) {
+    if (!entry || !SPORT_APIS[entry.sport]) continue;
+    if (!Number.isFinite(entry.startTs)) continue;
+    if (entry.startTs <= nowMs || entry.startTs > nowMs + windowMs) continue;
+    const implied = moneylineImplied(entry);
+    if (!implied) continue;
+    const closeness = Math.abs(implied.homePct - implied.awayPct);
+    if (!bySport.has(entry.sport)) bySport.set(entry.sport, []);
+    bySport.get(entry.sport).push({ entry, closeness });
+  }
+  const cards = [];
+  for (const list of bySport.values()) {
+    list.sort(
+      (a, b) =>
+        a.closeness - b.closeness ||
+        a.entry.startTs - b.entry.startTs ||
+        String(a.entry.id).localeCompare(String(b.entry.id))
+    );
+    for (const { entry } of list.slice(0, maxPerSport)) {
+      const card = boardEntryToPickCard(entry);
+      if (card) cards.push(card);
+    }
+  }
+  cards.sort(
+    (a, b) => a.startTs - b.startTs || String(a.id).localeCompare(String(b.id))
+  );
+  return cards;
 }

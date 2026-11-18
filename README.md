@@ -117,7 +117,13 @@ would blow the cap.)
   "generatedAt": "ISO timestamp",
   "source": "103 sports-feed collector — API-Sports (games/stats), The Odds API (board odds), ESPN (news)",
   "sportsConfigured": ["Basketball", "Football"],
-  "picks":  [ /* Notable Lines cards: favorite, implied %, bookmaker */ ],
+  "picks":  [ /* Notable Lines cards: favorite, implied %, bookmaker —
+                 plus "source": "the-odds-api" on cards produced by the
+                 Notable Lines failover (below); API-Sports cards carry
+                 no source field, as before */ ],
+  "picksMeta": { /* Notable Lines provenance for the edition:
+                 { source: "api-sports" | "the-odds-api" | "none",
+                 count } — one edition's picks come from ONE source */ },
   "slate":  [ /* live + upcoming games */ ],
   "board":  [ /* sportsbook board (Predict remake spec §4.2): per covered
                  game { id, gameId, sport, league, home, away, homeCode,
@@ -195,6 +201,30 @@ costs 13 credits (4 team sports × 3 markets × 1 region, plus MMA at
 line set — DraftKings, then FanDuel, then BetMGM, then Caesars, else
 the first book complete for the sport's markets. For team sports
 complete means all three markets; MMA (below) is moneyline-only.
+
+Notable Lines failover (added 2026-11-17, Phase 5): the `picks` above
+normally come from the API-Sports pass. When that pass yields zero
+picks — gated off (the current state, since API-Sports suspended the
+account over shared cloud egress IPs), erroring, or an empty odds
+day — the collector rebuilds the cards from The Odds API layer's own
+board entries (`notablePicksFromBoard` in `oddsapi.mjs`), at zero
+extra provider requests. Selection is deterministic: among upcoming
+games starting within 24 hours whose chosen line set carries a
+complete moneyline, the closest lines win per sport (smallest gap
+between the two sides' implied probabilities; ties by earliest start,
+then entry id), capped at 3 per sport — the primary path's cap — and
+published in start-time order, so the featured first card is the
+earliest-starting selected matchup. The card's probability is the
+probability implied by the bookmaker's moneyline (the same quantity
+API-Sports cards publish — never a model probability), and its pick
+is that favorite, with its spread from the same book's line set when
+carried. Labeling: the edition's source is `picksMeta.source`, every
+fallback card carries `source: "the-odds-api"`, and the feed's
+top-level `source` string reads "The Odds API (board odds + notable
+lines)" on failover editions. API-Sports remains primary — the
+failover runs only on an empty picks list, and one edition's picks
+are never blended from both sources. MMA stays board-only and never
+produces picks, on either path.
 
 MMA / UFC (added 2026-11-17): a fifth board category, Odds-API-only —
 API-Sports MMA is not wired, so MMA has no slate/picks/aggregates

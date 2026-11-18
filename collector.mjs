@@ -51,6 +51,22 @@
  * (an errors entry would stale that sport's board prices in the app) —
  * the API-Sports message moves to `apiSportsErrors` instead.
  *
+ * Notable Lines failover (oddsapi.mjs, Phase 5 — 2026-11-17): the
+ * feed's `picks` normally come from the API-Sports pass above. When
+ * that pass yields ZERO picks — the pass gated off (the current
+ * state, since the suspension), a sport erroring, or simply an empty
+ * odds day — the picks are rebuilt from the Odds API layer's own
+ * board entries (notablePicksFromBoard: closest moneylines, per-sport
+ * cap, 24h upcoming window) so the app's Home "Today's notable lines"
+ * and its featured "Model snapshot" matchup stay populated while the
+ * board is full. The API-Sports path remains PRIMARY: the failover
+ * runs only on an empty picks list, one edition's picks come from
+ * ONE source, and the edition's source is labeled in the feed's
+ * `picksMeta.source` ('api-sports' | 'the-odds-api' | 'none') — plus,
+ * on every fallback card itself, `source: 'the-odds-api'`. The gates
+ * and cadence are untouched: the failover spends ZERO provider
+ * requests (it republishes board data already fetched).
+ *
  * News layer (news.mjs): the same run also collects headlines per league
  * from ESPN's unofficial news JSON (no key, no quota), with the league's
  * ESPN RSS feed as fallback, into the feed's top-level `news` object.
@@ -95,6 +111,7 @@ import {
   carryOverEntries,
   mergeBoard,
   mergeSlate,
+  notablePicksFromBoard,
 } from './oddsapi.mjs';
 
 /**
@@ -533,6 +550,24 @@ export async function collectFeed() {
     oddsCoveredSports(oddsLayer)
   );
 
+  // Notable Lines failover (see the header note): only when the
+  // API-Sports pass produced no picks at all. Input is the Odds
+  // layer's OWN entries — never the merged board, which can contain
+  // API-Sports entries that must not be labeled as Odds-derived.
+  let picksSource = picks.length > 0 ? 'api-sports' : 'none';
+  if (picks.length === 0) {
+    const fallbackPicks = notablePicksFromBoard(oddsLayer.entries, {
+      nowMs: Date.now(),
+    });
+    if (fallbackPicks.length > 0) {
+      picks.push(...fallbackPicks);
+      picksSource = 'the-odds-api';
+      console.log(
+        `Notable Lines: API-Sports picks empty — ${fallbackPicks.length} cards from The Odds API board (failover)`
+      );
+    }
+  }
+
   picks.sort((a, b) => a.startTs - b.startTs);
   board.sort((a, b) => a.startTs - b.startTs);
   slate.sort((a, b) => {
@@ -602,10 +637,12 @@ export async function collectFeed() {
   const feed = {
     generatedAt: new Date().toISOString(),
     source:
-      '103 sports-feed collector — API-Sports (games/stats), The Odds API (board odds), ESPN (news)' +
-      (betstackFilled ? ', BetStack (slate fill)' : ''),
+      `103 sports-feed collector — API-Sports (games/stats), The Odds API (board odds${
+        picksSource === 'the-odds-api' ? ' + notable lines' : ''
+      }), ESPN (news)` + (betstackFilled ? ', BetStack (slate fill)' : ''),
     sportsConfigured,
     picks,
+    picksMeta: { source: picksSource, count: picks.length },
     slate,
     board,
     boardMeta: oddsLayer.meta,
@@ -629,7 +666,7 @@ async function main() {
   );
   await writeFile(outPath, JSON.stringify(feed, null, 2));
   console.log(
-    `Wrote ${outPath}: ${feed.picks.length} picks, ${feed.slate.length} slate items, ${feed.board.length} board games (Odds API: ${feed.boardMeta?.status}), ${newsCount} news articles, aggregates for ${Object.keys(feed.aggregates ?? {}).length} sports, sports: ${feed.sportsConfigured.join(', ') || 'none'}`
+    `Wrote ${outPath}: ${feed.picks.length} picks (source: ${feed.picksMeta?.source}), ${feed.slate.length} slate items, ${feed.board.length} board games (Odds API: ${feed.boardMeta?.status}), ${newsCount} news articles, aggregates for ${Object.keys(feed.aggregates ?? {}).length} sports, sports: ${feed.sportsConfigured.join(', ') || 'none'}`
   );
 }
 

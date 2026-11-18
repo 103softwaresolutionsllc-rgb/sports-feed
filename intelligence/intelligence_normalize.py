@@ -151,13 +151,31 @@ def _load_dataset(raw_root: Path, sport: str, dataset: str):
             yield payload, manifests.get(path.name, {})
 
 
-def _entry_season(entry: dict, manifest_params: dict):
+def _canonical_season(sport: str, season) -> str:
+    """Canonical season label for a sport.
+
+    Hockey's API takes the season as an integer start year (see
+    intelligence_harvest.season_param_for), so hockey seasons arrive
+    here as 2022 / "2022" from manifests and payloads alike, while the
+    canonical label — the one normalized files and aggregates use,
+    matching basketball — is "2022-2023". Canonicalize on the way in
+    so the two forms can never split a season in two.
+    """
+    text = str(season)
+    if sport == "hockey" and len(text) == 4 and text.isdigit():
+        return f"{text}-{int(text) + 1}"
+    return text
+
+
+def _entry_season(entry: dict, manifest_params: dict, sport: str | None = None):
     season = entry.get("season")
     if season is None and isinstance(entry.get("league"), dict):
         season = entry["league"].get("season")
     if season is None:
         season = manifest_params.get("season")
-    return str(season) if season is not None else None
+    if season is None:
+        return None
+    return _canonical_season(sport, season) if sport else str(season)
 
 
 def _game_parts(entry: dict):
@@ -223,7 +241,7 @@ def _collect_team_stats(raw_root: Path, sport: str, season: str) -> dict:
         for entry in _response(payload):
             if not isinstance(entry, dict):
                 continue
-            if _entry_season(entry, manifest_params) != str(season):
+            if _entry_season(entry, manifest_params, sport) != str(season):
                 continue
             team = entry.get("team") or {}
             team_id = team.get("id")
@@ -319,7 +337,7 @@ def normalize_players_season(sport: str, raw_root: Path, season: str) -> dict:
         for entry in _response(payload):
             if not isinstance(entry, dict):
                 continue
-            if _entry_season(entry, manifest_params) != season:
+            if _entry_season(entry, manifest_params, sport) != season:
                 continue
             player = entry.get("player") or {}
             team = entry.get("team") or {}
@@ -380,7 +398,7 @@ def write_normalized_players(
 
 def normalize_season(sport: str, raw_root: Path, season: str) -> dict:
     """Build the team-season record set for one sport + season."""
-    season = str(season)
+    season = _canonical_season(sport, season)
     teams: dict = {}
 
     def blank(team_id, name):
@@ -399,7 +417,7 @@ def normalize_season(sport: str, raw_root: Path, season: str) -> dict:
         for entry in _response(payload):
             if not isinstance(entry, dict):
                 continue
-            if _entry_season(entry, manifest_params) != season:
+            if _entry_season(entry, manifest_params, sport) != season:
                 continue
             game_id, status, home, away, hs, as_ = _game_parts(entry)
             if game_id is not None:
@@ -499,7 +517,7 @@ def _discover_seasons(raw_root: Path, sport: str) -> list[str]:
                     continue
                 season = entry.get("params", {}).get("season")
                 if season is not None:
-                    seasons.add(str(season))
+                    seasons.add(_canonical_season(sport, season))
     return sorted(seasons)
 
 def main(argv: list[str] | None = None) -> int:

@@ -122,9 +122,16 @@ SPORT_CONFIG = {
         # NHL league id on API-Hockey — VERIFY on first live run (57 is
         # believed correct but could not be confirmed offline).
         "league": 57,
-        # Season format believed to be "2022-2023" style (like basketball)
-        # — VERIFY on first live run. The free plan walled hockey to the
-        # 2022-2024 era seasons in the Oct 2026 collector logs.
+        # VERIFIED Nov 17, 2026 — the hard way. API-Hockey rejects the
+        # "2022-2023" label: every hockey payload in the raw landing is
+        # the API error {"season": "The Season field must contain an
+        # integer."}, which is why hockey normalized to zero teams for
+        # weeks (the normalizer was blamed; the bug was here). The API
+        # wants the season's starting year as an integer — season_param
+        # _for() applies "start_year" below; the label stays on the
+        # task and in downstream file naming. The free plan walled
+        # hockey to the 2022-2024 era seasons in the Oct 2026 logs.
+        "season_format": "start_year",
         "seasons": ["2022-2023", "2023-2024", "2024-2025"],
         "datasets": {
             "teams": {"path": "/teams", "params": ["league", "season"]},
@@ -284,6 +291,20 @@ class FetchTask:
         return self.path
 
 
+def season_param_for(cfg: dict, season):
+    """The season value to SEND to a sport's API.
+
+    Most API-Sports products take the configured label as-is
+    ("2022-2023" / "2022"). Sports whose config sets
+    "season_format": "start_year" (hockey) reject the label — the API
+    demands the season's starting year as an integer. Only the wire
+    value changes; FetchTask.season keeps the label.
+    """
+    if cfg.get("season_format") == "start_year":
+        return int(str(season).split("-")[0])
+    return season
+
+
 def build_plan(sport: str) -> list[FetchTask]:
     """Fixed per-season dataset tasks (teams / standings / games)."""
     cfg = SPORT_CONFIG[sport]
@@ -295,7 +316,7 @@ def build_plan(sport: str) -> list[FetchTask]:
                 if key == "league":
                     params["league"] = cfg["league"]
                 elif key == "season":
-                    params["season"] = season
+                    params["season"] = season_param_for(cfg, season)
             tasks.append(
                 FetchTask(
                     sport=sport,
@@ -320,7 +341,7 @@ def _fanout_plan(sport: str, season: str, team_ids: list,
             if key == "league":
                 params["league"] = cfg["league"]
             elif key == "season":
-                params["season"] = season
+                params["season"] = season_param_for(cfg, season)
             elif key == "team":
                 params["team"] = team_id
         tasks.append(

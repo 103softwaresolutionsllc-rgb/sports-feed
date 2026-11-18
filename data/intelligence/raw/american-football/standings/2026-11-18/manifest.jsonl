@@ -4,3 +4,4 @@
 {"classification": "Historical", "endpoint": "/standings", "file": "053720-001.json", "params": {"league": 1, "season": "2022"}, "retrieved_at": "2026-11-18T05:37:20.568431+00:00"}
 {"classification": "Historical", "endpoint": "/standings", "file": "053722-001.json", "params": {"league": 1, "season": "2023"}, "retrieved_at": "2026-11-18T05:37:22.031595+00:00"}
 {"classification": "Historical", "endpoint": "/standings", "file": "053723-001.json", "params": {"league": 1, "season": "2024"}, "retrieved_at": "2026-11-18T05:37:23.347672+00:00"}
+{"classification": "Historical", "endpoint": "/standings", "file": "061755-001.json", "params": {"league": 1, "season": "2022"}, "retrieved_at": "2026-11-18T06:17:55.369849+00:00"}

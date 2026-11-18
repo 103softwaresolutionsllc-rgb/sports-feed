@@ -1,0 +1,24 @@
+{
+  "contract": "prediction-archive",
+  "v": 1,
+  "boardSnapshotRef": "2026-11-09T03:00:17.760Z",
+  "generatedAt": "2026-11-09T03:00:17.760Z",
+  "source": "103 sports-feed collector — API-Sports (games/odds), ESPN (news)",
+  "games": [],
+  "picks": [
+    {
+      "id": "apisp-pick-Football-21648",
+      "sport": "Football",
+      "sportLabel": "NFL",
+      "teamA": "Buffalo Bills",
+      "teamB": "Minnesota Vikings",
+      "pick": "Buffalo Bills ML",
+      "footer": "Bet365 · Moneyline · Tomorrow 5:15 PM",
+      "startTs": 1794273300000,
+      "winProb": 63,
+      "impliedProb": 0.63,
+      "origin": "book-implied",
+      "stream": "book-implied-pick-card"
+    }
+  ]
+}

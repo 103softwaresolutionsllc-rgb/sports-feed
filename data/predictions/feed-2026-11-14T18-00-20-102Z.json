@@ -1,0 +1,52 @@
+{
+  "contract": "prediction-archive",
+  "v": 1,
+  "boardSnapshotRef": "2026-11-14T18:00:20.102Z",
+  "generatedAt": "2026-11-14T18:00:20.102Z",
+  "source": "103 sports-feed collector — API-Sports (games/odds), ESPN (news)",
+  "games": [],
+  "picks": [
+    {
+      "id": "apisp-pick-Football-21650",
+      "sport": "Football",
+      "sportLabel": "NFL",
+      "teamA": "New England Patriots",
+      "teamB": "Detroit Lions",
+      "pick": "Detroit Lions -1",
+      "footer": "Bet365 · Spread + moneyline · Tomorrow 6:30 AM",
+      "startTs": 1794753000000,
+      "winProb": 61,
+      "impliedProb": 0.61,
+      "origin": "book-implied",
+      "stream": "book-implied-pick-card"
+    },
+    {
+      "id": "apisp-pick-Football-21651",
+      "sport": "Football",
+      "sportLabel": "NFL",
+      "teamA": "Kansas City Chiefs",
+      "teamB": "Atlanta Falcons",
+      "pick": "Kansas City Chiefs ML",
+      "footer": "Bet365 · Moneyline · Tomorrow 10:00 AM",
+      "startTs": 1794765600000,
+      "winProb": 63,
+      "impliedProb": 0.63,
+      "origin": "book-implied",
+      "stream": "book-implied-pick-card"
+    },
+    {
+      "id": "apisp-pick-Football-21652",
+      "sport": "Football",
+      "sportLabel": "NFL",
+      "teamA": "Houston Texans",
+      "teamB": "Cleveland Browns",
+      "pick": "Houston Texans ML",
+      "footer": "Bet365 · Moneyline · Tomorrow 10:00 AM",
+      "startTs": 1794765600000,
+      "winProb": 70,
+      "impliedProb": 0.7,
+      "origin": "book-implied",
+      "stream": "book-implied-pick-card"
+    }
+  ]
+}

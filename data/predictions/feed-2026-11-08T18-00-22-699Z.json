@@ -1,0 +1,52 @@
+{
+  "contract": "prediction-archive",
+  "v": 1,
+  "boardSnapshotRef": "2026-11-08T18:00:22.699Z",
+  "generatedAt": "2026-11-08T18:00:22.699Z",
+  "source": "103 sports-feed collector — API-Sports (games/odds), ESPN (news)",
+  "games": [],
+  "picks": [
+    {
+      "id": "apisp-pick-Football-21636",
+      "sport": "Football",
+      "sportLabel": "NFL",
+      "teamA": "Dallas Cowboys",
+      "teamB": "Indianapolis Colts",
+      "pick": "Dallas Cowboys ML",
+      "footer": "Bet365 · Moneyline · Today 10:00 AM",
+      "startTs": 1794160800000,
+      "winProb": 70,
+      "impliedProb": 0.7,
+      "origin": "book-implied",
+      "stream": "book-implied-pick-card"
+    },
+    {
+      "id": "apisp-pick-Football-21637",
+      "sport": "Football",
+      "sportLabel": "NFL",
+      "teamA": "New York Jets",
+      "teamB": "Kansas City Chiefs",
+      "pick": "Kansas City Chiefs -1",
+      "footer": "Bet365 · Spread + moneyline · Today 10:00 AM",
+      "startTs": 1794160800000,
+      "winProb": 84,
+      "impliedProb": 0.84,
+      "origin": "book-implied",
+      "stream": "book-implied-pick-card"
+    },
+    {
+      "id": "apisp-pick-Football-21638",
+      "sport": "Football",
+      "sportLabel": "NFL",
+      "teamA": "Detroit Lions",
+      "teamB": "Miami Dolphins",
+      "pick": "Detroit Lions ML",
+      "footer": "Bet365 · Moneyline · Today 10:00 AM",
+      "startTs": 1794160800000,
+      "winProb": 76,
+      "impliedProb": 0.76,
+      "origin": "book-implied",
+      "stream": "book-implied-pick-card"
+    }
+  ]
+}

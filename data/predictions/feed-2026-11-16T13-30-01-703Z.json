@@ -1,0 +1,24 @@
+{
+  "contract": "prediction-archive",
+  "v": 1,
+  "boardSnapshotRef": "2026-11-16T13:30:01.703Z",
+  "generatedAt": "2026-11-16T13:30:01.703Z",
+  "source": "103 sports-feed collector — API-Sports (games/odds), ESPN (news)",
+  "games": [],
+  "picks": [
+    {
+      "id": "apisp-pick-Football-21662",
+      "sport": "Football",
+      "sportLabel": "NFL",
+      "teamA": "Los Angeles Chargers",
+      "teamB": "Baltimore Ravens",
+      "pick": "Baltimore Ravens -1",
+      "footer": "Bet365 · Spread + moneyline · Tomorrow 5:15 PM",
+      "startTs": 1794878100000,
+      "winProb": 70,
+      "impliedProb": 0.7,
+      "origin": "book-implied",
+      "stream": "book-implied-pick-card"
+    }
+  ]
+}

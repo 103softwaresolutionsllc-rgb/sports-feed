@@ -1,0 +1,24 @@
+{
+  "contract": "prediction-archive",
+  "v": 1,
+  "boardSnapshotRef": "2026-11-09T00:00:17.557Z",
+  "generatedAt": "2026-11-09T00:00:17.557Z",
+  "source": "103 sports-feed collector — API-Sports (games/odds), ESPN (news)",
+  "games": [],
+  "picks": [
+    {
+      "id": "apisp-pick-Football-21647",
+      "sport": "Football",
+      "sportLabel": "NFL",
+      "teamA": "Tampa Bay Buccaneers",
+      "teamB": "Chicago Bears",
+      "pick": "Chicago Bears -1",
+      "footer": "Bet365 · Spread + moneyline · Today 5:20 PM",
+      "startTs": 1794187200000,
+      "winProb": 73,
+      "impliedProb": 0.73,
+      "origin": "book-implied",
+      "stream": "book-implied-pick-card"
+    }
+  ]
+}

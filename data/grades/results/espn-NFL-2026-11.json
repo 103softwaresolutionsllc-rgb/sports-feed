@@ -1,0 +1,345 @@
+{
+  "source": "espn-fallback",
+  "sport": "NFL",
+  "month": "2026-11",
+  "fetchedAt": "2026-11-18T08:47:20.881Z",
+  "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=202611&limit=1000",
+  "games": [
+    {
+      "sport": "NFL",
+      "date": "2026-11-01T18:00Z",
+      "home": "Buffalo Bills",
+      "away": "Baltimore Ravens",
+      "homeScore": 36,
+      "awayScore": 10
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-01T18:00Z",
+      "home": "Cincinnati Bengals",
+      "away": "Tennessee Titans",
+      "homeScore": 43,
+      "awayScore": 36
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-01T18:00Z",
+      "home": "Dallas Cowboys",
+      "away": "Arizona Cardinals",
+      "homeScore": 30,
+      "awayScore": 33
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-01T18:00Z",
+      "home": "Detroit Lions",
+      "away": "Minnesota Vikings",
+      "homeScore": 19,
+      "awayScore": 15
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-01T18:00Z",
+      "home": "New York Jets",
+      "away": "Las Vegas Raiders",
+      "homeScore": 33,
+      "awayScore": 38
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-01T18:00Z",
+      "home": "Pittsburgh Steelers",
+      "away": "Cleveland Browns",
+      "homeScore": 27,
+      "awayScore": 6
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-01T18:00Z",
+      "home": "Tampa Bay Buccaneers",
+      "away": "Atlanta Falcons",
+      "homeScore": 16,
+      "awayScore": 0
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-01T18:00Z",
+      "home": "Jacksonville Jaguars",
+      "away": "Indianapolis Colts",
+      "homeScore": 42,
+      "awayScore": 7
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-01T21:05Z",
+      "home": "Los Angeles Rams",
+      "away": "Los Angeles Chargers",
+      "homeScore": 24,
+      "awayScore": 9
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-01T21:25Z",
+      "home": "Denver Broncos",
+      "away": "Kansas City Chiefs",
+      "homeScore": 28,
+      "awayScore": 24
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-01T21:25Z",
+      "home": "Miami Dolphins",
+      "away": "New England Patriots",
+      "homeScore": 19,
+      "awayScore": 24
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-02T01:20Z",
+      "home": "Washington Commanders",
+      "away": "Philadelphia Eagles",
+      "homeScore": 27,
+      "awayScore": 10
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-03T01:15Z",
+      "home": "Seattle Seahawks",
+      "away": "Chicago Bears",
+      "homeScore": 17,
+      "awayScore": 34
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-06T01:15Z",
+      "home": "Baltimore Ravens",
+      "away": "Jacksonville Jaguars",
+      "homeScore": 10,
+      "awayScore": 33
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-08T14:30Z",
+      "home": "Atlanta Falcons",
+      "away": "Cincinnati Bengals",
+      "homeScore": 17,
+      "awayScore": 34
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-08T18:00Z",
+      "home": "Indianapolis Colts",
+      "away": "Dallas Cowboys",
+      "homeScore": 23,
+      "awayScore": 27
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-08T18:00Z",
+      "home": "Kansas City Chiefs",
+      "away": "New York Jets",
+      "homeScore": 35,
+      "awayScore": 12
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-08T18:00Z",
+      "home": "Miami Dolphins",
+      "away": "Detroit Lions",
+      "homeScore": 9,
+      "awayScore": 19
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-08T18:00Z",
+      "home": "New Orleans Saints",
+      "away": "Cleveland Browns",
+      "homeScore": 23,
+      "awayScore": 22
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-08T18:00Z",
+      "home": "Philadelphia Eagles",
+      "away": "New York Giants",
+      "homeScore": 11,
+      "awayScore": 19
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-08T18:00Z",
+      "home": "Washington Commanders",
+      "away": "Los Angeles Rams",
+      "homeScore": 13,
+      "awayScore": 20
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-08T18:00Z",
+      "home": "Carolina Panthers",
+      "away": "Denver Broncos",
+      "homeScore": 21,
+      "awayScore": 26
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-08T21:05Z",
+      "home": "Los Angeles Chargers",
+      "away": "Houston Texans",
+      "homeScore": 22,
+      "awayScore": 44
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-08T21:25Z",
+      "home": "New England Patriots",
+      "away": "Green Bay Packers",
+      "homeScore": 27,
+      "awayScore": 45
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-08T21:25Z",
+      "home": "San Francisco 49ers",
+      "away": "Las Vegas Raiders",
+      "homeScore": 38,
+      "awayScore": 17
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-08T21:25Z",
+      "home": "Seattle Seahawks",
+      "away": "Arizona Cardinals",
+      "homeScore": 17,
+      "awayScore": 3
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-09T01:20Z",
+      "home": "Chicago Bears",
+      "away": "Tampa Bay Buccaneers",
+      "homeScore": 27,
+      "awayScore": 24
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-10T01:15Z",
+      "home": "Minnesota Vikings",
+      "away": "Buffalo Bills",
+      "homeScore": 6,
+      "awayScore": 23
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-13T01:15Z",
+      "home": "New York Giants",
+      "away": "Washington Commanders",
+      "homeScore": 21,
+      "awayScore": 24
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-15T14:30Z",
+      "home": "Detroit Lions",
+      "away": "New England Patriots",
+      "homeScore": 35,
+      "awayScore": 10
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-15T18:00Z",
+      "home": "Atlanta Falcons",
+      "away": "Kansas City Chiefs",
+      "homeScore": 13,
+      "awayScore": 35
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-15T18:00Z",
+      "home": "Cleveland Browns",
+      "away": "Houston Texans",
+      "homeScore": 27,
+      "awayScore": 24
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-15T18:00Z",
+      "home": "Green Bay Packers",
+      "away": "Minnesota Vikings",
+      "homeScore": 10,
+      "awayScore": 30
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-15T18:00Z",
+      "home": "Tennessee Titans",
+      "away": "Jacksonville Jaguars",
+      "homeScore": 23,
+      "awayScore": 40
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-15T18:00Z",
+      "home": "Indianapolis Colts",
+      "away": "Miami Dolphins",
+      "homeScore": 24,
+      "awayScore": 22
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-15T18:00Z",
+      "home": "New Orleans Saints",
+      "away": "Carolina Panthers",
+      "homeScore": 17,
+      "awayScore": 20
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-15T18:00Z",
+      "home": "New York Jets",
+      "away": "Buffalo Bills",
+      "homeScore": 12,
+      "awayScore": 31
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-15T21:05Z",
+      "home": "Las Vegas Raiders",
+      "away": "Seattle Seahawks",
+      "homeScore": 13,
+      "awayScore": 21
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-15T21:05Z",
+      "home": "Arizona Cardinals",
+      "away": "Los Angeles Rams",
+      "homeScore": 6,
+      "awayScore": 34
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-15T21:25Z",
+      "home": "Dallas Cowboys",
+      "away": "San Francisco 49ers",
+      "homeScore": 40,
+      "awayScore": 46
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-16T01:20Z",
+      "home": "Cincinnati Bengals",
+      "away": "Pittsburgh Steelers",
+      "homeScore": 38,
+      "awayScore": 18
+    },
+    {
+      "sport": "NFL",
+      "date": "2026-11-17T01:15Z",
+      "home": "Baltimore Ravens",
+      "away": "Los Angeles Chargers",
+      "homeScore": 20,
+      "awayScore": 23
+    }
+  ]
+}

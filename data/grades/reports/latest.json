@@ -1,0 +1,151 @@
+{
+  "contract": "grading-report",
+  "v": 1,
+  "generatedAt": "2026-11-18T08:48:25.779Z",
+  "recordCount": 40,
+  "streams": {
+    "book-implied": {
+      "label": "Book-implied stream (devigged bookmaker prices — NOT the model)",
+      "sports": {
+        "NHL": {
+          "n": 11,
+          "wins": 6,
+          "losses": 5,
+          "pushes": 0,
+          "probMissing": 0,
+          "brierN": 11,
+          "brier": 0.24575011211097111,
+          "buckets": [
+            {
+              "range": "0.5-0.6",
+              "n": 10,
+              "meanPredicted": 0.5566541012904277,
+              "actualRate": 0.4,
+              "deviation": 0.15665410129042767
+            },
+            {
+              "range": "0.6-0.7",
+              "n": 1,
+              "meanPredicted": 0.644729178800233,
+              "actualRate": 1,
+              "deviation": 0.35527082119976705
+            }
+          ]
+        },
+        "NBA": {
+          "n": 5,
+          "wins": 2,
+          "losses": 3,
+          "pushes": 0,
+          "probMissing": 0,
+          "brierN": 5,
+          "brier": 0.29737617250365567,
+          "buckets": [
+            {
+              "range": "0.5-0.6",
+              "n": 2,
+              "meanPredicted": 0.5652153448482504,
+              "actualRate": 1,
+              "deviation": 0.4347846551517496
+            },
+            {
+              "range": "0.6-0.7",
+              "n": 1,
+              "meanPredicted": 0.6765116857760848,
+              "actualRate": 0,
+              "deviation": 0.6765116857760848
+            },
+            {
+              "range": "0.7-0.8",
+              "n": 2,
+              "meanPredicted": 0.7477504493300031,
+              "actualRate": 0.5,
+              "deviation": 0.24775044933000312
+            }
+          ]
+        }
+      }
+    },
+    "app-model": {
+      "label": "App model stream (the board's Gaussian probabilities, from archived editions)",
+      "sports": {
+        "NBA": {
+          "n": 5,
+          "wins": 2,
+          "losses": 3,
+          "pushes": 0,
+          "probMissing": 0,
+          "brierN": 5,
+          "brier": 0.309230936172688,
+          "buckets": [
+            {
+              "range": "0.5-0.6",
+              "n": 1,
+              "meanPredicted": 0.509053522304971,
+              "actualRate": 0,
+              "deviation": 0.509053522304971
+            },
+            {
+              "range": "0.6-0.7",
+              "n": 1,
+              "meanPredicted": 0.6332681058989081,
+              "actualRate": 0,
+              "deviation": 0.6332681058989081
+            },
+            {
+              "range": "0.9-1.0",
+              "n": 3,
+              "meanPredicted": 0.9255516287231774,
+              "actualRate": 0.6666666666666666,
+              "deviation": 0.2588849620565108
+            }
+          ]
+        }
+      }
+    },
+    "book-implied-pick-card": {
+      "label": "Book-implied pick-card stream (published winProb, raw implied — NOT the model)",
+      "sports": {
+        "NFL": {
+          "n": 19,
+          "wins": 14,
+          "losses": 5,
+          "pushes": 0,
+          "probMissing": 0,
+          "brierN": 19,
+          "brier": 0.17423684210526313,
+          "buckets": [
+            {
+              "range": "0.5-0.6",
+              "n": 1,
+              "meanPredicted": 0.58,
+              "actualRate": 0,
+              "deviation": 0.58
+            },
+            {
+              "range": "0.6-0.7",
+              "n": 11,
+              "meanPredicted": 0.6563636363636364,
+              "actualRate": 0.6363636363636364,
+              "deviation": 0.020000000000000018
+            },
+            {
+              "range": "0.7-0.8",
+              "n": 4,
+              "meanPredicted": 0.7350000000000001,
+              "actualRate": 1,
+              "deviation": 0.2649999999999999
+            },
+            {
+              "range": "0.8-0.9",
+              "n": 3,
+              "meanPredicted": 0.8366666666666666,
+              "actualRate": 1,
+              "deviation": 0.16333333333333344
+            }
+          ]
+        }
+      }
+    }
+  }
+}

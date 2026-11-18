@@ -1,0 +1,52 @@
+{
+  "contract": "prediction-archive",
+  "v": 1,
+  "boardSnapshotRef": "2026-11-15T21:00:17.581Z",
+  "generatedAt": "2026-11-15T21:00:17.581Z",
+  "source": "103 sports-feed collector — API-Sports (games/odds), ESPN (news)",
+  "games": [],
+  "picks": [
+    {
+      "id": "apisp-pick-Football-21658",
+      "sport": "Football",
+      "sportLabel": "NFL",
+      "teamA": "Seattle Seahawks",
+      "teamB": "Las Vegas Raiders",
+      "pick": "Seattle Seahawks ML",
+      "footer": "Bet365 · Moneyline · Today 1:05 PM",
+      "startTs": 1794776700000,
+      "winProb": 74,
+      "impliedProb": 0.74,
+      "origin": "book-implied",
+      "stream": "book-implied-pick-card"
+    },
+    {
+      "id": "apisp-pick-Football-21659",
+      "sport": "Football",
+      "sportLabel": "NFL",
+      "teamA": "Los Angeles Rams",
+      "teamB": "Arizona Cardinals",
+      "pick": "Los Angeles Rams ML",
+      "footer": "Bet365 · Moneyline · Today 1:05 PM",
+      "startTs": 1794776700000,
+      "winProb": 84,
+      "impliedProb": 0.84,
+      "origin": "book-implied",
+      "stream": "book-implied-pick-card"
+    },
+    {
+      "id": "apisp-pick-Football-21660",
+      "sport": "Football",
+      "sportLabel": "NFL",
+      "teamA": "San Francisco 49ers",
+      "teamB": "Dallas Cowboys",
+      "pick": "San Francisco 49ers ML",
+      "footer": "Bet365 · Moneyline · Today 1:25 PM",
+      "startTs": 1794777900000,
+      "winProb": 69,
+      "impliedProb": 0.69,
+      "origin": "book-implied",
+      "stream": "book-implied-pick-card"
+    }
+  ]
+}

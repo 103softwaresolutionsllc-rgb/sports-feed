@@ -1,0 +1,1786 @@
+{
+  "contract": "prediction-archive",
+  "v": 1,
+  "boardSnapshotRef": "2026-11-18T07:30:01.126Z",
+  "generatedAt": "2026-11-18T07:30:01.126Z",
+  "source": "103 sports-feed collector — API-Sports (games/stats), The Odds API (board odds), ESPN (news)",
+  "games": [
+    {
+      "id": "apisp-board-Basketball-e7343c795f16a5a2a6fd93dbc58499a6",
+      "gameId": "e7343c795f16a5a2a6fd93dbc58499a6",
+      "sport": "Basketball",
+      "league": "NBA",
+      "home": "Los Angeles Clippers",
+      "away": "Utah Jazz",
+      "startAt": "2026-11-18T03:40:00.000Z",
+      "startTs": 1794973200000,
+      "lineSets": [
+        {
+          "bookmaker": "DraftKings",
+          "fetchedAt": "2026-11-17T12:00:16.644Z",
+          "moneyline": {
+            "home": -238,
+            "away": 197
+          },
+          "spread": {
+            "line": -6.5,
+            "home": -107,
+            "away": -113
+          },
+          "total": {
+            "line": 225.5,
+            "over": -110,
+            "under": -110
+          }
+        }
+      ],
+      "aggregatesPresent": true,
+      "model": {
+        "origin": "model",
+        "stream": "app-model",
+        "homeWinProb": 0.9367760879490206,
+        "awayWinProb": 0.06322391205097944,
+        "projectedMargin": 17.575000000000006,
+        "sigma": 11.5,
+        "classification": "Estimated"
+      }
+    },
+    {
+      "id": "apisp-board-Basketball-bed6147c75f3706f25e25f5bdfeaf1ec",
+      "gameId": "bed6147c75f3706f25e25f5bdfeaf1ec",
+      "sport": "Basketball",
+      "league": "NBA",
+      "home": "Los Angeles Lakers",
+      "away": "Charlotte Hornets",
+      "startAt": "2026-11-18T04:10:00.000Z",
+      "startTs": 1794975000000,
+      "lineSets": [
+        {
+          "bookmaker": "DraftKings",
+          "fetchedAt": "2026-11-17T12:00:16.644Z",
+          "moneyline": {
+            "home": -324,
+            "away": 261
+          },
+          "spread": {
+            "line": -8.5,
+            "home": -103,
+            "away": -118
+          },
+          "total": {
+            "line": 220.5,
+            "over": -112,
+            "under": -108
+          }
+        }
+      ],
+      "aggregatesPresent": true,
+      "model": {
+        "origin": "model",
+        "stream": "app-model",
+        "homeWinProb": 0.9453548620674979,
+        "awayWinProb": 0.05464513793250214,
+        "projectedMargin": 18.416000000000015,
+        "sigma": 11.5,
+        "classification": "Estimated"
+      }
+    },
+    {
+      "id": "apisp-board-Football-66f9e83cf025d58acee12bce18661fb3",
+      "gameId": "66f9e83cf025d58acee12bce18661fb3",
+      "sport": "Football",
+      "league": "NFL",
+      "home": "Houston Texans",
+      "away": "Indianapolis Colts",
+      "startAt": "2026-11-20T01:15:00.000Z",
+      "startTs": 1795137300000,
+      "lineSets": [
+        {
+          "bookmaker": "DraftKings",
+          "fetchedAt": "2026-11-17T12:00:16.644Z",
+          "moneyline": {
+            "home": -700,
+            "away": 500
+          },
+          "spread": {
+            "line": -12.5,
+            "home": -108,
+            "away": -112
+          },
+          "total": {
+            "line": 44.5,
+            "over": -105,
+            "under": -115
+          }
+        }
+      ],
+      "aggregatesPresent": true,
+      "model": {
+        "origin": "model",
+        "stream": "app-model",
+        "homeWinProb": 0.5855060900665354,
+        "awayWinProb": 0.4144939099334646,
+        "projectedMargin": 2.9160000000000004,
+        "sigma": 13.5,
+        "classification": "Estimated"
+      }
+    },
+    {
+      "id": "apisp-board-MMA-1feb5a527d9af5bf758883044f57f61a",
+      "gameId": "1feb5a527d9af5bf758883044f57f61a",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Tymoteusz Łopaczyk",
+      "away": "Adrian Bartosinski",
+      "startAt": "2026-11-21T11:00:00.000Z",
+      "startTs": 1795258800000,
+      "lineSets": [
+        {
+          "bookmaker": "BetOnline.ag",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": 350,
+            "away": -450
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-e534ad040ef8bdb205bd68ad709379f0",
+      "gameId": "e534ad040ef8bdb205bd68ad709379f0",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Igor Michaliszyn",
+      "away": "Tomasz Romanowski",
+      "startAt": "2026-11-21T11:00:00.000Z",
+      "startTs": 1795258800000,
+      "lineSets": [
+        {
+          "bookmaker": "BetOnline.ag",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": -155,
+            "away": 115
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-a1e10dd4d199dba4bacdf001b31639fe",
+      "gameId": "a1e10dd4d199dba4bacdf001b31639fe",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Mateusz Pawlik",
+      "away": "Madars Fleminas",
+      "startAt": "2026-11-21T11:00:00.000Z",
+      "startTs": 1795258800000,
+      "lineSets": [
+        {
+          "bookmaker": "BetOnline.ag",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": 211,
+            "away": -255
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-ac3f74fb6ab73d7bd7294770e491de69",
+      "gameId": "ac3f74fb6ab73d7bd7294770e491de69",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Marcin Held",
+      "away": "Valeriu Mircea",
+      "startAt": "2026-11-21T11:00:00.000Z",
+      "startTs": 1795258800000,
+      "lineSets": [
+        {
+          "bookmaker": "BetOnline.ag",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": 130,
+            "away": -150
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-fa85486095e7772788cc02d860f2cf9c",
+      "gameId": "fa85486095e7772788cc02d860f2cf9c",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Steven Krt",
+      "away": "Oskar Szczepaniak",
+      "startAt": "2026-11-21T11:00:00.000Z",
+      "startTs": 1795258800000,
+      "lineSets": [
+        {
+          "bookmaker": "BetOnline.ag",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": 270,
+            "away": -325
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-bf4d3ca9cd3ce24b64e1493c5ccb89d2",
+      "gameId": "bf4d3ca9cd3ce24b64e1493c5ccb89d2",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Sasha Moisa",
+      "away": "Wojciech Kawa",
+      "startAt": "2026-11-21T11:00:00.000Z",
+      "startTs": 1795258800000,
+      "lineSets": [
+        {
+          "bookmaker": "BetOnline.ag",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": -245,
+            "away": 205
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-6571e7bc729a887110c0869b14c3582c",
+      "gameId": "6571e7bc729a887110c0869b14c3582c",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Santiago Luna",
+      "away": "Aleksandre Topuria",
+      "startAt": "2026-11-21T15:00:00.000Z",
+      "startTs": 1795273200000,
+      "lineSets": [
+        {
+          "bookmaker": "DraftKings",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": 235,
+            "away": -290
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-3252a6edf971e56a6d153f473f6b6edd",
+      "gameId": "3252a6edf971e56a6d153f473f6b6edd",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Alik Lorenz",
+      "away": "Diyar Nurgozhay",
+      "startAt": "2026-11-21T15:00:00.000Z",
+      "startTs": 1795273200000,
+      "lineSets": [
+        {
+          "bookmaker": "DraftKings",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": 205,
+            "away": -250
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-48c97941350cd548c5a6667dc0018546",
+      "gameId": "48c97941350cd548c5a6667dc0018546",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Dom Mar Fan",
+      "away": "Nikolas Motta",
+      "startAt": "2026-11-21T15:00:00.000Z",
+      "startTs": 1795273200000,
+      "lineSets": [
+        {
+          "bookmaker": "DraftKings",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": -175,
+            "away": 145
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-f489c8a46fa7baeab80d1bace1b0f067",
+      "gameId": "f489c8a46fa7baeab80d1bace1b0f067",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Jake Matthews",
+      "away": "Tahir Abdullayev",
+      "startAt": "2026-11-21T15:15:00.000Z",
+      "startTs": 1795274100000,
+      "lineSets": [
+        {
+          "bookmaker": "DraftKings",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": -245,
+            "away": 200
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-9f892e21a835452335eba01effd8a393",
+      "gameId": "9f892e21a835452335eba01effd8a393",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Amir Albazi",
+      "away": "Alessandro Costa",
+      "startAt": "2026-11-21T15:45:00.000Z",
+      "startTs": 1795275900000,
+      "lineSets": [
+        {
+          "bookmaker": "DraftKings",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": -115,
+            "away": -105
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-ca5d034598b83c81aa267bea9b3334a4",
+      "gameId": "ca5d034598b83c81aa267bea9b3334a4",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Aljamain Sterling",
+      "away": "Kevin Vallejos",
+      "startAt": "2026-11-21T17:00:00.000Z",
+      "startTs": 1795280400000,
+      "lineSets": [
+        {
+          "bookmaker": "DraftKings",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": 110,
+            "away": -130
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-981c56f62e02e086779c0b14c97afcf9",
+      "gameId": "981c56f62e02e086779c0b14c97afcf9",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Jiri Prochazka",
+      "away": "Navajo Stirling",
+      "startAt": "2026-11-21T17:00:00.000Z",
+      "startTs": 1795280400000,
+      "lineSets": [
+        {
+          "bookmaker": "DraftKings",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": 130,
+            "away": -155
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-e0fe6ef8d4d50031f2ff78a26b9b6945",
+      "gameId": "e0fe6ef8d4d50031f2ff78a26b9b6945",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Shamil Gaziev",
+      "away": "Tallison Teixeira",
+      "startAt": "2026-11-21T17:15:00.000Z",
+      "startTs": 1795281300000,
+      "lineSets": [
+        {
+          "bookmaker": "DraftKings",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": -205,
+            "away": 170
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-8f01dcdee59eec582ccf12e049833989",
+      "gameId": "8f01dcdee59eec582ccf12e049833989",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Jared Cannonier",
+      "away": "Ikram Aliskerov",
+      "startAt": "2026-11-21T18:15:00.000Z",
+      "startTs": 1795284900000,
+      "lineSets": [
+        {
+          "bookmaker": "DraftKings",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": 245,
+            "away": -305
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-0b6d5a32985b31eda832be4154e10fe5",
+      "gameId": "0b6d5a32985b31eda832be4154e10fe5",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Kyoji Horiguchi",
+      "away": "Asu Almabaev",
+      "startAt": "2026-11-21T18:45:00.000Z",
+      "startTs": 1795286700000,
+      "lineSets": [
+        {
+          "bookmaker": "DraftKings",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": -198,
+            "away": 164
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-d55740629555c012eedd01b8f75d3b69",
+      "gameId": "d55740629555c012eedd01b8f75d3b69",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Daniel Hooker",
+      "away": "Brian Ortega",
+      "startAt": "2026-11-21T19:15:00.000Z",
+      "startTs": 1795288500000,
+      "lineSets": [
+        {
+          "bookmaker": "DraftKings",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": -185,
+            "away": 154
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-Football-403a88701352da05b0710a9e883b803e",
+      "gameId": "403a88701352da05b0710a9e883b803e",
+      "sport": "Football",
+      "league": "NFL",
+      "home": "Kansas City Chiefs",
+      "away": "Arizona Cardinals",
+      "startAt": "2026-11-22T18:00:00.000Z",
+      "startTs": 1795370400000,
+      "lineSets": [
+        {
+          "bookmaker": "DraftKings",
+          "fetchedAt": "2026-11-17T12:00:16.644Z",
+          "moneyline": {
+            "home": -1800,
+            "away": 1000
+          },
+          "spread": {
+            "line": -16.5,
+            "home": -105,
+            "away": -115
+          },
+          "total": {
+            "line": 41.5,
+            "over": -102,
+            "under": -118
+          }
+        }
+      ],
+      "aggregatesPresent": true,
+      "model": {
+        "origin": "model",
+        "stream": "app-model",
+        "homeWinProb": 0.7493260958798343,
+        "awayWinProb": 0.25067390412016566,
+        "projectedMargin": 9.076999999999998,
+        "sigma": 13.5,
+        "classification": "Estimated"
+      }
+    },
+    {
+      "id": "apisp-board-Football-4527f57f5bc32742d8194af1ccf7da7e",
+      "gameId": "4527f57f5bc32742d8194af1ccf7da7e",
+      "sport": "Football",
+      "league": "NFL",
+      "home": "Carolina Panthers",
+      "away": "Baltimore Ravens",
+      "startAt": "2026-11-22T18:00:00.000Z",
+      "startTs": 1795370400000,
+      "lineSets": [
+        {
+          "bookmaker": "DraftKings",
+          "fetchedAt": "2026-11-17T12:00:16.644Z",
+          "moneyline": {
+            "home": -135,
+            "away": 114
+          },
+          "spread": {
+            "line": -2.5,
+            "home": -110,
+            "away": -110
+          },
+          "total": {
+            "line": 43.5,
+            "over": -118,
+            "under": -102
+          }
+        }
+      ],
+      "aggregatesPresent": true,
+      "model": {
+        "origin": "model",
+        "stream": "app-model",
+        "homeWinProb": 0.23480574235465873,
+        "awayWinProb": 0.7651942576453412,
+        "projectedMargin": -9.762,
+        "sigma": 13.5,
+        "classification": "Estimated"
+      }
+    },
+    {
+      "id": "apisp-board-Football-4c5b1c0843a260278e95eb93e7787576",
+      "gameId": "4c5b1c0843a260278e95eb93e7787576",
+      "sport": "Football",
+      "league": "NFL",
+      "home": "Buffalo Bills",
+      "away": "Miami Dolphins",
+      "startAt": "2026-11-22T18:00:00.000Z",
+      "startTs": 1795370400000,
+      "lineSets": [
+        {
+          "bookmaker": "DraftKings",
+          "fetchedAt": "2026-11-17T12:00:16.644Z",
+          "moneyline": {
+            "home": -1350,
+            "away": 800
+          },
+          "spread": {
+            "line": -16.5,
+            "home": -108,
+            "away": -112
+          },
+          "total": {
+            "line": 45.5,
+            "over": -110,
+            "under": -110
+          }
+        }
+      ],
+      "aggregatesPresent": true,
+      "model": {
+        "origin": "model",
+        "stream": "app-model",
+        "homeWinProb": 0.7976507875938836,
+        "awayWinProb": 0.20234921240611636,
+        "projectedMargin": 11.249000000000002,
+        "sigma": 13.5,
+        "classification": "Estimated"
+      }
+    },
+    {
+      "id": "apisp-board-Football-3ea90704fb576633bd1e2fa5aafd9ea3",
+      "gameId": "3ea90704fb576633bd1e2fa5aafd9ea3",
+      "sport": "Football",
+      "league": "NFL",
+      "home": "Chicago Bears",
+      "away": "New Orleans Saints",
+      "startAt": "2026-11-22T18:00:00.000Z",
+      "startTs": 1795370400000,
+      "lineSets": [
+        {
+          "bookmaker": "DraftKings",
+          "fetchedAt": "2026-11-17T12:00:16.644Z",
+          "moneyline": {
+            "home": -650,
+            "away": 470
+          },
+          "spread": {
+            "line": -11.5,
+            "home": -112,
+            "away": -108
+          },
+          "total": {
+            "line": 49.5,
+            "over": -105,
+            "under": -115
+          }
+        }
+      ],
+      "aggregatesPresent": true,
+      "model": {
+        "origin": "model",
+        "stream": "app-model",
+        "homeWinProb": 0.6584718752374156,
+        "awayWinProb": 0.34152812476258443,
+        "projectedMargin": 5.511999999999997,
+        "sigma": 13.5,
+        "classification": "Estimated"
+      }
+    },
+    {
+      "id": "apisp-board-Football-5e63079b678f8c13419adc169fff02d3",
+      "gameId": "5e63079b678f8c13419adc169fff02d3",
+      "sport": "Football",
+      "league": "NFL",
+      "home": "Dallas Cowboys",
+      "away": "Tennessee Titans",
+      "startAt": "2026-11-22T18:00:00.000Z",
+      "startTs": 1795370400000,
+      "lineSets": [
+        {
+          "bookmaker": "DraftKings",
+          "fetchedAt": "2026-11-17T12:00:16.644Z",
+          "moneyline": {
+            "home": -425,
+            "away": 330
+          },
+          "spread": {
+            "line": -8.5,
+            "home": -105,
+            "away": -115
+          },
+          "total": {
+            "line": 54.5,
+            "over": -120,
+            "under": 100
+          }
+        }
+      ],
+      "aggregatesPresent": true,
+      "model": {
+        "origin": "model",
+        "stream": "app-model",
+        "homeWinProb": 0.6198591668361895,
+        "awayWinProb": 0.38014083316381053,
+        "projectedMargin": 4.118999999999996,
+        "sigma": 13.5,
+        "classification": "Estimated"
+      }
+    },
+    {
+      "id": "apisp-board-Football-41e2dd69bddd65d7e823d9ed61cc2afc",
+      "gameId": "41e2dd69bddd65d7e823d9ed61cc2afc",
+      "sport": "Football",
+      "league": "NFL",
+      "home": "Detroit Lions",
+      "away": "Tampa Bay Buccaneers",
+      "startAt": "2026-11-22T18:00:00.000Z",
+      "startTs": 1795370400000,
+      "lineSets": [
+        {
+          "bookmaker": "DraftKings",
+          "fetchedAt": "2026-11-17T12:00:16.644Z",
+          "moneyline": {
+            "home": -270,
+            "away": 220
+          },
+          "spread": {
+            "line": -6.5,
+            "home": -108,
+            "away": -112
+          },
+          "total": {
+            "line": 46.5,
+            "over": -110,
+            "under": -110
+          }
+        }
+      ],
+      "aggregatesPresent": true,
+      "model": {
+        "origin": "model",
+        "stream": "app-model",
+        "homeWinProb": 0.7334916398666773,
+        "awayWinProb": 0.2665083601333227,
+        "projectedMargin": 8.416,
+        "sigma": 13.5,
+        "classification": "Estimated"
+      }
+    },
+    {
+      "id": "apisp-board-Football-cbe45bafcc2615fc1d96cbc12840377a",
+      "gameId": "cbe45bafcc2615fc1d96cbc12840377a",
+      "sport": "Football",
+      "league": "NFL",
+      "home": "Philadelphia Eagles",
+      "away": "Pittsburgh Steelers",
+      "startAt": "2026-11-22T18:00:00.000Z",
+      "startTs": 1795370400000,
+      "lineSets": [
+        {
+          "bookmaker": "DraftKings",
+          "fetchedAt": "2026-11-17T12:00:16.644Z",
+          "moneyline": {
+            "home": 180,
+            "away": -218
+          },
+          "spread": {
+            "line": 4.5,
+            "home": -115,
+            "away": -105
+          },
+          "total": {
+            "line": 38.5,
+            "over": -108,
+            "under": -112
+          }
+        }
+      ],
+      "aggregatesPresent": true,
+      "model": {
+        "origin": "model",
+        "stream": "app-model",
+        "homeWinProb": 0.8209619218853399,
+        "awayWinProb": 0.1790380781146601,
+        "projectedMargin": 12.407000000000004,
+        "sigma": 13.5,
+        "classification": "Estimated"
+      }
+    },
+    {
+      "id": "apisp-board-Football-4b20b742b6168aaca4f25d87f11b1526",
+      "gameId": "4b20b742b6168aaca4f25d87f11b1526",
+      "sport": "Football",
+      "league": "NFL",
+      "home": "Los Angeles Chargers",
+      "away": "New York Jets",
+      "startAt": "2026-11-22T21:05:00.000Z",
+      "startTs": 1795381500000,
+      "lineSets": [
+        {
+          "bookmaker": "DraftKings",
+          "fetchedAt": "2026-11-17T12:00:16.644Z",
+          "moneyline": {
+            "home": -155,
+            "away": 130
+          },
+          "spread": {
+            "line": -3,
+            "home": -105,
+            "away": -115
+          },
+          "total": {
+            "line": 40.5,
+            "over": -105,
+            "under": -115
+          }
+        }
+      ],
+      "aggregatesPresent": true,
+      "model": {
+        "origin": "model",
+        "stream": "app-model",
+        "homeWinProb": 0.7317123846843182,
+        "awayWinProb": 0.2682876153156818,
+        "projectedMargin": 8.343,
+        "sigma": 13.5,
+        "classification": "Estimated"
+      }
+    },
+    {
+      "id": "apisp-board-Football-1940706a79cbcbafacdcbf231069716b",
+      "gameId": "1940706a79cbcbafacdcbf231069716b",
+      "sport": "Football",
+      "league": "NFL",
+      "home": "Denver Broncos",
+      "away": "Las Vegas Raiders",
+      "startAt": "2026-11-22T21:25:00.000Z",
+      "startTs": 1795382700000,
+      "lineSets": [
+        {
+          "bookmaker": "DraftKings",
+          "fetchedAt": "2026-11-17T12:00:16.644Z",
+          "moneyline": {
+            "home": -535,
+            "away": 400
+          },
+          "spread": {
+            "line": -10,
+            "home": -110,
+            "away": -110
+          },
+          "total": {
+            "line": 40.5,
+            "over": -108,
+            "under": -112
+          }
+        }
+      ],
+      "aggregatesPresent": true,
+      "model": {
+        "origin": "model",
+        "stream": "app-model",
+        "homeWinProb": 0.8447969560667405,
+        "awayWinProb": 0.15520304393325945,
+        "projectedMargin": 13.693999999999999,
+        "sigma": 13.5,
+        "classification": "Estimated"
+      }
+    },
+    {
+      "id": "apisp-board-Football-8ba112fabf4e87639338a5f437c5abfe",
+      "gameId": "8ba112fabf4e87639338a5f437c5abfe",
+      "sport": "Football",
+      "league": "NFL",
+      "home": "New York Giants",
+      "away": "Jacksonville Jaguars",
+      "startAt": "2026-11-22T21:25:00.000Z",
+      "startTs": 1795382700000,
+      "lineSets": [
+        {
+          "bookmaker": "DraftKings",
+          "fetchedAt": "2026-11-17T12:00:16.644Z",
+          "moneyline": {
+            "home": 215,
+            "away": -265
+          },
+          "spread": {
+            "line": 6,
+            "home": -110,
+            "away": -110
+          },
+          "total": {
+            "line": 46.5,
+            "over": -110,
+            "under": -110
+          }
+        }
+      ],
+      "aggregatesPresent": true,
+      "model": {
+        "origin": "model",
+        "stream": "app-model",
+        "homeWinProb": 0.5333246113333019,
+        "awayWinProb": 0.4666753886666981,
+        "projectedMargin": 1.1289999999999978,
+        "sigma": 13.5,
+        "classification": "Estimated"
+      }
+    },
+    {
+      "id": "apisp-board-Football-60e1d27b083a335b722c2c852ea85612",
+      "gameId": "60e1d27b083a335b722c2c852ea85612",
+      "sport": "Football",
+      "league": "NFL",
+      "home": "San Francisco 49ers",
+      "away": "Minnesota Vikings",
+      "startAt": "2026-11-23T01:20:00.000Z",
+      "startTs": 1795396800000,
+      "lineSets": [
+        {
+          "bookmaker": "DraftKings",
+          "fetchedAt": "2026-11-17T12:00:16.644Z",
+          "moneyline": {
+            "home": -162,
+            "away": 136
+          },
+          "spread": {
+            "line": -3,
+            "home": -112,
+            "away": -108
+          },
+          "total": {
+            "line": 46.5,
+            "over": -108,
+            "under": -112
+          }
+        }
+      ],
+      "aggregatesPresent": true,
+      "model": {
+        "origin": "model",
+        "stream": "app-model",
+        "homeWinProb": 0.6562397070776872,
+        "awayWinProb": 0.3437602929223128,
+        "projectedMargin": 5.43,
+        "sigma": 13.5,
+        "classification": "Estimated"
+      }
+    },
+    {
+      "id": "apisp-board-Football-3a60ed1d20004aa4d4772b2c1a2272e7",
+      "gameId": "3a60ed1d20004aa4d4772b2c1a2272e7",
+      "sport": "Football",
+      "league": "NFL",
+      "home": "Washington Commanders",
+      "away": "Cincinnati Bengals",
+      "startAt": "2026-11-24T01:15:00.000Z",
+      "startTs": 1795482900000,
+      "lineSets": [
+        {
+          "bookmaker": "DraftKings",
+          "fetchedAt": "2026-11-17T12:00:16.644Z",
+          "moneyline": {
+            "home": 235,
+            "away": -290
+          },
+          "spread": {
+            "line": 6.5,
+            "home": -118,
+            "away": -102
+          },
+          "total": {
+            "line": 52.5,
+            "over": -115,
+            "under": -105
+          }
+        }
+      ],
+      "aggregatesPresent": true,
+      "model": {
+        "origin": "model",
+        "stream": "app-model",
+        "homeWinProb": 0.719142628119789,
+        "awayWinProb": 0.280857371880211,
+        "projectedMargin": 7.834000000000003,
+        "sigma": 13.5,
+        "classification": "Estimated"
+      }
+    },
+    {
+      "id": "apisp-board-MMA-456bfad38cecf187ca1851aa801a2d9f",
+      "gameId": "456bfad38cecf187ca1851aa801a2d9f",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Ian Garry",
+      "away": "Yaroslav Amosov",
+      "startAt": "2026-12-05T17:00:00.000Z",
+      "startTs": 1796490000000,
+      "lineSets": [
+        {
+          "bookmaker": "DraftKings",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": -180,
+            "away": 150
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-e21c50b4bf66587fcd47063550868725",
+      "gameId": "e21c50b4bf66587fcd47063550868725",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Israel Adesanya",
+      "away": "Shara Magomedov",
+      "startAt": "2026-12-05T17:00:00.000Z",
+      "startTs": 1796490000000,
+      "lineSets": [
+        {
+          "bookmaker": "DraftKings",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": -155,
+            "away": 130
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-579d237070d5d36330194867176cb694",
+      "gameId": "579d237070d5d36330194867176cb694",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Sergey Pavlovich",
+      "away": "Alex Pereira",
+      "startAt": "2026-12-13T02:30:00.000Z",
+      "startTs": 1797129000000,
+      "lineSets": [
+        {
+          "bookmaker": "FanDuel",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": -205,
+            "away": 158
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-a76e5fe6c1ea7ed1398b624857d980fc",
+      "gameId": "a76e5fe6c1ea7ed1398b624857d980fc",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Charles Oliveira",
+      "away": "Diego Lopes",
+      "startAt": "2026-12-13T04:00:00.000Z",
+      "startTs": 1797134400000,
+      "lineSets": [
+        {
+          "bookmaker": "DraftKings",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": -148,
+            "away": 124
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-c0d24eeb24d69c7f938f38f857924c72",
+      "gameId": "c0d24eeb24d69c7f938f38f857924c72",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Justin Gaethje",
+      "away": "Ilia Topuria",
+      "startAt": "2026-12-31T05:00:00.000Z",
+      "startTs": 1798693200000,
+      "lineSets": [
+        {
+          "bookmaker": "BetOnline.ag",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": 210,
+            "away": -250
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-944dd8a4945ba0df2c4370de73387c5d",
+      "gameId": "944dd8a4945ba0df2c4370de73387c5d",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Conor McGregor",
+      "away": "Jorge Masvidal",
+      "startAt": "2026-12-31T17:00:00.000Z",
+      "startTs": 1798736400000,
+      "lineSets": [
+        {
+          "bookmaker": "BetOnline.ag",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": -145,
+            "away": 125
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-f270ef6ee2185e18fb06a519ce69ff22",
+      "gameId": "f270ef6ee2185e18fb06a519ce69ff22",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Natalia Silva",
+      "away": "Alexa Grasso",
+      "startAt": "2027-01-01T03:00:00.000Z",
+      "startTs": 1798772400000,
+      "lineSets": [
+        {
+          "bookmaker": "BetOnline.ag",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": -300,
+            "away": 250
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-8488c2a34f7093513d463d4b2730572e",
+      "gameId": "8488c2a34f7093513d463d4b2730572e",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Khamzat Chimaev",
+      "away": "Paulo Henrique Costa",
+      "startAt": "2027-01-01T03:00:00.000Z",
+      "startTs": 1798772400000,
+      "lineSets": [
+        {
+          "bookmaker": "BetOnline.ag",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": -500,
+            "away": 375
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-e697d4df59aa825d85fa764db999757f",
+      "gameId": "e697d4df59aa825d85fa764db999757f",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Sean Strickland",
+      "away": "Khamzat Chimaev",
+      "startAt": "2027-01-01T03:00:00.000Z",
+      "startTs": 1798772400000,
+      "lineSets": [
+        {
+          "bookmaker": "BetOnline.ag",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": 175,
+            "away": -205
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-408347757571816aeae5ff71d1fd3849",
+      "gameId": "408347757571816aeae5ff71d1fd3849",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Max Holloway",
+      "away": "Paddy Pimblett",
+      "startAt": "2027-01-01T03:00:00.000Z",
+      "startTs": 1798772400000,
+      "lineSets": [
+        {
+          "bookmaker": "BetOnline.ag",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": -180,
+            "away": 155
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-ead94688d843f96aba0f1486ce663b61",
+      "gameId": "ead94688d843f96aba0f1486ce663b61",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Sean Strickland",
+      "away": "Nassourdine Imavov",
+      "startAt": "2027-01-01T03:00:00.000Z",
+      "startTs": 1798772400000,
+      "lineSets": [
+        {
+          "bookmaker": "BetOnline.ag",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": -125,
+            "away": 105
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-8ecba67676067ae49594bb3f9bc86673",
+      "gameId": "8ecba67676067ae49594bb3f9bc86673",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Valentina Shevchenko",
+      "away": "Natalia Silva",
+      "startAt": "2027-01-01T03:00:00.000Z",
+      "startTs": 1798772400000,
+      "lineSets": [
+        {
+          "bookmaker": "BetOnline.ag",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": -190,
+            "away": 165
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-72f8e455cf7ea9870ba0a5b4efb10def",
+      "gameId": "72f8e455cf7ea9870ba0a5b4efb10def",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Sergey Pavlovich",
+      "away": "Alex Pereira",
+      "startAt": "2027-01-13T03:00:00.000Z",
+      "startTs": 1799809200000,
+      "lineSets": [
+        {
+          "bookmaker": "BetOnline.ag",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": -195,
+            "away": 165
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-17bcd84de1b1485471a9d682cfe279ed",
+      "gameId": "17bcd84de1b1485471a9d682cfe279ed",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Carlos Prates",
+      "away": "Michael Morales",
+      "startAt": "2027-01-31T04:30:00.000Z",
+      "startTs": 1801369800000,
+      "lineSets": [
+        {
+          "bookmaker": "DraftKings",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": -175,
+            "away": 145
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-ae2d8dbd5af0e0cb50bad15082c50b71",
+      "gameId": "ae2d8dbd5af0e0cb50bad15082c50b71",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Joshua Van",
+      "away": "Manel Kape",
+      "startAt": "2027-01-31T05:00:00.000Z",
+      "startTs": 1801371600000,
+      "lineSets": [
+        {
+          "bookmaker": "DraftKings",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": -130,
+            "away": 110
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-f9372526439f374b4044fe1882c24df9",
+      "gameId": "f9372526439f374b4044fe1882c24df9",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Bogdan Guskov",
+      "away": "Robert Whittaker",
+      "startAt": "2027-02-06T20:00:00.000Z",
+      "startTs": 1801944000000,
+      "lineSets": [
+        {
+          "bookmaker": "DraftKings",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": 120,
+            "away": -142
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-041f81fb9129cc14bf131d1a4474681c",
+      "gameId": "041f81fb9129cc14bf131d1a4474681c",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Quillan Salkilld",
+      "away": "Benoit Saint-Denis",
+      "startAt": "2027-02-06T22:00:00.000Z",
+      "startTs": 1801951200000,
+      "lineSets": [
+        {
+          "bookmaker": "DraftKings",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": -355,
+            "away": 280
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-a07b585e39e3bdba3b3d2692e0552524",
+      "gameId": "a07b585e39e3bdba3b3d2692e0552524",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Islam Makhachev",
+      "away": "Carlos Prates",
+      "startAt": "2027-04-25T02:00:00.000Z",
+      "startTs": 1808618400000,
+      "lineSets": [
+        {
+          "bookmaker": "BetOnline.ag",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": -225,
+            "away": 189
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-5f889b13fd30ec2449fda285a1343314",
+      "gameId": "5f889b13fd30ec2449fda285a1343314",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Islam Makhachev",
+      "away": "Michael Morales",
+      "startAt": "2027-04-25T02:00:00.000Z",
+      "startTs": 1808618400000,
+      "lineSets": [
+        {
+          "bookmaker": "BetOnline.ag",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": -200,
+            "away": 174
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-a937ca5a3966417458788442d90d953f",
+      "gameId": "a937ca5a3966417458788442d90d953f",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Alex Volkanovski",
+      "away": "Jean Silva",
+      "startAt": "2027-06-27T02:00:00.000Z",
+      "startTs": 1814061600000,
+      "lineSets": [
+        {
+          "bookmaker": "BetOnline.ag",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": -115,
+            "away": -105
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-48a262741dc76111ac60e56190fb4407",
+      "gameId": "48a262741dc76111ac60e56190fb4407",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Petr Yan",
+      "away": "Sean O'Malley",
+      "startAt": "2027-06-27T02:00:00.000Z",
+      "startTs": 1814061600000,
+      "lineSets": [
+        {
+          "bookmaker": "BetOnline.ag",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": -250,
+            "away": 207
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-fcee675894f8285afc8daf0808198b74",
+      "gameId": "fcee675894f8285afc8daf0808198b74",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Islam Makhachev",
+      "away": "Kamaru Usman",
+      "startAt": "2027-07-02T02:00:00.000Z",
+      "startTs": 1814493600000,
+      "lineSets": [
+        {
+          "bookmaker": "BetOnline.ag",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": -400,
+            "away": 330
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-9f2a5922ae9758c3b18ad1a31ea88959",
+      "gameId": "9f2a5922ae9758c3b18ad1a31ea88959",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Paddy Pimblett",
+      "away": "Conor McGregor",
+      "startAt": "2027-07-11T00:00:00.000Z",
+      "startTs": 1815264000000,
+      "lineSets": [
+        {
+          "bookmaker": "BetOnline.ag",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": -160,
+            "away": 140
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-d6f19cd9b3e49b813cf2dfe131b480dc",
+      "gameId": "d6f19cd9b3e49b813cf2dfe131b480dc",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Petr Yan",
+      "away": "Song Yadong",
+      "startAt": "2027-07-25T02:00:00.000Z",
+      "startTs": 1816480800000,
+      "lineSets": [
+        {
+          "bookmaker": "BetOnline.ag",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": -250,
+            "away": 207
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-51c1b5be2ac155f167f99a26ed20bf4d",
+      "gameId": "51c1b5be2ac155f167f99a26ed20bf4d",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Magomed Ankalaev",
+      "away": "Carlos Ulberg",
+      "startAt": "2027-08-01T02:00:00.000Z",
+      "startTs": 1817085600000,
+      "lineSets": [
+        {
+          "bookmaker": "BetOnline.ag",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": -180,
+            "away": 157
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-0d48546636ab555d10e35fa641b41eb1",
+      "gameId": "0d48546636ab555d10e35fa641b41eb1",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Magomed Ankalaev",
+      "away": "Jiri Prochazka",
+      "startAt": "2027-08-01T02:00:00.000Z",
+      "startTs": 1817085600000,
+      "lineSets": [
+        {
+          "bookmaker": "BetOnline.ag",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": -200,
+            "away": 174
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-829902d2c0aa457978027b0478d0f48e",
+      "gameId": "829902d2c0aa457978027b0478d0f48e",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Kayla Harrison",
+      "away": "Valentina Shevchenko",
+      "startAt": "2027-08-01T02:00:00.000Z",
+      "startTs": 1817085600000,
+      "lineSets": [
+        {
+          "bookmaker": "BetOnline.ag",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": -230,
+            "away": 195
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-04ba8611730f21fa9f0d12fa539c4f01",
+      "gameId": "04ba8611730f21fa9f0d12fa539c4f01",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Justin Gaethje",
+      "away": "Alex Volkanovski",
+      "startAt": "2027-10-25T02:00:00.000Z",
+      "startTs": 1824429600000,
+      "lineSets": [
+        {
+          "bookmaker": "BetOnline.ag",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": -180,
+            "away": 157
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-5967c5d718610dbcd151b3516a53a922",
+      "gameId": "5967c5d718610dbcd151b3516a53a922",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Ciryl Gane",
+      "away": "Alexander Volkov",
+      "startAt": "2027-12-02T03:00:00.000Z",
+      "startTs": 1827716400000,
+      "lineSets": [
+        {
+          "bookmaker": "BetOnline.ag",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": -150,
+            "away": 130
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-c9dca1dd57693a5dbc247c7f9cced891",
+      "gameId": "c9dca1dd57693a5dbc247c7f9cced891",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Tom Aspinall",
+      "away": "Ciryl Gane",
+      "startAt": "2027-12-02T03:00:00.000Z",
+      "startTs": 1827716400000,
+      "lineSets": [
+        {
+          "bookmaker": "BetOnline.ag",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": -125,
+            "away": 105
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-0943ede9ca8b47dc9a72e5d1b8dea00c",
+      "gameId": "0943ede9ca8b47dc9a72e5d1b8dea00c",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Kayla Harrison",
+      "away": "Joselyne Edwards",
+      "startAt": "2027-12-02T03:00:00.000Z",
+      "startTs": 1827716400000,
+      "lineSets": [
+        {
+          "bookmaker": "BetOnline.ag",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": -600,
+            "away": 450
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    },
+    {
+      "id": "apisp-board-MMA-a161950b3a1d3cb63af59f18d045e0b5",
+      "gameId": "a161950b3a1d3cb63af59f18d045e0b5",
+      "sport": "MMA",
+      "league": "UFC",
+      "home": "Justin Gaethje",
+      "away": "Arman Tsarukyan",
+      "startAt": "2028-07-30T04:00:00.000Z",
+      "startTs": 1848542400000,
+      "lineSets": [
+        {
+          "bookmaker": "BetOnline.ag",
+          "fetchedAt": "2026-11-17T13:30:01.802Z",
+          "moneyline": {
+            "home": 350,
+            "away": -450
+          },
+          "spread": null,
+          "total": null
+        }
+      ],
+      "aggregatesPresent": false,
+      "model": null
+    }
+  ],
+  "picks": []
+}

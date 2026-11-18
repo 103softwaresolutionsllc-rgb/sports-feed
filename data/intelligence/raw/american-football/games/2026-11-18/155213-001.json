@@ -1,0 +1,8847 @@
+{
+  "errors": [],
+  "get": "games",
+  "parameters": {
+    "league": "1",
+    "season": "2023",
+    "source": "espn-fallback"
+  },
+  "response": [
+    {
+      "date": "2023-09-08T00:20Z",
+      "id": 401547353,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 21
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 8,
+          "name": "Detroit Lions"
+        },
+        "home": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        }
+      }
+    },
+    {
+      "date": "2023-09-10T17:00Z",
+      "id": 401547396,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 9
+        },
+        "home": {
+          "total": 25
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 34,
+          "name": "Houston Texans"
+        },
+        "home": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        }
+      }
+    },
+    {
+      "date": "2023-09-10T17:00Z",
+      "id": 401547397,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 3
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        },
+        "home": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        }
+      }
+    },
+    {
+      "date": "2023-09-10T17:00Z",
+      "id": 401547398,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        },
+        "home": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        }
+      }
+    },
+    {
+      "date": "2023-09-10T17:00Z",
+      "id": 401547399,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 15
+        },
+        "home": {
+          "total": 16
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        },
+        "home": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        }
+      }
+    },
+    {
+      "date": "2023-09-10T17:00Z",
+      "id": 401547403,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        },
+        "home": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        }
+      }
+    },
+    {
+      "date": "2023-09-10T17:00Z",
+      "id": 401547404,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 31
+        },
+        "home": {
+          "total": 21
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        },
+        "home": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        }
+      }
+    },
+    {
+      "date": "2023-09-10T17:00Z",
+      "id": 401547405,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 30
+        },
+        "home": {
+          "total": 7
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        },
+        "home": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        }
+      }
+    },
+    {
+      "date": "2023-09-10T17:00Z",
+      "id": 401547406,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        },
+        "home": {
+          "id": 28,
+          "name": "Washington Commanders"
+        }
+      }
+    },
+    {
+      "date": "2023-09-10T20:25Z",
+      "id": 401547400,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 16
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        },
+        "home": {
+          "id": 7,
+          "name": "Denver Broncos"
+        }
+      }
+    },
+    {
+      "date": "2023-09-10T20:25Z",
+      "id": 401547401,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 36
+        },
+        "home": {
+          "total": 34
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        },
+        "home": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        }
+      }
+    },
+    {
+      "date": "2023-09-10T20:25Z",
+      "id": 401547402,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 25
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        },
+        "home": {
+          "id": 17,
+          "name": "New England Patriots"
+        }
+      }
+    },
+    {
+      "date": "2023-09-10T20:25Z",
+      "id": 401547407,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 38
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        },
+        "home": {
+          "id": 3,
+          "name": "Chicago Bears"
+        }
+      }
+    },
+    {
+      "date": "2023-09-10T20:25Z",
+      "id": 401547408,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 30
+        },
+        "home": {
+          "total": 13
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        },
+        "home": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        }
+      }
+    },
+    {
+      "date": "2023-09-11T00:20Z",
+      "id": 401547409,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 40
+        },
+        "home": {
+          "total": 0
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        },
+        "home": {
+          "id": 19,
+          "name": "New York Giants"
+        }
+      }
+    },
+    {
+      "date": "2023-09-12T00:15Z",
+      "id": 401547352,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 22
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        },
+        "home": {
+          "id": 20,
+          "name": "New York Jets"
+        }
+      }
+    },
+    {
+      "date": "2023-09-15T00:15Z",
+      "id": 401547410,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 28
+        },
+        "home": {
+          "total": 34
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        },
+        "home": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        }
+      }
+    },
+    {
+      "date": "2023-09-17T17:00Z",
+      "id": 401547411,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 38
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        },
+        "home": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        }
+      }
+    },
+    {
+      "date": "2023-09-17T17:00Z",
+      "id": 401547412,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 27
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        },
+        "home": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        }
+      }
+    },
+    {
+      "date": "2023-09-17T17:00Z",
+      "id": 401547413,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 9
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        },
+        "home": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        }
+      }
+    },
+    {
+      "date": "2023-09-17T17:00Z",
+      "id": 401547414,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        },
+        "home": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        }
+      }
+    },
+    {
+      "date": "2023-09-17T17:00Z",
+      "id": 401547417,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 25
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        },
+        "home": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        }
+      }
+    },
+    {
+      "date": "2023-09-17T17:00Z",
+      "id": 401547418,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 37
+        },
+        "home": {
+          "total": 31
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        },
+        "home": {
+          "id": 8,
+          "name": "Detroit Lions"
+        }
+      }
+    },
+    {
+      "date": "2023-09-17T17:00Z",
+      "id": 401547419,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 31
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        },
+        "home": {
+          "id": 34,
+          "name": "Houston Texans"
+        }
+      }
+    },
+    {
+      "date": "2023-09-17T17:00Z",
+      "id": 401547420,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3,
+          "name": "Chicago Bears"
+        },
+        "home": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        }
+      }
+    },
+    {
+      "date": "2023-09-17T20:05Z",
+      "id": 401547421,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 31
+        },
+        "home": {
+          "total": 28
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 19,
+          "name": "New York Giants"
+        },
+        "home": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        }
+      }
+    },
+    {
+      "date": "2023-09-17T20:05Z",
+      "id": 401547422,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 30
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        },
+        "home": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        }
+      }
+    },
+    {
+      "date": "2023-09-17T20:25Z",
+      "id": 401547415,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 30
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 20,
+          "name": "New York Jets"
+        },
+        "home": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        }
+      }
+    },
+    {
+      "date": "2023-09-17T20:25Z",
+      "id": 401547416,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 35
+        },
+        "home": {
+          "total": 33
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 28,
+          "name": "Washington Commanders"
+        },
+        "home": {
+          "id": 7,
+          "name": "Denver Broncos"
+        }
+      }
+    },
+    {
+      "date": "2023-09-18T00:20Z",
+      "id": 401547423,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        },
+        "home": {
+          "id": 17,
+          "name": "New England Patriots"
+        }
+      }
+    },
+    {
+      "date": "2023-09-18T23:15Z",
+      "id": 401547425,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        },
+        "home": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        }
+      }
+    },
+    {
+      "date": "2023-09-19T00:15Z",
+      "id": 401547424,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 22
+        },
+        "home": {
+          "total": 26
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        },
+        "home": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        }
+      }
+    },
+    {
+      "date": "2023-09-22T00:15Z",
+      "id": 401547426,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 12
+        },
+        "home": {
+          "total": 30
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 19,
+          "name": "New York Giants"
+        },
+        "home": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        }
+      }
+    },
+    {
+      "date": "2023-09-24T17:00Z",
+      "id": 401547427,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 22
+        },
+        "home": {
+          "total": 19
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        },
+        "home": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        }
+      }
+    },
+    {
+      "date": "2023-09-24T17:00Z",
+      "id": 401547428,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 3
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        },
+        "home": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        }
+      }
+    },
+    {
+      "date": "2023-09-24T17:00Z",
+      "id": 401547429,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 70
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 7,
+          "name": "Denver Broncos"
+        },
+        "home": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        }
+      }
+    },
+    {
+      "date": "2023-09-24T17:00Z",
+      "id": 401547430,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 15
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 17,
+          "name": "New England Patriots"
+        },
+        "home": {
+          "id": 20,
+          "name": "New York Jets"
+        }
+      }
+    },
+    {
+      "date": "2023-09-24T17:00Z",
+      "id": 401547431,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 37
+        },
+        "home": {
+          "total": 3
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        },
+        "home": {
+          "id": 28,
+          "name": "Washington Commanders"
+        }
+      }
+    },
+    {
+      "date": "2023-09-24T17:00Z",
+      "id": 401547433,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 6
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        },
+        "home": {
+          "id": 8,
+          "name": "Detroit Lions"
+        }
+      }
+    },
+    {
+      "date": "2023-09-24T17:00Z",
+      "id": 401547434,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 18
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        },
+        "home": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        }
+      }
+    },
+    {
+      "date": "2023-09-24T17:00Z",
+      "id": 401547435,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 37
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 34,
+          "name": "Houston Texans"
+        },
+        "home": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        }
+      }
+    },
+    {
+      "date": "2023-09-24T17:00Z",
+      "id": 401547436,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 28
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        },
+        "home": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        }
+      }
+    },
+    {
+      "date": "2023-09-24T20:05Z",
+      "id": 401547432,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 27
+        },
+        "home": {
+          "total": 37
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        },
+        "home": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        }
+      }
+    },
+    {
+      "date": "2023-09-24T20:25Z",
+      "id": 401547437,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 28
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        },
+        "home": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        }
+      }
+    },
+    {
+      "date": "2023-09-24T20:25Z",
+      "id": 401547438,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 41
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3,
+          "name": "Chicago Bears"
+        },
+        "home": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        }
+      }
+    },
+    {
+      "date": "2023-09-25T00:20Z",
+      "id": 401547439,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 23
+        },
+        "home": {
+          "total": 18
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        },
+        "home": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        }
+      }
+    },
+    {
+      "date": "2023-09-25T23:15Z",
+      "id": 401547440,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 25
+        },
+        "home": {
+          "total": 11
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        },
+        "home": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        }
+      }
+    },
+    {
+      "date": "2023-09-26T00:15Z",
+      "id": 401547441,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 19
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        },
+        "home": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        }
+      }
+    },
+    {
+      "date": "2023-09-29T00:15Z",
+      "id": 401547442,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 34
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 8,
+          "name": "Detroit Lions"
+        },
+        "home": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        }
+      }
+    },
+    {
+      "date": "2023-10-01T13:30Z",
+      "id": 401547227,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 7
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        },
+        "home": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        }
+      }
+    },
+    {
+      "date": "2023-10-01T17:00Z",
+      "id": 401547443,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 48
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        },
+        "home": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        }
+      }
+    },
+    {
+      "date": "2023-10-01T17:00Z",
+      "id": 401547444,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 31
+        },
+        "home": {
+          "total": 28
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 7,
+          "name": "Denver Broncos"
+        },
+        "home": {
+          "id": 3,
+          "name": "Chicago Bears"
+        }
+      }
+    },
+    {
+      "date": "2023-10-01T17:00Z",
+      "id": 401547445,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 28
+        },
+        "home": {
+          "total": 3
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        },
+        "home": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        }
+      }
+    },
+    {
+      "date": "2023-10-01T17:00Z",
+      "id": 401547446,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 6
+        },
+        "home": {
+          "total": 30
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        },
+        "home": {
+          "id": 34,
+          "name": "Houston Texans"
+        }
+      }
+    },
+    {
+      "date": "2023-10-01T17:00Z",
+      "id": 401547448,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 21
+        },
+        "home": {
+          "total": 13
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        },
+        "home": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        }
+      }
+    },
+    {
+      "date": "2023-10-01T17:00Z",
+      "id": 401547449,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 29
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        },
+        "home": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        }
+      }
+    },
+    {
+      "date": "2023-10-01T17:00Z",
+      "id": 401547450,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 26
+        },
+        "home": {
+          "total": 9
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        },
+        "home": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        }
+      }
+    },
+    {
+      "date": "2023-10-01T17:00Z",
+      "id": 401547451,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 31
+        },
+        "home": {
+          "total": 34
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 28,
+          "name": "Washington Commanders"
+        },
+        "home": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        }
+      }
+    },
+    {
+      "date": "2023-10-01T17:00Z",
+      "id": 401547452,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 3
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        },
+        "home": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        }
+      }
+    },
+    {
+      "date": "2023-10-01T20:05Z",
+      "id": 401547447,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        },
+        "home": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        }
+      }
+    },
+    {
+      "date": "2023-10-01T20:25Z",
+      "id": 401547453,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 3
+        },
+        "home": {
+          "total": 38
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 17,
+          "name": "New England Patriots"
+        },
+        "home": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        }
+      }
+    },
+    {
+      "date": "2023-10-01T20:25Z",
+      "id": 401547454,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 35
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        },
+        "home": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        }
+      }
+    },
+    {
+      "date": "2023-10-02T00:20Z",
+      "id": 401547455,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 23
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        },
+        "home": {
+          "id": 20,
+          "name": "New York Jets"
+        }
+      }
+    },
+    {
+      "date": "2023-10-03T00:15Z",
+      "id": 401547456,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 3
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        },
+        "home": {
+          "id": 19,
+          "name": "New York Giants"
+        }
+      }
+    },
+    {
+      "date": "2023-10-06T00:15Z",
+      "id": 401547457,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 40
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3,
+          "name": "Chicago Bears"
+        },
+        "home": {
+          "id": 28,
+          "name": "Washington Commanders"
+        }
+      }
+    },
+    {
+      "date": "2023-10-08T13:30Z",
+      "id": 401547228,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 25
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        },
+        "home": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        }
+      }
+    },
+    {
+      "date": "2023-10-08T17:00Z",
+      "id": 401547458,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        },
+        "home": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        }
+      }
+    },
+    {
+      "date": "2023-10-08T17:00Z",
+      "id": 401547459,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 34
+        },
+        "home": {
+          "total": 0
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        },
+        "home": {
+          "id": 17,
+          "name": "New England Patriots"
+        }
+      }
+    },
+    {
+      "date": "2023-10-08T17:00Z",
+      "id": 401547460,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        },
+        "home": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        }
+      }
+    },
+    {
+      "date": "2023-10-08T17:00Z",
+      "id": 401547463,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 19
+        },
+        "home": {
+          "total": 21
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 34,
+          "name": "Houston Texans"
+        },
+        "home": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        }
+      }
+    },
+    {
+      "date": "2023-10-08T17:00Z",
+      "id": 401547464,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 42
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        },
+        "home": {
+          "id": 8,
+          "name": "Detroit Lions"
+        }
+      }
+    },
+    {
+      "date": "2023-10-08T17:00Z",
+      "id": 401547465,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 31
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 19,
+          "name": "New York Giants"
+        },
+        "home": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        }
+      }
+    },
+    {
+      "date": "2023-10-08T20:05Z",
+      "id": 401547466,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 34
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        },
+        "home": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        }
+      }
+    },
+    {
+      "date": "2023-10-08T20:05Z",
+      "id": 401547467,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 23
+        },
+        "home": {
+          "total": 14
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        },
+        "home": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        }
+      }
+    },
+    {
+      "date": "2023-10-08T20:25Z",
+      "id": 401547461,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 31
+        },
+        "home": {
+          "total": 21
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 20,
+          "name": "New York Jets"
+        },
+        "home": {
+          "id": 7,
+          "name": "Denver Broncos"
+        }
+      }
+    },
+    {
+      "date": "2023-10-08T20:25Z",
+      "id": 401547462,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 27
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        },
+        "home": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        }
+      }
+    },
+    {
+      "date": "2023-10-09T00:20Z",
+      "id": 401547354,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 42
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        },
+        "home": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        }
+      }
+    },
+    {
+      "date": "2023-10-10T00:15Z",
+      "id": 401547468,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 13
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        },
+        "home": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        }
+      }
+    },
+    {
+      "date": "2023-10-13T00:15Z",
+      "id": 401547469,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 8
+        },
+        "home": {
+          "total": 19
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 7,
+          "name": "Denver Broncos"
+        },
+        "home": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        }
+      }
+    },
+    {
+      "date": "2023-10-15T13:30Z",
+      "id": 401547229,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 16
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        },
+        "home": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        }
+      }
+    },
+    {
+      "date": "2023-10-15T17:00Z",
+      "id": 401547470,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 16
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 28,
+          "name": "Washington Commanders"
+        },
+        "home": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        }
+      }
+    },
+    {
+      "date": "2023-10-15T17:00Z",
+      "id": 401547471,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 13
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        },
+        "home": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        }
+      }
+    },
+    {
+      "date": "2023-10-15T17:00Z",
+      "id": 401547472,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 37
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        },
+        "home": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        }
+      }
+    },
+    {
+      "date": "2023-10-15T17:00Z",
+      "id": 401547473,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 21
+        },
+        "home": {
+          "total": 42
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        },
+        "home": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        }
+      }
+    },
+    {
+      "date": "2023-10-15T17:00Z",
+      "id": 401547475,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 19
+        },
+        "home": {
+          "total": 13
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        },
+        "home": {
+          "id": 3,
+          "name": "Chicago Bears"
+        }
+      }
+    },
+    {
+      "date": "2023-10-15T17:00Z",
+      "id": 401547476,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 19
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        },
+        "home": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        }
+      }
+    },
+    {
+      "date": "2023-10-15T17:00Z",
+      "id": 401547477,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 13
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        },
+        "home": {
+          "id": 34,
+          "name": "Houston Texans"
+        }
+      }
+    },
+    {
+      "date": "2023-10-15T20:05Z",
+      "id": 401547474,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 21
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 17,
+          "name": "New England Patriots"
+        },
+        "home": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        }
+      }
+    },
+    {
+      "date": "2023-10-15T20:25Z",
+      "id": 401547478,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 6
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 8,
+          "name": "Detroit Lions"
+        },
+        "home": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        }
+      }
+    },
+    {
+      "date": "2023-10-15T20:25Z",
+      "id": 401547479,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 9
+        },
+        "home": {
+          "total": 26
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        },
+        "home": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        }
+      }
+    },
+    {
+      "date": "2023-10-15T20:25Z",
+      "id": 401547480,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 14
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        },
+        "home": {
+          "id": 20,
+          "name": "New York Jets"
+        }
+      }
+    },
+    {
+      "date": "2023-10-16T00:20Z",
+      "id": 401547481,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 9
+        },
+        "home": {
+          "total": 14
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 19,
+          "name": "New York Giants"
+        },
+        "home": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        }
+      }
+    },
+    {
+      "date": "2023-10-17T00:15Z",
+      "id": 401547482,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        },
+        "home": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        }
+      }
+    },
+    {
+      "date": "2023-10-20T00:15Z",
+      "id": 401547483,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 31
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        },
+        "home": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        }
+      }
+    },
+    {
+      "date": "2023-10-22T17:00Z",
+      "id": 401547484,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 39
+        },
+        "home": {
+          "total": 38
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        },
+        "home": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        }
+      }
+    },
+    {
+      "date": "2023-10-22T17:00Z",
+      "id": 401547485,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 25
+        },
+        "home": {
+          "total": 29
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        },
+        "home": {
+          "id": 17,
+          "name": "New England Patriots"
+        }
+      }
+    },
+    {
+      "date": "2023-10-22T17:00Z",
+      "id": 401547486,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 7
+        },
+        "home": {
+          "total": 14
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 28,
+          "name": "Washington Commanders"
+        },
+        "home": {
+          "id": 19,
+          "name": "New York Giants"
+        }
+      }
+    },
+    {
+      "date": "2023-10-22T17:00Z",
+      "id": 401547489,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 6
+        },
+        "home": {
+          "total": 38
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 8,
+          "name": "Detroit Lions"
+        },
+        "home": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        }
+      }
+    },
+    {
+      "date": "2023-10-22T17:00Z",
+      "id": 401547490,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 12
+        },
+        "home": {
+          "total": 30
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        },
+        "home": {
+          "id": 3,
+          "name": "Chicago Bears"
+        }
+      }
+    },
+    {
+      "date": "2023-10-22T17:00Z",
+      "id": 401547491,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 13
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        },
+        "home": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        }
+      }
+    },
+    {
+      "date": "2023-10-22T20:05Z",
+      "id": 401547492,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        },
+        "home": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        }
+      }
+    },
+    {
+      "date": "2023-10-22T20:05Z",
+      "id": 401547493,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        },
+        "home": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        }
+      }
+    },
+    {
+      "date": "2023-10-22T20:25Z",
+      "id": 401547487,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 19
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        },
+        "home": {
+          "id": 7,
+          "name": "Denver Broncos"
+        }
+      }
+    },
+    {
+      "date": "2023-10-22T20:25Z",
+      "id": 401547488,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 31
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        },
+        "home": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        }
+      }
+    },
+    {
+      "date": "2023-10-23T00:20Z",
+      "id": 401547494,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 31
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        },
+        "home": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        }
+      }
+    },
+    {
+      "date": "2023-10-24T00:15Z",
+      "id": 401547495,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 22
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        },
+        "home": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        }
+      }
+    },
+    {
+      "date": "2023-10-27T00:15Z",
+      "id": 401547496,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 18
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        },
+        "home": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        }
+      }
+    },
+    {
+      "date": "2023-10-29T17:00Z",
+      "id": 401547497,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 31
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 17,
+          "name": "New England Patriots"
+        },
+        "home": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        }
+      }
+    },
+    {
+      "date": "2023-10-29T17:00Z",
+      "id": 401547498,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 13
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 20,
+          "name": "New York Jets"
+        },
+        "home": {
+          "id": 19,
+          "name": "New York Giants"
+        }
+      }
+    },
+    {
+      "date": "2023-10-29T17:00Z",
+      "id": 401547499,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        },
+        "home": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        }
+      }
+    },
+    {
+      "date": "2023-10-29T17:00Z",
+      "id": 401547500,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 23
+        },
+        "home": {
+          "total": 28
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        },
+        "home": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        }
+      }
+    },
+    {
+      "date": "2023-10-29T17:00Z",
+      "id": 401547504,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 13
+        },
+        "home": {
+          "total": 15
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 34,
+          "name": "Houston Texans"
+        },
+        "home": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        }
+      }
+    },
+    {
+      "date": "2023-10-29T17:00Z",
+      "id": 401547505,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 43
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        },
+        "home": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        }
+      }
+    },
+    {
+      "date": "2023-10-29T17:00Z",
+      "id": 401547506,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        },
+        "home": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        }
+      }
+    },
+    {
+      "date": "2023-10-29T17:00Z",
+      "id": 401547507,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 38
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        },
+        "home": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        }
+      }
+    },
+    {
+      "date": "2023-10-29T17:00Z",
+      "id": 401547508,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 38
+        },
+        "home": {
+          "total": 31
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        },
+        "home": {
+          "id": 28,
+          "name": "Washington Commanders"
+        }
+      }
+    },
+    {
+      "date": "2023-10-29T20:05Z",
+      "id": 401547509,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        },
+        "home": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        }
+      }
+    },
+    {
+      "date": "2023-10-29T20:25Z",
+      "id": 401547501,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 31
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        },
+        "home": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        }
+      }
+    },
+    {
+      "date": "2023-10-29T20:25Z",
+      "id": 401547502,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 9
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        },
+        "home": {
+          "id": 7,
+          "name": "Denver Broncos"
+        }
+      }
+    },
+    {
+      "date": "2023-10-29T20:25Z",
+      "id": 401547503,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 31
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        },
+        "home": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        }
+      }
+    },
+    {
+      "date": "2023-10-30T00:20Z",
+      "id": 401547510,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 13
+        },
+        "home": {
+          "total": 30
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3,
+          "name": "Chicago Bears"
+        },
+        "home": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        }
+      }
+    },
+    {
+      "date": "2023-10-31T00:15Z",
+      "id": 401547511,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 14
+        },
+        "home": {
+          "total": 26
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        },
+        "home": {
+          "id": 8,
+          "name": "Detroit Lions"
+        }
+      }
+    },
+    {
+      "date": "2023-11-03T00:15Z",
+      "id": 401547512,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        },
+        "home": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        }
+      }
+    },
+    {
+      "date": "2023-11-05T14:30Z",
+      "id": 401547230,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 14
+        },
+        "home": {
+          "total": 21
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        },
+        "home": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        }
+      }
+    },
+    {
+      "date": "2023-11-05T18:00Z",
+      "id": 401547513,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 3
+        },
+        "home": {
+          "total": 37
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        },
+        "home": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        }
+      }
+    },
+    {
+      "date": "2023-11-05T18:00Z",
+      "id": 401547514,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 0
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        },
+        "home": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        }
+      }
+    },
+    {
+      "date": "2023-11-05T18:00Z",
+      "id": 401547515,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 37
+        },
+        "home": {
+          "total": 39
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        },
+        "home": {
+          "id": 34,
+          "name": "Houston Texans"
+        }
+      }
+    },
+    {
+      "date": "2023-11-05T18:00Z",
+      "id": 401547516,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3,
+          "name": "Chicago Bears"
+        },
+        "home": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        }
+      }
+    },
+    {
+      "date": "2023-11-05T18:00Z",
+      "id": 401547518,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 31
+        },
+        "home": {
+          "total": 28
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        },
+        "home": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        }
+      }
+    },
+    {
+      "date": "2023-11-05T18:00Z",
+      "id": 401547519,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 3
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        },
+        "home": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        }
+      }
+    },
+    {
+      "date": "2023-11-05T18:00Z",
+      "id": 401547520,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 28,
+          "name": "Washington Commanders"
+        },
+        "home": {
+          "id": 17,
+          "name": "New England Patriots"
+        }
+      }
+    },
+    {
+      "date": "2023-11-05T21:05Z",
+      "id": 401547517,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 27
+        },
+        "home": {
+          "total": 13
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        },
+        "home": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        }
+      }
+    },
+    {
+      "date": "2023-11-05T21:25Z",
+      "id": 401547521,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 6
+        },
+        "home": {
+          "total": 30
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 19,
+          "name": "New York Giants"
+        },
+        "home": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        }
+      }
+    },
+    {
+      "date": "2023-11-05T21:25Z",
+      "id": 401547522,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 23
+        },
+        "home": {
+          "total": 28
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        },
+        "home": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        }
+      }
+    },
+    {
+      "date": "2023-11-06T01:20Z",
+      "id": 401547523,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 18
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        },
+        "home": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        }
+      }
+    },
+    {
+      "date": "2023-11-07T01:15Z",
+      "id": 401547524,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 27
+        },
+        "home": {
+          "total": 6
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        },
+        "home": {
+          "id": 20,
+          "name": "New York Jets"
+        }
+      }
+    },
+    {
+      "date": "2023-11-10T01:15Z",
+      "id": 401547525,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 13
+        },
+        "home": {
+          "total": 16
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        },
+        "home": {
+          "id": 3,
+          "name": "Chicago Bears"
+        }
+      }
+    },
+    {
+      "date": "2023-11-12T14:30Z",
+      "id": 401547231,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 6
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        },
+        "home": {
+          "id": 17,
+          "name": "New England Patriots"
+        }
+      }
+    },
+    {
+      "date": "2023-11-12T18:00Z",
+      "id": 401547526,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 30
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 34,
+          "name": "Houston Texans"
+        },
+        "home": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        }
+      }
+    },
+    {
+      "date": "2023-11-12T18:00Z",
+      "id": 401547527,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 19
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        },
+        "home": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        }
+      }
+    },
+    {
+      "date": "2023-11-12T18:00Z",
+      "id": 401547528,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 6
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        },
+        "home": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        }
+      }
+    },
+    {
+      "date": "2023-11-12T18:00Z",
+      "id": 401547531,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 33
+        },
+        "home": {
+          "total": 31
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        },
+        "home": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        }
+      }
+    },
+    {
+      "date": "2023-11-12T18:00Z",
+      "id": 401547532,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 34
+        },
+        "home": {
+          "total": 3
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        },
+        "home": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        }
+      }
+    },
+    {
+      "date": "2023-11-12T18:00Z",
+      "id": 401547533,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 19
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        },
+        "home": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        }
+      }
+    },
+    {
+      "date": "2023-11-12T21:05Z",
+      "id": 401547529,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 23
+        },
+        "home": {
+          "total": 25
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        },
+        "home": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        }
+      }
+    },
+    {
+      "date": "2023-11-12T21:05Z",
+      "id": 401547530,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 41
+        },
+        "home": {
+          "total": 38
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 8,
+          "name": "Detroit Lions"
+        },
+        "home": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        }
+      }
+    },
+    {
+      "date": "2023-11-12T21:25Z",
+      "id": 401547534,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 49
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 19,
+          "name": "New York Giants"
+        },
+        "home": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        }
+      }
+    },
+    {
+      "date": "2023-11-12T21:25Z",
+      "id": 401547535,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 26
+        },
+        "home": {
+          "total": 29
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 28,
+          "name": "Washington Commanders"
+        },
+        "home": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        }
+      }
+    },
+    {
+      "date": "2023-11-13T01:20Z",
+      "id": 401547536,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 12
+        },
+        "home": {
+          "total": 16
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 20,
+          "name": "New York Jets"
+        },
+        "home": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        }
+      }
+    },
+    {
+      "date": "2023-11-14T01:15Z",
+      "id": 401547537,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 22
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 7,
+          "name": "Denver Broncos"
+        },
+        "home": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        }
+      }
+    },
+    {
+      "date": "2023-11-17T01:15Z",
+      "id": 401547538,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 34
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        },
+        "home": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        }
+      }
+    },
+    {
+      "date": "2023-11-19T18:00Z",
+      "id": 401547539,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 13
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        },
+        "home": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        }
+      }
+    },
+    {
+      "date": "2023-11-19T18:00Z",
+      "id": 401547540,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 21
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        },
+        "home": {
+          "id": 34,
+          "name": "Houston Texans"
+        }
+      }
+    },
+    {
+      "date": "2023-11-19T18:00Z",
+      "id": 401547541,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 14
+        },
+        "home": {
+          "total": 34
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        },
+        "home": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        }
+      }
+    },
+    {
+      "date": "2023-11-19T18:00Z",
+      "id": 401547542,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 13
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        },
+        "home": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        }
+      }
+    },
+    {
+      "date": "2023-11-19T18:00Z",
+      "id": 401547545,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 33
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        },
+        "home": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        }
+      }
+    },
+    {
+      "date": "2023-11-19T18:00Z",
+      "id": 401547546,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 26
+        },
+        "home": {
+          "total": 31
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3,
+          "name": "Chicago Bears"
+        },
+        "home": {
+          "id": 8,
+          "name": "Detroit Lions"
+        }
+      }
+    },
+    {
+      "date": "2023-11-19T18:00Z",
+      "id": 401547547,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        },
+        "home": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        }
+      }
+    },
+    {
+      "date": "2023-11-19T18:00Z",
+      "id": 401547548,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 31
+        },
+        "home": {
+          "total": 19
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 19,
+          "name": "New York Giants"
+        },
+        "home": {
+          "id": 28,
+          "name": "Washington Commanders"
+        }
+      }
+    },
+    {
+      "date": "2023-11-19T21:05Z",
+      "id": 401547549,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 14
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        },
+        "home": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        }
+      }
+    },
+    {
+      "date": "2023-11-19T21:25Z",
+      "id": 401547543,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 6
+        },
+        "home": {
+          "total": 32
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 20,
+          "name": "New York Jets"
+        },
+        "home": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        }
+      }
+    },
+    {
+      "date": "2023-11-19T21:25Z",
+      "id": 401547544,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        },
+        "home": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        }
+      }
+    },
+    {
+      "date": "2023-11-20T01:20Z",
+      "id": 401547550,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 21
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        },
+        "home": {
+          "id": 7,
+          "name": "Denver Broncos"
+        }
+      }
+    },
+    {
+      "date": "2023-11-21T01:15Z",
+      "id": 401547345,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 21
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        },
+        "home": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        }
+      }
+    },
+    {
+      "date": "2023-11-23T17:30Z",
+      "id": 401547552,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 29
+        },
+        "home": {
+          "total": 22
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        },
+        "home": {
+          "id": 8,
+          "name": "Detroit Lions"
+        }
+      }
+    },
+    {
+      "date": "2023-11-23T21:30Z",
+      "id": 401547551,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 45
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 28,
+          "name": "Washington Commanders"
+        },
+        "home": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        }
+      }
+    },
+    {
+      "date": "2023-11-24T01:20Z",
+      "id": 401547553,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 31
+        },
+        "home": {
+          "total": 13
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        },
+        "home": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        }
+      }
+    },
+    {
+      "date": "2023-11-24T20:00Z",
+      "id": 401547242,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 34
+        },
+        "home": {
+          "total": 13
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        },
+        "home": {
+          "id": 20,
+          "name": "New York Jets"
+        }
+      }
+    },
+    {
+      "date": "2023-11-26T18:00Z",
+      "id": 401547554,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        },
+        "home": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        }
+      }
+    },
+    {
+      "date": "2023-11-26T18:00Z",
+      "id": 401547555,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 21
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        },
+        "home": {
+          "id": 34,
+          "name": "Houston Texans"
+        }
+      }
+    },
+    {
+      "date": "2023-11-26T18:00Z",
+      "id": 401547556,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        },
+        "home": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        }
+      }
+    },
+    {
+      "date": "2023-11-26T18:00Z",
+      "id": 401547559,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 15
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        },
+        "home": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        }
+      }
+    },
+    {
+      "date": "2023-11-26T18:00Z",
+      "id": 401547560,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 7
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 17,
+          "name": "New England Patriots"
+        },
+        "home": {
+          "id": 19,
+          "name": "New York Giants"
+        }
+      }
+    },
+    {
+      "date": "2023-11-26T18:00Z",
+      "id": 401547561,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        },
+        "home": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        }
+      }
+    },
+    {
+      "date": "2023-11-26T21:05Z",
+      "id": 401547562,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 37
+        },
+        "home": {
+          "total": 14
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        },
+        "home": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        }
+      }
+    },
+    {
+      "date": "2023-11-26T21:05Z",
+      "id": 401547563,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 12
+        },
+        "home": {
+          "total": 29
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        },
+        "home": {
+          "id": 7,
+          "name": "Denver Broncos"
+        }
+      }
+    },
+    {
+      "date": "2023-11-26T21:25Z",
+      "id": 401547557,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 31
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        },
+        "home": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        }
+      }
+    },
+    {
+      "date": "2023-11-26T21:25Z",
+      "id": 401547558,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 34
+        },
+        "home": {
+          "total": 37
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        },
+        "home": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        }
+      }
+    },
+    {
+      "date": "2023-11-27T01:20Z",
+      "id": 401547564,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        },
+        "home": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        }
+      }
+    },
+    {
+      "date": "2023-11-28T01:15Z",
+      "id": 401547565,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 12
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3,
+          "name": "Chicago Bears"
+        },
+        "home": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        }
+      }
+    },
+    {
+      "date": "2023-12-01T01:15Z",
+      "id": 401547566,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 35
+        },
+        "home": {
+          "total": 41
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        },
+        "home": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        }
+      }
+    },
+    {
+      "date": "2023-12-03T18:00Z",
+      "id": 401547567,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 6
+        },
+        "home": {
+          "total": 0
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        },
+        "home": {
+          "id": 17,
+          "name": "New England Patriots"
+        }
+      }
+    },
+    {
+      "date": "2023-12-03T18:00Z",
+      "id": 401547568,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        },
+        "home": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        }
+      }
+    },
+    {
+      "date": "2023-12-03T18:00Z",
+      "id": 401547570,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 31
+        },
+        "home": {
+          "total": 28
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        },
+        "home": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        }
+      }
+    },
+    {
+      "date": "2023-12-03T18:00Z",
+      "id": 401547571,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 22
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 7,
+          "name": "Denver Broncos"
+        },
+        "home": {
+          "id": 34,
+          "name": "Houston Texans"
+        }
+      }
+    },
+    {
+      "date": "2023-12-03T18:00Z",
+      "id": 401547572,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 33
+        },
+        "home": {
+          "total": 28
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 8,
+          "name": "Detroit Lions"
+        },
+        "home": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        }
+      }
+    },
+    {
+      "date": "2023-12-03T18:00Z",
+      "id": 401547573,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 13
+        },
+        "home": {
+          "total": 8
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        },
+        "home": {
+          "id": 20,
+          "name": "New York Jets"
+        }
+      }
+    },
+    {
+      "date": "2023-12-03T18:00Z",
+      "id": 401547574,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 45
+        },
+        "home": {
+          "total": 15
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        },
+        "home": {
+          "id": 28,
+          "name": "Washington Commanders"
+        }
+      }
+    },
+    {
+      "date": "2023-12-03T21:05Z",
+      "id": 401547569,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 18
+        },
+        "home": {
+          "total": 21
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        },
+        "home": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        }
+      }
+    },
+    {
+      "date": "2023-12-03T21:25Z",
+      "id": 401547276,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 42
+        },
+        "home": {
+          "total": 19
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        },
+        "home": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        }
+      }
+    },
+    {
+      "date": "2023-12-03T21:25Z",
+      "id": 401547575,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 19
+        },
+        "home": {
+          "total": 36
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        },
+        "home": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        }
+      }
+    },
+    {
+      "date": "2023-12-04T01:20Z",
+      "id": 401547576,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 19
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        },
+        "home": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        }
+      }
+    },
+    {
+      "date": "2023-12-05T01:15Z",
+      "id": 401547577,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 34
+        },
+        "home": {
+          "total": 31
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        },
+        "home": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        }
+      }
+    },
+    {
+      "date": "2023-12-08T01:15Z",
+      "id": 401547578,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 21
+        },
+        "home": {
+          "total": 18
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 17,
+          "name": "New England Patriots"
+        },
+        "home": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        }
+      }
+    },
+    {
+      "date": "2023-12-10T18:00Z",
+      "id": 401547579,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 29
+        },
+        "home": {
+          "total": 25
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        },
+        "home": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        }
+      }
+    },
+    {
+      "date": "2023-12-10T18:00Z",
+      "id": 401547580,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 14
+        },
+        "home": {
+          "total": 34
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        },
+        "home": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        }
+      }
+    },
+    {
+      "date": "2023-12-10T18:00Z",
+      "id": 401547581,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 27
+        },
+        "home": {
+          "total": 31
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        },
+        "home": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        }
+      }
+    },
+    {
+      "date": "2023-12-10T18:00Z",
+      "id": 401547582,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 6
+        },
+        "home": {
+          "total": 30
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 34,
+          "name": "Houston Texans"
+        },
+        "home": {
+          "id": 20,
+          "name": "New York Jets"
+        }
+      }
+    },
+    {
+      "date": "2023-12-10T18:00Z",
+      "id": 401547585,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 31
+        },
+        "home": {
+          "total": 37
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        },
+        "home": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        }
+      }
+    },
+    {
+      "date": "2023-12-10T18:00Z",
+      "id": 401547586,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 13
+        },
+        "home": {
+          "total": 28
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 8,
+          "name": "Detroit Lions"
+        },
+        "home": {
+          "id": 3,
+          "name": "Chicago Bears"
+        }
+      }
+    },
+    {
+      "date": "2023-12-10T18:00Z",
+      "id": 401547587,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 6
+        },
+        "home": {
+          "total": 28
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        },
+        "home": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        }
+      }
+    },
+    {
+      "date": "2023-12-10T21:05Z",
+      "id": 401547588,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 3
+        },
+        "home": {
+          "total": 0
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        },
+        "home": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        }
+      }
+    },
+    {
+      "date": "2023-12-10T21:05Z",
+      "id": 401547589,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 28
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        },
+        "home": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        }
+      }
+    },
+    {
+      "date": "2023-12-10T21:25Z",
+      "id": 401547583,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        },
+        "home": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        }
+      }
+    },
+    {
+      "date": "2023-12-10T21:25Z",
+      "id": 401547584,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 7
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 7,
+          "name": "Denver Broncos"
+        },
+        "home": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        }
+      }
+    },
+    {
+      "date": "2023-12-11T01:20Z",
+      "id": 401547590,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 13
+        },
+        "home": {
+          "total": 33
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        },
+        "home": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        }
+      }
+    },
+    {
+      "date": "2023-12-12T01:15Z",
+      "id": 401547591,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 22
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        },
+        "home": {
+          "id": 19,
+          "name": "New York Giants"
+        }
+      }
+    },
+    {
+      "date": "2023-12-12T01:15Z",
+      "id": 401547592,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 28
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        },
+        "home": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        }
+      }
+    },
+    {
+      "date": "2023-12-15T01:15Z",
+      "id": 401547593,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 21
+        },
+        "home": {
+          "total": 63
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        },
+        "home": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        }
+      }
+    },
+    {
+      "date": "2023-12-16T18:00Z",
+      "id": 401547604,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        },
+        "home": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        }
+      }
+    },
+    {
+      "date": "2023-12-16T21:30Z",
+      "id": 401547607,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 13
+        },
+        "home": {
+          "total": 30
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        },
+        "home": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        }
+      }
+    },
+    {
+      "date": "2023-12-17T01:15Z",
+      "id": 401547606,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 42
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 7,
+          "name": "Denver Broncos"
+        },
+        "home": {
+          "id": 8,
+          "name": "Detroit Lions"
+        }
+      }
+    },
+    {
+      "date": "2023-12-17T18:00Z",
+      "id": 401547594,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 0
+        },
+        "home": {
+          "total": 30
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 20,
+          "name": "New York Jets"
+        },
+        "home": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        }
+      }
+    },
+    {
+      "date": "2023-12-17T18:00Z",
+      "id": 401547595,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 19
+        },
+        "home": {
+          "total": 16
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 34,
+          "name": "Houston Texans"
+        },
+        "home": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        }
+      }
+    },
+    {
+      "date": "2023-12-17T18:00Z",
+      "id": 401547598,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 34
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        },
+        "home": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        }
+      }
+    },
+    {
+      "date": "2023-12-17T18:00Z",
+      "id": 401547599,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 6
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 19,
+          "name": "New York Giants"
+        },
+        "home": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        }
+      }
+    },
+    {
+      "date": "2023-12-17T18:00Z",
+      "id": 401547603,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 7
+        },
+        "home": {
+          "total": 9
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        },
+        "home": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        }
+      }
+    },
+    {
+      "date": "2023-12-17T18:00Z",
+      "id": 401547605,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3,
+          "name": "Chicago Bears"
+        },
+        "home": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        }
+      }
+    },
+    {
+      "date": "2023-12-17T18:00Z",
+      "id": 401547608,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 27
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        },
+        "home": {
+          "id": 17,
+          "name": "New England Patriots"
+        }
+      }
+    },
+    {
+      "date": "2023-12-17T21:05Z",
+      "id": 401547596,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 45
+        },
+        "home": {
+          "total": 29
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        },
+        "home": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        }
+      }
+    },
+    {
+      "date": "2023-12-17T21:05Z",
+      "id": 401547597,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 28
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 28,
+          "name": "Washington Commanders"
+        },
+        "home": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        }
+      }
+    },
+    {
+      "date": "2023-12-17T21:25Z",
+      "id": 401547600,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 31
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        },
+        "home": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        }
+      }
+    },
+    {
+      "date": "2023-12-18T01:20Z",
+      "id": 401547602,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 23
+        },
+        "home": {
+          "total": 7
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        },
+        "home": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        }
+      }
+    },
+    {
+      "date": "2023-12-19T01:15Z",
+      "id": 401547601,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        },
+        "home": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        }
+      }
+    },
+    {
+      "date": "2023-12-22T01:15Z",
+      "id": 401547609,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 22
+        },
+        "home": {
+          "total": 30
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        },
+        "home": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        }
+      }
+    },
+    {
+      "date": "2023-12-23T21:30Z",
+      "id": 401547610,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 11
+        },
+        "home": {
+          "total": 34
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        },
+        "home": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        }
+      }
+    },
+    {
+      "date": "2023-12-24T01:00Z",
+      "id": 401547611,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 22
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        },
+        "home": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        }
+      }
+    },
+    {
+      "date": "2023-12-24T18:00Z",
+      "id": 401547612,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 36
+        },
+        "home": {
+          "total": 22
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        },
+        "home": {
+          "id": 34,
+          "name": "Houston Texans"
+        }
+      }
+    },
+    {
+      "date": "2023-12-24T18:00Z",
+      "id": 401547613,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 28
+        },
+        "home": {
+          "total": 30
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 28,
+          "name": "Washington Commanders"
+        },
+        "home": {
+          "id": 20,
+          "name": "New York Jets"
+        }
+      }
+    },
+    {
+      "date": "2023-12-24T18:00Z",
+      "id": 401547614,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        },
+        "home": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        }
+      }
+    },
+    {
+      "date": "2023-12-24T18:00Z",
+      "id": 401547616,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 29
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        },
+        "home": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        }
+      }
+    },
+    {
+      "date": "2023-12-24T18:00Z",
+      "id": 401547617,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 33
+        },
+        "home": {
+          "total": 30
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        },
+        "home": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        }
+      }
+    },
+    {
+      "date": "2023-12-24T18:00Z",
+      "id": 401547618,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 30
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 8,
+          "name": "Detroit Lions"
+        },
+        "home": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        }
+      }
+    },
+    {
+      "date": "2023-12-24T21:05Z",
+      "id": 401547615,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 12
+        },
+        "home": {
+          "total": 30
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        },
+        "home": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        }
+      }
+    },
+    {
+      "date": "2023-12-24T21:25Z",
+      "id": 401547619,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        },
+        "home": {
+          "id": 3,
+          "name": "Chicago Bears"
+        }
+      }
+    },
+    {
+      "date": "2023-12-24T21:25Z",
+      "id": 401547620,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 22
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        },
+        "home": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        }
+      }
+    },
+    {
+      "date": "2023-12-25T01:15Z",
+      "id": 401547621,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 26
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 17,
+          "name": "New England Patriots"
+        },
+        "home": {
+          "id": 7,
+          "name": "Denver Broncos"
+        }
+      }
+    },
+    {
+      "date": "2023-12-25T18:00Z",
+      "id": 401547351,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 14
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        },
+        "home": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        }
+      }
+    },
+    {
+      "date": "2023-12-25T21:30Z",
+      "id": 401547241,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 25
+        },
+        "home": {
+          "total": 33
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 19,
+          "name": "New York Giants"
+        },
+        "home": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        }
+      }
+    },
+    {
+      "date": "2023-12-26T01:15Z",
+      "id": 401547622,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 33
+        },
+        "home": {
+          "total": 19
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        },
+        "home": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        }
+      }
+    },
+    {
+      "date": "2023-12-29T01:15Z",
+      "id": 401547623,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 37
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 20,
+          "name": "New York Jets"
+        },
+        "home": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        }
+      }
+    },
+    {
+      "date": "2023-12-31T01:15Z",
+      "id": 401547624,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 19
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 8,
+          "name": "Detroit Lions"
+        },
+        "home": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        }
+      }
+    },
+    {
+      "date": "2023-12-31T18:00Z",
+      "id": 401547625,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 19
+        },
+        "home": {
+          "total": 56
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        },
+        "home": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        }
+      }
+    },
+    {
+      "date": "2023-12-31T18:00Z",
+      "id": 401547626,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 21
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 17,
+          "name": "New England Patriots"
+        },
+        "home": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        }
+      }
+    },
+    {
+      "date": "2023-12-31T18:00Z",
+      "id": 401547627,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 37
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        },
+        "home": {
+          "id": 3,
+          "name": "Chicago Bears"
+        }
+      }
+    },
+    {
+      "date": "2023-12-31T18:00Z",
+      "id": 401547628,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        },
+        "home": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        }
+      }
+    },
+    {
+      "date": "2023-12-31T18:00Z",
+      "id": 401547629,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 0
+        },
+        "home": {
+          "total": 26
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        },
+        "home": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        }
+      }
+    },
+    {
+      "date": "2023-12-31T18:00Z",
+      "id": 401547631,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 3
+        },
+        "home": {
+          "total": 26
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        },
+        "home": {
+          "id": 34,
+          "name": "Houston Texans"
+        }
+      }
+    },
+    {
+      "date": "2023-12-31T18:00Z",
+      "id": 401547632,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 26
+        },
+        "home": {
+          "total": 25
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        },
+        "home": {
+          "id": 19,
+          "name": "New York Giants"
+        }
+      }
+    },
+    {
+      "date": "2023-12-31T18:00Z",
+      "id": 401547633,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 35
+        },
+        "home": {
+          "total": 31
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        },
+        "home": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        }
+      }
+    },
+    {
+      "date": "2023-12-31T18:00Z",
+      "id": 401547634,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 23
+        },
+        "home": {
+          "total": 13
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        },
+        "home": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        }
+      }
+    },
+    {
+      "date": "2023-12-31T18:00Z",
+      "id": 401547635,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 27
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        },
+        "home": {
+          "id": 28,
+          "name": "Washington Commanders"
+        }
+      }
+    },
+    {
+      "date": "2023-12-31T21:05Z",
+      "id": 401547636,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 30
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        },
+        "home": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        }
+      }
+    },
+    {
+      "date": "2023-12-31T21:25Z",
+      "id": 401547235,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 25
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        },
+        "home": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        }
+      }
+    },
+    {
+      "date": "2023-12-31T21:25Z",
+      "id": 401547630,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 9
+        },
+        "home": {
+          "total": 16
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        },
+        "home": {
+          "id": 7,
+          "name": "Denver Broncos"
+        }
+      }
+    },
+    {
+      "date": "2024-01-01T01:20Z",
+      "id": 401547637,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 33
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        },
+        "home": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        }
+      }
+    },
+    {
+      "date": "2024-01-06T21:30Z",
+      "id": 401547639,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        },
+        "home": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        }
+      }
+    },
+    {
+      "date": "2024-01-07T01:15Z",
+      "id": 401547644,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 23
+        },
+        "home": {
+          "total": 19
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 34,
+          "name": "Houston Texans"
+        },
+        "home": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        }
+      }
+    },
+    {
+      "date": "2024-01-07T18:00Z",
+      "id": 401547640,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 9
+        },
+        "home": {
+          "total": 0
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        },
+        "home": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        }
+      }
+    },
+    {
+      "date": "2024-01-07T18:00Z",
+      "id": 401547641,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 14
+        },
+        "home": {
+          "total": 31
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        },
+        "home": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        }
+      }
+    },
+    {
+      "date": "2024-01-07T18:00Z",
+      "id": 401547642,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 30
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        },
+        "home": {
+          "id": 8,
+          "name": "Detroit Lions"
+        }
+      }
+    },
+    {
+      "date": "2024-01-07T18:00Z",
+      "id": 401547648,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 3
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 20,
+          "name": "New York Jets"
+        },
+        "home": {
+          "id": 17,
+          "name": "New England Patriots"
+        }
+      }
+    },
+    {
+      "date": "2024-01-07T18:00Z",
+      "id": 401547649,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 48
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        },
+        "home": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        }
+      }
+    },
+    {
+      "date": "2024-01-07T18:00Z",
+      "id": 401547652,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 28
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        },
+        "home": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        }
+      }
+    },
+    {
+      "date": "2024-01-07T21:25Z",
+      "id": 401547638,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 21
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        },
+        "home": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        }
+      }
+    },
+    {
+      "date": "2024-01-07T21:25Z",
+      "id": 401547643,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 9
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3,
+          "name": "Chicago Bears"
+        },
+        "home": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        }
+      }
+    },
+    {
+      "date": "2024-01-07T21:25Z",
+      "id": 401547645,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 13
+        },
+        "home": {
+          "total": 12
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        },
+        "home": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        }
+      }
+    },
+    {
+      "date": "2024-01-07T21:25Z",
+      "id": 401547646,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 14
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 7,
+          "name": "Denver Broncos"
+        },
+        "home": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        }
+      }
+    },
+    {
+      "date": "2024-01-07T21:25Z",
+      "id": 401547650,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        },
+        "home": {
+          "id": 19,
+          "name": "New York Giants"
+        }
+      }
+    },
+    {
+      "date": "2024-01-07T21:25Z",
+      "id": 401547651,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 21
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        },
+        "home": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        }
+      }
+    },
+    {
+      "date": "2024-01-07T21:25Z",
+      "id": 401547653,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 38
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        },
+        "home": {
+          "id": 28,
+          "name": "Washington Commanders"
+        }
+      }
+    },
+    {
+      "date": "2024-01-08T01:20Z",
+      "id": 401547647,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 21
+        },
+        "home": {
+          "total": 14
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        },
+        "home": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        }
+      }
+    },
+    {
+      "date": "2024-01-13T21:30Z",
+      "id": 401547749,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 14
+        },
+        "home": {
+          "total": 45
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        },
+        "home": {
+          "id": 34,
+          "name": "Houston Texans"
+        }
+      }
+    },
+    {
+      "date": "2024-01-14T01:00Z",
+      "id": 401547750,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 7
+        },
+        "home": {
+          "total": 26
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        },
+        "home": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        }
+      }
+    },
+    {
+      "date": "2024-01-14T21:30Z",
+      "id": 401547752,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 48
+        },
+        "home": {
+          "total": 32
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        },
+        "home": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        }
+      }
+    },
+    {
+      "date": "2024-01-15T01:15Z",
+      "id": 401547753,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 23
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        },
+        "home": {
+          "id": 8,
+          "name": "Detroit Lions"
+        }
+      }
+    },
+    {
+      "date": "2024-01-15T21:30Z",
+      "id": 401547751,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 31
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        },
+        "home": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        }
+      }
+    },
+    {
+      "date": "2024-01-16T01:15Z",
+      "id": 401547754,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 9
+        },
+        "home": {
+          "total": 32
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        },
+        "home": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        }
+      }
+    },
+    {
+      "date": "2024-01-20T21:30Z",
+      "id": 401547755,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 34
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 34,
+          "name": "Houston Texans"
+        },
+        "home": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        }
+      }
+    },
+    {
+      "date": "2024-01-21T01:15Z",
+      "id": 401547756,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 21
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        },
+        "home": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        }
+      }
+    },
+    {
+      "date": "2024-01-21T20:00Z",
+      "id": 401547757,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 23
+        },
+        "home": {
+          "total": 31
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        },
+        "home": {
+          "id": 8,
+          "name": "Detroit Lions"
+        }
+      }
+    },
+    {
+      "date": "2024-01-21T23:30Z",
+      "id": 401547758,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 27
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        },
+        "home": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        }
+      }
+    },
+    {
+      "date": "2024-01-28T20:00Z",
+      "id": 401547379,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        },
+        "home": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        }
+      }
+    },
+    {
+      "date": "2024-01-28T23:30Z",
+      "id": 401547380,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 31
+        },
+        "home": {
+          "total": 34
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 8,
+          "name": "Detroit Lions"
+        },
+        "home": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        }
+      }
+    },
+    {
+      "date": "2024-02-11T23:30Z",
+      "id": 401547378,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2023"
+      },
+      "scores": {
+        "away": {
+          "total": 22
+        },
+        "home": {
+          "total": 25
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        },
+        "home": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        }
+      }
+    }
+  ],
+  "results": 285
+}

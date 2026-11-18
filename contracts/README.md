@@ -195,6 +195,23 @@ Ticket entries map with `subjectKind: 'parlay'`, `snapshotId ← id`,
 `modelProb ← modelProb` (always null for a parlay — no invented ticket
 probability), `stake ← stake`, `profit ← profit`.
 
+### SourceHealth — `source-health` (Phase E)
+
+There is no native payload to map: both publishers (the collector in
+`health.mjs`, the nightly rollup in `grading/health-rollup.mjs`) write
+the contract shape directly, at envelope level. Field notes:
+
+| Contract field | Semantics |
+|---|---|
+| `status` | Spec §8's five (`ok` / `degraded` / `suspended` / `down` / `gated-off`) plus three Phase E extensions: `not-a-link` (cannot serve real data — BetStack), `not-deployed` (built, not running — the sim service), `not-observed` (this publisher cannot see it from where it stands) |
+| `link` | The chain truth rule made a field: only `link: true` entries count toward a chain's real depth (Rule 10) |
+| `observedBy` | `collector` (its own run), `data-branch` (files on the data branch), or `standing-record` (the apparatus build record — used only where no live observation exists, and labeled as such) |
+| `since` | ISO timestamp when the publisher observed the condition begin; a bare `YYYY-MM-DD` date when it is a standing-record day. Never back-computed from guesses |
+| `lastGoodAt` / `lastAttemptAt` | Null when the publisher made no attempt or has never seen a success — a gated-off pass reports `lastAttemptAt: null` because it truly made no call |
+
+The board is read-only: no publisher ever changes a gate, a chain, or
+a fit in response to what it records (docs/health-board.md).
+
 ## Known gaps (recorded, not hidden)
 
 - **G1 — `model_version` is null on every app leg today.** Both leg

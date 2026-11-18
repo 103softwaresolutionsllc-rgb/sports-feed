@@ -34,6 +34,7 @@ const FILES = {
   'parlay-snapshot': 'parlay-snapshot.schema.json',
   'fit-artifact': 'fit-artifact.schema.json',
   'grade-record': 'grade-record.schema.json',
+  'source-health': 'source-health.schema.json',
 };
 
 const SCHEMAS = {};

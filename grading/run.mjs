@@ -29,6 +29,11 @@ import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from 
 import { basename, join } from 'node:path';
 import { appendRecords, loadLedger } from './store.mjs';
 import { writeReports } from './report.mjs';
+import {
+  buildHealthRollup,
+  renderSourceHealthSection,
+  writeHealthRollup,
+} from './health-rollup.mjs';
 import { loadResults, findResult } from './results.mjs';
 import {
   STREAMS,
@@ -254,7 +259,24 @@ export async function runGrading({ root, predictionsRoot, blobBase, now }) {
   const { records, stats } = gradeSelections(selections, results, nowIso);
   const append = appendRecords(root, records, { now });
   const { records: all } = loadLedger(root);
-  const { report } = writeReports(root, [...all.values()], { generatedAt: nowIso });
+  // Source-health rollup (Phase E): built from the data branch AFTER
+  // the append, so its ledger totals include tonight's grades. It is
+  // a passenger on this run — fully guarded, because a health-board
+  // failure must never break grading (the same never-break rule the
+  // collector's steps live under). On success its flags are rendered
+  // into the ledger report's Source health section.
+  let health = null;
+  let sourceHealthMd = null;
+  try {
+    const rollup = buildHealthRollup({ root, now, grading: { appended: append.appended } });
+    writeHealthRollup(root, rollup);
+    sourceHealthMd = renderSourceHealthSection(rollup);
+    health = { flags: rollup.flags.length, written: true };
+  } catch (err) {
+    console.error(`health rollup failed (grading unaffected): ${String(err?.message || err)}`);
+    health = { flags: null, written: false, error: String(err?.message || err) };
+  }
+  const { report } = writeReports(root, [...all.values()], { generatedAt: nowIso, sourceHealthMd });
   return {
     materialized,
     archives: archives.length,
@@ -264,6 +286,7 @@ export async function runGrading({ root, predictionsRoot, blobBase, now }) {
     skippedDuplicates: append.skipped,
     superseded: append.superseded,
     ledgerRecords: report.recordCount,
+    health,
   };
 }
 

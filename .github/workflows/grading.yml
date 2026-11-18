@@ -8,8 +8,11 @@ name: Grading ledger nightly run
 #      data/grades/results on the data branch.
 #   2. Materialize prediction archives from the collector's Blob
 #      archive, grade every settled game through the ledger
-#      (validated, idempotent), and regenerate the reports.
-#   3. Commit grades + reports + archives to the data branch.
+#      (validated, idempotent), and regenerate the reports. The run
+#      also emits the nightly source-health rollup (Phase E,
+#      data/health/latest.json) and renders its flags into the
+#      report's Source health section.
+#   3. Commit grades + reports + archives + health to the data branch.
 #
 # The grading script itself makes no provider calls; step 1 is the
 # only fetcher and is bounded (one request per sport per month).
@@ -59,12 +62,12 @@ jobs:
           node grading/run.mjs --root ../work
           --blob-base https://lmiqgg08ux9djfii.public.blob.vercel-storage.com
 
-      - name: Commit grades, reports, and archives to the data branch
+      - name: Commit grades, reports, archives, and health to the data branch
         working-directory: work
         run: |
           git config user.name "Isaac Jones"
           git config user.email "103softwaresolutionsllc@gmail.com"
-          git add data/grades data/predictions
+          git add data/grades data/predictions data/health
           if git diff --cached --quiet; then
             echo "No grading changes tonight."
             exit 0

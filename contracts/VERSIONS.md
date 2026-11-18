@@ -13,6 +13,7 @@ version; consumers declare the versions they accept (in their tests).
 | ParlaySnapshot | `parlay-snapshot.schema.json` | 1 | Active — foundation | BetTracker app (parlay store) | simulation-lab tests (payload level) |
 | FitArtifact | `fit-artifact.schema.json` | 1 (native fits are v0 instances) | Active — foundation | simulation-lab fit scripts (manual at v1; pipeline in Phase C) | simulation-lab tests (payload level, all four sports) |
 | GradeRecord | `grade-record.schema.json` | 1 | Active — foundation | BetTracker app (unified record, on-device), grading ledger (Phase B) | sports-feed tests (envelope example), simulation-lab tests (payload level) |
+| SourceHealth | `source-health.schema.json` | 1 | Active — Phase E | sports-feed collector (`health.json` in the Blob store, every tick), grading rollup (`data/health/latest.json` on the data branch, nightly) | sports-feed tests (envelope level, both publishers); the nightly ledger report's Source health section renders the rollup's flags |
 
 **Pairing note:** `parlay-snapshot.schema.json` embeds the Pick PAYLOAD
 form (pick v1 minus the envelope) as its `legs` items. Any change to

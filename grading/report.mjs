@@ -35,7 +35,7 @@ function fmt(x, digits = 4) {
   return x == null ? '—' : Number(x).toFixed(digits);
 }
 
-export function renderMarkdown(report) {
+export function renderMarkdown(report, { sourceHealthMd = null } = {}) {
   const lines = [];
   lines.push('# Grading ledger — calibration report');
   lines.push('');
@@ -49,6 +49,7 @@ export function renderMarkdown(report) {
   if (!streamNames.length) {
     lines.push('');
     lines.push('No grades yet.');
+    if (sourceHealthMd) lines.push('', sourceHealthMd.trimEnd());
     return lines.join('\n') + '\n';
   }
   for (const stream of streamNames) {
@@ -76,10 +77,15 @@ export function renderMarkdown(report) {
       }
     }
   }
+  // Source health (Phase E): the nightly rollup's flags, rendered by
+  // run.mjs from grading/health-rollup.mjs. This report is the
+  // apparatus's daily summary surface, so the flags live here.
+  if (sourceHealthMd) lines.push('', sourceHealthMd.trimEnd());
   return lines.join('\n') + '\n';
 }
 
-/** Regenerate <root>/data/grades/reports/latest.{json,md}. */
+/** Regenerate <root>/data/grades/reports/latest.{json,md}.
+ *  opts.sourceHealthMd (Phase E) appends the Source health section. */
 export function writeReports(root, records, opts = {}) {
   const report = buildReport(records, opts);
   const dir = join(gradesDir(root), 'reports');
@@ -87,6 +93,6 @@ export function writeReports(root, records, opts = {}) {
   const jsonPath = join(dir, 'latest.json');
   const mdPath = join(dir, 'latest.md');
   writeFileSync(jsonPath, JSON.stringify(report, null, 2) + '\n', 'utf8');
-  writeFileSync(mdPath, renderMarkdown(report), 'utf8');
+  writeFileSync(mdPath, renderMarkdown(report, opts), 'utf8');
   return { report, jsonPath, mdPath };
 }

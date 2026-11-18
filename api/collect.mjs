@@ -18,6 +18,7 @@ import { put } from '@vercel/blob';
 import { collectFeed } from '../collector.mjs';
 import { persistFeedHistory } from '../history.mjs';
 import { persistFeedPredictions } from '../predictions.mjs';
+import { persistFeedHealth } from '../health.mjs';
 
 // A collection pass can fan out to ESPN (JSON + RSS fallback per league)
 // with 15s fetch timeouts; give it generous room over the platform default.
@@ -57,8 +58,15 @@ export default async function handler(req, res) {
     // content — line sets, app-model probabilities, pick cards — under
     // predictions/ for the nightly grading job. Same guarantee as the
     // history snapshot: fully guarded, never throws, runs only after
-    // the feed write above has succeeded.
-    await persistFeedPredictions(feed);
+    // the feed write above has succeeded. Its result feeds the health
+    // board's archive counters below.
+    const archive = await persistFeedPredictions(feed);
+    // Source-health board (health.mjs, Phase E): publish health.json
+    // beside feed.json, describing this run's sources and gates. Same
+    // guarantee again: fully guarded, never throws, runs only after
+    // the feed write above has succeeded — a health failure cannot
+    // fail or delay the edition (test-proven in tests/health.test.mjs).
+    const health = await persistFeedHealth(feed, { archive });
     const articles = newsArticleCount(feed.news);
     console.log(
       `collect ok: ${articles} news articles, ` +
@@ -73,6 +81,8 @@ export default async function handler(req, res) {
       aggregatesSports: Object.keys(feed.aggregates ?? {}),
       sportsConfigured: feed.sportsConfigured,
       feedUrl: blob.url,
+      archiveOk: archive.ok,
+      healthPublished: health.published,
     });
   } catch (err) {
     console.error('collect failed:', err);

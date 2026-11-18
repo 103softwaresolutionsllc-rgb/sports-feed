@@ -130,10 +130,18 @@ function expectFail(contract, obj, level, needle) {
 // (a) The collector's own shapes, at payload level
 // ---------------------------------------------------------------------------
 
-test('contracts: all six contracts are registered', () => {
+test('contracts: all seven contracts are registered', () => {
   assert.deepEqual(
     [...listContracts()].sort(),
-    ['fit-artifact', 'game', 'grade-record', 'lineset', 'parlay-snapshot', 'pick']
+    [
+      'fit-artifact',
+      'game',
+      'grade-record',
+      'lineset',
+      'parlay-snapshot',
+      'pick',
+      'source-health',
+    ]
   );
 });
 

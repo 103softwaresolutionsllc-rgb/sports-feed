@@ -205,17 +205,28 @@ async function readIndexEntries() {
  * Persist one run's prediction archive + index update. Fully guarded:
  * NEVER throws, and runs only after the feed itself is published.
  * `feed` is the parsed feed object the run produced.
+ *
+ * Returns the run's archive result — { ok, games, modelPriced,
+ * pickCards } on success, { ok: false, error } on failure — so the
+ * source-health board (health.mjs, Phase E) can report this edition's
+ * archive counters truthfully instead of re-deriving them.
  */
 export async function persistFeedPredictions(feed) {
   try {
     const archive = extractPredictions(feed);
+    const result = {
+      ok: true,
+      games: archive.games.length,
+      modelPriced: archive.games.filter((g) => g.model).length,
+      pickCards: archive.picks.length,
+    };
     const timestamp = String(feed?.generatedAt || new Date().toISOString());
     const path = predictionsPathFor(timestamp);
     const snapshot = await put(path, JSON.stringify(archive, null, 2), BLOB_WRITE_OPTS);
     console.log(
-      `predictions: archive persisted (${archive.games.length} games, ` +
-        `${archive.games.filter((g) => g.model).length} model-priced, ` +
-        `${archive.picks.length} pick cards) -> ${snapshot.url}`
+      `predictions: archive persisted (${result.games} games, ` +
+        `${result.modelPriced} model-priced, ` +
+        `${result.pickCards} pick cards) -> ${snapshot.url}`
     );
     try {
       const existing = await readIndexEntries();
@@ -230,13 +241,17 @@ export async function persistFeedPredictions(feed) {
         BLOB_WRITE_OPTS
       );
     } catch (idxErr) {
+      result.indexError = String(idxErr?.message || idxErr);
       console.error(
-        `predictions: index update failed (archive kept, feed unaffected): ${String(idxErr?.message || idxErr)}`
+        `predictions: index update failed (archive kept, feed unaffected): ${result.indexError}`
       );
     }
+    return result;
   } catch (err) {
+    const message = String(err?.message || err);
     console.error(
-      `predictions: archive persist failed (feed unaffected): ${String(err?.message || err)}`
+      `predictions: archive persist failed (feed unaffected): ${message}`
     );
+    return { ok: false, error: message };
   }
 }

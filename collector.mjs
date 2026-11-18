@@ -435,6 +435,26 @@ export function betstackFillEnabled(env = process.env) {
   return env.BETSTACK_FILL_ENABLED === 'true';
 }
 
+/**
+ * The API-Sports pass is gated OFF by default: it runs only when
+ * APISPORTS_COLLECTOR_ENABLED is exactly "true" (unset in the
+ * sports-feed Vercel project, so the pass stays dark). Gated on
+ * 2026-11-17 after API-Sports suspended the account: their support
+ * confirmed the cause was requests arriving from shared cloud egress
+ * IPs — Vercel's pool is exactly that — and the fix is a dedicated
+ * outbound IP, which a Vercel Function cannot provide. API-Sports
+ * data now enters the system only through the Intelligence Engine
+ * harvest running on Isaac's own infrastructure (the Legion runner,
+ * INTELLIGENCE_ALLOW_API=1). The board never depended on this pass:
+ * The Odds API layer below is the board's odds source and covers the
+ * slate; this pass only ever supplied fallback fill and pick cards.
+ * Do not enable in any shared-IP environment — a single call from a
+ * shared pool can re-trigger the suspension.
+ */
+export function apiSportsCollectorEnabled(env = process.env) {
+  return env.APISPORTS_COLLECTOR_ENABLED === 'true';
+}
+
 export async function collectFeed() {
   const picks = [];
   let slate = [];
@@ -448,6 +468,13 @@ export async function collectFeed() {
     const key = process.env[KEY_ENV[sport]] || process.env.APISPORTS_KEY;
     if (!key) {
       errors[sport] = 'not configured (no key)';
+      continue;
+    }
+    if (!apiSportsCollectorEnabled()) {
+      // Policy gate (see apiSportsCollectorEnabled): no API-Sports
+      // calls from Vercel's shared egress IPs — not even a failing
+      // one. The sport simply contributes nothing this pass; the
+      // Odds API layer covers board and slate.
       continue;
     }
     sportsConfigured.push(sport);

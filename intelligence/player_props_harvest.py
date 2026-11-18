@@ -531,13 +531,17 @@ def roster_records_from_rows(rows: list[dict]) -> dict:
 
 
 def upsert_harvested_player(registry: PlayerRegistry, record: dict,
-                            effective_date: str | None) -> dict:
+                            effective_date: str | None,
+                            provider: str = PROVIDER) -> dict:
     """Register or update one harvested player in the registry.
 
     Owner canon — non-negotiable:
       * Identity joins ONLY on provider ID (registry.get_by_provider_id
-        under PROVIDER). NEVER on name: two humans who share a name
-        must never merge into one record.
+        under the provider). NEVER on name: two humans who share a name
+        must never merge into one record. Each provider is its own ID
+        namespace: the ESPN fallback (governing rule 10) registers
+        under provider "espn" and can never collide with or merge
+        into an "api-sports" record.
       * A missing provider ID skips the record outright.
       * History is append-only via the registry's effective-dated
         record_team_change / record_status_change; an idempotent
@@ -553,11 +557,11 @@ def upsert_harvested_player(registry: PlayerRegistry, record: dict,
     effective = effective_date or datetime.now(timezone.utc).strftime(
         "%Y-%m-%d")
 
-    existing = registry.get_by_provider_id(PROVIDER, provider_id)
+    existing = registry.get_by_provider_id(provider, provider_id)
     if existing is None:
         new_record: dict = {
             "full_name": record.get("full_name"),
-            "provider_ids": {PROVIDER: provider_id},
+            "provider_ids": {provider: provider_id},
             "team_history": [],
             "status_history": [{
                 "status": "active", "from": effective, "to": None,
@@ -976,6 +980,32 @@ def main(argv: list[str] | None = None) -> int:
         log_store=log_store, state=state,
         priority_team_ids=priority_team_ids, api_key=api_key,
     )
+
+    # Governing rule 10 (Isaac, Nov 17, 2026): when the primary
+    # account delivers NOTHING — suspended, locked, quota-dead, any
+    # reason — the next API takes its place automatically. The ESPN
+    # fallback pass fills the same registry and log stores under
+    # provider "espn" (see intelligence_espn_players).
+    if report["games_added"] == 0 and report["players_registered"] == 0:
+        try:
+            try:
+                from intelligence_espn_players import run_espn_fanout
+            except ImportError:
+                from intelligence.intelligence_espn_players import (  # type: ignore
+                    run_espn_fanout,
+                )
+            report["espn_fallback"] = run_espn_fanout(
+                sport, season, list(team_names.values()),
+                transport=urllib_transport,
+                landing=RawLanding(data_root), registry=registry,
+                log_store=log_store,
+            )
+        except Exception as exc:  # noqa: BLE001 — reported, never hidden
+            report["espn_fallback"] = {
+                "source": "espn-fallback",
+                "error": f"{type(exc).__name__}: {exc}",
+            }
+
     registry_path.parent.mkdir(parents=True, exist_ok=True)
     registry.save(registry_path)
     log_store.save(log_path)

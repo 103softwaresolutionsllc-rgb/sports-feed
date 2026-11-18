@@ -7,3 +7,6 @@
 {"classification": "Historical", "endpoint": "/games", "file": "053732-001.json", "params": {"league": 1, "season": "2023", "source": "espn-fallback"}, "retrieved_at": "2026-11-18T05:37:32.273779+00:00"}
 {"classification": "Historical", "endpoint": "/games", "file": "053732-002.json", "params": {"league": 1, "season": "2024"}, "retrieved_at": "2026-11-18T05:37:32.881636+00:00"}
 {"classification": "Historical", "endpoint": "/games", "file": "053735-001.json", "params": {"league": 1, "season": "2024", "source": "espn-fallback"}, "retrieved_at": "2026-11-18T05:37:35.891057+00:00"}
+{"classification": "Historical", "endpoint": "/games", "file": "062951-001.json", "params": {"league": 1, "season": "2022", "source": "espn-fallback"}, "retrieved_at": "2026-11-18T06:29:51.397427+00:00"}
+{"classification": "Historical", "endpoint": "/games", "file": "062953-001.json", "params": {"league": 1, "season": "2023", "source": "espn-fallback"}, "retrieved_at": "2026-11-18T06:29:53.349880+00:00"}
+{"classification": "Historical", "endpoint": "/games", "file": "062955-001.json", "params": {"league": 1, "season": "2024", "source": "espn-fallback"}, "retrieved_at": "2026-11-18T06:29:55.064282+00:00"}

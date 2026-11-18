@@ -1,0 +1,112 @@
+{
+  "$id": "contracts/game.schema.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "additionalProperties": false,
+  "description": "One game as it crosses a seam of the BetTracker apparatus (Quant Apparatus spec \u00a74, contract 1). Canonical team names are the feed's spellings (e.g. 'St.Louis Cardinals'). homeScore/awayScore are present when the game is final; the validator subset in validate.mjs does not enforce that conditional \u2014 producers guarantee it (collector normalizeGame drops unfinished-score invention; the harvest stores provider scores verbatim).",
+  "payloadRequired": [
+    "gameId",
+    "league",
+    "homeTeam",
+    "awayTeam",
+    "startAt",
+    "status"
+  ],
+  "properties": {
+    "awayCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "awayScore": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "awayTeam": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "class": {
+      "enum": [
+        "Live",
+        "Historical",
+        "Estimated",
+        "SIMULATED"
+      ]
+    },
+    "contract": {
+      "const": "game"
+    },
+    "fetchedAt": {
+      "format": "date-time",
+      "type": "string"
+    },
+    "gameId": {
+      "description": "Provider-namespaced game identity, e.g. 'api-sports:basketball:326118'.",
+      "minLength": 1,
+      "type": "string"
+    },
+    "homeCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "homeScore": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "homeTeam": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "id": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "league": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "source": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "startAt": {
+      "format": "date-time",
+      "type": "string"
+    },
+    "status": {
+      "enum": [
+        "scheduled",
+        "live",
+        "final",
+        "postponed",
+        "cancelled"
+      ]
+    },
+    "v": {
+      "const": 1
+    }
+  },
+  "required": [
+    "contract",
+    "v",
+    "class",
+    "source",
+    "fetchedAt",
+    "id",
+    "gameId",
+    "league",
+    "homeTeam",
+    "awayTeam",
+    "startAt",
+    "status"
+  ],
+  "title": "Game",
+  "type": "object"
+}

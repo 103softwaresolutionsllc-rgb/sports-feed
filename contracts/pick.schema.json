@@ -1,0 +1,185 @@
+{
+  "$id": "contracts/pick.schema.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "additionalProperties": false,
+  "description": "One selection on a LineSet or a player market (Quant Apparatus spec \u00a74, contract 3). Sportsbook language only: this is a pick; two or more picks under one stake form a parlay. price/bookmaker are present only when the pick is priced \u2014 player-prop picks carry no book price (picks-only for money) and price is then ABSENT, never null-invented. The model object, when present, is the locked model snapshot (Lock-In law): probability/projection/EV/model version as recorded at selection time; later model runs never rewrite it.",
+  "payloadRequired": [
+    "id",
+    "gameId",
+    "league",
+    "market",
+    "subject",
+    "side"
+  ],
+  "properties": {
+    "boardSnapshotRef": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "bookmaker": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "class": {
+      "enum": [
+        "Live",
+        "Historical",
+        "Estimated",
+        "SIMULATED"
+      ]
+    },
+    "contract": {
+      "const": "pick"
+    },
+    "fetchedAt": {
+      "format": "date-time",
+      "type": "string"
+    },
+    "gameId": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "id": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "league": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "line": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "market": {
+      "enum": [
+        "moneyline",
+        "spread",
+        "total",
+        "player_prop"
+      ]
+    },
+    "model": {
+      "additionalProperties": false,
+      "description": "Locked model snapshot. probability is the recorded model probability (0..1). modelVersion is nullable because today's app legs record model_version: null \u2014 a known gap (see contracts/README.md).",
+      "properties": {
+        "evPerUnit": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "evPercent": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "lockedAt": {
+          "format": "date-time",
+          "type": "string"
+        },
+        "modelSource": {
+          "type": "string"
+        },
+        "modelVersion": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "probability": {
+          "maximum": 1,
+          "minimum": 0,
+          "type": "number"
+        },
+        "projection": {
+          "type": [
+            "number",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "probability",
+        "lockedAt"
+      ],
+      "type": "object"
+    },
+    "price": {
+      "description": "American odds (integer) from the one book whose line set the pick was locked from.",
+      "type": "integer"
+    },
+    "side": {
+      "description": "Selection side in sportsbook terms: 'home' | 'away' | 'over' | 'under'.",
+      "minLength": 1,
+      "type": "string"
+    },
+    "source": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "stat": {
+      "description": "For player_prop picks: the taxonomy stat key (e.g. 'points', 'passingYards') from the app's statistic_key/market. Null/absent for team markets.",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "subject": {
+      "additionalProperties": false,
+      "properties": {
+        "kind": {
+          "enum": [
+            "team",
+            "player"
+          ]
+        },
+        "name": {
+          "minLength": 1,
+          "type": "string"
+        },
+        "playerId": {
+          "type": [
+            "string",
+            "number",
+            "null"
+          ]
+        },
+        "team": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "kind",
+        "name"
+      ],
+      "type": "object"
+    },
+    "v": {
+      "const": 1
+    }
+  },
+  "required": [
+    "contract",
+    "v",
+    "class",
+    "source",
+    "fetchedAt",
+    "id",
+    "gameId",
+    "league",
+    "market",
+    "subject",
+    "side"
+  ],
+  "title": "Pick",
+  "type": "object"
+}

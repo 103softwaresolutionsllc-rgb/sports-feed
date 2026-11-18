@@ -1,0 +1,173 @@
+{
+  "$id": "contracts/fit-artifact.schema.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "additionalProperties": false,
+  "description": "One sport's fitted parameter set for the Simulation Lab engine (Quant Apparatus spec \u00a74, contract 5). parameters use neutral names (leagueAvg, homeEdge) \u2014 the native fit files call them leagueAvgPoints/homeEdgePoints for every sport, including runs- and goals-scored leagues; the mapping in contracts/README.md records that. playerStatSDs values are 'fitted' or 'parameter' grade depending on playerStatSDSource (NBA/NFL fitted from harvested logs; MLB/NHL tagged parameters at v1) \u2014 the source string travels with the artifact so no consumer mistakes a parameter for a fit.",
+  "payloadRequired": [
+    "sport",
+    "fitVersion",
+    "parameters",
+    "trainedOn",
+    "teams",
+    "playerStatSDs",
+    "producedAt"
+  ],
+  "properties": {
+    "class": {
+      "enum": [
+        "Live",
+        "Historical",
+        "Estimated",
+        "SIMULATED"
+      ]
+    },
+    "contract": {
+      "const": "fit-artifact"
+    },
+    "fetchedAt": {
+      "format": "date-time",
+      "type": "string"
+    },
+    "fitVersion": {
+      "description": "Native fit files are unversioned; the mapping assigns '0' (spec \u00a74: the four existing fit JSONs are FitArtifact v0 instances). The fit pipeline (Phase C) mints real versions.",
+      "minLength": 1,
+      "type": "string"
+    },
+    "id": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "parameters": {
+      "additionalProperties": false,
+      "properties": {
+        "homeEdge": {
+          "description": "Home advantage in the sport's scoring unit (points / runs / goals).",
+          "type": "number"
+        },
+        "leagueAvg": {
+          "description": "League-average scoring per team per game, in the sport's unit.",
+          "type": "number"
+        },
+        "marginSD": {
+          "type": "number"
+        },
+        "shrink": {
+          "type": "number"
+        },
+        "totalSD": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "leagueAvg",
+        "homeEdge",
+        "shrink",
+        "totalSD",
+        "marginSD"
+      ],
+      "type": "object"
+    },
+    "playerStatSDSource": {
+      "type": "string"
+    },
+    "playerStatSDs": {
+      "additionalProperties": {
+        "type": "number"
+      },
+      "description": "Per-stat within-player residual SDs, keyed by the sport's taxonomy stat names.",
+      "type": "object"
+    },
+    "producedAt": {
+      "format": "date-time",
+      "type": "string"
+    },
+    "producedBy": {
+      "description": "Script + commit that produced the fit. Native files carry a prose provenance string instead \u2014 a known gap (see README).",
+      "type": "string"
+    },
+    "source": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "sport": {
+      "enum": [
+        "NBA",
+        "NFL",
+        "MLB",
+        "NHL"
+      ]
+    },
+    "teams": {
+      "additionalProperties": {
+        "additionalProperties": false,
+        "properties": {
+          "awayPA": {
+            "type": "number"
+          },
+          "awayPF": {
+            "type": "number"
+          },
+          "homePA": {
+            "type": "number"
+          },
+          "homePF": {
+            "type": "number"
+          }
+        },
+        "required": [
+          "homePF",
+          "homePA",
+          "awayPF",
+          "awayPA"
+        ],
+        "type": "object"
+      },
+      "description": "Per-team shrunk scoring means: PF/PA = points (runs/goals) for/against, split home/away. Keys are canonical team names.",
+      "type": "object"
+    },
+    "trainedOn": {
+      "additionalProperties": false,
+      "properties": {
+        "gamesExcluded": {
+          "type": "integer"
+        },
+        "gamesUsed": {
+          "minimum": 0,
+          "type": "integer"
+        },
+        "seasons": {
+          "items": {
+            "type": "string"
+          },
+          "minItems": 1,
+          "type": "array"
+        }
+      },
+      "required": [
+        "seasons",
+        "gamesUsed"
+      ],
+      "type": "object"
+    },
+    "v": {
+      "const": 1
+    }
+  },
+  "required": [
+    "contract",
+    "v",
+    "class",
+    "source",
+    "fetchedAt",
+    "id",
+    "sport",
+    "fitVersion",
+    "parameters",
+    "trainedOn",
+    "teams",
+    "playerStatSDs",
+    "producedAt"
+  ],
+  "title": "FitArtifact",
+  "type": "object"
+}

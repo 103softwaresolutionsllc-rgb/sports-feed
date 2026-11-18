@@ -1,0 +1,302 @@
+{
+  "$id": "contracts/parlay-snapshot.schema.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "additionalProperties": false,
+  "description": "An ordered set of Picks under one stake, locked at selection time (Quant Apparatus spec \u00a74, contract 4). Sportsbook settlement semantics: every pick must win; a push drops out and the parlay re-prices on the picks that remain; if every pick pushes, the stake is returned. This is the object the Simulation Lab consumes and the grading ledger grades. The legs items embed the Pick contract's PAYLOAD form (pick.schema.json v1 minus the envelope) \u2014 the two must be kept in step; VERSIONS.md records the pairing. A settled snapshot carries its write-once settlement record; locked picks are never rewritten by settlement.",
+  "payloadRequired": [
+    "snapshotId",
+    "status",
+    "legs",
+    "stake"
+  ],
+  "properties": {
+    "class": {
+      "enum": [
+        "Live",
+        "Historical",
+        "Estimated",
+        "SIMULATED"
+      ]
+    },
+    "contract": {
+      "const": "parlay-snapshot"
+    },
+    "createdAt": {
+      "format": "date-time",
+      "type": "string"
+    },
+    "fetchedAt": {
+      "format": "date-time",
+      "type": "string"
+    },
+    "id": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "legs": {
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "boardSnapshotRef": {
+            "type": "string"
+          },
+          "bookmaker": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "gameId": {
+            "type": "string"
+          },
+          "id": {
+            "type": "string"
+          },
+          "league": {
+            "type": "string"
+          },
+          "line": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "market": {
+            "enum": [
+              "moneyline",
+              "spread",
+              "total",
+              "player_prop"
+            ]
+          },
+          "model": {
+            "additionalProperties": false,
+            "properties": {
+              "evPerUnit": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              },
+              "evPercent": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              },
+              "lockedAt": {
+                "type": "string"
+              },
+              "modelSource": {
+                "type": "string"
+              },
+              "modelVersion": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "probability": {
+                "maximum": 1,
+                "minimum": 0,
+                "type": "number"
+              },
+              "projection": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              }
+            },
+            "required": [
+              "probability",
+              "lockedAt"
+            ],
+            "type": "object"
+          },
+          "price": {
+            "type": "integer"
+          },
+          "side": {
+            "type": "string"
+          },
+          "stat": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "subject": {
+            "additionalProperties": false,
+            "properties": {
+              "kind": {
+                "enum": [
+                  "team",
+                  "player"
+                ]
+              },
+              "name": {
+                "type": "string"
+              },
+              "playerId": {
+                "type": [
+                  "string",
+                  "number",
+                  "null"
+                ]
+              },
+              "team": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
+            },
+            "required": [
+              "kind",
+              "name"
+            ],
+            "type": "object"
+          }
+        },
+        "required": [
+          "id",
+          "gameId",
+          "league",
+          "market",
+          "subject",
+          "side"
+        ],
+        "type": "object"
+      },
+      "minItems": 1,
+      "type": "array"
+    },
+    "settlement": {
+      "additionalProperties": false,
+      "description": "Write-once settlement record, present when status is 'settled'. totalPayout/profit are null when the parlay contains an unpriced pick (picks-only for money) \u2014 never invented.",
+      "properties": {
+        "legs": {
+          "items": {
+            "additionalProperties": false,
+            "properties": {
+              "actual": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              },
+              "finalScore": {
+                "additionalProperties": false,
+                "properties": {
+                  "away": {
+                    "type": "number"
+                  },
+                  "home": {
+                    "type": "number"
+                  }
+                },
+                "required": [
+                  "home",
+                  "away"
+                ],
+                "type": [
+                  "object",
+                  "null"
+                ]
+              },
+              "outcome": {
+                "enum": [
+                  "win",
+                  "loss",
+                  "push",
+                  "void",
+                  "ungraded"
+                ]
+              },
+              "selectionId": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "selectionId",
+              "outcome"
+            ],
+            "type": "object"
+          },
+          "type": "array"
+        },
+        "moneyTracked": {
+          "type": "boolean"
+        },
+        "profit": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "result": {
+          "enum": [
+            "win",
+            "loss",
+            "push"
+          ]
+        },
+        "settledAt": {
+          "format": "date-time",
+          "type": "string"
+        },
+        "totalPayout": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "totalStaked": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "settledAt",
+        "result",
+        "legs"
+      ],
+      "type": "object"
+    },
+    "snapshotId": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "source": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "stake": {
+      "minimum": 0,
+      "type": "number"
+    },
+    "status": {
+      "enum": [
+        "open",
+        "settled"
+      ]
+    },
+    "v": {
+      "const": 1
+    }
+  },
+  "required": [
+    "contract",
+    "v",
+    "class",
+    "source",
+    "fetchedAt",
+    "id",
+    "snapshotId",
+    "status",
+    "legs",
+    "stake"
+  ],
+  "title": "ParlaySnapshot",
+  "type": "object"
+}

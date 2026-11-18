@@ -1,0 +1,127 @@
+{
+  "$id": "contracts/lineset.schema.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "additionalProperties": false,
+  "description": "One bookmaker's complete line set for one game (Quant Apparatus spec \u00a74, contract 2; sportsbook Rule 9). A LineSet names exactly ONE bookmaker as a plain string \u2014 a blend of books cannot be expressed in this shape, by design. Prices are American odds (integers). A market the book does not carry is null, never invented; the producer (collector extractBoardLineSet) returns no set at all when all three markets are null. boardSnapshotRef ties the set to the feed edition it came from (feed generatedAt + game id); native collector line sets do not embed it yet \u2014 it is derivable from the wrapping board game and becomes embedded when producers adopt the envelope (post-Phase A).",
+  "payloadRequired": [
+    "bookmaker",
+    "fetchedAt"
+  ],
+  "properties": {
+    "boardSnapshotRef": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "bookmaker": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "class": {
+      "enum": [
+        "Live",
+        "Historical",
+        "Estimated",
+        "SIMULATED"
+      ]
+    },
+    "contract": {
+      "const": "lineset"
+    },
+    "fetchedAt": {
+      "format": "date-time",
+      "type": "string"
+    },
+    "gameId": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "id": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "moneyline": {
+      "additionalProperties": false,
+      "properties": {
+        "away": {
+          "type": "integer"
+        },
+        "home": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "home",
+        "away"
+      ],
+      "type": [
+        "object",
+        "null"
+      ]
+    },
+    "source": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "spread": {
+      "additionalProperties": false,
+      "properties": {
+        "away": {
+          "type": "integer"
+        },
+        "home": {
+          "type": "integer"
+        },
+        "line": {
+          "description": "Signed from the home team's perspective (negative = home favored), matching the collector's published convention.",
+          "type": "number"
+        }
+      },
+      "required": [
+        "line",
+        "home",
+        "away"
+      ],
+      "type": [
+        "object",
+        "null"
+      ]
+    },
+    "total": {
+      "additionalProperties": false,
+      "properties": {
+        "line": {
+          "type": "number"
+        },
+        "over": {
+          "type": "integer"
+        },
+        "under": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "line",
+        "over",
+        "under"
+      ],
+      "type": [
+        "object",
+        "null"
+      ]
+    },
+    "v": {
+      "const": 1
+    }
+  },
+  "required": [
+    "contract",
+    "v",
+    "class",
+    "source",
+    "fetchedAt",
+    "id",
+    "bookmaker"
+  ],
+  "title": "LineSet",
+  "type": "object"
+}

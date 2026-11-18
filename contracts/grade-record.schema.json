@@ -1,0 +1,119 @@
+{
+  "$id": "contracts/grade-record.schema.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "additionalProperties": false,
+  "description": "One graded Pick or one graded ParlaySnapshot \u2014 the atom of the grading ledger (Quant Apparatus spec \u00a74 contract 6 and \u00a75.2). modelProb is REQUIRED and nullable on purpose: a pick grade carries the leg's recorded locked probability (never backfilled when the leg recorded none), and a parlay grade carries modelProb: null \u2014 no single model probability exists for a parlay and none may be invented. result excludes 'void'/'ungraded' \u2014 those legs produce no grade record at all (the app's unified record rule). brierContribution is computed by the ledger (Phase B); native on-device grade entries do not carry it yet.",
+  "payloadRequired": [
+    "id",
+    "subjectKind",
+    "snapshotId",
+    "result",
+    "modelProb",
+    "settledAt"
+  ],
+  "properties": {
+    "brierContribution": {
+      "maximum": 1,
+      "minimum": 0,
+      "type": "number"
+    },
+    "class": {
+      "enum": [
+        "Live",
+        "Historical",
+        "Estimated",
+        "SIMULATED"
+      ]
+    },
+    "contract": {
+      "const": "grade-record"
+    },
+    "fetchedAt": {
+      "format": "date-time",
+      "type": "string"
+    },
+    "id": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "league": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "modelProb": {
+      "maximum": 1,
+      "minimum": 0,
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "prediction": {
+      "description": "Plain-language label of what was picked, e.g. 'Minnesota Timberwolves \u2014 Moneyline'.",
+      "type": "string"
+    },
+    "profit": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "result": {
+      "enum": [
+        "win",
+        "loss",
+        "push"
+      ]
+    },
+    "selectionId": {
+      "description": "The graded pick's id (pick grades only).",
+      "type": "string"
+    },
+    "settledAt": {
+      "format": "date-time",
+      "type": "string"
+    },
+    "snapshotId": {
+      "description": "The parlay snapshot (ticket) this grade belongs to.",
+      "minLength": 1,
+      "type": "string"
+    },
+    "source": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "sport": {
+      "type": "string"
+    },
+    "stake": {
+      "minimum": 0,
+      "type": "number"
+    },
+    "subjectKind": {
+      "enum": [
+        "pick",
+        "parlay"
+      ]
+    },
+    "v": {
+      "const": 1
+    }
+  },
+  "required": [
+    "contract",
+    "v",
+    "class",
+    "source",
+    "fetchedAt",
+    "id",
+    "subjectKind",
+    "snapshotId",
+    "result",
+    "modelProb",
+    "settledAt"
+  ],
+  "title": "GradeRecord",
+  "type": "object"
+}

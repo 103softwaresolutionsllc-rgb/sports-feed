@@ -606,6 +606,14 @@ class Harvester:
     landing: RawLanding
     ledger: BudgetLedger
     transport: object = field(default=urllib_transport)
+    # Policy gate (Nov 17, 2026): API-Sports suspended the account
+    # because requests arrived from shared cloud IPs (GitHub Actions,
+    # Vercel). The API may only be called from a dedicated-IP
+    # environment that explicitly opts in with INTELLIGENCE_ALLOW_API=1
+    # (the Legion runner). Everywhere else the harvest runs
+    # fallback-only: no API request, no budget spend, no stored error
+    # payload — rule 10 serves games from ESPN instead.
+    allow_api: bool = False
 
     def _fetch(self, sport: str, task: FetchTask):
         cfg = SPORT_CONFIG[sport]
@@ -620,6 +628,8 @@ class Harvester:
             entry = {
                 "planned": len(tasks),
                 "fetched": 0,
+                "api_allowed": self.allow_api,
+                "skipped_api_disabled": 0,
                 "skipped_budget": 0,
                 "fetch_errors": 0,
                 "fallback_files": [],
@@ -637,21 +647,29 @@ class Harvester:
             }
             if not dry_run:
                 for task in tasks:
-                    if not self.ledger.can_spend(sport):
+                    payload = None
+                    if not self.allow_api:
+                        # Fallback-only mode: never touch the API (see
+                        # the allow_api policy note on the dataclass).
+                        # payload stays None, so the rule-10 block
+                        # below serves games from ESPN; teams and
+                        # standings simply store nothing this run.
+                        entry["skipped_api_disabled"] += 1
+                    elif not self.ledger.can_spend(sport):
                         entry["skipped_budget"] += 1
                         continue
-                    self.ledger.spend(sport)
-                    payload = None
-                    try:
-                        payload = self._fetch(sport, task)
-                    except Exception:  # noqa: BLE001 — recorded, not hidden
-                        entry["fetch_errors"] += 1
-                    if payload is not None:
-                        path = self.landing.store(
-                            sport, task.dataset, task.path, task.params, payload
-                        )
-                        entry["fetched"] += 1
-                        entry["files"].append(str(path))
+                    else:
+                        self.ledger.spend(sport)
+                        try:
+                            payload = self._fetch(sport, task)
+                        except Exception:  # noqa: BLE001 — recorded, not hidden
+                            entry["fetch_errors"] += 1
+                        if payload is not None:
+                            path = self.landing.store(
+                                sport, task.dataset, task.path, task.params, payload
+                            )
+                            entry["fetched"] += 1
+                            entry["files"].append(str(path))
                     # Governing rule 10: a failed games payload (suspended
                     # account, lockout, quota death — any reason) promotes
                     # the next API in the chain automatically.
@@ -685,10 +703,12 @@ def main(argv: list[str] | None = None) -> int:
                         help="daily backfill request cap per sport")
     args = parser.parse_args(argv)
 
+    allow_api = os.environ.get("INTELLIGENCE_ALLOW_API") == "1"
     api_key = os.environ.get("APISPORTS_KEY")
-    if not args.dry_run and not api_key:
-        print("APISPORTS_KEY is not set; refusing to harvest "
-              "(use --dry-run to plan without a key).", file=sys.stderr)
+    if not args.dry_run and allow_api and not api_key:
+        print("INTELLIGENCE_ALLOW_API=1 but APISPORTS_KEY is not set; "
+              "refusing to harvest (use --dry-run to plan without a "
+              "key).", file=sys.stderr)
         return 2
 
     data_root = Path(args.data_root)
@@ -696,6 +716,7 @@ def main(argv: list[str] | None = None) -> int:
         api_key=api_key,
         landing=RawLanding(data_root),
         ledger=BudgetLedger(data_root / "harvest_state.json", daily_cap=args.cap),
+        allow_api=allow_api,
     )
     report = harvester.run(args.sports, dry_run=args.dry_run)
     print(json.dumps(report, indent=2))

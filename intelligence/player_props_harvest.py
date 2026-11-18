@@ -915,10 +915,16 @@ def main(argv: list[str] | None = None) -> int:
                         help="plan only; make NO network calls/writes")
     args = parser.parse_args(argv)
 
+    # Policy gate (Nov 17, 2026): same rule as the base harvest —
+    # API-Sports is called only from a dedicated-IP environment that
+    # opts in with INTELLIGENCE_ALLOW_API=1. Everywhere else the API
+    # pass is skipped and the ESPN fallback below fills the stores.
+    allow_api = os.environ.get("INTELLIGENCE_ALLOW_API") == "1"
     api_key = os.environ.get("APISPORTS_KEY")
-    if not args.dry_run and not api_key:
-        print("APISPORTS_KEY is not set; refusing to harvest "
-              "(use --dry-run to plan without a key).", file=sys.stderr)
+    if not args.dry_run and allow_api and not api_key:
+        print("INTELLIGENCE_ALLOW_API=1 but APISPORTS_KEY is not set; "
+              "refusing to harvest (use --dry-run to plan without a "
+              "key).", file=sys.stderr)
         return 2
 
     sport = args.sport
@@ -973,13 +979,22 @@ def main(argv: list[str] | None = None) -> int:
         print(json.dumps(plan, indent=2))
         return 0
 
-    report = run_fanout(
-        sport, season, team_ids,
-        transport=urllib_transport, ledger=ledger,
-        landing=RawLanding(data_root), registry=registry,
-        log_store=log_store, state=state,
-        priority_team_ids=priority_team_ids, api_key=api_key,
-    )
+    if allow_api:
+        report = run_fanout(
+            sport, season, team_ids,
+            transport=urllib_transport, ledger=ledger,
+            landing=RawLanding(data_root), registry=registry,
+            log_store=log_store, state=state,
+            priority_team_ids=priority_team_ids, api_key=api_key,
+        )
+    else:
+        report = {
+            "games_added": 0,
+            "players_registered": 0,
+            "api_skipped": "INTELLIGENCE_ALLOW_API not set — shared-IP "
+                           "environment; API pass disabled by policy, "
+                           "ESPN fallback serves the fan-out",
+        }
 
     # Governing rule 10 (Isaac, Nov 17, 2026): when the primary
     # account delivers NOTHING — suspended, locked, quota-dead, any

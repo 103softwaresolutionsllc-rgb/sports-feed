@@ -1,0 +1,8816 @@
+{
+  "errors": [],
+  "get": "games",
+  "parameters": {
+    "league": "1",
+    "season": "2022",
+    "source": "espn-fallback"
+  },
+  "response": [
+    {
+      "date": "2022-09-09T00:20Z",
+      "id": 401437654,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 31
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        },
+        "home": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        }
+      }
+    },
+    {
+      "date": "2022-09-11T17:00Z",
+      "id": 401437630,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 7
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 17,
+          "name": "New England Patriots"
+        },
+        "home": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        }
+      }
+    },
+    {
+      "date": "2022-09-11T17:00Z",
+      "id": 401437632,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 9
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        },
+        "home": {
+          "id": 20,
+          "name": "New York Jets"
+        }
+      }
+    },
+    {
+      "date": "2022-09-11T17:00Z",
+      "id": 401437634,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 23
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        },
+        "home": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        }
+      }
+    },
+    {
+      "date": "2022-09-11T17:00Z",
+      "id": 401437637,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        },
+        "home": {
+          "id": 34,
+          "name": "Houston Texans"
+        }
+      }
+    },
+    {
+      "date": "2022-09-11T17:00Z",
+      "id": 401437646,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 22
+        },
+        "home": {
+          "total": 28
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        },
+        "home": {
+          "id": 28,
+          "name": "Washington Commanders"
+        }
+      }
+    },
+    {
+      "date": "2022-09-11T17:00Z",
+      "id": 401437647,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 19
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        },
+        "home": {
+          "id": 3,
+          "name": "Chicago Bears"
+        }
+      }
+    },
+    {
+      "date": "2022-09-11T17:00Z",
+      "id": 401437648,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 38
+        },
+        "home": {
+          "total": 35
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        },
+        "home": {
+          "id": 8,
+          "name": "Detroit Lions"
+        }
+      }
+    },
+    {
+      "date": "2022-09-11T17:00Z",
+      "id": 401437650,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 27
+        },
+        "home": {
+          "total": 26
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        },
+        "home": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        }
+      }
+    },
+    {
+      "date": "2022-09-11T17:00Z",
+      "id": 401437651,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 26
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        },
+        "home": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        }
+      }
+    },
+    {
+      "date": "2022-09-11T20:25Z",
+      "id": 401437640,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 21
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 19,
+          "name": "New York Giants"
+        },
+        "home": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        }
+      }
+    },
+    {
+      "date": "2022-09-11T20:25Z",
+      "id": 401437643,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 19
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        },
+        "home": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        }
+      }
+    },
+    {
+      "date": "2022-09-11T20:25Z",
+      "id": 401437649,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 7
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        },
+        "home": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        }
+      }
+    },
+    {
+      "date": "2022-09-11T20:25Z",
+      "id": 401437653,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 44
+        },
+        "home": {
+          "total": 21
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        },
+        "home": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        }
+      }
+    },
+    {
+      "date": "2022-09-12T00:20Z",
+      "id": 401437644,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 19
+        },
+        "home": {
+          "total": 3
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        },
+        "home": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        }
+      }
+    },
+    {
+      "date": "2022-09-13T00:15Z",
+      "id": 401437655,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 7,
+          "name": "Denver Broncos"
+        },
+        "home": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        }
+      }
+    },
+    {
+      "date": "2022-09-16T00:15Z",
+      "id": 401434030,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        },
+        "home": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        }
+      }
+    },
+    {
+      "date": "2022-09-18T17:00Z",
+      "id": 401437633,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 42
+        },
+        "home": {
+          "total": 38
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        },
+        "home": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        }
+      }
+    },
+    {
+      "date": "2022-09-18T17:00Z",
+      "id": 401437635,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 31
+        },
+        "home": {
+          "total": 30
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 20,
+          "name": "New York Jets"
+        },
+        "home": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        }
+      }
+    },
+    {
+      "date": "2022-09-18T17:00Z",
+      "id": 401437636,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 14
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 17,
+          "name": "New England Patriots"
+        },
+        "home": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        }
+      }
+    },
+    {
+      "date": "2022-09-18T17:00Z",
+      "id": 401437639,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 0
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        },
+        "home": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        }
+      }
+    },
+    {
+      "date": "2022-09-18T17:00Z",
+      "id": 401437645,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 19
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        },
+        "home": {
+          "id": 19,
+          "name": "New York Giants"
+        }
+      }
+    },
+    {
+      "date": "2022-09-18T17:00Z",
+      "id": 401437652,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        },
+        "home": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        }
+      }
+    },
+    {
+      "date": "2022-09-18T17:00Z",
+      "id": 401437732,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 27
+        },
+        "home": {
+          "total": 36
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 28,
+          "name": "Washington Commanders"
+        },
+        "home": {
+          "id": 8,
+          "name": "Detroit Lions"
+        }
+      }
+    },
+    {
+      "date": "2022-09-18T20:05Z",
+      "id": 401437605,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 7
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        },
+        "home": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        }
+      }
+    },
+    {
+      "date": "2022-09-18T20:05Z",
+      "id": 401437733,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 27
+        },
+        "home": {
+          "total": 31
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        },
+        "home": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        }
+      }
+    },
+    {
+      "date": "2022-09-18T20:25Z",
+      "id": 401437641,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 9
+        },
+        "home": {
+          "total": 16
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 34,
+          "name": "Houston Texans"
+        },
+        "home": {
+          "id": 7,
+          "name": "Denver Broncos"
+        }
+      }
+    },
+    {
+      "date": "2022-09-18T20:25Z",
+      "id": 401437642,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 29
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        },
+        "home": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        }
+      }
+    },
+    {
+      "date": "2022-09-18T20:25Z",
+      "id": 401437734,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        },
+        "home": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        }
+      }
+    },
+    {
+      "date": "2022-09-19T00:20Z",
+      "id": 401437606,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3,
+          "name": "Chicago Bears"
+        },
+        "home": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        }
+      }
+    },
+    {
+      "date": "2022-09-19T23:15Z",
+      "id": 401436831,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 7
+        },
+        "home": {
+          "total": 41
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        },
+        "home": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        }
+      }
+    },
+    {
+      "date": "2022-09-20T00:30Z",
+      "id": 401436832,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 7
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        },
+        "home": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        }
+      }
+    },
+    {
+      "date": "2022-09-23T00:15Z",
+      "id": 401437735,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 29
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        },
+        "home": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        }
+      }
+    },
+    {
+      "date": "2022-09-25T17:00Z",
+      "id": 401437631,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 37
+        },
+        "home": {
+          "total": 26
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        },
+        "home": {
+          "id": 17,
+          "name": "New England Patriots"
+        }
+      }
+    },
+    {
+      "date": "2022-09-25T17:00Z",
+      "id": 401437638,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        },
+        "home": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        }
+      }
+    },
+    {
+      "date": "2022-09-25T17:00Z",
+      "id": 401437736,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 14
+        },
+        "home": {
+          "total": 22
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        },
+        "home": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        }
+      }
+    },
+    {
+      "date": "2022-09-25T17:00Z",
+      "id": 401437737,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 34,
+          "name": "Houston Texans"
+        },
+        "home": {
+          "id": 3,
+          "name": "Chicago Bears"
+        }
+      }
+    },
+    {
+      "date": "2022-09-25T17:00Z",
+      "id": 401437738,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 19
+        },
+        "home": {
+          "total": 21
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        },
+        "home": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        }
+      }
+    },
+    {
+      "date": "2022-09-25T17:00Z",
+      "id": 401437739,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 28
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 8,
+          "name": "Detroit Lions"
+        },
+        "home": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        }
+      }
+    },
+    {
+      "date": "2022-09-25T17:00Z",
+      "id": 401437740,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 27
+        },
+        "home": {
+          "total": 12
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        },
+        "home": {
+          "id": 20,
+          "name": "New York Jets"
+        }
+      }
+    },
+    {
+      "date": "2022-09-25T17:00Z",
+      "id": 401437741,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 22
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        },
+        "home": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        }
+      }
+    },
+    {
+      "date": "2022-09-25T17:00Z",
+      "id": 401437742,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 8
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        },
+        "home": {
+          "id": 28,
+          "name": "Washington Commanders"
+        }
+      }
+    },
+    {
+      "date": "2022-09-25T20:05Z",
+      "id": 401437743,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 38
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        },
+        "home": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        }
+      }
+    },
+    {
+      "date": "2022-09-25T20:25Z",
+      "id": 401437607,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 14
+        },
+        "home": {
+          "total": 12
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        },
+        "home": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        }
+      }
+    },
+    {
+      "date": "2022-09-25T20:25Z",
+      "id": 401437744,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 12
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        },
+        "home": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        }
+      }
+    },
+    {
+      "date": "2022-09-25T20:25Z",
+      "id": 401437745,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 27
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        },
+        "home": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        }
+      }
+    },
+    {
+      "date": "2022-09-26T00:20Z",
+      "id": 401437746,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 11
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        },
+        "home": {
+          "id": 7,
+          "name": "Denver Broncos"
+        }
+      }
+    },
+    {
+      "date": "2022-09-27T00:15Z",
+      "id": 401437747,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 23
+        },
+        "home": {
+          "total": 16
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        },
+        "home": {
+          "id": 19,
+          "name": "New York Giants"
+        }
+      }
+    },
+    {
+      "date": "2022-09-30T00:15Z",
+      "id": 401437748,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 15
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        },
+        "home": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        }
+      }
+    },
+    {
+      "date": "2022-10-02T13:30Z",
+      "id": 401435639,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 28
+        },
+        "home": {
+          "total": 25
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        },
+        "home": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        }
+      }
+    },
+    {
+      "date": "2022-10-02T17:00Z",
+      "id": 401437749,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        },
+        "home": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        }
+      }
+    },
+    {
+      "date": "2022-10-02T17:00Z",
+      "id": 401437750,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 23
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        },
+        "home": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        }
+      }
+    },
+    {
+      "date": "2022-10-02T17:00Z",
+      "id": 401437751,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 25
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 28,
+          "name": "Washington Commanders"
+        },
+        "home": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        }
+      }
+    },
+    {
+      "date": "2022-10-02T17:00Z",
+      "id": 401437752,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 48
+        },
+        "home": {
+          "total": 45
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        },
+        "home": {
+          "id": 8,
+          "name": "Detroit Lions"
+        }
+      }
+    },
+    {
+      "date": "2022-10-02T17:00Z",
+      "id": 401437753,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 34
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        },
+        "home": {
+          "id": 34,
+          "name": "Houston Texans"
+        }
+      }
+    },
+    {
+      "date": "2022-10-02T17:00Z",
+      "id": 401437754,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        },
+        "home": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        }
+      }
+    },
+    {
+      "date": "2022-10-02T17:00Z",
+      "id": 401437755,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 12
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3,
+          "name": "Chicago Bears"
+        },
+        "home": {
+          "id": 19,
+          "name": "New York Giants"
+        }
+      }
+    },
+    {
+      "date": "2022-10-02T17:00Z",
+      "id": 401437756,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 21
+        },
+        "home": {
+          "total": 29
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        },
+        "home": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        }
+      }
+    },
+    {
+      "date": "2022-10-02T17:00Z",
+      "id": 401437757,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 20,
+          "name": "New York Jets"
+        },
+        "home": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        }
+      }
+    },
+    {
+      "date": "2022-10-02T20:05Z",
+      "id": 401437758,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 26
+        },
+        "home": {
+          "total": 16
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        },
+        "home": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        }
+      }
+    },
+    {
+      "date": "2022-10-02T20:25Z",
+      "id": 401437759,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 17,
+          "name": "New England Patriots"
+        },
+        "home": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        }
+      }
+    },
+    {
+      "date": "2022-10-02T20:25Z",
+      "id": 401437760,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 23
+        },
+        "home": {
+          "total": 32
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 7,
+          "name": "Denver Broncos"
+        },
+        "home": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        }
+      }
+    },
+    {
+      "date": "2022-10-03T00:20Z",
+      "id": 401437470,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 41
+        },
+        "home": {
+          "total": 31
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        },
+        "home": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        }
+      }
+    },
+    {
+      "date": "2022-10-04T00:15Z",
+      "id": 401437761,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 9
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        },
+        "home": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        }
+      }
+    },
+    {
+      "date": "2022-10-07T00:15Z",
+      "id": 401437762,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 12
+        },
+        "home": {
+          "total": 9
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        },
+        "home": {
+          "id": 7,
+          "name": "Denver Broncos"
+        }
+      }
+    },
+    {
+      "date": "2022-10-09T13:30Z",
+      "id": 401435640,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 27
+        },
+        "home": {
+          "total": 22
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 19,
+          "name": "New York Giants"
+        },
+        "home": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        }
+      }
+    },
+    {
+      "date": "2022-10-09T17:00Z",
+      "id": 401437763,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 3
+        },
+        "home": {
+          "total": 38
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        },
+        "home": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        }
+      }
+    },
+    {
+      "date": "2022-10-09T17:00Z",
+      "id": 401437764,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 30
+        },
+        "home": {
+          "total": 28
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        },
+        "home": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        }
+      }
+    },
+    {
+      "date": "2022-10-09T17:00Z",
+      "id": 401437765,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 13
+        },
+        "home": {
+          "total": 6
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 34,
+          "name": "Houston Texans"
+        },
+        "home": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        }
+      }
+    },
+    {
+      "date": "2022-10-09T17:00Z",
+      "id": 401437766,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 22
+        },
+        "home": {
+          "total": 29
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3,
+          "name": "Chicago Bears"
+        },
+        "home": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        }
+      }
+    },
+    {
+      "date": "2022-10-09T17:00Z",
+      "id": 401437767,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 0
+        },
+        "home": {
+          "total": 29
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 8,
+          "name": "Detroit Lions"
+        },
+        "home": {
+          "id": 17,
+          "name": "New England Patriots"
+        }
+      }
+    },
+    {
+      "date": "2022-10-09T17:00Z",
+      "id": 401437768,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 32
+        },
+        "home": {
+          "total": 39
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        },
+        "home": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        }
+      }
+    },
+    {
+      "date": "2022-10-09T17:00Z",
+      "id": 401437769,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 40
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        },
+        "home": {
+          "id": 20,
+          "name": "New York Jets"
+        }
+      }
+    },
+    {
+      "date": "2022-10-09T17:00Z",
+      "id": 401437770,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 15
+        },
+        "home": {
+          "total": 21
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        },
+        "home": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        }
+      }
+    },
+    {
+      "date": "2022-10-09T17:00Z",
+      "id": 401437771,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 21
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        },
+        "home": {
+          "id": 28,
+          "name": "Washington Commanders"
+        }
+      }
+    },
+    {
+      "date": "2022-10-09T20:05Z",
+      "id": 401437772,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 37
+        },
+        "home": {
+          "total": 15
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        },
+        "home": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        }
+      }
+    },
+    {
+      "date": "2022-10-09T20:25Z",
+      "id": 401437773,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        },
+        "home": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        }
+      }
+    },
+    {
+      "date": "2022-10-09T20:25Z",
+      "id": 401437774,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 22
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        },
+        "home": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        }
+      }
+    },
+    {
+      "date": "2022-10-10T00:20Z",
+      "id": 401437775,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 19
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        },
+        "home": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        }
+      }
+    },
+    {
+      "date": "2022-10-11T00:15Z",
+      "id": 401437776,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 29
+        },
+        "home": {
+          "total": 30
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        },
+        "home": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        }
+      }
+    },
+    {
+      "date": "2022-10-14T00:15Z",
+      "id": 401437777,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 12
+        },
+        "home": {
+          "total": 7
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 28,
+          "name": "Washington Commanders"
+        },
+        "home": {
+          "id": 3,
+          "name": "Chicago Bears"
+        }
+      }
+    },
+    {
+      "date": "2022-10-16T17:00Z",
+      "id": 401437778,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 14
+        },
+        "home": {
+          "total": 28
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        },
+        "home": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        }
+      }
+    },
+    {
+      "date": "2022-10-16T17:00Z",
+      "id": 401437779,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 38
+        },
+        "home": {
+          "total": 15
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 17,
+          "name": "New England Patriots"
+        },
+        "home": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        }
+      }
+    },
+    {
+      "date": "2022-10-16T17:00Z",
+      "id": 401437780,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 27
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 20,
+          "name": "New York Jets"
+        },
+        "home": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        }
+      }
+    },
+    {
+      "date": "2022-10-16T17:00Z",
+      "id": 401437781,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 27
+        },
+        "home": {
+          "total": 34
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        },
+        "home": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        }
+      }
+    },
+    {
+      "date": "2022-10-16T17:00Z",
+      "id": 401437782,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 16
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        },
+        "home": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        }
+      }
+    },
+    {
+      "date": "2022-10-16T17:00Z",
+      "id": 401437783,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 30
+        },
+        "home": {
+          "total": 26
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        },
+        "home": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        }
+      }
+    },
+    {
+      "date": "2022-10-16T17:00Z",
+      "id": 401437784,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        },
+        "home": {
+          "id": 19,
+          "name": "New York Giants"
+        }
+      }
+    },
+    {
+      "date": "2022-10-16T17:00Z",
+      "id": 401437785,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 18
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        },
+        "home": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        }
+      }
+    },
+    {
+      "date": "2022-10-16T20:05Z",
+      "id": 401437786,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        },
+        "home": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        }
+      }
+    },
+    {
+      "date": "2022-10-16T20:05Z",
+      "id": 401437787,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 9
+        },
+        "home": {
+          "total": 19
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        },
+        "home": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        }
+      }
+    },
+    {
+      "date": "2022-10-16T20:25Z",
+      "id": 401437788,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        },
+        "home": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        }
+      }
+    },
+    {
+      "date": "2022-10-17T00:20Z",
+      "id": 401437789,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 26
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        },
+        "home": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        }
+      }
+    },
+    {
+      "date": "2022-10-18T00:15Z",
+      "id": 401437790,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 19
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 7,
+          "name": "Denver Broncos"
+        },
+        "home": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        }
+      }
+    },
+    {
+      "date": "2022-10-21T00:15Z",
+      "id": 401437791,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 34
+        },
+        "home": {
+          "total": 42
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        },
+        "home": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        }
+      }
+    },
+    {
+      "date": "2022-10-23T17:00Z",
+      "id": 401437792,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        },
+        "home": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        }
+      }
+    },
+    {
+      "date": "2022-10-23T17:00Z",
+      "id": 401437793,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 3
+        },
+        "home": {
+          "total": 21
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        },
+        "home": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        }
+      }
+    },
+    {
+      "date": "2022-10-23T17:00Z",
+      "id": 401437794,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 35
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        },
+        "home": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        }
+      }
+    },
+    {
+      "date": "2022-10-23T17:00Z",
+      "id": 401437795,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 6
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 8,
+          "name": "Detroit Lions"
+        },
+        "home": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        }
+      }
+    },
+    {
+      "date": "2022-10-23T17:00Z",
+      "id": 401437796,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 23
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 19,
+          "name": "New York Giants"
+        },
+        "home": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        }
+      }
+    },
+    {
+      "date": "2022-10-23T17:00Z",
+      "id": 401437797,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 19
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        },
+        "home": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        }
+      }
+    },
+    {
+      "date": "2022-10-23T17:00Z",
+      "id": 401437798,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 21
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        },
+        "home": {
+          "id": 28,
+          "name": "Washington Commanders"
+        }
+      }
+    },
+    {
+      "date": "2022-10-23T20:05Z",
+      "id": 401437799,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 9
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 20,
+          "name": "New York Jets"
+        },
+        "home": {
+          "id": 7,
+          "name": "Denver Broncos"
+        }
+      }
+    },
+    {
+      "date": "2022-10-23T20:05Z",
+      "id": 401437800,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 38
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 34,
+          "name": "Houston Texans"
+        },
+        "home": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        }
+      }
+    },
+    {
+      "date": "2022-10-23T20:25Z",
+      "id": 401437801,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 37
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        },
+        "home": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        }
+      }
+    },
+    {
+      "date": "2022-10-23T20:25Z",
+      "id": 401437802,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 44
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        },
+        "home": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        }
+      }
+    },
+    {
+      "date": "2022-10-24T00:20Z",
+      "id": 401437803,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 16
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        },
+        "home": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        }
+      }
+    },
+    {
+      "date": "2022-10-25T00:15Z",
+      "id": 401437804,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 33
+        },
+        "home": {
+          "total": 14
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3,
+          "name": "Chicago Bears"
+        },
+        "home": {
+          "id": 17,
+          "name": "New England Patriots"
+        }
+      }
+    },
+    {
+      "date": "2022-10-28T00:15Z",
+      "id": 401437805,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 27
+        },
+        "home": {
+          "total": 22
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        },
+        "home": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        }
+      }
+    },
+    {
+      "date": "2022-10-30T13:30Z",
+      "id": 401435641,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 21
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 7,
+          "name": "Denver Broncos"
+        },
+        "home": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        }
+      }
+    },
+    {
+      "date": "2022-10-30T17:00Z",
+      "id": 401437806,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 34
+        },
+        "home": {
+          "total": 37
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        },
+        "home": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        }
+      }
+    },
+    {
+      "date": "2022-10-30T17:00Z",
+      "id": 401437807,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 29
+        },
+        "home": {
+          "total": 49
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3,
+          "name": "Chicago Bears"
+        },
+        "home": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        }
+      }
+    },
+    {
+      "date": "2022-10-30T17:00Z",
+      "id": 401437808,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 31
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        },
+        "home": {
+          "id": 8,
+          "name": "Detroit Lions"
+        }
+      }
+    },
+    {
+      "date": "2022-10-30T17:00Z",
+      "id": 401437809,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 26
+        },
+        "home": {
+          "total": 34
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        },
+        "home": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        }
+      }
+    },
+    {
+      "date": "2022-10-30T17:00Z",
+      "id": 401437810,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 0
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        },
+        "home": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        }
+      }
+    },
+    {
+      "date": "2022-10-30T17:00Z",
+      "id": 401437811,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 22
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 17,
+          "name": "New England Patriots"
+        },
+        "home": {
+          "id": 20,
+          "name": "New York Jets"
+        }
+      }
+    },
+    {
+      "date": "2022-10-30T17:00Z",
+      "id": 401437812,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 13
+        },
+        "home": {
+          "total": 35
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        },
+        "home": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        }
+      }
+    },
+    {
+      "date": "2022-10-30T20:05Z",
+      "id": 401437813,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        },
+        "home": {
+          "id": 34,
+          "name": "Houston Texans"
+        }
+      }
+    },
+    {
+      "date": "2022-10-30T20:25Z",
+      "id": 401437814,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 16
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 28,
+          "name": "Washington Commanders"
+        },
+        "home": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        }
+      }
+    },
+    {
+      "date": "2022-10-30T20:25Z",
+      "id": 401437815,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 31
+        },
+        "home": {
+          "total": 14
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        },
+        "home": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        }
+      }
+    },
+    {
+      "date": "2022-10-30T20:25Z",
+      "id": 401437816,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 13
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 19,
+          "name": "New York Giants"
+        },
+        "home": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        }
+      }
+    },
+    {
+      "date": "2022-10-31T00:20Z",
+      "id": 401437817,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        },
+        "home": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        }
+      }
+    },
+    {
+      "date": "2022-11-01T00:15Z",
+      "id": 401437818,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 13
+        },
+        "home": {
+          "total": 32
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        },
+        "home": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        }
+      }
+    },
+    {
+      "date": "2022-11-04T00:15Z",
+      "id": 401437819,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 29
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        },
+        "home": {
+          "id": 34,
+          "name": "Houston Texans"
+        }
+      }
+    },
+    {
+      "date": "2022-11-06T18:00Z",
+      "id": 401437820,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        },
+        "home": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        }
+      }
+    },
+    {
+      "date": "2022-11-06T18:00Z",
+      "id": 401437821,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 35
+        },
+        "home": {
+          "total": 32
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        },
+        "home": {
+          "id": 3,
+          "name": "Chicago Bears"
+        }
+      }
+    },
+    {
+      "date": "2022-11-06T18:00Z",
+      "id": 401437822,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 21
+        },
+        "home": {
+          "total": 42
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        },
+        "home": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        }
+      }
+    },
+    {
+      "date": "2022-11-06T18:00Z",
+      "id": 401437823,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 9
+        },
+        "home": {
+          "total": 15
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        },
+        "home": {
+          "id": 8,
+          "name": "Detroit Lions"
+        }
+      }
+    },
+    {
+      "date": "2022-11-06T18:00Z",
+      "id": 401437824,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        },
+        "home": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        }
+      }
+    },
+    {
+      "date": "2022-11-06T18:00Z",
+      "id": 401437825,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 3
+        },
+        "home": {
+          "total": 26
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        },
+        "home": {
+          "id": 17,
+          "name": "New England Patriots"
+        }
+      }
+    },
+    {
+      "date": "2022-11-06T18:00Z",
+      "id": 401437826,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        },
+        "home": {
+          "id": 20,
+          "name": "New York Jets"
+        }
+      }
+    },
+    {
+      "date": "2022-11-06T18:00Z",
+      "id": 401437827,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        },
+        "home": {
+          "id": 28,
+          "name": "Washington Commanders"
+        }
+      }
+    },
+    {
+      "date": "2022-11-06T21:05Z",
+      "id": 401437828,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 31
+        },
+        "home": {
+          "total": 21
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        },
+        "home": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        }
+      }
+    },
+    {
+      "date": "2022-11-06T21:25Z",
+      "id": 401437829,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 13
+        },
+        "home": {
+          "total": 16
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        },
+        "home": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        }
+      }
+    },
+    {
+      "date": "2022-11-07T01:20Z",
+      "id": 401437830,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        },
+        "home": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        }
+      }
+    },
+    {
+      "date": "2022-11-08T01:15Z",
+      "id": 401437831,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 27
+        },
+        "home": {
+          "total": 13
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        },
+        "home": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        }
+      }
+    },
+    {
+      "date": "2022-11-11T01:15Z",
+      "id": 401437832,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 15
+        },
+        "home": {
+          "total": 25
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        },
+        "home": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        }
+      }
+    },
+    {
+      "date": "2022-11-13T14:30Z",
+      "id": 401435638,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 21
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        },
+        "home": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        }
+      }
+    },
+    {
+      "date": "2022-11-13T18:00Z",
+      "id": 401437833,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 33
+        },
+        "home": {
+          "total": 30
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        },
+        "home": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        }
+      }
+    },
+    {
+      "date": "2022-11-13T18:00Z",
+      "id": 401437834,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 31
+        },
+        "home": {
+          "total": 30
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 8,
+          "name": "Detroit Lions"
+        },
+        "home": {
+          "id": 3,
+          "name": "Chicago Bears"
+        }
+      }
+    },
+    {
+      "date": "2022-11-13T18:00Z",
+      "id": 401437835,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        },
+        "home": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        }
+      }
+    },
+    {
+      "date": "2022-11-13T18:00Z",
+      "id": 401437836,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 39
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        },
+        "home": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        }
+      }
+    },
+    {
+      "date": "2022-11-13T18:00Z",
+      "id": 401437837,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 34,
+          "name": "Houston Texans"
+        },
+        "home": {
+          "id": 19,
+          "name": "New York Giants"
+        }
+      }
+    },
+    {
+      "date": "2022-11-13T18:00Z",
+      "id": 401437838,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        },
+        "home": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        }
+      }
+    },
+    {
+      "date": "2022-11-13T18:00Z",
+      "id": 401437839,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 7,
+          "name": "Denver Broncos"
+        },
+        "home": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        }
+      }
+    },
+    {
+      "date": "2022-11-13T21:05Z",
+      "id": 401437840,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 25
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        },
+        "home": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        }
+      }
+    },
+    {
+      "date": "2022-11-13T21:25Z",
+      "id": 401437131,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 28
+        },
+        "home": {
+          "total": 31
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        },
+        "home": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        }
+      }
+    },
+    {
+      "date": "2022-11-13T21:25Z",
+      "id": 401437841,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 27
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        },
+        "home": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        }
+      }
+    },
+    {
+      "date": "2022-11-14T01:20Z",
+      "id": 401437842,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 22
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        },
+        "home": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        }
+      }
+    },
+    {
+      "date": "2022-11-15T01:15Z",
+      "id": 401437843,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 32
+        },
+        "home": {
+          "total": 21
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 28,
+          "name": "Washington Commanders"
+        },
+        "home": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        }
+      }
+    },
+    {
+      "date": "2022-11-18T01:15Z",
+      "id": 401437844,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 27
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        },
+        "home": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        }
+      }
+    },
+    {
+      "date": "2022-11-20T18:00Z",
+      "id": 401437845,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3,
+          "name": "Chicago Bears"
+        },
+        "home": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        }
+      }
+    },
+    {
+      "date": "2022-11-20T18:00Z",
+      "id": 401437846,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 3
+        },
+        "home": {
+          "total": 13
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        },
+        "home": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        }
+      }
+    },
+    {
+      "date": "2022-11-20T18:00Z",
+      "id": 401437847,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 23
+        },
+        "home": {
+          "total": 31
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        },
+        "home": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        }
+      }
+    },
+    {
+      "date": "2022-11-20T18:00Z",
+      "id": 401437848,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 23
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 28,
+          "name": "Washington Commanders"
+        },
+        "home": {
+          "id": 34,
+          "name": "Houston Texans"
+        }
+      }
+    },
+    {
+      "date": "2022-11-20T18:00Z",
+      "id": 401437849,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 16
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        },
+        "home": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        }
+      }
+    },
+    {
+      "date": "2022-11-20T18:00Z",
+      "id": 401437850,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 3
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 20,
+          "name": "New York Jets"
+        },
+        "home": {
+          "id": 17,
+          "name": "New England Patriots"
+        }
+      }
+    },
+    {
+      "date": "2022-11-20T18:00Z",
+      "id": 401437851,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        },
+        "home": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        }
+      }
+    },
+    {
+      "date": "2022-11-20T18:00Z",
+      "id": 401437852,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 31
+        },
+        "home": {
+          "total": 18
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 8,
+          "name": "Detroit Lions"
+        },
+        "home": {
+          "id": 19,
+          "name": "New York Giants"
+        }
+      }
+    },
+    {
+      "date": "2022-11-20T21:05Z",
+      "id": 401437853,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 22
+        },
+        "home": {
+          "total": 16
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        },
+        "home": {
+          "id": 7,
+          "name": "Denver Broncos"
+        }
+      }
+    },
+    {
+      "date": "2022-11-20T21:25Z",
+      "id": 401437855,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 40
+        },
+        "home": {
+          "total": 3
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        },
+        "home": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        }
+      }
+    },
+    {
+      "date": "2022-11-20T21:25Z",
+      "id": 401437856,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 37
+        },
+        "home": {
+          "total": 30
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        },
+        "home": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        }
+      }
+    },
+    {
+      "date": "2022-11-21T01:20Z",
+      "id": 401437854,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 30
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        },
+        "home": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        }
+      }
+    },
+    {
+      "date": "2022-11-22T01:15Z",
+      "id": 401435642,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 38
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        },
+        "home": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        }
+      }
+    },
+    {
+      "date": "2022-11-24T17:30Z",
+      "id": 401437857,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 28
+        },
+        "home": {
+          "total": 25
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        },
+        "home": {
+          "id": 8,
+          "name": "Detroit Lions"
+        }
+      }
+    },
+    {
+      "date": "2022-11-24T21:30Z",
+      "id": 401437858,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 28
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 19,
+          "name": "New York Giants"
+        },
+        "home": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        }
+      }
+    },
+    {
+      "date": "2022-11-25T01:20Z",
+      "id": 401437859,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 26
+        },
+        "home": {
+          "total": 33
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 17,
+          "name": "New England Patriots"
+        },
+        "home": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        }
+      }
+    },
+    {
+      "date": "2022-11-27T18:00Z",
+      "id": 401437860,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 7,
+          "name": "Denver Broncos"
+        },
+        "home": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        }
+      }
+    },
+    {
+      "date": "2022-11-27T18:00Z",
+      "id": 401437861,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        },
+        "home": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        }
+      }
+    },
+    {
+      "date": "2022-11-27T18:00Z",
+      "id": 401437862,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 27
+        },
+        "home": {
+          "total": 28
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        },
+        "home": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        }
+      }
+    },
+    {
+      "date": "2022-11-27T18:00Z",
+      "id": 401437863,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 15
+        },
+        "home": {
+          "total": 30
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 34,
+          "name": "Houston Texans"
+        },
+        "home": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        }
+      }
+    },
+    {
+      "date": "2022-11-27T18:00Z",
+      "id": 401437864,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 31
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3,
+          "name": "Chicago Bears"
+        },
+        "home": {
+          "id": 20,
+          "name": "New York Jets"
+        }
+      }
+    },
+    {
+      "date": "2022-11-27T18:00Z",
+      "id": 401437865,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 16
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        },
+        "home": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        }
+      }
+    },
+    {
+      "date": "2022-11-27T18:00Z",
+      "id": 401437866,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 13
+        },
+        "home": {
+          "total": 19
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        },
+        "home": {
+          "id": 28,
+          "name": "Washington Commanders"
+        }
+      }
+    },
+    {
+      "date": "2022-11-27T21:05Z",
+      "id": 401437867,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 25
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        },
+        "home": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        }
+      }
+    },
+    {
+      "date": "2022-11-27T21:05Z",
+      "id": 401437868,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 40
+        },
+        "home": {
+          "total": 34
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        },
+        "home": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        }
+      }
+    },
+    {
+      "date": "2022-11-27T21:25Z",
+      "id": 401437869,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 26
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        },
+        "home": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        }
+      }
+    },
+    {
+      "date": "2022-11-27T21:25Z",
+      "id": 401437870,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 0
+        },
+        "home": {
+          "total": 13
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        },
+        "home": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        }
+      }
+    },
+    {
+      "date": "2022-11-28T01:20Z",
+      "id": 401437871,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 33
+        },
+        "home": {
+          "total": 40
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        },
+        "home": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        }
+      }
+    },
+    {
+      "date": "2022-11-29T01:15Z",
+      "id": 401437872,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        },
+        "home": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        }
+      }
+    },
+    {
+      "date": "2022-12-02T01:15Z",
+      "id": 401437873,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        },
+        "home": {
+          "id": 17,
+          "name": "New England Patriots"
+        }
+      }
+    },
+    {
+      "date": "2022-12-04T18:00Z",
+      "id": 401437874,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 19
+        },
+        "home": {
+          "total": 16
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        },
+        "home": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        }
+      }
+    },
+    {
+      "date": "2022-12-04T18:00Z",
+      "id": 401437875,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 9
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 7,
+          "name": "Denver Broncos"
+        },
+        "home": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        }
+      }
+    },
+    {
+      "date": "2022-12-04T18:00Z",
+      "id": 401437876,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 28
+        },
+        "home": {
+          "total": 19
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        },
+        "home": {
+          "id": 3,
+          "name": "Chicago Bears"
+        }
+      }
+    },
+    {
+      "date": "2022-12-04T18:00Z",
+      "id": 401437877,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 14
+        },
+        "home": {
+          "total": 40
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        },
+        "home": {
+          "id": 8,
+          "name": "Detroit Lions"
+        }
+      }
+    },
+    {
+      "date": "2022-12-04T18:00Z",
+      "id": 401437878,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 27
+        },
+        "home": {
+          "total": 14
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        },
+        "home": {
+          "id": 34,
+          "name": "Houston Texans"
+        }
+      }
+    },
+    {
+      "date": "2022-12-04T18:00Z",
+      "id": 401437879,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 22
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 20,
+          "name": "New York Jets"
+        },
+        "home": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        }
+      }
+    },
+    {
+      "date": "2022-12-04T18:00Z",
+      "id": 401437880,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 28,
+          "name": "Washington Commanders"
+        },
+        "home": {
+          "id": 19,
+          "name": "New York Giants"
+        }
+      }
+    },
+    {
+      "date": "2022-12-04T18:00Z",
+      "id": 401437881,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 35
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        },
+        "home": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        }
+      }
+    },
+    {
+      "date": "2022-12-04T21:05Z",
+      "id": 401437882,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 27
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        },
+        "home": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        }
+      }
+    },
+    {
+      "date": "2022-12-04T21:05Z",
+      "id": 401437883,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 33
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        },
+        "home": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        }
+      }
+    },
+    {
+      "date": "2022-12-04T21:25Z",
+      "id": 401437884,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        },
+        "home": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        }
+      }
+    },
+    {
+      "date": "2022-12-04T21:25Z",
+      "id": 401437885,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        },
+        "home": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        }
+      }
+    },
+    {
+      "date": "2022-12-05T01:20Z",
+      "id": 401437886,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 19
+        },
+        "home": {
+          "total": 54
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        },
+        "home": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        }
+      }
+    },
+    {
+      "date": "2022-12-06T01:15Z",
+      "id": 401437887,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        },
+        "home": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        }
+      }
+    },
+    {
+      "date": "2022-12-09T01:15Z",
+      "id": 401437888,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        },
+        "home": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        }
+      }
+    },
+    {
+      "date": "2022-12-11T18:00Z",
+      "id": 401437889,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 12
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 20,
+          "name": "New York Jets"
+        },
+        "home": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        }
+      }
+    },
+    {
+      "date": "2022-12-11T18:00Z",
+      "id": 401437890,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        },
+        "home": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        }
+      }
+    },
+    {
+      "date": "2022-12-11T18:00Z",
+      "id": 401437891,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 23
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 34,
+          "name": "Houston Texans"
+        },
+        "home": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        }
+      }
+    },
+    {
+      "date": "2022-12-11T18:00Z",
+      "id": 401437892,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 23
+        },
+        "home": {
+          "total": 34
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        },
+        "home": {
+          "id": 8,
+          "name": "Detroit Lions"
+        }
+      }
+    },
+    {
+      "date": "2022-12-11T18:00Z",
+      "id": 401437893,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 48
+        },
+        "home": {
+          "total": 22
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        },
+        "home": {
+          "id": 19,
+          "name": "New York Giants"
+        }
+      }
+    },
+    {
+      "date": "2022-12-11T18:00Z",
+      "id": 401437894,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 14
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        },
+        "home": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        }
+      }
+    },
+    {
+      "date": "2022-12-11T18:00Z",
+      "id": 401437895,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 36
+        },
+        "home": {
+          "total": 22
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        },
+        "home": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        }
+      }
+    },
+    {
+      "date": "2022-12-11T21:05Z",
+      "id": 401437899,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 34
+        },
+        "home": {
+          "total": 28
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        },
+        "home": {
+          "id": 7,
+          "name": "Denver Broncos"
+        }
+      }
+    },
+    {
+      "date": "2022-12-11T21:25Z",
+      "id": 401437897,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 7
+        },
+        "home": {
+          "total": 35
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        },
+        "home": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        }
+      }
+    },
+    {
+      "date": "2022-12-11T21:25Z",
+      "id": 401437898,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 30
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        },
+        "home": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        }
+      }
+    },
+    {
+      "date": "2022-12-12T01:20Z",
+      "id": 401437896,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        },
+        "home": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        }
+      }
+    },
+    {
+      "date": "2022-12-13T01:15Z",
+      "id": 401437900,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 27
+        },
+        "home": {
+          "total": 13
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 17,
+          "name": "New England Patriots"
+        },
+        "home": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        }
+      }
+    },
+    {
+      "date": "2022-12-16T01:15Z",
+      "id": 401437901,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 21
+        },
+        "home": {
+          "total": 13
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        },
+        "home": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        }
+      }
+    },
+    {
+      "date": "2022-12-17T18:00Z",
+      "id": 401437904,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 36
+        },
+        "home": {
+          "total": 39
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        },
+        "home": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        }
+      }
+    },
+    {
+      "date": "2022-12-17T21:40Z",
+      "id": 401437903,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 3
+        },
+        "home": {
+          "total": 13
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        },
+        "home": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        }
+      }
+    },
+    {
+      "date": "2022-12-18T01:15Z",
+      "id": 401437902,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 29
+        },
+        "home": {
+          "total": 32
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        },
+        "home": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        }
+      }
+    },
+    {
+      "date": "2022-12-18T18:00Z",
+      "id": 401437905,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 18
+        },
+        "home": {
+          "total": 21
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        },
+        "home": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        }
+      }
+    },
+    {
+      "date": "2022-12-18T18:00Z",
+      "id": 401437907,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 16
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        },
+        "home": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        }
+      }
+    },
+    {
+      "date": "2022-12-18T18:00Z",
+      "id": 401437908,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 25
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        },
+        "home": {
+          "id": 3,
+          "name": "Chicago Bears"
+        }
+      }
+    },
+    {
+      "date": "2022-12-18T18:00Z",
+      "id": 401437909,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 30
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        },
+        "home": {
+          "id": 34,
+          "name": "Houston Texans"
+        }
+      }
+    },
+    {
+      "date": "2022-12-18T18:00Z",
+      "id": 401437910,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 34
+        },
+        "home": {
+          "total": 40
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        },
+        "home": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        }
+      }
+    },
+    {
+      "date": "2022-12-18T18:00Z",
+      "id": 401437911,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 8,
+          "name": "Detroit Lions"
+        },
+        "home": {
+          "id": 20,
+          "name": "New York Jets"
+        }
+      }
+    },
+    {
+      "date": "2022-12-18T21:05Z",
+      "id": 401437912,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 15
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        },
+        "home": {
+          "id": 7,
+          "name": "Denver Broncos"
+        }
+      }
+    },
+    {
+      "date": "2022-12-18T21:05Z",
+      "id": 401437915,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 30
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 17,
+          "name": "New England Patriots"
+        },
+        "home": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        }
+      }
+    },
+    {
+      "date": "2022-12-18T21:25Z",
+      "id": 401437913,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 14
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        },
+        "home": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        }
+      }
+    },
+    {
+      "date": "2022-12-18T21:25Z",
+      "id": 401437914,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 34
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        },
+        "home": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        }
+      }
+    },
+    {
+      "date": "2022-12-19T01:20Z",
+      "id": 401437906,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 12
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 19,
+          "name": "New York Giants"
+        },
+        "home": {
+          "id": 28,
+          "name": "Washington Commanders"
+        }
+      }
+    },
+    {
+      "date": "2022-12-20T01:15Z",
+      "id": 401437916,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 12
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        },
+        "home": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        }
+      }
+    },
+    {
+      "date": "2022-12-23T01:15Z",
+      "id": 401437917,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 19
+        },
+        "home": {
+          "total": 3
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        },
+        "home": {
+          "id": 20,
+          "name": "New York Jets"
+        }
+      }
+    },
+    {
+      "date": "2022-12-24T18:00Z",
+      "id": 401437918,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 9
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        },
+        "home": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        }
+      }
+    },
+    {
+      "date": "2022-12-24T18:00Z",
+      "id": 401437919,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 23
+        },
+        "home": {
+          "total": 37
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 8,
+          "name": "Detroit Lions"
+        },
+        "home": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        }
+      }
+    },
+    {
+      "date": "2022-12-24T18:00Z",
+      "id": 401437920,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 35
+        },
+        "home": {
+          "total": 13
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        },
+        "home": {
+          "id": 3,
+          "name": "Chicago Bears"
+        }
+      }
+    },
+    {
+      "date": "2022-12-24T18:00Z",
+      "id": 401437921,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        },
+        "home": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        }
+      }
+    },
+    {
+      "date": "2022-12-24T18:00Z",
+      "id": 401437922,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        },
+        "home": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        }
+      }
+    },
+    {
+      "date": "2022-12-24T18:00Z",
+      "id": 401437923,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 19,
+          "name": "New York Giants"
+        },
+        "home": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        }
+      }
+    },
+    {
+      "date": "2022-12-24T18:00Z",
+      "id": 401437924,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 22
+        },
+        "home": {
+          "total": 18
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        },
+        "home": {
+          "id": 17,
+          "name": "New England Patriots"
+        }
+      }
+    },
+    {
+      "date": "2022-12-24T19:00Z",
+      "id": 401437925,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 19
+        },
+        "home": {
+          "total": 14
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 34,
+          "name": "Houston Texans"
+        },
+        "home": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        }
+      }
+    },
+    {
+      "date": "2022-12-24T21:05Z",
+      "id": 401437926,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 37
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 28,
+          "name": "Washington Commanders"
+        },
+        "home": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        }
+      }
+    },
+    {
+      "date": "2022-12-24T21:25Z",
+      "id": 401437927,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 34
+        },
+        "home": {
+          "total": 40
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        },
+        "home": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        }
+      }
+    },
+    {
+      "date": "2022-12-25T01:15Z",
+      "id": 401437928,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 13
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        },
+        "home": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        }
+      }
+    },
+    {
+      "date": "2022-12-25T18:00Z",
+      "id": 401437929,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 26
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        },
+        "home": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        }
+      }
+    },
+    {
+      "date": "2022-12-25T21:30Z",
+      "id": 401436983,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 14
+        },
+        "home": {
+          "total": 51
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 7,
+          "name": "Denver Broncos"
+        },
+        "home": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        }
+      }
+    },
+    {
+      "date": "2022-12-26T01:20Z",
+      "id": 401437930,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 19
+        },
+        "home": {
+          "total": 16
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        },
+        "home": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        }
+      }
+    },
+    {
+      "date": "2022-12-27T01:15Z",
+      "id": 401437931,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 3
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        },
+        "home": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        }
+      }
+    },
+    {
+      "date": "2022-12-30T01:15Z",
+      "id": 401437932,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 27
+        },
+        "home": {
+          "total": 13
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        },
+        "home": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        }
+      }
+    },
+    {
+      "date": "2023-01-01T18:00Z",
+      "id": 401437933,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 19
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        },
+        "home": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        }
+      }
+    },
+    {
+      "date": "2023-01-01T18:00Z",
+      "id": 401437935,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 41
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3,
+          "name": "Chicago Bears"
+        },
+        "home": {
+          "id": 8,
+          "name": "Detroit Lions"
+        }
+      }
+    },
+    {
+      "date": "2023-01-01T18:00Z",
+      "id": 401437936,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 31
+        },
+        "home": {
+          "total": 3
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        },
+        "home": {
+          "id": 34,
+          "name": "Houston Texans"
+        }
+      }
+    },
+    {
+      "date": "2023-01-01T18:00Z",
+      "id": 401437937,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 7,
+          "name": "Denver Broncos"
+        },
+        "home": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        }
+      }
+    },
+    {
+      "date": "2023-01-01T18:00Z",
+      "id": 401437938,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 21
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        },
+        "home": {
+          "id": 17,
+          "name": "New England Patriots"
+        }
+      }
+    },
+    {
+      "date": "2023-01-01T18:00Z",
+      "id": 401437939,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 38
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        },
+        "home": {
+          "id": 19,
+          "name": "New York Giants"
+        }
+      }
+    },
+    {
+      "date": "2023-01-01T18:00Z",
+      "id": 401437940,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        },
+        "home": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        }
+      }
+    },
+    {
+      "date": "2023-01-01T18:00Z",
+      "id": 401437941,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 30
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        },
+        "home": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        }
+      }
+    },
+    {
+      "date": "2023-01-01T18:00Z",
+      "id": 401437942,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        },
+        "home": {
+          "id": 28,
+          "name": "Washington Commanders"
+        }
+      }
+    },
+    {
+      "date": "2023-01-01T21:05Z",
+      "id": 401437943,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 37
+        },
+        "home": {
+          "total": 34
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        },
+        "home": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        }
+      }
+    },
+    {
+      "date": "2023-01-01T21:05Z",
+      "id": 401437944,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 6
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 20,
+          "name": "New York Jets"
+        },
+        "home": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        }
+      }
+    },
+    {
+      "date": "2023-01-01T21:25Z",
+      "id": 401437945,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 41
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        },
+        "home": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        }
+      }
+    },
+    {
+      "date": "2023-01-01T21:25Z",
+      "id": 401437946,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 31
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        },
+        "home": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        }
+      }
+    },
+    {
+      "date": "2023-01-02T01:20Z",
+      "id": 401437934,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 13
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        },
+        "home": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        }
+      }
+    },
+    {
+      "date": "2023-01-07T21:30Z",
+      "id": 401437961,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 31
+        },
+        "home": {
+          "total": 13
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        },
+        "home": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        }
+      }
+    },
+    {
+      "date": "2023-01-08T01:15Z",
+      "id": 401437954,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        },
+        "home": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        }
+      }
+    },
+    {
+      "date": "2023-01-08T18:00Z",
+      "id": 401437948,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 30
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        },
+        "home": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        }
+      }
+    },
+    {
+      "date": "2023-01-08T18:00Z",
+      "id": 401437949,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 23
+        },
+        "home": {
+          "total": 35
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 17,
+          "name": "New England Patriots"
+        },
+        "home": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        }
+      }
+    },
+    {
+      "date": "2023-01-08T18:00Z",
+      "id": 401437950,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 29
+        },
+        "home": {
+          "total": 13
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        },
+        "home": {
+          "id": 3,
+          "name": "Chicago Bears"
+        }
+      }
+    },
+    {
+      "date": "2023-01-08T18:00Z",
+      "id": 401437951,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        },
+        "home": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        }
+      }
+    },
+    {
+      "date": "2023-01-08T18:00Z",
+      "id": 401437953,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 32
+        },
+        "home": {
+          "total": 31
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 34,
+          "name": "Houston Texans"
+        },
+        "home": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        }
+      }
+    },
+    {
+      "date": "2023-01-08T18:00Z",
+      "id": 401437955,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 6
+        },
+        "home": {
+          "total": 11
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 20,
+          "name": "New York Jets"
+        },
+        "home": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        }
+      }
+    },
+    {
+      "date": "2023-01-08T18:00Z",
+      "id": 401437956,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 7
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        },
+        "home": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        }
+      }
+    },
+    {
+      "date": "2023-01-08T18:00Z",
+      "id": 401437958,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 14
+        },
+        "home": {
+          "total": 28
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        },
+        "home": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        }
+      }
+    },
+    {
+      "date": "2023-01-08T21:25Z",
+      "id": 401437957,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 22
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 19,
+          "name": "New York Giants"
+        },
+        "home": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        }
+      }
+    },
+    {
+      "date": "2023-01-08T21:25Z",
+      "id": 401437959,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 6
+        },
+        "home": {
+          "total": 26
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        },
+        "home": {
+          "id": 28,
+          "name": "Washington Commanders"
+        }
+      }
+    },
+    {
+      "date": "2023-01-08T21:25Z",
+      "id": 401437960,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 28
+        },
+        "home": {
+          "total": 31
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        },
+        "home": {
+          "id": 7,
+          "name": "Denver Broncos"
+        }
+      }
+    },
+    {
+      "date": "2023-01-08T21:25Z",
+      "id": 401437962,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 13
+        },
+        "home": {
+          "total": 38
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        },
+        "home": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        }
+      }
+    },
+    {
+      "date": "2023-01-08T21:25Z",
+      "id": 401437963,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 19
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        },
+        "home": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        }
+      }
+    },
+    {
+      "date": "2023-01-09T01:20Z",
+      "id": 401437952,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 16
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 8,
+          "name": "Detroit Lions"
+        },
+        "home": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        }
+      }
+    },
+    {
+      "date": "2023-01-14T21:30Z",
+      "id": 401438000,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 23
+        },
+        "home": {
+          "total": 41
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        },
+        "home": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        }
+      }
+    },
+    {
+      "date": "2023-01-15T01:15Z",
+      "id": 401437998,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 30
+        },
+        "home": {
+          "total": 31
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        },
+        "home": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        }
+      }
+    },
+    {
+      "date": "2023-01-15T18:00Z",
+      "id": 401438002,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 31
+        },
+        "home": {
+          "total": 34
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        },
+        "home": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        }
+      }
+    },
+    {
+      "date": "2023-01-15T21:50Z",
+      "id": 401438001,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 31
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 19,
+          "name": "New York Giants"
+        },
+        "home": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        }
+      }
+    },
+    {
+      "date": "2023-01-16T01:15Z",
+      "id": 401437999,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        },
+        "home": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        }
+      }
+    },
+    {
+      "date": "2023-01-17T01:15Z",
+      "id": 401438003,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 31
+        },
+        "home": {
+          "total": 14
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        },
+        "home": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        }
+      }
+    },
+    {
+      "date": "2023-01-21T21:30Z",
+      "id": 401438005,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        },
+        "home": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        }
+      }
+    },
+    {
+      "date": "2023-01-22T01:15Z",
+      "id": 401438004,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 7
+        },
+        "home": {
+          "total": 38
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 19,
+          "name": "New York Giants"
+        },
+        "home": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        }
+      }
+    },
+    {
+      "date": "2023-01-22T20:00Z",
+      "id": 401438007,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 27
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        },
+        "home": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        }
+      }
+    },
+    {
+      "date": "2023-01-22T23:30Z",
+      "id": 401438006,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 12
+        },
+        "home": {
+          "total": 19
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        },
+        "home": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        }
+      }
+    },
+    {
+      "date": "2023-01-29T20:00Z",
+      "id": 401438009,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 7
+        },
+        "home": {
+          "total": 31
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        },
+        "home": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        }
+      }
+    },
+    {
+      "date": "2023-01-29T23:30Z",
+      "id": 401438008,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        },
+        "home": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        }
+      }
+    },
+    {
+      "date": "2023-02-12T23:30Z",
+      "id": 401438030,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2022"
+      },
+      "scores": {
+        "away": {
+          "total": 38
+        },
+        "home": {
+          "total": 35
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        },
+        "home": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        }
+      }
+    }
+  ],
+  "results": 284
+}

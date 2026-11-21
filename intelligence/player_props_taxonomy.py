@@ -12,7 +12,13 @@ proposal grounded in the collected 2026 game logs) and were ACTIVATED
 the same day, once both routes to an MLB props store existed and
 agreed: the store materialized from the collected layer under Isaac's
 D4 promotion ruling (materialize_collected_props.py) and the direct
-MLB Stats API props feed (props_feed_mlb.py). MMA remains a
+MLB Stats API props feed (props_feed_mlb.py). NHL markets are fully
+DEFINED (adopted Nov 21, 2026 from the taxonomy proposal grounded in
+the collected 20262027 game logs) and were ACTIVATED the same day,
+once the collected layer — promoted under Isaac's D4 promotion
+ruling for the NHL source — was materialized into an NHL props
+store (materialize_collected_props.py) with a prior-season
+(20252026) harvest behind the publish gate. MMA remains a
 phase-later league stub with NO markets. The structure is data-driven:
 registering a new league or market later is a data change, not a code
 change.
@@ -50,6 +56,7 @@ LEAGUES = {
     "NBA": {"league": "NBA", "sport": "basketball", "status": "phase1"},
     "NFL": {"league": "NFL", "sport": "american-football", "status": "phase1"},
     "MLB": {"league": "MLB", "sport": "baseball", "status": "phase1"},
+    "NHL": {"league": "NHL", "sport": "hockey", "status": "phase1"},
     "MMA": {"league": "MMA", "sport": "mma", "status": "phase_later"},
 }
 
@@ -230,7 +237,61 @@ _MLB = [
 # active; the publish gate's MLB thresholds live in
 # player_prop_lines.GATE_THRESHOLDS.
 
-MARKETS = _NBA + _NFL + _MLB
+# ---------------------------------------------------------------------------
+# NHL — permanent statistical categories (adopted Nov 21, 2026)
+# ---------------------------------------------------------------------------
+# Market set adopted in full from the taxonomy proposal of Nov 21, 2026,
+# grounded in the NHL official web API game logs collected for the
+# 20262027 season (gapfill_stats_nhl.py): every statistic_key below is
+# the collected layer's canonical key, carried directly in the logs —
+# except the two derived markets (saves, wins), computed by
+# player_props_harvest._add_derived from their components. Skater and
+# goalie keys are disjoint by population (a goalie's goals/assists are
+# novelty stats, not markets), so a player's game entry never collides
+# across the two populations. NOT defined, per the proposal:
+# shutouts (D2 — too sparse, degenerate 0.5 lines for everyone),
+# blocked shots / hits (D4 — the source does not carry them at all),
+# plus/minus (signed stat, unfit for the count-family fits), penalty
+# minutes, game-winning goals, overtime goals, shorthanded stats,
+# power-play goals, shifts, save percentage (rate stat),
+# games_started, and time on ice (carried in the props store as
+# toi_seconds — a conditioning stat, not a market, per D5).
+_NHL = [
+    # Scoring
+    _market("NHL", "Scoring", "Goals", "goals"),
+    _market("NHL", "Scoring", "Points", "points"),
+    # Playmaking
+    _market("NHL", "Playmaking", "Assists", "assists"),
+    # Shooting
+    _market("NHL", "Shooting", "Shots on Goal", "shots"),
+    # Special teams
+    _market("NHL", "Special Teams", "Power Play Points",
+            "power_play_points"),
+    # Goaltending
+    # Saves is DERIVED: shots_against - goals_against (the NHL game
+    # log carries no saves field), computed only when both components
+    # are present, never zero-filled.
+    _market("NHL", "Goaltending", "Saves", "saves"),
+    _market("NHL", "Goaltending", "Goals Against", "goals_against"),
+    # Goalie Win is a DECISION stat — it depends on the goalie's team
+    # scoring and holding the lead, not only on the goalie's own
+    # performance. Defined because it is a real book market and the
+    # logs carry the official decision (W/L/O per game, graded on a
+    # 0.5 line); adopted with that flag noted, Nov 21, 2026.
+    _market("NHL", "Goaltending", "Goalie Win", "wins"),
+]
+
+# ACTIVATED Nov 21, 2026. The defined-but-dormant period ended when
+# the NHL props store existed with both seasons behind the publish
+# gate: props/game_logs_NHL.json materialized from the collected
+# layer under Isaac's Gap-Filler D4 promotion ruling for the NHL
+# source (materialize_collected_props.py — the store carries that
+# provenance on its face), including the prior-season (20252026)
+# harvest the gate's suspect rule needs. All 8 markets are active;
+# the publish gate's NHL thresholds live in
+# player_prop_lines.GATE_THRESHOLDS.
+
+MARKETS = _NBA + _NFL + _MLB + _NHL
 
 _BY_ID = {m["market_id"]: m for m in MARKETS}
 _BY_LEAGUE: dict[str, list[dict]] = {}
@@ -251,7 +312,7 @@ def get_league(league: str | None) -> dict | None:
 
 
 def league_supported(league: str | None) -> bool:
-    """True only for leagues with a defined taxonomy (NBA, NFL, MLB).
+    """True only for leagues with a defined taxonomy (NBA, NFL, MLB, NHL).
 
     A supported league can still have inactive markets (the NBA rebound
     splits) — market_supported is the per-market check. Phase-later stubs (MMA) are registered but

@@ -115,10 +115,26 @@ _LINEABLE_NUMBER_KEYS = {"minutes"}
 # player's prior-season count is 0). THESE NUMBERS MUST BE REVISITED
 # WHEN THE 2027 SEASON OPENS, when live data resumes and the suspect
 # rule gains a prior season to bite on.
+# NHL: calibrated Nov 21, 2026 for a LIVE in-season store. The NHL
+# plays the NBA's 82-game season on a near-nightly rhythm, so the
+# NBA's bars transfer directly: 40 prior games is about half a
+# season of "established", and <= 3 current games is implausibly
+# thin for such a player. Staleness differs from the NBA: teams
+# play every ~2 days, but the league itself pauses — the Christmas
+# shutdown leaves the store's newest game ~4 days old at its peak
+# and the All-Star break ~6 — so 7 days clears every scheduled
+# pause in a normal season while still catching a dead feed within
+# a week. Known limitation, accepted: the gate takes a single bar
+# per league, so a 40-game prior bar classifies only workhorse
+# starters as "established" goalies — backup goalies accumulate
+# slower and escape the suspect rule. Per-position thresholds would
+# be a gate redesign, not a calibration. REVISIT AFTER THE FIRST
+# LIVE CYCLE.
 GATE_THRESHOLDS = {
     "NBA": {"prior_min": 40, "current_max": 3, "stale_days": 2},
     "NFL": {"prior_min": 14, "current_max": 3, "stale_days": 5},
     "MLB": {"prior_min": 100, "current_max": 5, "stale_days": 220},
+    "NHL": {"prior_min": 40, "current_max": 3, "stale_days": 7},
 }
 _DEFAULT_GATE_LEAGUE = "NBA"
 

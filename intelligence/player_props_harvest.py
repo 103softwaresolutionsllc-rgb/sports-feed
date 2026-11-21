@@ -434,6 +434,27 @@ def _add_derived(sport: str, stats: dict) -> None:
         if all(k in stats for k in ("hits", "runs", "rbi")):
             stats["hits_runs_rbi"] = float(
                 stats["hits"] + stats["runs"] + stats["rbi"])
+    elif sport == "hockey":
+        # NHL taxonomy derivations (adopted Nov 21, 2026 from the
+        # taxonomy proposal grounded in the collected game logs):
+        # Saves — the NHL game log carries no saves field; it is
+        # exactly shots_against - goals_against, computed only when
+        # both components were harvested — a missing component leaves
+        # it absent, never zero-filled.
+        if "shots_against" in stats and "goals_against" in stats:
+            stats["saves"] = float(
+                stats["shots_against"] - stats["goals_against"])
+        # Goalie Win — a DECISION stat, like MLB's wins: it depends
+        # on the goalie's team scoring and holding the lead, not only
+        # on the goalie's own performance. The log carries the
+        # official decision as a string ("W"/"L"/"O"); the derivation
+        # CONSUMES it — wins is 1 for "W", 0 for any other recorded
+        # decision, and the decision string itself is never carried
+        # as a stored stat. A game with no decision of record (a
+        # relief appearance) leaves wins ABSENT, never zero-filled.
+        if "decision" in stats:
+            stats["wins"] = 1.0 if stats["decision"] == "W" else 0.0
+            del stats["decision"]
 
 
 def _row_status(entry: dict, player: dict):

@@ -1,0 +1,215 @@
+{
+ "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+ "people": [
+  {
+   "id": 702726,
+   "fullName": "Luke Adams",
+   "link": "/api/v1/people/702726",
+   "firstName": "Jon",
+   "lastName": "Adams",
+   "birthDate": "2004-04-24",
+   "currentAge": 22,
+   "birthCity": "Hinsdale",
+   "birthStateProvince": "IL",
+   "birthCountry": "USA",
+   "height": "6' 4\"",
+   "weight": 233,
+   "active": true,
+   "currentTeam": {
+    "id": 158,
+    "link": "/api/v1/teams/158"
+   },
+   "primaryPosition": {
+    "code": "5",
+    "name": "Third Base",
+    "type": "Infielder",
+    "abbreviation": "3B"
+   },
+   "useName": "Luke",
+   "useLastName": "Adams",
+   "middleName": "Luke",
+   "boxscoreName": "Adams",
+   "gender": "M",
+   "isPlayer": true,
+   "isVerified": true,
+   "draftYear": 2022,
+   "batSide": {
+    "code": "R",
+    "description": "Right"
+   },
+   "pitchHand": {
+    "code": "R",
+    "description": "Right"
+   },
+   "nameFirstLast": "Luke Adams",
+   "nameSlug": "luke-adams-702726",
+   "firstLastName": "Luke Adams",
+   "lastFirstName": "Adams, Luke",
+   "lastInitName": "Adams, L",
+   "initLastName": "L Adams",
+   "fullFMLName": "Jon Luke Adams",
+   "fullLFMName": "Adams, Jon Luke",
+   "strikeZoneTop": 3.38,
+   "strikeZoneBottom": 1.71
+  },
+  {
+   "id": 592450,
+   "fullName": "Aaron Judge",
+   "link": "/api/v1/people/592450",
+   "firstName": "Aaron",
+   "lastName": "Judge",
+   "primaryNumber": "99",
+   "birthDate": "1992-04-26",
+   "currentAge": 34,
+   "birthCity": "Linden",
+   "birthStateProvince": "CA",
+   "birthCountry": "USA",
+   "height": "6' 7\"",
+   "weight": 282,
+   "active": true,
+   "currentTeam": {
+    "id": 147,
+    "link": "/api/v1/teams/147"
+   },
+   "primaryPosition": {
+    "code": "9",
+    "name": "Outfielder",
+    "type": "Outfielder",
+    "abbreviation": "RF"
+   },
+   "useName": "Aaron",
+   "useLastName": "Judge",
+   "middleName": "James",
+   "boxscoreName": "Judge",
+   "nickName": "Baj",
+   "gender": "M",
+   "isPlayer": true,
+   "isVerified": true,
+   "draftYear": 2013,
+   "mlbDebutDate": "2016-08-13",
+   "batSide": {
+    "code": "R",
+    "description": "Right"
+   },
+   "pitchHand": {
+    "code": "R",
+    "description": "Right"
+   },
+   "nameFirstLast": "Aaron Judge",
+   "nameSlug": "aaron-judge-592450",
+   "firstLastName": "Aaron Judge",
+   "lastFirstName": "Judge, Aaron",
+   "lastInitName": "Judge, A",
+   "initLastName": "A Judge",
+   "fullFMLName": "Aaron James Judge",
+   "fullLFMName": "Judge, Aaron James",
+   "strikeZoneTop": 3.523,
+   "strikeZoneBottom": 1.778
+  },
+  {
+   "id": 660271,
+   "fullName": "Shohei Ohtani",
+   "link": "/api/v1/people/660271",
+   "firstName": "Shohei",
+   "lastName": "Ohtani",
+   "primaryNumber": "17",
+   "birthDate": "1994-07-05",
+   "currentAge": 32,
+   "birthCity": "Oshu",
+   "birthCountry": "Japan",
+   "height": "6' 4\"",
+   "weight": 210,
+   "active": true,
+   "currentTeam": {
+    "id": 119,
+    "link": "/api/v1/teams/119"
+   },
+   "primaryPosition": {
+    "code": "Y",
+    "name": "Two-Way Player",
+    "type": "Two-Way Player",
+    "abbreviation": "TWP"
+   },
+   "useName": "Shohei",
+   "useLastName": "Ohtani",
+   "boxscoreName": "Ohtani",
+   "nickName": "Showtime",
+   "gender": "M",
+   "isPlayer": true,
+   "isVerified": false,
+   "pronunciation": "show-HEY oh-TAWN-ee",
+   "mlbDebutDate": "2018-03-29",
+   "batSide": {
+    "code": "L",
+    "description": "Left"
+   },
+   "pitchHand": {
+    "code": "R",
+    "description": "Right"
+   },
+   "nameFirstLast": "Shohei Ohtani",
+   "nameSlug": "shohei-ohtani-660271",
+   "firstLastName": "Shohei Ohtani",
+   "lastFirstName": "Ohtani, Shohei",
+   "lastInitName": "Ohtani, S",
+   "initLastName": "S Ohtani",
+   "fullFMLName": "Shohei Ohtani",
+   "fullLFMName": "Ohtani, Shohei",
+   "strikeZoneTop": 3.369,
+   "strikeZoneBottom": 1.7
+  },
+  {
+   "id": 694973,
+   "fullName": "Paul Skenes",
+   "link": "/api/v1/people/694973",
+   "firstName": "Paul",
+   "lastName": "Skenes",
+   "primaryNumber": "30",
+   "birthDate": "2002-05-29",
+   "currentAge": 24,
+   "birthCity": "Fullerton",
+   "birthStateProvince": "CA",
+   "birthCountry": "USA",
+   "height": "6' 6\"",
+   "weight": 260,
+   "active": true,
+   "currentTeam": {
+    "id": 134,
+    "link": "/api/v1/teams/134"
+   },
+   "primaryPosition": {
+    "code": "1",
+    "name": "Pitcher",
+    "type": "Pitcher",
+    "abbreviation": "P"
+   },
+   "useName": "Paul",
+   "useLastName": "Skenes",
+   "middleName": "David",
+   "boxscoreName": "Skenes",
+   "gender": "M",
+   "isPlayer": true,
+   "isVerified": true,
+   "draftYear": 2023,
+   "mlbDebutDate": "2024-05-11",
+   "batSide": {
+    "code": "R",
+    "description": "Right"
+   },
+   "pitchHand": {
+    "code": "R",
+    "description": "Right"
+   },
+   "nameFirstLast": "Paul Skenes",
+   "nameSlug": "paul-skenes-694973",
+   "firstLastName": "Paul Skenes",
+   "lastFirstName": "Skenes, Paul",
+   "lastInitName": "Skenes, P",
+   "initLastName": "P Skenes",
+   "fullFMLName": "Paul David Skenes",
+   "fullLFMName": "Skenes, Paul David",
+   "strikeZoneTop": 3.478,
+   "strikeZoneBottom": 1.755
+  }
+ ]
+}

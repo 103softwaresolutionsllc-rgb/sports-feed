@@ -8,10 +8,11 @@ locally.
 
 Phase 1 scope: NBA + NFL markets are fully defined and active. MLB
 markets are fully DEFINED (adopted Nov 21, 2026 from the taxonomy
-proposal grounded in the collected 2026 game logs) but DORMANT — every
-MLB market is inactive because no MLB props store exists yet and the
-collected layer is answers-only until Isaac promotes it; activation is
-flipping `active` when a line-making feed exists. MMA remains a
+proposal grounded in the collected 2026 game logs) and were ACTIVATED
+the same day, once both routes to an MLB props store existed and
+agreed: the store materialized from the collected layer under Isaac's
+D4 promotion ruling (materialize_collected_props.py) and the direct
+MLB Stats API props feed (props_feed_mlb.py). MMA remains a
 phase-later league stub with NO markets. The structure is data-driven:
 registering a new league or market later is a data change, not a code
 change.
@@ -43,8 +44,8 @@ from __future__ import annotations
 
 # League registry. "phase1" leagues carry full market definitions
 # (individual markets may still be inactive — see the NBA rebound
-# splits and the whole dormant MLB set); "phase_later" leagues are
-# stubs on purpose (see module docstring).
+# splits); "phase_later" leagues are stubs on purpose (see module
+# docstring).
 LEAGUES = {
     "NBA": {"league": "NBA", "sport": "basketball", "status": "phase1"},
     "NFL": {"league": "NFL", "sport": "american-football", "status": "phase1"},
@@ -218,16 +219,16 @@ _MLB = [
     _market("MLB", "Combined", "Hits + Runs + RBIs", "hits_runs_rbi"),
 ]
 
-# Every MLB market stays INACTIVE for now — the same defined-but-dormant
-# representation as the NBA rebound splits above. There is no MLB props
-# store for the line-maker to read (props/game_logs_MLB.json does not
-# exist), and the collected game logs are answers-only under the
-# Gap-Filler spec (D4) until Isaac promotes that source. Defining the
-# markets completes the taxonomy; flipping a market active is the
-# activation step, and it waits on a line-making feed or Isaac's
-# collected-layer promotion ruling.
-for _m in _MLB:
-    _m["active"] = False
+# ACTIVATED Nov 21, 2026. The defined-but-dormant period ended when
+# both routes to an MLB props store were built and their outputs
+# verified against each other: (1) props/game_logs_MLB.json
+# materialized from the collected layer under Isaac's Gap-Filler D4
+# promotion ruling for the MLB Stats API source
+# (materialize_collected_props.py — the store carries that provenance
+# on its face), and (2) the direct props feed (props_feed_mlb.py)
+# harvesting the same API into the same store. All 15 markets are
+# active; the publish gate's MLB thresholds live in
+# player_prop_lines.GATE_THRESHOLDS.
 
 MARKETS = _NBA + _NFL + _MLB
 
@@ -253,8 +254,7 @@ def league_supported(league: str | None) -> bool:
     """True only for leagues with a defined taxonomy (NBA, NFL, MLB).
 
     A supported league can still have inactive markets (the NBA rebound
-    splits; the entire MLB set until activation) — market_supported is
-    the per-market check. Phase-later stubs (MMA) are registered but
+    splits) — market_supported is the per-market check. Phase-later stubs (MMA) are registered but
     NOT supported yet — validation must fail them explicitly rather
     than guess at markets.
     """

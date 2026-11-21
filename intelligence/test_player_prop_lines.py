@@ -117,9 +117,56 @@ class LeagueGateTests(unittest.TestCase):
         self.assertEqual(gate_thresholds("NFL"),
                          {"prior_min": 14, "current_max": 3,
                           "stale_days": 5})
+        # MLB (Nov 21, 2026): calibrated for a completed-season
+        # store — see the GATE_THRESHOLDS comment for the revisit
+        # obligation when the 2027 season opens.
+        self.assertEqual(gate_thresholds("MLB"),
+                         {"prior_min": 100, "current_max": 5,
+                          "stale_days": 220})
         # An unlisted league falls back to the strictest (NBA) bar.
-        self.assertEqual(gate_thresholds("MLB"), gate_thresholds("NBA"))
+        self.assertEqual(gate_thresholds("MMA"), gate_thresholds("NBA"))
         self.assertEqual(gate_thresholds(None), gate_thresholds("NBA"))
+
+    def test_mlb_completed_season_store_is_not_stale(self):
+        # The real 2026 store shape: newest game Sep 27, 2026 (the
+        # regular season's final day), harvest as-of Nov 21, 2026 —
+        # 55 days. Fresh under MLB's off-season-tolerant bar, stale
+        # under the NBA's near-nightly bar.
+        players = {"p1": {"games": [
+            {"season": "2026", "date": "2026-09-27",
+             "stats": {"hits": 1.0}}]}}
+        self.assertIsNone(
+            store_stale_reason(players, "2026-11-21", "MLB"))
+        self.assertEqual(
+            store_stale_reason(players, "2026-11-21", "NBA"),
+            "stale_store")
+        # 221 days crosses even the MLB bar.
+        self.assertEqual(
+            store_stale_reason(players, "2027-05-06", "MLB"),
+            "stale_store")
+
+    def test_mlb_suspect_rule_needs_a_prior_season(self):
+        # Single-season store: every prior count is 0, so the
+        # suspect rule cannot fire no matter how thin the record.
+        players = {"p": {"games": _games("2026", 2)},
+                   "context": {"games": _games("2026", 150)}}
+        self.assertEqual(evaluate_publish_gate(players, "MLB"), {})
+
+    def test_mlb_suspect_rule_boundaries(self):
+        cases = {
+            # (prior, current, withheld under MLB?)
+            "at_bar_thin": (100, 5, True),
+            "below_bar_thin": (99, 0, False),
+            "at_bar_active": (100, 6, False),
+            "full_prior_out": (162, 0, True),
+        }
+        for name, (prior, current, expected) in cases.items():
+            players = {"p": {"games": _games("2025", prior)
+                             + _games("2026", current)},
+                       "context": {"games": _games("2026", 150)}}
+            withheld = evaluate_publish_gate(players, "MLB")
+            self.assertEqual("p" in withheld, expected, name)
+            self.assertNotIn("context", withheld)
 
     def test_nfl_established_bar_is_one_nfl_season(self):
         # 15 prior games is a near-full NFL season but nowhere near

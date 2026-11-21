@@ -105,9 +105,20 @@ _LINEABLE_NUMBER_KEYS = {"minutes"}
 # near-full season — on a weekly rhythm whose natural gaps run 3-4
 # days, so staleness allows 5. A league with no entry falls back to
 # the NBA numbers (the strictest bar) rather than skipping the gate.
+# MLB: calibrated Nov 21, 2026 for a COMPLETED-season store — the
+# 2026 regular season ended Sep 27, 2026 and the store is static
+# until the 2027 season opens, so staleness must tolerate the whole
+# off-season (220 days reaches late April 2027) or the gate would
+# withhold the league for the calendar, not for bad data. prior_min
+# 100 is a near-full 162-game season for an everyday player; with a
+# single-season store the suspect rule cannot fire at all (every
+# player's prior-season count is 0). THESE NUMBERS MUST BE REVISITED
+# WHEN THE 2027 SEASON OPENS, when live data resumes and the suspect
+# rule gains a prior season to bite on.
 GATE_THRESHOLDS = {
     "NBA": {"prior_min": 40, "current_max": 3, "stale_days": 2},
     "NFL": {"prior_min": 14, "current_max": 3, "stale_days": 5},
+    "MLB": {"prior_min": 100, "current_max": 5, "stale_days": 220},
 }
 _DEFAULT_GATE_LEAGUE = "NBA"
 

@@ -4,17 +4,18 @@ The MLB market set was adopted from the Nov 21, 2026 taxonomy proposal,
 grounded in the MLB Stats API game logs. These tests pin:
 
   * the taxonomy structure — 15 markets (8 batting, 6 pitching, 1
-    derived combined), all defined but INACTIVE until a line-making
-    feed exists (the NBA rebound-split representation);
+    derived combined), defined Nov 21, 2026 and ACTIVATED the same
+    day once both routes to an MLB props store existed and agreed
+    (materialized collected layer + direct props feed);
   * every non-derived market key against the REAL collected layer
     (collected/game_logs_MLB.json) — keys must exist in actual records,
     sampled across batting and pitching, never against invented data;
   * the hits_runs_rbi derivation, computed by the harvest's own
     _add_derived on a real record's components;
-  * validation behavior — the league check now passes for MLB, defined
-    markets are structurally accepted, and both dormant defined
-    markets and undefined markets (quality_starts) reject at the
-    market check with MARKET_UNSUPPORTED.
+  * validation behavior — the league check passes for MLB, defined
+    markets pass the market check now that they are active, and
+    undefined markets (quality_starts) still reject at the market
+    check with MARKET_UNSUPPORTED.
 
 Run from the repo root:
     python3 -m unittest discover -s intelligence -p 'test_*.py'
@@ -79,15 +80,15 @@ class MlbTaxonomyStructureTests(unittest.TestCase):
             self.assertTrue(m["supports_historical_analysis"])
             self.assertTrue(m["supports_player_projection"])
 
-    def test_all_markets_defined_but_dormant(self):
-        # Defined-but-dormant, the rebound-split representation: the
-        # taxonomy resolves every market, yet none is active, so no
-        # MLB selection can validate until activation.
+    def test_all_markets_defined_and_active(self):
+        # Activated Nov 21, 2026 (see module docstring): the taxonomy
+        # resolves every market and every market is live, so an MLB
+        # selection validates at the market check.
         for key in BATTING_KEYS + PITCHING_KEYS + (DERIVED_KEY,):
             m = taxonomy.get_market("MLB", key)
             self.assertIsNotNone(m, key)
-            self.assertFalse(m["active"], key)
-            self.assertFalse(taxonomy.market_supported("MLB", key), key)
+            self.assertTrue(m["active"], key)
+            self.assertTrue(taxonomy.market_supported("MLB", key), key)
 
     def test_resolution_by_id_and_name(self):
         by_id = taxonomy.get_market("MLB", "mlb_player_total_bases")
@@ -178,15 +179,19 @@ class MlbValidationTests(unittest.TestCase):
                       [e["code"] for e in r["errors"]])
         self.assertFalse(r["ticket_eligible"])
 
-    def test_defined_but_dormant_mlb_market_rejected(self):
-        # A defined MLB market is structurally accepted yet inactive —
-        # exactly how the NBA rebound splits behave.
+    def test_defined_mlb_market_passes_market_check(self):
+        # Post-activation: a defined MLB market clears the market
+        # check. The selection still rejects overall — the seed
+        # registry's Canseco is retired — but on player status, not
+        # on the market.
         r = self.v(league="MLB", player_name="José Canseco",
                    market="hits", line=1.5, direction="over")
         self.assertFalse(r["valid"])
         self.assertEqual(check_status(r, "league"), "pass")
-        self.assertEqual(check_status(r, "market"), "fail")
-        self.assertIn("MARKET_UNSUPPORTED",
+        self.assertEqual(check_status(r, "market"), "pass")
+        self.assertNotIn("MARKET_UNSUPPORTED",
+                         [e["code"] for e in r["errors"]])
+        self.assertIn("PLAYER_RETIRED",
                       [e["code"] for e in r["errors"]])
 
 

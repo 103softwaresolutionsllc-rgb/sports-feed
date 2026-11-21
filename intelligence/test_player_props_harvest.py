@@ -178,6 +178,43 @@ class UpsertTests(unittest.TestCase):
         self.assertNotEqual(first["player_id"], second["player_id"])
         self.assertEqual(len(reg.all_players()), 2)
 
+    def test_position_persisted_on_registration(self):
+        reg = PlayerRegistry.empty()
+        record = {**_record(), "position": "SG"}
+        player = harvest.upsert_harvested_player(
+            reg, record, "2024-01-01")["player"]
+        self.assertEqual(player["position"], "SG")
+
+    def test_position_filled_and_corrected_on_reharvest(self):
+        reg = PlayerRegistry.empty()
+        player = harvest.upsert_harvested_player(
+            reg, _record(), "2024-01-01")["player"]
+        self.assertNotIn("position", player)
+        pid = player["player_id"]
+        # A later harvest that reports a position fills it in, on the
+        # SAME permanent record (provider-ID join, never a duplicate).
+        result = harvest.upsert_harvested_player(
+            reg, {**_record(), "position": "PG"}, "2024-06-01")
+        self.assertEqual(result["player"]["player_id"], pid)
+        self.assertEqual(result["changes"], ["position_change"])
+        self.assertEqual(player["position"], "PG")
+        self.assertEqual(len(reg.all_players()), 1)
+        # Same position again: idempotent, no change recorded.
+        result = harvest.upsert_harvested_player(
+            reg, {**_record(), "position": "PG"}, "2024-07-01")
+        self.assertEqual(result["changes"], [])
+        # A harvest reporting NO position never erases the stored one.
+        result = harvest.upsert_harvested_player(
+            reg, _record(), "2024-08-01")
+        self.assertEqual(result["changes"], [])
+        self.assertEqual(player["position"], "PG")
+        # A genuinely different position corrects the current fact.
+        result = harvest.upsert_harvested_player(
+            reg, {**_record(), "position": "SG"}, "2025-01-01")
+        self.assertEqual(result["changes"], ["position_change"])
+        self.assertEqual(player["position"], "SG")
+        self.assertEqual(len(reg.all_players()), 1)
+
 
 class GameLogTests(unittest.TestCase):
     def _entry(self, game_id, date, points, rebounds=6):

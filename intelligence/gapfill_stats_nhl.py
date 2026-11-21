@@ -334,6 +334,7 @@ def run(data_root: Path, season: str | None = None,
                 "full_name": entry["full_name"],
                 "team_name": TEAMS[tricode],
                 "league": LEAGUE,
+                "position": entry["position"],
             }, effective, provider=PROVIDER)
             if result["skipped"]:
                 staged.append({

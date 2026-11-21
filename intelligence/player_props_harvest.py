@@ -547,6 +547,15 @@ def upsert_harvested_player(registry: PlayerRegistry, record: dict,
         record_team_change / record_status_change; an idempotent
         re-harvest (same team, same status) appends nothing.
 
+    This function is THE registration path for every league and
+    source (API-Sports fan-out, ESPN fan-out, and the collected-layer
+    collectors all register through it), and it persists the complete
+    record shape the registry carries: full_name, league, position,
+    current team (team_history), provider_ids. Position is a current
+    fact, not history — a harvest that reports one fills it in when
+    missing and corrects it when it changed; a harvest that reports
+    none leaves the stored value untouched.
+
     Returns {"player": record_or_None, "changes": [...],
              "skipped": reason_or_None}.
     """
@@ -570,6 +579,8 @@ def upsert_harvested_player(registry: PlayerRegistry, record: dict,
         }
         if record.get("league") is not None:
             new_record["league"] = record["league"]
+        if record.get("position"):
+            new_record["position"] = record["position"]
         if record.get("team_name"):
             new_record["team_history"] = [{
                 "team": record["team_name"], "from": effective,
@@ -584,6 +595,10 @@ def upsert_harvested_player(registry: PlayerRegistry, record: dict,
     if team and team != registry.current_team(existing):
         registry.record_team_change(existing, team, effective)
         changes.append("team_change")
+    position = record.get("position")
+    if position and position != existing.get("position"):
+        existing["position"] = position
+        changes.append("position_change")
     status = record.get("status")
     if (status and status in STATUSES
             and status != registry.current_status(existing)):

@@ -318,8 +318,20 @@ def run_espn_fanout(sport: str, season: str, team_names, *, transport,
         except Exception:  # noqa: BLE001 — counted, pass continues
             report["teams_missing"] += 1
             continue
+        athletes = _roster_athletes(roster)
+        # Position lives on the roster payload; the gamelog entries
+        # the registration records are derived from do not carry it.
+        # Capture it here, keyed by athlete id, so registration
+        # through upsert_harvested_player gets the complete record
+        # (before Nov 21, 2026 this was dropped on the floor and
+        # every fan-out-registered player carried position: null).
+        positions = {}
+        for athlete in athletes:
+            pos = _athlete_position(athlete)
+            if athlete.get("id") is not None and pos:
+                positions[str(athlete["id"])] = pos
         entries = []
-        for athlete in _roster_athletes(roster):
+        for athlete in athletes:
             if sport == "american-football" and \
                     _athlete_position(athlete) not in NFL_PROP_POSITIONS:
                 continue
@@ -349,6 +361,9 @@ def run_espn_fanout(sport: str, season: str, team_names, *, transport,
         rows = parse_player_stat_rows(sport, payload, season=season)
         for record in roster_records_from_rows(rows).values():
             record["league"] = league
+            pos = positions.get(str(record.get("provider_id")))
+            if pos:
+                record["position"] = pos
             result = upsert_harvested_player(
                 registry, record, effective, provider=ESPN_PROVIDER)
             if result["skipped"]:

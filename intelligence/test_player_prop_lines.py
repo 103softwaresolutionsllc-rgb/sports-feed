@@ -104,6 +104,74 @@ class PublishGateTests(unittest.TestCase):
         self.assertIsNone(store_stale_reason(players, None))
 
 
+class LeagueGateTests(unittest.TestCase):
+    """The gate's thresholds are calibrated per league (Nov 21, 2026):
+    the NBA bar (40 prior games, 2 stale days) both fails to fire and
+    misfires on the NFL's 17-game, weekly-rhythm season."""
+
+    def test_threshold_values_pinned(self):
+        from player_prop_lines import gate_thresholds
+        self.assertEqual(gate_thresholds("NBA"),
+                         {"prior_min": 40, "current_max": 3,
+                          "stale_days": 2})
+        self.assertEqual(gate_thresholds("NFL"),
+                         {"prior_min": 14, "current_max": 3,
+                          "stale_days": 5})
+        # An unlisted league falls back to the strictest (NBA) bar.
+        self.assertEqual(gate_thresholds("MLB"), gate_thresholds("NBA"))
+        self.assertEqual(gate_thresholds(None), gate_thresholds("NBA"))
+
+    def test_nfl_established_bar_is_one_nfl_season(self):
+        # 15 prior games is a near-full NFL season but nowhere near
+        # the NBA's 40: withheld under NFL rules, clear under NBA.
+        players = {"qb": {"games": _games("2025", 15)
+                          + _games("2026", 2)}}
+        self.assertIn("qb", evaluate_publish_gate(players, "NFL"))
+        self.assertEqual(evaluate_publish_gate(players, "NBA"), {})
+        self.assertEqual(evaluate_publish_gate(players), {})
+
+    def test_nfl_boundaries(self):
+        cases = {
+            # (prior, current, withheld under NFL?)
+            "at_bar_thin": (14, 3, True),
+            "below_bar_thin": (13, 0, False),
+            "at_bar_active": (14, 4, False),
+            "full_prior_out": (17, 0, True),
+        }
+        for name, (prior, current, expected) in cases.items():
+            # The gate reads "current season" as the latest season in
+            # the STORE, so a context player carries 2026 games (a
+            # one-player store with no 2026 games would make 2025 the
+            # "current" season and the case meaningless).
+            players = {"p": {"games": _games("2025", prior)
+                             + _games("2026", current)},
+                       "context": {"games": _games("2026", 10)}}
+            withheld = evaluate_publish_gate(players, "NFL")
+            self.assertEqual("p" in withheld, expected, name)
+            self.assertNotIn("context", withheld)
+            if expected:
+                self.assertEqual(withheld["p"]["prior_season_games"],
+                                 prior)
+                self.assertEqual(withheld["p"]["current_season_games"],
+                                 current)
+
+    def test_stale_window_is_per_league(self):
+        # Newest game 4 days behind the as-of date: stale for the
+        # near-nightly NBA, fresh for the weekly NFL.
+        players = {"p1": {"games": [
+            {"season": "2026", "date": "2026-11-16",
+             "stats": {"points": 20.0}}]}}
+        self.assertEqual(
+            store_stale_reason(players, "2026-11-20", "NBA"),
+            "stale_store")
+        self.assertIsNone(
+            store_stale_reason(players, "2026-11-20", "NFL"))
+        # 6 days behind is stale even on the NFL's rhythm.
+        self.assertEqual(
+            store_stale_reason(players, "2026-11-22", "NFL"),
+            "stale_store")
+
+
 class _FakeStore:
     """Minimal GameLogStore stand-in: document + series()."""
 

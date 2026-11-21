@@ -33,6 +33,14 @@ contained another player's games). A stale store withholds
 everything. Withholding is never silent: the published document
 lists every withheld player with his reasons and counts.
 
+The gate's thresholds are calibrated PER LEAGUE (GATE_THRESHOLDS,
+league-aware since Nov 21, 2026): a plausibility bar is only
+meaningful against a league's season shape. The NBA plays 82 games
+on a near-nightly rhythm; the NFL plays 17 on a weekly rhythm with
+natural 3-4 day gaps, so the NBA's numbers applied to the NFL both
+fail to fire (a 40-game prior bar is ~2.4 NFL seasons) and misfire
+(a 2-day staleness bar sits inside the NFL's weekly gaps).
+
 Honesty rules (binding):
   * Lines are MODEL lines. They are stamped classification "Estimated"
     with the model name/version and the data's as-of date, and they
@@ -84,6 +92,30 @@ DEFAULT_WINDOW = "L10"
 # only for minutes (a volume stat measured continuously); rate stats
 # are excluded by key below.
 _LINEABLE_NUMBER_KEYS = {"minutes"}
+
+# Publish-gate thresholds per league:
+#   prior_min   — prior-season games at/above which a player counts
+#                 as "established" for the plausibility check.
+#   current_max — current-season games at/below which an established
+#                 player's record is implausibly thin.
+#   stale_days  — the store's newest game may lag the harvest's
+#                 as-of date by at most this many days.
+# NBA: the original Nov 20, 2026 calibration (82-game season,
+# near-nightly games). NFL: a 17-game season — 14 prior games is a
+# near-full season — on a weekly rhythm whose natural gaps run 3-4
+# days, so staleness allows 5. A league with no entry falls back to
+# the NBA numbers (the strictest bar) rather than skipping the gate.
+GATE_THRESHOLDS = {
+    "NBA": {"prior_min": 40, "current_max": 3, "stale_days": 2},
+    "NFL": {"prior_min": 14, "current_max": 3, "stale_days": 5},
+}
+_DEFAULT_GATE_LEAGUE = "NBA"
+
+
+def gate_thresholds(league: str | None) -> dict:
+    """The publish-gate thresholds in force for a league."""
+    return GATE_THRESHOLDS.get(league or _DEFAULT_GATE_LEAGUE,
+                               GATE_THRESHOLDS[_DEFAULT_GATE_LEAGUE])
 
 
 def _window_values(series: list[dict], window: str) -> list[float]:
@@ -168,7 +200,8 @@ def fair_line(values: list[float], statistic_type: str) -> dict | None:
     }
 
 
-def evaluate_publish_gate(players: dict) -> dict:
+def evaluate_publish_gate(players: dict,
+                          league: str = _DEFAULT_GATE_LEAGUE) -> dict:
     """Per-player publish gate over the log store's players mapping.
 
     Returns {player_id: {"reasons": [...], "current_season_games": n,
@@ -177,8 +210,11 @@ def evaluate_publish_gate(players: dict) -> dict:
     record is suspect, not that it is certainly wrong — a genuinely
     injured established player trips it too, and his lines stay
     withheld until his data verifies. That asymmetry is the point of
-    the gate.
+    the gate. The established/thin bars are the league's own
+    (GATE_THRESHOLDS): "established" means a near-full prior season
+    IN THAT LEAGUE.
     """
+    thresholds = gate_thresholds(league)
     all_seasons: set[str] = set()
     counts_by_player: dict[str, dict[str, int]] = {}
     for pid, prec in (players or {}).items():
@@ -194,7 +230,8 @@ def evaluate_publish_gate(players: dict) -> dict:
     for pid, counts in counts_by_player.items():
         current = counts.get(latest, 0)
         prior = sum(v for s, v in counts.items() if s != latest)
-        if current <= 3 and prior >= 40:
+        if current <= thresholds["current_max"] \
+                and prior >= thresholds["prior_min"]:
             withheld[pid] = {
                 "reasons": ["suspect_current_season"],
                 "current_season_games": current,
@@ -203,10 +240,12 @@ def evaluate_publish_gate(players: dict) -> dict:
     return withheld
 
 
-def store_stale_reason(players: dict, data_as_of: str | None) -> str | None:
+def store_stale_reason(players: dict, data_as_of: str | None,
+                       league: str = _DEFAULT_GATE_LEAGUE) -> str | None:
     """The 'too old' half of the publish gate: when the store's
-    newest game is more than 2 days behind the harvest's as-of date,
-    the whole publication is stale. Returns a reason or None."""
+    newest game is more than the league's stale_days behind the
+    harvest's as-of date, the whole publication is stale. Returns a
+    reason or None."""
     if not data_as_of:
         return None
     dates = [g.get("date") for prec in (players or {}).values()
@@ -218,7 +257,7 @@ def store_stale_reason(players: dict, data_as_of: str | None) -> str | None:
         newest = datetime.fromisoformat(str(max(dates))[:10]).date()
     except ValueError:
         return None
-    if (as_of - newest).days > 2:
+    if (as_of - newest).days > gate_thresholds(league)["stale_days"]:
         return "stale_store"
     return None
 
@@ -233,8 +272,8 @@ def build_lines(league: str, log_store, window: str = DEFAULT_WINDOW,
     players_seen: set[str] = set()
 
     players_doc = log_store.document.get("players") or {}
-    withheld = evaluate_publish_gate(players_doc)
-    stale = store_stale_reason(players_doc, data_as_of)
+    withheld = evaluate_publish_gate(players_doc, league)
+    stale = store_stale_reason(players_doc, data_as_of, league)
     if stale:
         withheld = {
             pid: {"reasons": [stale],
@@ -296,6 +335,7 @@ def build_lines(league: str, log_store, window: str = DEFAULT_WINDOW,
             "rule": "withhold when an established player's current-"
                     "season record is implausibly thin, and withhold "
                     "everything when the store is stale",
+            "thresholds": gate_thresholds(league),
             "withheld_players": len(withheld),
         },
         "withheld": [

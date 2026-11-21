@@ -102,9 +102,13 @@ class GameLogStore:
         """Add one game entry for a player (see module docstring).
 
         Returns {"added": bool, "corrected": bool}: a brand-new game_id
-        adds; an existing game_id with identical stats is a no-op; an
-        existing game_id with different stats replaces the stored entry
-        as a stat correction.
+        adds; an existing game_id with identical stats AND identical
+        team/date/season is a no-op; an existing game_id that differs
+        in stats or in its team stamp replaces the stored entry as a
+        correction. (The team clause is what lets a re-harvest repair
+        mis-stamped teams — see intelligence_espn_players, Nov 20,
+        2026: ESPN's roster endpoint scrambled team assignments, and
+        entries are now stamped from each game's own gamelog meta.)
         """
         slot = self.document["players"].setdefault(player_id,
                                                    {"games": []})
@@ -124,7 +128,10 @@ class GameLogStore:
         for idx, existing in enumerate(games):
             if str(existing.get("game_id")) != gid:
                 continue
-            if _stats_equal(existing.get("stats") or {}, stats):
+            if _stats_equal(existing.get("stats") or {}, stats) \
+                    and existing.get("team") == new_entry["team"] \
+                    and existing.get("date") == new_entry["date"] \
+                    and existing.get("season") == new_entry["season"]:
                 return {"added": False, "corrected": False}
             games[idx] = new_entry
             games.sort(key=_sort_key)

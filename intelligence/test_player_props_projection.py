@@ -62,7 +62,11 @@ MAHOMES = "plyr-0007"    # Patrick Mahomes, active NFL (seed registry)
 
 
 class KnownDistributionTests(unittest.TestCase):
-    """Tatum points [20,22,24,26,28]: mu 24, sd sqrt(10) ~= 3.1623."""
+    """Tatum points [20,22,24,26,28]: mu 24, sample var 10.
+
+    v1.1 distribution layer: var (10) < mu (24), so the integer fit is
+    Poisson(24) — fitted stdev sqrt(24) ~= 4.899 — not the v1.0
+    Gaussian. P(over 23.5) = 1 - CDF_Poisson(23) ~= 0.5272."""
 
     def setUp(self):
         self.registry = PlayerRegistry.load_seed()
@@ -72,18 +76,18 @@ class KnownDistributionTests(unittest.TestCase):
                           "market": "points", "line": 23.5,
                           "direction": "over"}
 
-    def test_probability_over_matches_gaussian(self):
+    def test_probability_over_matches_poisson_fit(self):
         r = proj.project_selection(self.selection, self.registry,
                                    self.store)
         self.assertEqual(r["model_status"], "PROJECTED")
         detail = r["projection_detail"]
         self.assertEqual(detail["threshold"], 23.5)
         self.assertEqual(detail["mean"], 24.0)
-        self.assertAlmostEqual(detail["stdev"], 3.1623, delta=0.001)
-        # z = (23.5 - 24) / 3.1623 = -0.15811 -> P(over) ~= 0.5628.
-        self.assertAlmostEqual(detail["probability_over"], 0.5628,
+        self.assertEqual(detail["distribution"], "poisson")
+        self.assertAlmostEqual(detail["stdev"], 4.899, delta=0.001)
+        self.assertAlmostEqual(detail["probability_over"], 0.5272,
                                delta=0.002)
-        self.assertAlmostEqual(r["probability"], 0.5628, delta=0.002)
+        self.assertAlmostEqual(r["probability"], 0.5272, delta=0.002)
         self.assertEqual(r["projection"], 24.0)
         self.assertEqual(detail["games_used"], 5)
         self.assertEqual(detail["games_available"], 5)
@@ -93,30 +97,48 @@ class KnownDistributionTests(unittest.TestCase):
     def test_probability_under_is_complement(self):
         sel = dict(self.selection, direction="under")
         r = proj.project_selection(sel, self.registry, self.store)
-        self.assertAlmostEqual(r["probability"], 1 - 0.5628, delta=0.002)
+        self.assertAlmostEqual(r["probability"], 1 - 0.5272, delta=0.002)
         self.assertAlmostEqual(
             r["projection_detail"]["probability_over"]
             + r["projection_detail"]["probability_under"], 1.0, places=4)
 
 
 class ZeroVarianceTests(unittest.TestCase):
+    """A constant INTEGER series is no longer a step function under
+    v1.1: the count family supplies the variance the window lacks
+    (Poisson(30) here), which is the behavior the 2025-2026 backtest
+    validated. A constant NUMBER series (minutes) keeps the Gaussian
+    step function."""
+
     def setUp(self):
         self.registry = PlayerRegistry.load_seed()
         self.store = FakeLogStore(
             {(TATUM, "points"): make_series([30, 30, 30, 30])})
 
-    def test_step_function_above_line(self):
+    def test_count_family_supplies_variance_above_line(self):
         sel = {"league": "NBA", "player_name": "Jayson Tatum",
                "market": "points", "line": 25.5, "direction": "over"}
         r = proj.project_selection(sel, self.registry, self.store)
-        self.assertEqual(r["probability"], 1.0)
-        self.assertEqual(r["projection_detail"]["stdev"], 0.0)
+        # Poisson(30): P(over 25.5) = 1 - CDF(25) ~= 0.7916.
+        self.assertAlmostEqual(r["probability"], 0.7916, delta=0.002)
+        self.assertAlmostEqual(r["projection_detail"]["stdev"], 5.4772,
+                               delta=0.001)
 
-    def test_step_function_below_line(self):
+    def test_count_family_supplies_variance_below_line(self):
         sel = {"league": "NBA", "player_name": "Jayson Tatum",
                "market": "points", "line": 35.5, "direction": "over"}
         r = proj.project_selection(sel, self.registry, self.store)
-        self.assertEqual(r["probability"], 0.0)
+        # Poisson(30): P(over 35.5) = 1 - CDF(35) ~= 0.1574.
+        self.assertAlmostEqual(r["probability"], 0.1574, delta=0.002)
+
+    def test_number_stat_keeps_step_function(self):
+        store = FakeLogStore(
+            {(TATUM, "minutes"): make_series([30, 30, 30, 30])})
+        sel = {"league": "NBA", "player_name": "Jayson Tatum",
+               "market": "minutes", "line": 25.5, "direction": "over"}
+        r = proj.project_selection(sel, self.registry, store)
+        self.assertEqual(r["probability"], 1.0)
+        self.assertEqual(r["projection_detail"]["stdev"], 0.0)
 
 
 class ExpectedValueTests(unittest.TestCase):
@@ -130,17 +152,18 @@ class ExpectedValueTests(unittest.TestCase):
                "market": "points", "line": 25.5, "direction": "over",
                "odds": -110}
         r = proj.project_selection(sel, self.registry, self.store)
-        self.assertEqual(r["probability"], 1.0)
+        # v1.1: constant-30 points series fits Poisson(30) -> p 0.7916.
+        self.assertAlmostEqual(r["probability"], 0.7916, delta=0.002)
         self.assertFalse(r["ev_withheld"])
         ev = r["expected_value"]
         self.assertIsNotNone(ev)
-        # dec = 1 + 100/110 ~= 1.9091; EV = 1.0 * dec - 1 ~= 0.9091.
+        # dec = 1 + 100/110 ~= 1.9091; EV = 0.7916 * dec - 1 ~= 0.5112.
         self.assertAlmostEqual(ev["decimal_odds"], 1.9091, delta=0.001)
         self.assertAlmostEqual(ev["implied_probability"], 0.5238,
                                delta=0.001)
-        self.assertAlmostEqual(ev["ev_per_unit"], 0.9091, delta=0.001)
-        self.assertAlmostEqual(ev["ev_percent"], 90.91, delta=0.1)
-        self.assertAlmostEqual(ev["edge"], 1.0 - 0.5238, delta=0.001)
+        self.assertAlmostEqual(ev["ev_per_unit"], 0.5112, delta=0.001)
+        self.assertAlmostEqual(ev["ev_percent"], 51.12, delta=0.1)
+        self.assertAlmostEqual(ev["edge"], 0.7916 - 0.5238, delta=0.001)
 
     def test_odds_helpers(self):
         self.assertAlmostEqual(proj.american_to_decimal(150), 2.5)
@@ -193,7 +216,7 @@ class CalibrationTests(unittest.TestCase):
         cal = r["projection_detail"]["calibration"]
         self.assertEqual(cal["source"], "none_identity")
         self.assertFalse(cal["applied"])
-        self.assertAlmostEqual(r["probability"], 0.5628, delta=0.002)
+        self.assertAlmostEqual(r["probability"], 0.5272, delta=0.002)
 
 
 class InsufficientDataTests(unittest.TestCase):

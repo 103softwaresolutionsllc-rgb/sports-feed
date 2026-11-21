@@ -6,10 +6,21 @@ distribution for a statistic, then post the line at the distribution's
 median so the over and under are as close to even as the data allows.
 
 The math deliberately mirrors player_props_projection.project_selection
-EXACTLY (same window, same Gaussian, same continuity correction, same
-MIN_GAMES floor), so a model line and the app's projection of a
-selection at that line always agree: the published probability_over is
-what project_selection returns for an over at the published line.
+EXACTLY (same window, same fitted distribution — negative binomial /
+Poisson for integer statistics, Gaussian for minutes — same continuity
+correction, same MIN_GAMES floor), so a model line and the app's
+projection of a selection at that line always agree: the published
+probability_over is what project_selection returns for an over at the
+published line. Model v1.1 (Nov 20, 2026): the distribution families
+were chosen by a rolling-origin backtest on the full 2025-2026
+harvested season (distribution_validation.py), where the negative
+binomial beat the v1.0 Gaussian on essentially every counting stat.
+
+Each published record keeps the three layers a sportsbook keeps
+separate, and never merges them: player_projection (what the model
+expects), model_line (the model's own fair threshold), and the market
+block (sportsbook_line / sportsbook_odds / market_consensus — null
+with status "not_sourced" until a licensed book-lines source exists).
 
 Honesty rules (binding):
   * Lines are MODEL lines. They are stamped classification "Estimated"
@@ -43,16 +54,19 @@ from pathlib import Path
 
 try:
     from player_game_logs import GameLogStore
-    from player_props_projection import MIN_GAMES, WINDOWS, normal_cdf
+    from player_props_projection import (
+        MIN_GAMES, WINDOWS, distribution_median, distribution_p_over,
+        fit_distribution, normal_cdf)
     from player_props_taxonomy import MARKETS
 except ImportError:  # package-style import (sports-feed repo layout)
     from intelligence.player_game_logs import GameLogStore  # type: ignore
     from intelligence.player_props_projection import (  # type: ignore
-        MIN_GAMES, WINDOWS, normal_cdf)
+        MIN_GAMES, WINDOWS, distribution_median, distribution_p_over,
+        fit_distribution, normal_cdf)
     from intelligence.player_props_taxonomy import MARKETS  # type: ignore
 
 LINE_MODEL_NAME = "intelligence-engine-fair-line"
-LINE_MODEL_VERSION = "1.0"
+LINE_MODEL_VERSION = "1.1"
 DEFAULT_WINDOW = "L10"
 
 # statistic types a posted line can attach to. "number" is admitted
@@ -70,32 +84,76 @@ def _window_values(series: list[dict], window: str) -> list[float]:
             if isinstance(g.get("value"), (int, float))]
 
 
+def _p_over(fit: dict, line: float, statistic_type: str) -> float:
+    if statistic_type == "integer":
+        return distribution_p_over(fit, math.floor(line) + 0.5,
+                                   statistic_type)
+    return distribution_p_over(fit, line, statistic_type)
+
+
 def fair_line(values: list[float], statistic_type: str) -> dict | None:
     """The fair line for one player's windowed values, or None when
-    the sample cannot support one. Book convention for counting
-    stats: the half-point nearest the mean (no pushes, threshold ==
-    line under the projection engine's continuity correction)."""
+    the sample cannot support one.
+
+    Integer statistics: the half-point line whose over-probability
+    under the fitted count distribution sits closest to 0.5 — the
+    distribution's median, in book convention (no pushes). Minutes:
+    the nearest half point to the mean, as before.
+    """
     if len(values) < MIN_GAMES:
         return None
-    mu = statistics.fmean(values)
-    sigma = statistics.stdev(values) if len(values) > 1 else 0.0
+    fit = fit_distribution(values, statistic_type)
+    mu = fit["mean"]
+    median = distribution_median(fit, statistic_type)
     if statistic_type == "integer":
-        line = math.floor(mu) + 0.5
+        line, best_gap = None, 2.0
+        lo = max(0, int(median) - 3)
+        # Deterministic order: closest to the mean's bucket first, so
+        # an exact tie resolves toward the book-convention line.
+        ks = sorted(range(lo, int(median) + 4),
+                    key=lambda k: (abs(k - math.floor(mu)), k))
+        for k in ks:
+            cand = k + 0.5
+            gap = abs(_p_over(fit, cand, statistic_type) - 0.5)
+            if gap < best_gap:
+                line, best_gap = cand, gap
     else:  # minutes: nearest half point
         line = round(mu * 2) / 2
         if line == int(line):
             line += 0.5
-    if sigma > 0:
-        p_over = 1.0 - normal_cdf((line - mu) / sigma)
-    else:
-        p_over = 1.0 if mu > line else 0.0 if mu < line else 0.5
+    p_over = _p_over(fit, line, statistic_type)
+    alternates = []
+    for alt in (line - 2.0, line - 1.0, line + 1.0, line + 2.0):
+        if alt >= 0.5:
+            alternates.append({
+                "line": alt,
+                "probability_over": round(
+                    _p_over(fit, alt, statistic_type), 4),
+            })
     return {
         "line": line,
         "probability_over": round(p_over, 4),
         "probability_under": round(1.0 - p_over, 4),
         "mean": round(mu, 3),
-        "stdev": round(sigma, 3),
+        "stdev": round(fit["stdev"], 3),
         "games_used": len(values),
+        "player_projection": {
+            "mean": round(mu, 3),
+            "median": round(median, 3),
+            "stdev": round(fit["stdev"], 3),
+            "distribution": fit["family"],
+            "games_used": len(values),
+        },
+        "alternates": alternates,
+        # The market layer, kept separate by construction: no book
+        # line, odds, or consensus is sourced yet, and these fields
+        # stay null (never filled from the model) until one is.
+        "market": {
+            "sportsbook_line": None,
+            "sportsbook_odds": None,
+            "market_consensus": None,
+            "status": "not_sourced",
+        },
     }
 
 
@@ -107,6 +165,34 @@ def build_lines(league: str, log_store, window: str = DEFAULT_WINDOW,
     lines: list[dict] = []
     skipped: dict[str, int] = {}
     players_seen: set[str] = set()
+
+    # Data-quality flag (Nov 20, 2026): ESPN's current-season gamelog
+    # feed was caught returning other players' games under a player's
+    # id (athlete 6450's 2026-2027 gamelog is a subset of Scottie
+    # Barnes's) and truncating established players to 0-3 games. A
+    # player with a full prior season but almost no current-season
+    # games is SUSPECT: the flag rides on every line so no consumer
+    # mistakes the line for clean. It says "suspect", not "wrong" —
+    # a genuinely injured star trips it too, by design.
+    season_counts: dict[str, dict[str, int]] = {}
+    all_seasons: set[str] = set()
+    for pid, prec in (log_store.document.get("players") or {}).items():
+        counts: dict[str, int] = {}
+        for g in prec.get("games", []):
+            counts[g.get("season")] = counts.get(g.get("season"), 0) + 1
+            all_seasons.add(g.get("season"))
+        season_counts[pid] = counts
+    latest_season = max(all_seasons) if all_seasons else None
+
+    def _quality_flag(player_id: str) -> str | None:
+        if latest_season is None:
+            return None
+        counts = season_counts.get(player_id) or {}
+        current = counts.get(latest_season, 0)
+        prior = sum(v for s, v in counts.items() if s != latest_season)
+        if current <= 3 and prior >= 40:
+            return "suspect_current_season"
+        return None
 
     for market in markets:
         key = market["statistic_key"]
@@ -129,7 +215,7 @@ def build_lines(league: str, log_store, window: str = DEFAULT_WINDOW,
                 skipped["insufficient_games"] = \
                     skipped.get("insufficient_games", 0) + 1
                 continue
-            lines.append({
+            record = {
                 "player_id": player_id,
                 "league": league,
                 "statistic_key": key,
@@ -139,7 +225,11 @@ def build_lines(league: str, log_store, window: str = DEFAULT_WINDOW,
                 "model_version": LINE_MODEL_VERSION,
                 "data_as_of": data_as_of,
                 "classification": "Estimated",
-            })
+            }
+            flag = _quality_flag(player_id)
+            if flag:
+                record["data_quality"] = flag
+            lines.append(record)
 
     return {
         "classification": "Estimated",

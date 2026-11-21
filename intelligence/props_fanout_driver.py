@@ -43,6 +43,9 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--data-root", required=True)
     parser.add_argument("--skip", default="",
                         help="comma-separated team names to skip")
+    parser.add_argument("--force", action="store_true",
+                        help="reprocess every team even if covered "
+                             "(repairs: re-stamps records from source)")
     args = parser.parse_args(argv)
 
     sport, season = args.sport, args.season
@@ -71,7 +74,7 @@ def main(argv: list[str] | None = None) -> int:
     # "Covered" is per-season: a team counts only if the store already
     # holds games for it in THIS season (a prior season's coverage must
     # never skip a new season's run).
-    covered = sorted({
+    covered = [] if args.force else sorted({
         g.get("team")
         for p in (log_store.document.get("players") or {}).values()
         for g in p.get("games", [])

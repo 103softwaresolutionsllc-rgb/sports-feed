@@ -208,8 +208,19 @@ def _translate_stats(sport: str, names: list, values: list) -> dict:
 
 
 def espn_player_entries(sport: str, season_label: str, athlete: dict,
-                        team_id: int, team_name: str, transport) -> list:
-    """One athlete's regular-season gamelog -> API-shaped entries."""
+                        team_id: int, team_name: str, transport,
+                        id_to_name: dict | None = None) -> list:
+    """One athlete's regular-season gamelog -> API-shaped entries.
+
+    Each entry's team comes from the GAMELOG EVENT's own team id —
+    the team the athlete actually played for in that game — NOT from
+    the roster pass that happened to fetch him. ESPN's roster
+    endpoint proved unreliable on Nov 20, 2026 (it listed Kawhi
+    Leonard on Toronto's roster and omitted him from the Clippers'),
+    and roster stamping also mislabels every pre-trade game of a
+    traded player. The gamelog meta is the source of truth; the
+    roster team is only a fallback when an event carries no team.
+    """
     path = ESPN_PLAYER_SPORTS[sport]["path"]
     athlete_id = athlete.get("id")
     payload = _get(
@@ -239,10 +250,20 @@ def espn_player_entries(sport: str, season_label: str, athlete: dict,
                     player_id = int(athlete_id)
                 except (TypeError, ValueError):
                     continue
+                event_team_id = (meta.get("team") or {}).get("id")
+                try:
+                    event_team_id = int(event_team_id)
+                except (TypeError, ValueError):
+                    event_team_id = None
+                entry_team_id = event_team_id if event_team_id \
+                    is not None else team_id
+                entry_team_name = (id_to_name or {}).get(
+                    entry_team_id, team_name)
                 entry = {
                     "player": {"id": player_id,
                                "name": athlete.get("displayName")},
-                    "team": {"id": team_id, "name": team_name},
+                    "team": {"id": entry_team_id,
+                             "name": entry_team_name},
                     "game": {"id": game_id, "date": meta.get("gameDate")},
                 }
                 entry.update(stats)
@@ -302,7 +323,8 @@ def run_espn_fanout(sport: str, season: str, team_names, *, transport,
                 continue
             try:
                 entries.extend(espn_player_entries(
-                    sport, season, athlete, espn_id, team_name, transport))
+                    sport, season, athlete, espn_id, team_name, transport,
+                    id_to_name={v: k for k, v in team_ids.items()}))
                 report["athletes_fetched"] += 1
             except Exception:  # noqa: BLE001 — counted, pass continues
                 report["athlete_errors"] += 1

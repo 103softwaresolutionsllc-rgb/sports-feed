@@ -126,6 +126,82 @@ def apply_calibration(p: float, league: str | None,
     return calibrated, info
 
 
+# ---------------------------------------------------------------------------
+# Distribution layer (model v1.1, adopted Nov 20, 2026)
+#
+# The original engine fit every statistic with a Gaussian. A rolling-
+# origin backtest on the full 2025-2026 harvested season (19,578
+# out-of-sample predictions per statistic; distribution_validation.py)
+# showed a negative-binomial fit on the same L10 window beats the
+# Gaussian on essentially every counting statistic (log-score margins
+# +0.08 to +0.20), degenerating to Poisson when the window shows no
+# overdispersion. Integer statistics therefore fit:
+#   variance > mean  -> negative binomial (method of moments)
+#   otherwise        -> Poisson
+# Number statistics (minutes, percentages) keep the Gaussian.
+# Recency weighting and minutes-conditioned means were tested in the
+# same pass and LOST out-of-sample; they are not used.
+# ---------------------------------------------------------------------------
+
+def fit_distribution(values: list[float], statistic_type: str) -> dict:
+    """Fit the projection distribution for one window of values."""
+    mu = statistics.fmean(values)
+    if statistic_type == "integer":
+        var = statistics.variance(values) if len(values) > 1 else 0.0
+        if mu > 0 and var > mu:
+            r = mu * mu / (var - mu)
+            return {"family": "negative_binomial", "mean": mu,
+                    "stdev": math.sqrt(var), "r": r, "p": r / (r + mu)}
+        return {"family": "poisson", "mean": mu,
+                "stdev": math.sqrt(mu) if mu > 0 else 0.0, "lam": mu}
+    sigma = statistics.stdev(values) if len(values) > 1 else 0.0
+    return {"family": "gaussian", "mean": mu, "stdev": sigma}
+
+
+def _count_pmf(fit: dict, k: int) -> float:
+    if k < 0:
+        return 0.0
+    if fit["family"] == "poisson":
+        lam = max(fit["lam"], 1e-12)
+        return math.exp(-lam + k * math.log(lam) - math.lgamma(k + 1))
+    r, p = fit["r"], fit["p"]
+    return math.exp(math.lgamma(k + r) - math.lgamma(r)
+                    - math.lgamma(k + 1) + r * math.log(p)
+                    + k * math.log(max(1.0 - p, 1e-12)))
+
+
+def _count_cdf(fit: dict, k: int) -> float:
+    if k < 0:
+        return 0.0
+    return min(1.0, sum(_count_pmf(fit, i) for i in range(k + 1)))
+
+
+def distribution_p_over(fit: dict, threshold: float,
+                        statistic_type: str) -> float:
+    """P(outcome > threshold) under the fitted distribution.
+
+    Integer statistics keep the house threshold convention (the
+    continuity-corrected threshold floor(line) + 0.5), so the over
+    probability is 1 - CDF(floor(line)) for half-point and whole
+    lines alike — the same semantics the Gaussian engine had.
+    """
+    if statistic_type == "integer":
+        return 1.0 - _count_cdf(fit, math.floor(threshold))
+    mu, sigma = fit["mean"], fit["stdev"]
+    if sigma > 0:
+        return 1.0 - normal_cdf((threshold - mu) / sigma)
+    return 1.0 if mu > threshold else 0.0 if mu < threshold else 0.5
+
+
+def distribution_median(fit: dict, statistic_type: str) -> float:
+    if statistic_type == "integer":
+        k = 0
+        while _count_cdf(fit, k) < 0.5 and k < 10000:
+            k += 1
+        return float(k)
+    return fit["mean"]
+
+
 def _window_slice(full: list[dict], window: str) -> list[dict]:
     """The entries in `window`, preserving chronological order.
 
@@ -208,23 +284,22 @@ def project_selection(selection: dict, registry, log_store,
         })
         return result
 
-    # 5. Gaussian over the windowed distribution. Integer statistics
-    # get a continuity correction: the threshold is the middle of the
-    # line's whole-number bucket (floor(line) + 0.5), which equals the
-    # line itself for half-point lines and sits half a point above
+    # 5. Fit the windowed distribution (v1.1: negative binomial /
+    # Poisson for integer statistics, Gaussian for number statistics —
+    # see the distribution layer above). Integer statistics get a
+    # continuity correction: the threshold is the middle of the line's
+    # whole-number bucket (floor(line) + 0.5), which equals the line
+    # itself for half-point lines and sits half a point above
     # whole-number lines, where a push is possible.
-    mu = statistics.fmean(values)
-    sigma = statistics.stdev(values) if len(values) > 1 else 0.0
+    fit = fit_distribution(values, market["statistic_type"])
+    mu = fit["mean"]
+    sigma = fit["stdev"]
     line = validation["line"]
     if market["statistic_type"] == "integer":
         threshold = math.floor(line) + 0.5
     else:
         threshold = line
-    if sigma > 0:
-        p_over = 1.0 - normal_cdf((threshold - mu) / sigma)
-    else:
-        # A constant series has no spread: the outcome is a step.
-        p_over = 1.0 if mu > threshold else 0.0 if mu < threshold else 0.5
+    p_over = distribution_p_over(fit, threshold, market["statistic_type"])
 
     # 6. Calibrate the over probability ONCE; under is its complement.
     p_over_cal, cal_info = apply_calibration(p_over, league, calibrations)
@@ -250,6 +325,7 @@ def project_selection(selection: dict, registry, log_store,
             "games_available": len(full),
             "mean": round(mu, 3),
             "stdev": round(sigma, 3),
+            "distribution": fit["family"],
             "threshold": threshold,
             "probability_over": probability_over,
             "probability_under": probability_under,

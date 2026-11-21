@@ -10810,6 +10810,857 @@
           "to": null
         }
       ]
+    },
+    {
+      "full_name": "Mouhamed Gueye",
+      "league": "NBA",
+      "player_id": "plyr-0471",
+      "provider_ids": {
+        "espn": 4712863
+      },
+      "status_history": [
+        {
+          "from": "2026-11-21",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-21",
+          "team": "Atlanta Hawks",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Jalen Wilson",
+      "league": "NBA",
+      "player_id": "plyr-0472",
+      "provider_ids": {
+        "espn": 4431714
+      },
+      "status_history": [
+        {
+          "from": "2026-11-21",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-21",
+          "team": "Atlanta Hawks",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Amari Williams",
+      "league": "NBA",
+      "player_id": "plyr-0473",
+      "provider_ids": {
+        "espn": 4702745
+      },
+      "status_history": [
+        {
+          "from": "2026-11-21",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-21",
+          "team": "Boston Celtics",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Grant Nelson",
+      "league": "NBA",
+      "player_id": "plyr-0474",
+      "provider_ids": {
+        "espn": 4702670
+      },
+      "status_history": [
+        {
+          "from": "2026-11-21",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-21",
+          "team": "Brooklyn Nets",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Orlando Robinson",
+      "league": "NBA",
+      "player_id": "plyr-0475",
+      "provider_ids": {
+        "espn": 4593049
+      },
+      "status_history": [
+        {
+          "from": "2026-11-21",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-21",
+          "team": "Chicago Bulls",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Nae'Qwan Tomlin",
+      "league": "NBA",
+      "player_id": "plyr-0476",
+      "provider_ids": {
+        "espn": 5106268
+      },
+      "status_history": [
+        {
+          "from": "2026-11-21",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-21",
+          "team": "Cleveland Cavaliers",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Dereck Lively II",
+      "league": "NBA",
+      "player_id": "plyr-0477",
+      "provider_ids": {
+        "espn": 4683688
+      },
+      "status_history": [
+        {
+          "from": "2026-11-21",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-21",
+          "team": "Dallas Mavericks",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Julian Strawther",
+      "league": "NBA",
+      "player_id": "plyr-0478",
+      "provider_ids": {
+        "espn": 4432181
+      },
+      "status_history": [
+        {
+          "from": "2026-11-21",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-21",
+          "team": "Denver Nuggets",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Jimmy Butler III",
+      "league": "NBA",
+      "player_id": "plyr-0479",
+      "provider_ids": {
+        "espn": 6430
+      },
+      "status_history": [
+        {
+          "from": "2026-11-21",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-21",
+          "team": "Golden State Warriors",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Moses Moody",
+      "league": "NBA",
+      "player_id": "plyr-0480",
+      "provider_ids": {
+        "espn": 4432171
+      },
+      "status_history": [
+        {
+          "from": "2026-11-21",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-21",
+          "team": "Golden State Warriors",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Kristaps Porzingis",
+      "league": "NBA",
+      "player_id": "plyr-0481",
+      "provider_ids": {
+        "espn": 3102531
+      },
+      "status_history": [
+        {
+          "from": "2026-11-21",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-21",
+          "team": "Golden State Warriors",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Julian Phillips",
+      "league": "NBA",
+      "player_id": "plyr-0482",
+      "provider_ids": {
+        "espn": 5105553
+      },
+      "status_history": [
+        {
+          "from": "2026-11-21",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-21",
+          "team": "Houston Rockets",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Johnny Furphy",
+      "league": "NBA",
+      "player_id": "plyr-0483",
+      "provider_ids": {
+        "espn": 5157066
+      },
+      "status_history": [
+        {
+          "from": "2026-11-21",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-21",
+          "team": "Indiana Pacers",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Vladislav Goldin",
+      "league": "NBA",
+      "player_id": "plyr-0484",
+      "provider_ids": {
+        "espn": 4700818
+      },
+      "status_history": [
+        {
+          "from": "2026-11-21",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-21",
+          "team": "Miami Heat",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Kam Jones",
+      "league": "NBA",
+      "player_id": "plyr-0485",
+      "provider_ids": {
+        "espn": 4697268
+      },
+      "status_history": [
+        {
+          "from": "2026-11-21",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-21",
+          "team": "Milwaukee Bucks",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Cormac Ryan",
+      "league": "NBA",
+      "player_id": "plyr-0486",
+      "provider_ids": {
+        "espn": 4397114
+      },
+      "status_history": [
+        {
+          "from": "2026-11-21",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-21",
+          "team": "Milwaukee Bucks",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Johni Broome",
+      "league": "NBA",
+      "player_id": "plyr-0487",
+      "provider_ids": {
+        "espn": 4433569
+      },
+      "status_history": [
+        {
+          "from": "2026-11-21",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-21",
+          "team": "Minnesota Timberwolves",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Donte DiVincenzo",
+      "league": "NBA",
+      "player_id": "plyr-0488",
+      "provider_ids": {
+        "espn": 3934673
+      },
+      "status_history": [
+        {
+          "from": "2026-11-21",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-21",
+          "team": "Minnesota Timberwolves",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Jonathan Isaac",
+      "league": "NBA",
+      "player_id": "plyr-0489",
+      "provider_ids": {
+        "espn": 4065654
+      },
+      "status_history": [
+        {
+          "from": "2026-11-21",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-21",
+          "team": "Orlando Magic",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Noah Penda",
+      "league": "NBA",
+      "player_id": "plyr-0490",
+      "provider_ids": {
+        "espn": 5214637
+      },
+      "status_history": [
+        {
+          "from": "2026-11-21",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-21",
+          "team": "Orlando Magic",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Dominick Barlow",
+      "league": "NBA",
+      "player_id": "plyr-0491",
+      "provider_ids": {
+        "espn": 4870562
+      },
+      "status_history": [
+        {
+          "from": "2026-11-21",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-21",
+          "team": "Philadelphia 76ers",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Ariel Hukporti",
+      "league": "NBA",
+      "player_id": "plyr-0492",
+      "provider_ids": {
+        "espn": 4871141
+      },
+      "status_history": [
+        {
+          "from": "2026-11-21",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-21",
+          "team": "Philadelphia 76ers",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Drew Timme",
+      "league": "NBA",
+      "player_id": "plyr-0493",
+      "provider_ids": {
+        "espn": 4431695
+      },
+      "status_history": [
+        {
+          "from": "2026-11-21",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-21",
+          "team": "Phoenix Suns",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Mark Williams",
+      "league": "NBA",
+      "player_id": "plyr-0494",
+      "provider_ids": {
+        "espn": 4701232
+      },
+      "status_history": [
+        {
+          "from": "2026-11-21",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-21",
+          "team": "Phoenix Suns",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Shaedon Sharpe",
+      "league": "NBA",
+      "player_id": "plyr-0495",
+      "provider_ids": {
+        "espn": 4914336
+      },
+      "status_history": [
+        {
+          "from": "2026-11-21",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-21",
+          "team": "Portland Trail Blazers",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Sean Pedulla",
+      "league": "NBA",
+      "player_id": "plyr-0496",
+      "provider_ids": {
+        "espn": 4709131
+      },
+      "status_history": [
+        {
+          "from": "2026-11-21",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-21",
+          "team": "Sacramento Kings",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Maxime Raynaud",
+      "league": "NBA",
+      "player_id": "plyr-0497",
+      "provider_ids": {
+        "espn": 4898371
+      },
+      "status_history": [
+        {
+          "from": "2026-11-21",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-21",
+          "team": "Sacramento Kings",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Tobias Harris",
+      "league": "NBA",
+      "player_id": "plyr-0498",
+      "provider_ids": {
+        "espn": 6440
+      },
+      "status_history": [
+        {
+          "from": "2026-11-21",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-21",
+          "team": "San Antonio Spurs",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Kevin McCullar Jr.",
+      "league": "NBA",
+      "player_id": "plyr-0499",
+      "provider_ids": {
+        "espn": 4411057
+      },
+      "status_history": [
+        {
+          "from": "2026-11-21",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-21",
+          "team": "Toronto Raptors",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Kobe Bufkin",
+      "league": "NBA",
+      "player_id": "plyr-0500",
+      "provider_ids": {
+        "espn": 4683736
+      },
+      "status_history": [
+        {
+          "from": "2026-11-21",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-21",
+          "team": "Utah Jazz",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Harrison Ingram",
+      "league": "NBA",
+      "player_id": "plyr-0501",
+      "provider_ids": {
+        "espn": 4433618
+      },
+      "status_history": [
+        {
+          "from": "2026-11-21",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-21",
+          "team": "Utah Jazz",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Jusuf Nurkic",
+      "league": "NBA",
+      "player_id": "plyr-0502",
+      "provider_ids": {
+        "espn": 3102530
+      },
+      "status_history": [
+        {
+          "from": "2026-11-21",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-21",
+          "team": "Utah Jazz",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Tristan Vukcevic",
+      "league": "NBA",
+      "player_id": "plyr-0503",
+      "provider_ids": {
+        "espn": 4997537
+      },
+      "status_history": [
+        {
+          "from": "2026-11-21",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-21",
+          "team": "Washington Wizards",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Jamir Watkins",
+      "league": "NBA",
+      "player_id": "plyr-0504",
+      "provider_ids": {
+        "espn": 4606840
+      },
+      "status_history": [
+        {
+          "from": "2026-11-21",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-21",
+          "team": "Washington Wizards",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Bradley Beal",
+      "league": "NBA",
+      "player_id": "plyr-0505",
+      "provider_ids": {
+        "espn": 6580
+      },
+      "status_history": [
+        {
+          "from": "2026-11-21",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-21",
+          "team": "Los Angeles Clippers",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Brandon Ingram",
+      "league": "NBA",
+      "player_id": "plyr-0506",
+      "provider_ids": {
+        "espn": 3913176
+      },
+      "status_history": [
+        {
+          "from": "2026-11-21",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-21",
+          "team": "Los Angeles Clippers",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Jordan Miller",
+      "league": "NBA",
+      "player_id": "plyr-0507",
+      "provider_ids": {
+        "espn": 4396818
+      },
+      "status_history": [
+        {
+          "from": "2026-11-21",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-21",
+          "team": "Los Angeles Clippers",
+          "to": null
+        }
+      ]
     }
   ],
   "registry_version": 1

@@ -1,0 +1,7057 @@
+{
+  "classification": "Historical",
+  "players": [
+    {
+      "categories": {
+        "assists_per_game": 2.25,
+        "blocks_per_game": 0.333,
+        "points_per_game": 16.25,
+        "rebounds_per_game": 6.583,
+        "steals_per_game": 1.25
+      },
+      "games": 12,
+      "player": "AJ Dybantsa",
+      "player_id": 5142718,
+      "season": "2026-2027",
+      "team": "Washington Wizards",
+      "team_id": 27
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.267,
+        "blocks_per_game": 0.133,
+        "points_per_game": 5.933,
+        "rebounds_per_game": 1.333,
+        "steals_per_game": 0.133
+      },
+      "games": 15,
+      "player": "AJ Green",
+      "player_id": 4397475,
+      "season": "2026-2027",
+      "team": "Milwaukee Bucks",
+      "team_id": 15
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.667,
+        "blocks_per_game": 0.167,
+        "points_per_game": 1.167,
+        "rebounds_per_game": 0.5,
+        "steals_per_game": 0.167
+      },
+      "games": 6,
+      "player": "AJ Johnson",
+      "player_id": 5170947,
+      "season": "2026-2027",
+      "team": "New Orleans Pelicans",
+      "team_id": 3
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.923,
+        "blocks_per_game": 0.462,
+        "points_per_game": 11.154,
+        "rebounds_per_game": 4.923,
+        "steals_per_game": 0.923
+      },
+      "games": 13,
+      "player": "Aaron Gordon",
+      "player_id": 3064290,
+      "season": "2026-2027",
+      "team": "Denver Nuggets",
+      "team_id": 7
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.923,
+        "blocks_per_game": 0.308,
+        "points_per_game": 11.462,
+        "rebounds_per_game": 2.769,
+        "steals_per_game": 0.692
+      },
+      "games": 13,
+      "player": "Aaron Nesmith",
+      "player_id": 4396909,
+      "season": "2026-2027",
+      "team": "Indiana Pacers",
+      "team_id": 11
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.438,
+        "blocks_per_game": 0.25,
+        "points_per_game": 14.25,
+        "rebounds_per_game": 3.5,
+        "steals_per_game": 0.875
+      },
+      "games": 16,
+      "player": "Aaron Wiggins",
+      "player_id": 4397183,
+      "season": "2026-2027",
+      "team": "Atlanta Hawks",
+      "team_id": 1
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.188,
+        "blocks_per_game": 1.062,
+        "points_per_game": 13.25,
+        "rebounds_per_game": 6.25,
+        "steals_per_game": 0.812
+      },
+      "games": 16,
+      "player": "Ace Bailey",
+      "player_id": 4873138,
+      "season": "2026-2027",
+      "team": "Utah Jazz",
+      "team_id": 26
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.867,
+        "blocks_per_game": 1.667,
+        "points_per_game": 9.2,
+        "rebounds_per_game": 6.467,
+        "steals_per_game": 0.067
+      },
+      "games": 15,
+      "player": "Aday Mara",
+      "player_id": 5174983,
+      "season": "2026-2027",
+      "team": "Oklahoma City Thunder",
+      "team_id": 25
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.778,
+        "blocks_per_game": 1.0,
+        "points_per_game": 2.111,
+        "rebounds_per_game": 3.889,
+        "steals_per_game": 0.444
+      },
+      "games": 9,
+      "player": "Adem Bona",
+      "player_id": 5105637,
+      "season": "2026-2027",
+      "team": "Philadelphia 76ers",
+      "team_id": 20
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.0,
+        "blocks_per_game": 0.167,
+        "points_per_game": 1.667,
+        "rebounds_per_game": 1.833,
+        "steals_per_game": 0.667
+      },
+      "games": 6,
+      "player": "Adou Thiero",
+      "player_id": 5060631,
+      "season": "2026-2027",
+      "team": "Los Angeles Lakers",
+      "team_id": 13
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.615,
+        "blocks_per_game": 0.462,
+        "points_per_game": 17.692,
+        "rebounds_per_game": 3.769,
+        "steals_per_game": 1.154
+      },
+      "games": 13,
+      "player": "Ajay Mitchell",
+      "player_id": 4900671,
+      "season": "2026-2027",
+      "team": "Oklahoma City Thunder",
+      "team_id": 25
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.846,
+        "blocks_per_game": 1.0,
+        "points_per_game": 3.846,
+        "rebounds_per_game": 3.615,
+        "steals_per_game": 0.385
+      },
+      "games": 13,
+      "player": "Al Horford",
+      "player_id": 3213,
+      "season": "2026-2027",
+      "team": "Golden State Warriors",
+      "team_id": 9
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.833,
+        "blocks_per_game": 0.5,
+        "points_per_game": 7.417,
+        "rebounds_per_game": 3.667,
+        "steals_per_game": 1.25
+      },
+      "games": 12,
+      "player": "Alex Caruso",
+      "player_id": 2991350,
+      "season": "2026-2027",
+      "team": "Oklahoma City Thunder",
+      "team_id": 25
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.429,
+        "blocks_per_game": 0.0,
+        "points_per_game": 1.0,
+        "rebounds_per_game": 1.429,
+        "steals_per_game": 0.286
+      },
+      "games": 7,
+      "player": "Alex Karaban",
+      "player_id": 4917149,
+      "season": "2026-2027",
+      "team": "Sacramento Kings",
+      "team_id": 23
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.625,
+        "blocks_per_game": 0.0,
+        "points_per_game": 2.125,
+        "rebounds_per_game": 2.375,
+        "steals_per_game": 0.375
+      },
+      "games": 8,
+      "player": "Alex Morales",
+      "player_id": 4593034,
+      "season": "2026-2027",
+      "team": "Orlando Magic",
+      "team_id": 19
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.733,
+        "blocks_per_game": 1.267,
+        "points_per_game": 11.867,
+        "rebounds_per_game": 6.933,
+        "steals_per_game": 0.867
+      },
+      "games": 15,
+      "player": "Alex Sarr",
+      "player_id": 5160992,
+      "season": "2026-2027",
+      "team": "Washington Wizards",
+      "team_id": 27
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.786,
+        "blocks_per_game": 0.143,
+        "points_per_game": 5.357,
+        "rebounds_per_game": 1.929,
+        "steals_per_game": 0.5
+      },
+      "games": 14,
+      "player": "Alijah Martin",
+      "player_id": 4702656,
+      "season": "2026-2027",
+      "team": "Toronto Raptors",
+      "team_id": 28
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.8,
+        "blocks_per_game": 0.4,
+        "points_per_game": 4.6,
+        "rebounds_per_game": 2.8,
+        "steals_per_game": 0.467
+      },
+      "games": 15,
+      "player": "Allen Graves",
+      "player_id": 5149115,
+      "season": "2026-2027",
+      "team": "Toronto Raptors",
+      "team_id": 28
+    },
+    {
+      "categories": {
+        "assists_per_game": 6.786,
+        "blocks_per_game": 0.857,
+        "points_per_game": 21.643,
+        "rebounds_per_game": 9.143,
+        "steals_per_game": 1.071
+      },
+      "games": 14,
+      "player": "Alperen Sengun",
+      "player_id": 4871144,
+      "season": "2026-2027",
+      "team": "Houston Rockets",
+      "team_id": 10
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.5,
+        "blocks_per_game": 0.0,
+        "points_per_game": 1.0,
+        "rebounds_per_game": 0.75,
+        "steals_per_game": 0.25
+      },
+      "games": 4,
+      "player": "Alpha Diallo",
+      "player_id": 4065813,
+      "season": "2026-2027",
+      "team": "Denver Nuggets",
+      "team_id": 7
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.333,
+        "blocks_per_game": 0.733,
+        "points_per_game": 15.733,
+        "rebounds_per_game": 7.133,
+        "steals_per_game": 1.067
+      },
+      "games": 15,
+      "player": "Amen Thompson",
+      "player_id": 4684740,
+      "season": "2026-2027",
+      "team": "Houston Rockets",
+      "team_id": 10
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.0,
+        "blocks_per_game": 0.533,
+        "points_per_game": 3.667,
+        "rebounds_per_game": 7.267,
+        "steals_per_game": 0.333
+      },
+      "games": 15,
+      "player": "Andre Drummond",
+      "player_id": 6585,
+      "season": "2026-2027",
+      "team": "New York Knicks",
+      "team_id": 18
+    },
+    {
+      "categories": {
+        "assists_per_game": 7.636,
+        "blocks_per_game": 0.182,
+        "points_per_game": 16.636,
+        "rebounds_per_game": 2.273,
+        "steals_per_game": 0.455
+      },
+      "games": 11,
+      "player": "Andrew Nembhard",
+      "player_id": 4395712,
+      "season": "2026-2027",
+      "team": "Indiana Pacers",
+      "team_id": 11
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.6,
+        "blocks_per_game": 0.8,
+        "points_per_game": 9.467,
+        "rebounds_per_game": 2.867,
+        "steals_per_game": 0.533
+      },
+      "games": 15,
+      "player": "Andrew Wiggins",
+      "player_id": 3059319,
+      "season": "2026-2027",
+      "team": "Miami Heat",
+      "team_id": 14
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.25,
+        "blocks_per_game": 0.125,
+        "points_per_game": 10.75,
+        "rebounds_per_game": 2.0,
+        "steals_per_game": 0.438
+      },
+      "games": 16,
+      "player": "Anfernee Simons",
+      "player_id": 4351851,
+      "season": "2026-2027",
+      "team": "Philadelphia 76ers",
+      "team_id": 20
+    },
+    {
+      "categories": {
+        "assists_per_game": 5.636,
+        "blocks_per_game": 0.818,
+        "points_per_game": 16.545,
+        "rebounds_per_game": 4.909,
+        "steals_per_game": 1.818
+      },
+      "games": 11,
+      "player": "Anthony Black",
+      "player_id": 4712849,
+      "season": "2026-2027",
+      "team": "Orlando Magic",
+      "team_id": 19
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.071,
+        "blocks_per_game": 1.214,
+        "points_per_game": 24.571,
+        "rebounds_per_game": 10.071,
+        "steals_per_game": 1.214
+      },
+      "games": 14,
+      "player": "Anthony Davis",
+      "player_id": 6583,
+      "season": "2026-2027",
+      "team": "Washington Wizards",
+      "team_id": 27
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.5,
+        "blocks_per_game": 0.75,
+        "points_per_game": 33.25,
+        "rebounds_per_game": 4.75,
+        "steals_per_game": 2.0
+      },
+      "games": 4,
+      "player": "Anthony Edwards",
+      "player_id": 4594268,
+      "season": "2026-2027",
+      "team": "Minnesota Timberwolves",
+      "team_id": 16
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.0,
+        "blocks_per_game": 0.0,
+        "points_per_game": 1.6,
+        "rebounds_per_game": 0.8,
+        "steals_per_game": 0.0
+      },
+      "games": 5,
+      "player": "Anthony Gill",
+      "player_id": 2581184,
+      "season": "2026-2027",
+      "team": "Washington Wizards",
+      "team_id": 27
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.0,
+        "blocks_per_game": 0.2,
+        "points_per_game": 3.6,
+        "rebounds_per_game": 2.6,
+        "steals_per_game": 0.2
+      },
+      "games": 5,
+      "player": "Asa Newell",
+      "player_id": 4873201,
+      "season": "2026-2027",
+      "team": "Atlanta Hawks",
+      "team_id": 1
+    },
+    {
+      "categories": {
+        "assists_per_game": 5.538,
+        "blocks_per_game": 0.769,
+        "points_per_game": 10.385,
+        "rebounds_per_game": 8.538,
+        "steals_per_game": 1.692
+      },
+      "games": 13,
+      "player": "Ausar Thompson",
+      "player_id": 4684742,
+      "season": "2026-2027",
+      "team": "Detroit Pistons",
+      "team_id": 8
+    },
+    {
+      "categories": {
+        "assists_per_game": 4.667,
+        "blocks_per_game": 0.333,
+        "points_per_game": 24.667,
+        "rebounds_per_game": 3.333,
+        "steals_per_game": 1.167
+      },
+      "games": 12,
+      "player": "Austin Reaves",
+      "player_id": 4066457,
+      "season": "2026-2027",
+      "team": "Los Angeles Lakers",
+      "team_id": 13
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.5,
+        "blocks_per_game": 0.375,
+        "points_per_game": 17.812,
+        "rebounds_per_game": 4.562,
+        "steals_per_game": 1.25
+      },
+      "games": 16,
+      "player": "Ayo Dosunmu",
+      "player_id": 4397002,
+      "season": "2026-2027",
+      "team": "Minnesota Timberwolves",
+      "team_id": 16
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.75,
+        "blocks_per_game": 0.583,
+        "points_per_game": 3.833,
+        "rebounds_per_game": 2.0,
+        "steals_per_game": 0.417
+      },
+      "games": 12,
+      "player": "Baba Miller",
+      "player_id": 5075626,
+      "season": "2026-2027",
+      "team": "Los Angeles Clippers",
+      "team_id": 12
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.133,
+        "blocks_per_game": 0.667,
+        "points_per_game": 18.867,
+        "rebounds_per_game": 7.733,
+        "steals_per_game": 2.067
+      },
+      "games": 15,
+      "player": "Bam Adebayo",
+      "player_id": 4066261,
+      "season": "2026-2027",
+      "team": "Miami Heat",
+      "team_id": 14
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.467,
+        "blocks_per_game": 0.067,
+        "points_per_game": 5.667,
+        "rebounds_per_game": 3.667,
+        "steals_per_game": 1.067
+      },
+      "games": 15,
+      "player": "Baylor Scheierman",
+      "player_id": 4593841,
+      "season": "2026-2027",
+      "team": "Boston Celtics",
+      "team_id": 2
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.0,
+        "blocks_per_game": 0.0,
+        "points_per_game": 2.0,
+        "rebounds_per_game": 1.0,
+        "steals_per_game": 0.0
+      },
+      "games": 1,
+      "player": "Ben Saraf",
+      "player_id": 5242502,
+      "season": "2026-2027",
+      "team": "Brooklyn Nets",
+      "team_id": 17
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.0,
+        "blocks_per_game": 0.0,
+        "points_per_game": 3.0,
+        "rebounds_per_game": 1.0,
+        "steals_per_game": 0.0
+      },
+      "games": 1,
+      "player": "Ben Sheppard",
+      "player_id": 4433076,
+      "season": "2026-2027",
+      "team": "Indiana Pacers",
+      "team_id": 11
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.167,
+        "blocks_per_game": 0.0,
+        "points_per_game": 5.5,
+        "rebounds_per_game": 1.75,
+        "steals_per_game": 0.333
+      },
+      "games": 12,
+      "player": "Bennedict Mathurin",
+      "player_id": 4683634,
+      "season": "2026-2027",
+      "team": "New Orleans Pelicans",
+      "team_id": 3
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.2,
+        "blocks_per_game": 0.133,
+        "points_per_game": 7.067,
+        "rebounds_per_game": 1.067,
+        "steals_per_game": 0.733
+      },
+      "games": 15,
+      "player": "Bennett Stirtz",
+      "player_id": 5241364,
+      "season": "2026-2027",
+      "team": "Oklahoma City Thunder",
+      "team_id": 25
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.733,
+        "blocks_per_game": 1.067,
+        "points_per_game": 6.933,
+        "rebounds_per_game": 4.333,
+        "steals_per_game": 1.0
+      },
+      "games": 15,
+      "player": "Bilal Coulibaly",
+      "player_id": 5104155,
+      "season": "2026-2027",
+      "team": "Washington Wizards",
+      "team_id": 27
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.0,
+        "blocks_per_game": 0.0,
+        "points_per_game": 1.0,
+        "rebounds_per_game": 2.0,
+        "steals_per_game": 0.0
+      },
+      "games": 2,
+      "player": "Blake Wesley",
+      "player_id": 4683935,
+      "season": "2026-2027",
+      "team": "Los Angeles Clippers",
+      "team_id": 12
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.533,
+        "blocks_per_game": 0.4,
+        "points_per_game": 7.467,
+        "rebounds_per_game": 5.333,
+        "steals_per_game": 0.733
+      },
+      "games": 15,
+      "player": "Bobby Portis",
+      "player_id": 3064482,
+      "season": "2026-2027",
+      "team": "Miami Heat",
+      "team_id": 14
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.188,
+        "blocks_per_game": 0.062,
+        "points_per_game": 5.5,
+        "rebounds_per_game": 1.312,
+        "steals_per_game": 0.188
+      },
+      "games": 16,
+      "player": "Bogdan Bogdanovic",
+      "player_id": 3037789,
+      "season": "2026-2027",
+      "team": "Houston Rockets",
+      "team_id": 10
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.333,
+        "blocks_per_game": 0.0,
+        "points_per_game": 0.667,
+        "rebounds_per_game": 1.0,
+        "steals_per_game": 0.0
+      },
+      "games": 3,
+      "player": "Bogoljub Markovic",
+      "player_id": 5214989,
+      "season": "2026-2027",
+      "team": "Milwaukee Bucks",
+      "team_id": 15
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.75,
+        "blocks_per_game": 0.312,
+        "points_per_game": 9.625,
+        "rebounds_per_game": 1.375,
+        "steals_per_game": 0.812
+      },
+      "games": 16,
+      "player": "Bones Hyland",
+      "player_id": 4592492,
+      "season": "2026-2027",
+      "team": "Minnesota Timberwolves",
+      "team_id": 16
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.75,
+        "blocks_per_game": 0.375,
+        "points_per_game": 4.75,
+        "rebounds_per_game": 1.25,
+        "steals_per_game": 1.25
+      },
+      "games": 8,
+      "player": "Braden Smith",
+      "player_id": 5105854,
+      "season": "2026-2027",
+      "team": "Indiana Pacers",
+      "team_id": 11
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.3,
+        "blocks_per_game": 0.5,
+        "points_per_game": 2.6,
+        "rebounds_per_game": 2.4,
+        "steals_per_game": 0.0
+      },
+      "games": 10,
+      "player": "Branden Carlson",
+      "player_id": 4592435,
+      "season": "2026-2027",
+      "team": "Portland Trail Blazers",
+      "team_id": 22
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.643,
+        "blocks_per_game": 0.5,
+        "points_per_game": 15.786,
+        "rebounds_per_game": 4.714,
+        "steals_per_game": 1.071
+      },
+      "games": 14,
+      "player": "Brandin Podziemski",
+      "player_id": 4709138,
+      "season": "2026-2027",
+      "team": "Golden State Warriors",
+      "team_id": 9
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.538,
+        "blocks_per_game": 0.615,
+        "points_per_game": 19.846,
+        "rebounds_per_game": 4.769,
+        "steals_per_game": 1.0
+      },
+      "games": 13,
+      "player": "Brandon Miller",
+      "player_id": 4433287,
+      "season": "2026-2027",
+      "team": "Charlotte Hornets",
+      "team_id": 30
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.3,
+        "blocks_per_game": 0.4,
+        "points_per_game": 10.4,
+        "rebounds_per_game": 2.1,
+        "steals_per_game": 0.9
+      },
+      "games": 10,
+      "player": "Brandon Williams",
+      "player_id": 4397040,
+      "season": "2026-2027",
+      "team": "Golden State Warriors",
+      "team_id": 9
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.312,
+        "blocks_per_game": 0.125,
+        "points_per_game": 10.375,
+        "rebounds_per_game": 5.312,
+        "steals_per_game": 0.812
+      },
+      "games": 16,
+      "player": "Brayden Burries",
+      "player_id": 5082206,
+      "season": "2026-2027",
+      "team": "Milwaukee Bucks",
+      "team_id": 15
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.625,
+        "blocks_per_game": 0.312,
+        "points_per_game": 10.375,
+        "rebounds_per_game": 3.688,
+        "steals_per_game": 0.375
+      },
+      "games": 16,
+      "player": "Brice Sensabaugh",
+      "player_id": 5105839,
+      "season": "2026-2027",
+      "team": "Utah Jazz",
+      "team_id": 26
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.0,
+        "blocks_per_game": 0.143,
+        "points_per_game": 1.143,
+        "rebounds_per_game": 0.0,
+        "steals_per_game": 0.0
+      },
+      "games": 7,
+      "player": "Bronny James",
+      "player_id": 4683774,
+      "season": "2026-2027",
+      "team": "Los Angeles Lakers",
+      "team_id": 13
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.0,
+        "blocks_per_game": 0.857,
+        "points_per_game": 15.357,
+        "rebounds_per_game": 5.214,
+        "steals_per_game": 0.571
+      },
+      "games": 14,
+      "player": "Brook Lopez",
+      "player_id": 3448,
+      "season": "2026-2027",
+      "team": "Los Angeles Clippers",
+      "team_id": 12
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.778,
+        "blocks_per_game": 0.111,
+        "points_per_game": 1.111,
+        "rebounds_per_game": 1.0,
+        "steals_per_game": 0.333
+      },
+      "games": 9,
+      "player": "Brooks Barnhizer",
+      "player_id": 4684208,
+      "season": "2026-2027",
+      "team": "Oklahoma City Thunder",
+      "team_id": 25
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.0,
+        "blocks_per_game": 0.0,
+        "points_per_game": 1.909,
+        "rebounds_per_game": 0.091,
+        "steals_per_game": 0.091
+      },
+      "games": 11,
+      "player": "Bruce Thornton",
+      "player_id": 5105837,
+      "season": "2026-2027",
+      "team": "Houston Rockets",
+      "team_id": 10
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.375,
+        "blocks_per_game": 0.0,
+        "points_per_game": 4.75,
+        "rebounds_per_game": 1.875,
+        "steals_per_game": 0.25
+      },
+      "games": 8,
+      "player": "Bryce Hopkins",
+      "player_id": 4565698,
+      "season": "2026-2027",
+      "team": "Denver Nuggets",
+      "team_id": 7
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.571,
+        "blocks_per_game": 0.286,
+        "points_per_game": 3.714,
+        "rebounds_per_game": 0.714,
+        "steals_per_game": 1.143
+      },
+      "games": 7,
+      "player": "Bryce McGowens",
+      "player_id": 4576086,
+      "season": "2026-2027",
+      "team": "New Orleans Pelicans",
+      "team_id": 3
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.0,
+        "blocks_per_game": 0.133,
+        "points_per_game": 4.933,
+        "rebounds_per_game": 1.4,
+        "steals_per_game": 0.533
+      },
+      "games": 15,
+      "player": "Bub Carrington",
+      "player_id": 4845374,
+      "season": "2026-2027",
+      "team": "Washington Wizards",
+      "team_id": 27
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.833,
+        "blocks_per_game": 0.167,
+        "points_per_game": 7.5,
+        "rebounds_per_game": 2.167,
+        "steals_per_game": 0.667
+      },
+      "games": 12,
+      "player": "Buddy Hield",
+      "player_id": 2990984,
+      "season": "2026-2027",
+      "team": "Chicago Bulls",
+      "team_id": 4
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.857,
+        "blocks_per_game": 0.5,
+        "points_per_game": 14.5,
+        "rebounds_per_game": 3.071,
+        "steals_per_game": 1.143
+      },
+      "games": 14,
+      "player": "CJ McCollum",
+      "player_id": 2490149,
+      "season": "2026-2027",
+      "team": "Atlanta Hawks",
+      "team_id": 1
+    },
+    {
+      "categories": {
+        "assists_per_game": 7.769,
+        "blocks_per_game": 0.923,
+        "points_per_game": 25.769,
+        "rebounds_per_game": 5.154,
+        "steals_per_game": 1.385
+      },
+      "games": 13,
+      "player": "Cade Cunningham",
+      "player_id": 4432166,
+      "season": "2026-2027",
+      "team": "Detroit Pistons",
+      "team_id": 8
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.333,
+        "blocks_per_game": 0.0,
+        "points_per_game": 1.0,
+        "rebounds_per_game": 0.333,
+        "steals_per_game": 0.333
+      },
+      "games": 3,
+      "player": "Caleb Love",
+      "player_id": 4433144,
+      "season": "2026-2027",
+      "team": "Philadelphia 76ers",
+      "team_id": 20
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.273,
+        "blocks_per_game": 0.0,
+        "points_per_game": 6.091,
+        "rebounds_per_game": 3.273,
+        "steals_per_game": 0.909
+      },
+      "games": 11,
+      "player": "Caleb Martin",
+      "player_id": 3138160,
+      "season": "2026-2027",
+      "team": "Dallas Mavericks",
+      "team_id": 6
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.9,
+        "blocks_per_game": 0.9,
+        "points_per_game": 18.9,
+        "rebounds_per_game": 6.2,
+        "steals_per_game": 1.8
+      },
+      "games": 10,
+      "player": "Caleb Wilson",
+      "player_id": 5095151,
+      "season": "2026-2027",
+      "team": "Chicago Bulls",
+      "team_id": 4
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.143,
+        "blocks_per_game": 0.0,
+        "points_per_game": 1.429,
+        "rebounds_per_game": 0.286,
+        "steals_per_game": 0.143
+      },
+      "games": 7,
+      "player": "Cam Christie",
+      "player_id": 4845363,
+      "season": "2026-2027",
+      "team": "Los Angeles Clippers",
+      "team_id": 12
+    },
+    {
+      "categories": {
+        "assists_per_game": 5.812,
+        "blocks_per_game": 0.125,
+        "points_per_game": 11.25,
+        "rebounds_per_game": 3.0,
+        "steals_per_game": 0.75
+      },
+      "games": 16,
+      "player": "Cam Spencer",
+      "player_id": 4433083,
+      "season": "2026-2027",
+      "team": "Memphis Grizzlies",
+      "team_id": 29
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.5,
+        "blocks_per_game": 0.0,
+        "points_per_game": 4.0,
+        "rebounds_per_game": 1.0,
+        "steals_per_game": 0.5
+      },
+      "games": 2,
+      "player": "Cam Whitmore",
+      "player_id": 5105592,
+      "season": "2026-2027",
+      "team": "Denver Nuggets",
+      "team_id": 7
+    },
+    {
+      "categories": {
+        "assists_per_game": 5.312,
+        "blocks_per_game": 0.75,
+        "points_per_game": 16.562,
+        "rebounds_per_game": 9.188,
+        "steals_per_game": 0.812
+      },
+      "games": 16,
+      "player": "Cameron Boozer",
+      "player_id": 5041935,
+      "season": "2026-2027",
+      "team": "Memphis Grizzlies",
+      "team_id": 29
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.167,
+        "blocks_per_game": 0.0,
+        "points_per_game": 1.167,
+        "rebounds_per_game": 0.833,
+        "steals_per_game": 0.0
+      },
+      "games": 6,
+      "player": "Cameron Carr",
+      "player_id": 5113969,
+      "season": "2026-2027",
+      "team": "Los Angeles Lakers",
+      "team_id": 13
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.7,
+        "blocks_per_game": 0.0,
+        "points_per_game": 11.4,
+        "rebounds_per_game": 3.7,
+        "steals_per_game": 1.1
+      },
+      "games": 10,
+      "player": "Cameron Johnson",
+      "player_id": 3138196,
+      "season": "2026-2027",
+      "team": "Denver Nuggets",
+      "team_id": 7
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.5,
+        "blocks_per_game": 0.0,
+        "points_per_game": 5.5,
+        "rebounds_per_game": 3.0,
+        "steals_per_game": 0.5
+      },
+      "games": 2,
+      "player": "Caris LeVert",
+      "player_id": 2991043,
+      "season": "2026-2027",
+      "team": "Milwaukee Bucks",
+      "team_id": 15
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.0,
+        "blocks_per_game": 0.0,
+        "points_per_game": 2.0,
+        "rebounds_per_game": 2.333,
+        "steals_per_game": 0.0
+      },
+      "games": 3,
+      "player": "Carson Cooper",
+      "player_id": 5105817,
+      "season": "2026-2027",
+      "team": "Los Angeles Lakers",
+      "team_id": 13
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.6,
+        "blocks_per_game": 0.2,
+        "points_per_game": 3.467,
+        "rebounds_per_game": 0.867,
+        "steals_per_game": 0.2
+      },
+      "games": 15,
+      "player": "Carter Bryant",
+      "player_id": 5061568,
+      "season": "2026-2027",
+      "team": "San Antonio Spurs",
+      "team_id": 24
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.333,
+        "blocks_per_game": 0.0,
+        "points_per_game": 6.333,
+        "rebounds_per_game": 2.667,
+        "steals_per_game": 2.333
+      },
+      "games": 3,
+      "player": "Cason Wallace",
+      "player_id": 4683692,
+      "season": "2026-2027",
+      "team": "Oklahoma City Thunder",
+      "team_id": 25
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.467,
+        "blocks_per_game": 0.4,
+        "points_per_game": 14.8,
+        "rebounds_per_game": 8.067,
+        "steals_per_game": 1.467
+      },
+      "games": 15,
+      "player": "Cedric Coward",
+      "player_id": 4903027,
+      "season": "2026-2027",
+      "team": "Memphis Grizzlies",
+      "team_id": 29
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.929,
+        "blocks_per_game": 0.5,
+        "points_per_game": 3.929,
+        "rebounds_per_game": 2.5,
+        "steals_per_game": 0.5
+      },
+      "games": 14,
+      "player": "Chaney Johnson",
+      "player_id": 5174655,
+      "season": "2026-2027",
+      "team": "Brooklyn Nets",
+      "team_id": 17
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.571,
+        "blocks_per_game": 1.0,
+        "points_per_game": 8.357,
+        "rebounds_per_game": 5.929,
+        "steals_per_game": 0.214
+      },
+      "games": 14,
+      "player": "Charles Bassey",
+      "player_id": 4397886,
+      "season": "2026-2027",
+      "team": "Golden State Warriors",
+      "team_id": 9
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.167,
+        "blocks_per_game": 0.0,
+        "points_per_game": 4.167,
+        "rebounds_per_game": 0.667,
+        "steals_per_game": 0.0
+      },
+      "games": 6,
+      "player": "Chaz Lanier",
+      "player_id": 4700852,
+      "season": "2026-2027",
+      "team": "Detroit Pistons",
+      "team_id": 8
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.333,
+        "blocks_per_game": 3.0,
+        "points_per_game": 12.0,
+        "rebounds_per_game": 9.333,
+        "steals_per_game": 0.667
+      },
+      "games": 3,
+      "player": "Chet Holmgren",
+      "player_id": 4433255,
+      "season": "2026-2027",
+      "team": "Oklahoma City Thunder",
+      "team_id": 25
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.167,
+        "blocks_per_game": 0.167,
+        "points_per_game": 4.0,
+        "rebounds_per_game": 2.333,
+        "steals_per_game": 0.0
+      },
+      "games": 6,
+      "player": "Chris Cenac Jr.",
+      "player_id": 5142621,
+      "season": "2026-2027",
+      "team": "Boston Celtics",
+      "team_id": 2
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.0,
+        "blocks_per_game": 0.0,
+        "points_per_game": 1.0,
+        "rebounds_per_game": 0.5,
+        "steals_per_game": 0.0
+      },
+      "games": 2,
+      "player": "Chris Manon",
+      "player_id": 4702972,
+      "season": "2026-2027",
+      "team": "Los Angeles Lakers",
+      "team_id": 13
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.0,
+        "blocks_per_game": 0.167,
+        "points_per_game": 6.0,
+        "rebounds_per_game": 1.333,
+        "steals_per_game": 0.5
+      },
+      "games": 6,
+      "player": "Chris Youngblood",
+      "player_id": 4706557,
+      "season": "2026-2027",
+      "team": "Portland Trail Blazers",
+      "team_id": 22
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.929,
+        "blocks_per_game": 0.214,
+        "points_per_game": 5.143,
+        "rebounds_per_game": 1.5,
+        "steals_per_game": 0.429
+      },
+      "games": 14,
+      "player": "Christian Anderson",
+      "player_id": 5060701,
+      "season": "2026-2027",
+      "team": "Charlotte Hornets",
+      "team_id": 30
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.385,
+        "blocks_per_game": 0.308,
+        "points_per_game": 12.769,
+        "rebounds_per_game": 4.308,
+        "steals_per_game": 2.154
+      },
+      "games": 13,
+      "player": "Christian Braun",
+      "player_id": 4431767,
+      "season": "2026-2027",
+      "team": "Denver Nuggets",
+      "team_id": 7
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.667,
+        "blocks_per_game": 0.667,
+        "points_per_game": 3.167,
+        "rebounds_per_game": 5.167,
+        "steals_per_game": 0.833
+      },
+      "games": 6,
+      "player": "Clint Capela",
+      "player_id": 3102529,
+      "season": "2026-2027",
+      "team": "Houston Rockets",
+      "team_id": 10
+    },
+    {
+      "categories": {
+        "assists_per_game": 4.0,
+        "blocks_per_game": 0.25,
+        "points_per_game": 12.5,
+        "rebounds_per_game": 2.25,
+        "steals_per_game": 0.5
+      },
+      "games": 8,
+      "player": "Coby White",
+      "player_id": 4395651,
+      "season": "2026-2027",
+      "team": "Charlotte Hornets",
+      "team_id": 30
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.0,
+        "blocks_per_game": 0.0,
+        "points_per_game": 0.0,
+        "rebounds_per_game": 0.444,
+        "steals_per_game": 0.222
+      },
+      "games": 9,
+      "player": "Cody Williams",
+      "player_id": 4895758,
+      "season": "2026-2027",
+      "team": "Minnesota Timberwolves",
+      "team_id": 16
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.5,
+        "blocks_per_game": 0.25,
+        "points_per_game": 2.25,
+        "rebounds_per_game": 1.0,
+        "steals_per_game": 0.0
+      },
+      "games": 4,
+      "player": "Colin Castleton",
+      "player_id": 4397204,
+      "season": "2026-2027",
+      "team": "Orlando Magic",
+      "team_id": 19
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.786,
+        "blocks_per_game": 0.071,
+        "points_per_game": 9.286,
+        "rebounds_per_game": 2.429,
+        "steals_per_game": 1.714
+      },
+      "games": 14,
+      "player": "Collin Gillespie",
+      "player_id": 4278585,
+      "season": "2026-2027",
+      "team": "Phoenix Suns",
+      "team_id": 21
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.786,
+        "blocks_per_game": 1.143,
+        "points_per_game": 9.286,
+        "rebounds_per_game": 4.643,
+        "steals_per_game": 1.0
+      },
+      "games": 14,
+      "player": "Collin Murray-Boyles",
+      "player_id": 5093267,
+      "season": "2026-2027",
+      "team": "Toronto Raptors",
+      "team_id": 28
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.533,
+        "blocks_per_game": 0.2,
+        "points_per_game": 10.733,
+        "rebounds_per_game": 1.733,
+        "steals_per_game": 0.467
+      },
+      "games": 15,
+      "player": "Collin Sexton",
+      "player_id": 4277811,
+      "season": "2026-2027",
+      "team": "Los Angeles Lakers",
+      "team_id": 13
+    },
+    {
+      "categories": {
+        "assists_per_game": 6.429,
+        "blocks_per_game": 0.714,
+        "points_per_game": 24.214,
+        "rebounds_per_game": 6.571,
+        "steals_per_game": 2.071
+      },
+      "games": 14,
+      "player": "Cooper Flagg",
+      "player_id": 5041939,
+      "season": "2026-2027",
+      "team": "Dallas Mavericks",
+      "team_id": 6
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.778,
+        "blocks_per_game": 0.222,
+        "points_per_game": 8.333,
+        "rebounds_per_game": 1.222,
+        "steals_per_game": 0.222
+      },
+      "games": 9,
+      "player": "Corey Kispert",
+      "player_id": 4280151,
+      "season": "2026-2027",
+      "team": "Atlanta Hawks",
+      "team_id": 1
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.846,
+        "blocks_per_game": 0.462,
+        "points_per_game": 2.077,
+        "rebounds_per_game": 2.308,
+        "steals_per_game": 0.462
+      },
+      "games": 13,
+      "player": "Craig Porter Jr.",
+      "player_id": 4701233,
+      "season": "2026-2027",
+      "team": "Cleveland Cavaliers",
+      "team_id": 5
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.5,
+        "blocks_per_game": 0.0,
+        "points_per_game": 0.75,
+        "rebounds_per_game": 0.25,
+        "steals_per_game": 0.25
+      },
+      "games": 4,
+      "player": "DaRon Holmes II",
+      "player_id": 4433607,
+      "season": "2026-2027",
+      "team": "Denver Nuggets",
+      "team_id": 7
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.273,
+        "blocks_per_game": 0.091,
+        "points_per_game": 3.364,
+        "rebounds_per_game": 0.909,
+        "steals_per_game": 0.273
+      },
+      "games": 11,
+      "player": "Daeqwon Plowden",
+      "player_id": 4279318,
+      "season": "2026-2027",
+      "team": "Sacramento Kings",
+      "team_id": 23
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.75,
+        "blocks_per_game": 0.0,
+        "points_per_game": 1.75,
+        "rebounds_per_game": 1.25,
+        "steals_per_game": 0.5
+      },
+      "games": 4,
+      "player": "Dailyn Swain",
+      "player_id": 4848625,
+      "season": "2026-2027",
+      "team": "Chicago Bulls",
+      "team_id": 4
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.333,
+        "blocks_per_game": 0.333,
+        "points_per_game": 4.333,
+        "rebounds_per_game": 2.333,
+        "steals_per_game": 0.0
+      },
+      "games": 3,
+      "player": "Dalton Knecht",
+      "player_id": 4897943,
+      "season": "2026-2027",
+      "team": "New York Knicks",
+      "team_id": 18
+    },
+    {
+      "categories": {
+        "assists_per_game": 4.067,
+        "blocks_per_game": 0.133,
+        "points_per_game": 20.933,
+        "rebounds_per_game": 3.2,
+        "steals_per_game": 0.667
+      },
+      "games": 15,
+      "player": "Damian Lillard",
+      "player_id": 6606,
+      "season": "2026-2027",
+      "team": "Portland Trail Blazers",
+      "team_id": 22
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.867,
+        "blocks_per_game": 1.8,
+        "points_per_game": 8.533,
+        "rebounds_per_game": 5.133,
+        "steals_per_game": 0.533
+      },
+      "games": 15,
+      "player": "Daniel Gafford",
+      "player_id": 4278049,
+      "season": "2026-2027",
+      "team": "Dallas Mavericks",
+      "team_id": 6
+    },
+    {
+      "categories": {
+        "assists_per_game": 4.714,
+        "blocks_per_game": 0.071,
+        "points_per_game": 14.286,
+        "rebounds_per_game": 3.714,
+        "steals_per_game": 0.929
+      },
+      "games": 14,
+      "player": "Daniss Jenkins",
+      "player_id": 5107199,
+      "season": "2026-2027",
+      "team": "Detroit Pistons",
+      "team_id": 8
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.889,
+        "blocks_per_game": 0.333,
+        "points_per_game": 9.111,
+        "rebounds_per_game": 5.667,
+        "steals_per_game": 0.222
+      },
+      "games": 9,
+      "player": "Danny Wolf",
+      "player_id": 5107173,
+      "season": "2026-2027",
+      "team": "Brooklyn Nets",
+      "team_id": 17
+    },
+    {
+      "categories": {
+        "assists_per_game": 7.0,
+        "blocks_per_game": 0.214,
+        "points_per_game": 26.214,
+        "rebounds_per_game": 3.571,
+        "steals_per_game": 0.929
+      },
+      "games": 14,
+      "player": "Darius Acuff Jr.",
+      "player_id": 5142620,
+      "season": "2026-2027",
+      "team": "Sacramento Kings",
+      "team_id": 23
+    },
+    {
+      "categories": {
+        "assists_per_game": 6.786,
+        "blocks_per_game": 0.214,
+        "points_per_game": 21.286,
+        "rebounds_per_game": 2.214,
+        "steals_per_game": 0.714
+      },
+      "games": 14,
+      "player": "Darius Garland",
+      "player_id": 4396907,
+      "season": "2026-2027",
+      "team": "Los Angeles Clippers",
+      "team_id": 12
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.625,
+        "blocks_per_game": 0.688,
+        "points_per_game": 16.5,
+        "rebounds_per_game": 4.125,
+        "steals_per_game": 1.125
+      },
+      "games": 16,
+      "player": "Darryn Peterson",
+      "player_id": 5041955,
+      "season": "2026-2027",
+      "team": "Utah Jazz",
+      "team_id": 26
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.0,
+        "blocks_per_game": 0.0,
+        "points_per_game": 1.0,
+        "rebounds_per_game": 0.0,
+        "steals_per_game": 0.5
+      },
+      "games": 4,
+      "player": "David Jones Garcia",
+      "player_id": 4713010,
+      "season": "2026-2027",
+      "team": "San Antonio Spurs",
+      "team_id": 24
+    },
+    {
+      "categories": {
+        "assists_per_game": 9.0,
+        "blocks_per_game": 0.667,
+        "points_per_game": 17.2,
+        "rebounds_per_game": 2.4,
+        "steals_per_game": 1.333
+      },
+      "games": 15,
+      "player": "Davion Mitchell",
+      "player_id": 4278053,
+      "season": "2026-2027",
+      "team": "Miami Heat",
+      "team_id": 14
+    },
+    {
+      "categories": {
+        "assists_per_game": 4.0,
+        "blocks_per_game": 1.214,
+        "points_per_game": 8.429,
+        "rebounds_per_game": 7.143,
+        "steals_per_game": 0.786
+      },
+      "games": 14,
+      "player": "Day'Ron Sharpe",
+      "player_id": 4432194,
+      "season": "2026-2027",
+      "team": "Brooklyn Nets",
+      "team_id": 17
+    },
+    {
+      "categories": {
+        "assists_per_game": 5.467,
+        "blocks_per_game": 0.4,
+        "points_per_game": 12.867,
+        "rebounds_per_game": 4.067,
+        "steals_per_game": 1.333
+      },
+      "games": 15,
+      "player": "De'Aaron Fox",
+      "player_id": 4066259,
+      "season": "2026-2027",
+      "team": "San Antonio Spurs",
+      "team_id": 24
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.583,
+        "blocks_per_game": 0.083,
+        "points_per_game": 13.667,
+        "rebounds_per_game": 4.25,
+        "steals_per_game": 0.417
+      },
+      "games": 12,
+      "player": "De'Andre Hunter",
+      "player_id": 4065732,
+      "season": "2026-2027",
+      "team": "Sacramento Kings",
+      "team_id": 23
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.438,
+        "blocks_per_game": 0.5,
+        "points_per_game": 9.125,
+        "rebounds_per_game": 3.75,
+        "steals_per_game": 1.375
+      },
+      "games": 16,
+      "player": "De'Anthony Melton",
+      "player_id": 4066436,
+      "season": "2026-2027",
+      "team": "Golden State Warriors",
+      "team_id": 9
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.8,
+        "blocks_per_game": 0.6,
+        "points_per_game": 5.2,
+        "rebounds_per_game": 5.2,
+        "steals_per_game": 0.4
+      },
+      "games": 5,
+      "player": "DeAndre Jordan",
+      "player_id": 3442,
+      "season": "2026-2027",
+      "team": "New Orleans Pelicans",
+      "team_id": 3
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.667,
+        "blocks_per_game": 0.167,
+        "points_per_game": 9.917,
+        "rebounds_per_game": 2.0,
+        "steals_per_game": 0.5
+      },
+      "games": 12,
+      "player": "DeMar DeRozan",
+      "player_id": 3978,
+      "season": "2026-2027",
+      "team": "Denver Nuggets",
+      "team_id": 7
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.769,
+        "blocks_per_game": 0.538,
+        "points_per_game": 4.846,
+        "rebounds_per_game": 4.615,
+        "steals_per_game": 1.154
+      },
+      "games": 13,
+      "player": "Dean Wade",
+      "player_id": 3912848,
+      "season": "2026-2027",
+      "team": "Philadelphia 76ers",
+      "team_id": 20
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.688,
+        "blocks_per_game": 0.312,
+        "points_per_game": 4.062,
+        "rebounds_per_game": 4.125,
+        "steals_per_game": 0.188
+      },
+      "games": 16,
+      "player": "Deandre Ayton",
+      "player_id": 4278129,
+      "season": "2026-2027",
+      "team": "Washington Wizards",
+      "team_id": 27
+    },
+    {
+      "categories": {
+        "assists_per_game": 4.444,
+        "blocks_per_game": 0.556,
+        "points_per_game": 13.444,
+        "rebounds_per_game": 4.556,
+        "steals_per_game": 1.556
+      },
+      "games": 9,
+      "player": "Dejounte Murray",
+      "player_id": 3907497,
+      "season": "2026-2027",
+      "team": "New Orleans Pelicans",
+      "team_id": 3
+    },
+    {
+      "categories": {
+        "assists_per_game": 6.077,
+        "blocks_per_game": 0.385,
+        "points_per_game": 24.154,
+        "rebounds_per_game": 6.231,
+        "steals_per_game": 1.077
+      },
+      "games": 13,
+      "player": "Deni Avdija",
+      "player_id": 4683021,
+      "season": "2026-2027",
+      "team": "Portland Trail Blazers",
+      "team_id": 22
+    },
+    {
+      "categories": {
+        "assists_per_game": 4.889,
+        "blocks_per_game": 0.111,
+        "points_per_game": 10.222,
+        "rebounds_per_game": 3.556,
+        "steals_per_game": 0.778
+      },
+      "games": 9,
+      "player": "Dennis Schroder",
+      "player_id": 3032979,
+      "season": "2026-2027",
+      "team": "Charlotte Hornets",
+      "team_id": 30
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.125,
+        "blocks_per_game": 0.812,
+        "points_per_game": 12.0,
+        "rebounds_per_game": 6.375,
+        "steals_per_game": 0.938
+      },
+      "games": 16,
+      "player": "Derik Queen",
+      "player_id": 4869780,
+      "season": "2026-2027",
+      "team": "New Orleans Pelicans",
+      "team_id": 3
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.231,
+        "blocks_per_game": 1.0,
+        "points_per_game": 10.769,
+        "rebounds_per_game": 4.308,
+        "steals_per_game": 1.0
+      },
+      "games": 13,
+      "player": "Derrick Jones Jr.",
+      "player_id": 3936099,
+      "season": "2026-2027",
+      "team": "Los Angeles Clippers",
+      "team_id": 12
+    },
+    {
+      "categories": {
+        "assists_per_game": 5.0,
+        "blocks_per_game": 0.667,
+        "points_per_game": 12.667,
+        "rebounds_per_game": 3.0,
+        "steals_per_game": 1.133
+      },
+      "games": 15,
+      "player": "Derrick White",
+      "player_id": 3078576,
+      "season": "2026-2027",
+      "team": "Boston Celtics",
+      "team_id": 2
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.692,
+        "blocks_per_game": 0.462,
+        "points_per_game": 18.462,
+        "rebounds_per_game": 4.308,
+        "steals_per_game": 0.923
+      },
+      "games": 13,
+      "player": "Desmond Bane",
+      "player_id": 4066320,
+      "season": "2026-2027",
+      "team": "Orlando Magic",
+      "team_id": 19
+    },
+    {
+      "categories": {
+        "assists_per_game": 5.429,
+        "blocks_per_game": 0.286,
+        "points_per_game": 24.786,
+        "rebounds_per_game": 2.714,
+        "steals_per_game": 1.143
+      },
+      "games": 14,
+      "player": "Devin Booker",
+      "player_id": 3136193,
+      "season": "2026-2027",
+      "team": "Phoenix Suns",
+      "team_id": 21
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.0,
+        "blocks_per_game": 0.0,
+        "points_per_game": 0.0,
+        "rebounds_per_game": 2.0,
+        "steals_per_game": 0.0
+      },
+      "games": 1,
+      "player": "Devin Carter",
+      "player_id": 4433188,
+      "season": "2026-2027",
+      "team": "Boston Celtics",
+      "team_id": 2
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.0,
+        "blocks_per_game": 0.286,
+        "points_per_game": 11.357,
+        "rebounds_per_game": 3.929,
+        "steals_per_game": 1.714
+      },
+      "games": 14,
+      "player": "Devin Vassell",
+      "player_id": 4395630,
+      "season": "2026-2027",
+      "team": "San Antonio Spurs",
+      "team_id": 24
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.286,
+        "blocks_per_game": 0.143,
+        "points_per_game": 14.929,
+        "rebounds_per_game": 3.643,
+        "steals_per_game": 0.643
+      },
+      "games": 14,
+      "player": "Dillon Brooks",
+      "player_id": 3155526,
+      "season": "2026-2027",
+      "team": "Phoenix Suns",
+      "team_id": 21
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.0,
+        "blocks_per_game": 0.0,
+        "points_per_game": 0.0,
+        "rebounds_per_game": 0.0,
+        "steals_per_game": 0.0
+      },
+      "games": 1,
+      "player": "Dillon Mitchell",
+      "player_id": 5106283,
+      "season": "2026-2027",
+      "team": "Boston Celtics",
+      "team_id": 2
+    },
+    {
+      "categories": {
+        "assists_per_game": 5.769,
+        "blocks_per_game": 0.077,
+        "points_per_game": 13.692,
+        "rebounds_per_game": 13.154,
+        "steals_per_game": 0.692
+      },
+      "games": 13,
+      "player": "Domantas Sabonis",
+      "player_id": 3155942,
+      "season": "2026-2027",
+      "team": "Sacramento Kings",
+      "team_id": 23
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.8,
+        "blocks_per_game": 2.2,
+        "points_per_game": 10.733,
+        "rebounds_per_game": 10.733,
+        "steals_per_game": 0.6
+      },
+      "games": 15,
+      "player": "Donovan Clingan",
+      "player_id": 5105565,
+      "season": "2026-2027",
+      "team": "Portland Trail Blazers",
+      "team_id": 22
+    },
+    {
+      "categories": {
+        "assists_per_game": 5.333,
+        "blocks_per_game": 0.4,
+        "points_per_game": 24.8,
+        "rebounds_per_game": 4.8,
+        "steals_per_game": 1.333
+      },
+      "games": 15,
+      "player": "Donovan Mitchell",
+      "player_id": 3908809,
+      "season": "2026-2027",
+      "team": "Cleveland Cavaliers",
+      "team_id": 5
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.4,
+        "blocks_per_game": 0.0,
+        "points_per_game": 0.6,
+        "rebounds_per_game": 0.8,
+        "steals_per_game": 0.2
+      },
+      "games": 5,
+      "player": "Dorian Finney-Smith",
+      "player_id": 2578185,
+      "season": "2026-2027",
+      "team": "Atlanta Hawks",
+      "team_id": 1
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.2,
+        "blocks_per_game": 0.0,
+        "points_per_game": 2.0,
+        "rebounds_per_game": 0.8,
+        "steals_per_game": 0.0
+      },
+      "games": 5,
+      "player": "Drake Powell",
+      "player_id": 5037873,
+      "season": "2026-2027",
+      "team": "Brooklyn Nets",
+      "team_id": 17
+    },
+    {
+      "categories": {
+        "assists_per_game": 6.538,
+        "blocks_per_game": 0.923,
+        "points_per_game": 3.154,
+        "rebounds_per_game": 4.692,
+        "steals_per_game": 0.923
+      },
+      "games": 13,
+      "player": "Draymond Green",
+      "player_id": 6589,
+      "season": "2026-2027",
+      "team": "Golden State Warriors",
+      "team_id": 9
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.286,
+        "blocks_per_game": 0.0,
+        "points_per_game": 2.143,
+        "rebounds_per_game": 0.857,
+        "steals_per_game": 0.429
+      },
+      "games": 7,
+      "player": "Dru Smith",
+      "player_id": 4066993,
+      "season": "2026-2027",
+      "team": "Miami Heat",
+      "team_id": 14
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.083,
+        "blocks_per_game": 0.167,
+        "points_per_game": 17.417,
+        "rebounds_per_game": 1.833,
+        "steals_per_game": 1.333
+      },
+      "games": 12,
+      "player": "Duncan Robinson",
+      "player_id": 3157465,
+      "season": "2026-2027",
+      "team": "Detroit Pistons",
+      "team_id": 8
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.0,
+        "blocks_per_game": 0.167,
+        "points_per_game": 3.167,
+        "rebounds_per_game": 1.0,
+        "steals_per_game": 0.0
+      },
+      "games": 6,
+      "player": "Duop Reath",
+      "player_id": 4066268,
+      "season": "2026-2027",
+      "team": "Phoenix Suns",
+      "team_id": 21
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.714,
+        "blocks_per_game": 0.857,
+        "points_per_game": 5.714,
+        "rebounds_per_game": 5.857,
+        "steals_per_game": 0.571
+      },
+      "games": 7,
+      "player": "Dylan Cardwell",
+      "player_id": 4433174,
+      "season": "2026-2027",
+      "team": "Sacramento Kings",
+      "team_id": 23
+    },
+    {
+      "categories": {
+        "assists_per_game": 4.533,
+        "blocks_per_game": 0.133,
+        "points_per_game": 18.4,
+        "rebounds_per_game": 5.4,
+        "steals_per_game": 0.933
+      },
+      "games": 15,
+      "player": "Dylan Harper",
+      "player_id": 5037871,
+      "season": "2026-2027",
+      "team": "San Antonio Spurs",
+      "team_id": 24
+    },
+    {
+      "categories": {
+        "assists_per_game": 5.75,
+        "blocks_per_game": 0.25,
+        "points_per_game": 9.625,
+        "rebounds_per_game": 7.625,
+        "steals_per_game": 2.875
+      },
+      "games": 16,
+      "player": "Dyson Daniels",
+      "player_id": 4869342,
+      "season": "2026-2027",
+      "team": "Atlanta Hawks",
+      "team_id": 1
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.6,
+        "blocks_per_game": 0.0,
+        "points_per_game": 2.2,
+        "rebounds_per_game": 0.4,
+        "steals_per_game": 0.2
+      },
+      "games": 5,
+      "player": "Ebuka Okorie",
+      "player_id": 5258459,
+      "season": "2026-2027",
+      "team": "Detroit Pistons",
+      "team_id": 8
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.75,
+        "blocks_per_game": 0.125,
+        "points_per_game": 11.875,
+        "rebounds_per_game": 2.25,
+        "steals_per_game": 1.0
+      },
+      "games": 8,
+      "player": "Egor Demin",
+      "player_id": 5175643,
+      "season": "2026-2027",
+      "team": "Brooklyn Nets",
+      "team_id": 17
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.25,
+        "blocks_per_game": 0.0,
+        "points_per_game": 2.0,
+        "rebounds_per_game": 0.75,
+        "steals_per_game": 0.25
+      },
+      "games": 4,
+      "player": "Elijah Harkless",
+      "player_id": 4397449,
+      "season": "2026-2027",
+      "team": "Detroit Pistons",
+      "team_id": 8
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.714,
+        "blocks_per_game": 0.214,
+        "points_per_game": 5.0,
+        "rebounds_per_game": 1.286,
+        "steals_per_game": 0.857
+      },
+      "games": 14,
+      "player": "Emanuel Sharp",
+      "player_id": 5106058,
+      "season": "2026-2027",
+      "team": "Sacramento Kings",
+      "team_id": 23
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.583,
+        "blocks_per_game": 1.083,
+        "points_per_game": 16.917,
+        "rebounds_per_game": 7.333,
+        "steals_per_game": 0.583
+      },
+      "games": 12,
+      "player": "Evan Mobley",
+      "player_id": 4432158,
+      "season": "2026-2027",
+      "team": "Cleveland Cavaliers",
+      "team_id": 5
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.0,
+        "blocks_per_game": 0.0,
+        "points_per_game": 1.0,
+        "rebounds_per_game": 0.667,
+        "steals_per_game": 0.0
+      },
+      "games": 3,
+      "player": "Felix Okpara",
+      "player_id": 5105841,
+      "season": "2026-2027",
+      "team": "Washington Wizards",
+      "team_id": 27
+    },
+    {
+      "categories": {
+        "assists_per_game": 8.5,
+        "blocks_per_game": 0.286,
+        "points_per_game": 24.357,
+        "rebounds_per_game": 6.929,
+        "steals_per_game": 1.286
+      },
+      "games": 14,
+      "player": "Franz Wagner",
+      "player_id": 4566434,
+      "season": "2026-2027",
+      "team": "Orlando Magic",
+      "team_id": 19
+    },
+    {
+      "categories": {
+        "assists_per_game": 5.462,
+        "blocks_per_game": 0.308,
+        "points_per_game": 13.615,
+        "rebounds_per_game": 3.0,
+        "steals_per_game": 1.154
+      },
+      "games": 13,
+      "player": "Fred VanVleet",
+      "player_id": 2991230,
+      "season": "2026-2027",
+      "team": "Houston Rockets",
+      "team_id": 10
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.0,
+        "blocks_per_game": 0.417,
+        "points_per_game": 6.667,
+        "rebounds_per_game": 3.0,
+        "steals_per_game": 0.333
+      },
+      "games": 12,
+      "player": "GG Jackson",
+      "player_id": 5105550,
+      "season": "2026-2027",
+      "team": "Memphis Grizzlies",
+      "team_id": 29
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.5,
+        "blocks_per_game": 0.0,
+        "points_per_game": 4.571,
+        "rebounds_per_game": 1.929,
+        "steals_per_game": 0.857
+      },
+      "games": 14,
+      "player": "Gary Payton II",
+      "player_id": 3134903,
+      "season": "2026-2027",
+      "team": "Golden State Warriors",
+      "team_id": 9
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.25,
+        "blocks_per_game": 0.0,
+        "points_per_game": 4.625,
+        "rebounds_per_game": 0.75,
+        "steals_per_game": 0.875
+      },
+      "games": 8,
+      "player": "Gary Trent Jr.",
+      "player_id": 4277843,
+      "season": "2026-2027",
+      "team": "Milwaukee Bucks",
+      "team_id": 15
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.438,
+        "blocks_per_game": 0.125,
+        "points_per_game": 7.312,
+        "rebounds_per_game": 2.938,
+        "steals_per_game": 0.5
+      },
+      "games": 16,
+      "player": "Georges Niang",
+      "player_id": 2990969,
+      "season": "2026-2027",
+      "team": "Golden State Warriors",
+      "team_id": 9
+    },
+    {
+      "categories": {
+        "assists_per_game": 5.467,
+        "blocks_per_game": 1.267,
+        "points_per_game": 28.2,
+        "rebounds_per_game": 12.6,
+        "steals_per_game": 0.867
+      },
+      "games": 15,
+      "player": "Giannis Antetokounmpo",
+      "player_id": 3032977,
+      "season": "2026-2027",
+      "team": "Miami Heat",
+      "team_id": 14
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.667,
+        "blocks_per_game": 0.583,
+        "points_per_game": 5.167,
+        "rebounds_per_game": 3.833,
+        "steals_per_game": 0.417
+      },
+      "games": 12,
+      "player": "Goga Bitadze",
+      "player_id": 4348700,
+      "season": "2026-2027",
+      "team": "Orlando Magic",
+      "team_id": 19
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.643,
+        "blocks_per_game": 0.143,
+        "points_per_game": 7.143,
+        "rebounds_per_game": 2.643,
+        "steals_per_game": 0.5
+      },
+      "games": 14,
+      "player": "Gradey Dick",
+      "player_id": 5106258,
+      "season": "2026-2027",
+      "team": "Los Angeles Clippers",
+      "team_id": 12
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.077,
+        "blocks_per_game": 0.462,
+        "points_per_game": 4.462,
+        "rebounds_per_game": 2.385,
+        "steals_per_game": 0.385
+      },
+      "games": 13,
+      "player": "Graham Ike",
+      "player_id": 4703396,
+      "season": "2026-2027",
+      "team": "Golden State Warriors",
+      "team_id": 9
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.667,
+        "blocks_per_game": 0.333,
+        "points_per_game": 11.333,
+        "rebounds_per_game": 2.667,
+        "steals_per_game": 0.333
+      },
+      "games": 3,
+      "player": "Grant Williams",
+      "player_id": 4066218,
+      "season": "2026-2027",
+      "team": "Charlotte Hornets",
+      "team_id": 30
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.308,
+        "blocks_per_game": 0.308,
+        "points_per_game": 14.923,
+        "rebounds_per_game": 3.077,
+        "steals_per_game": 0.846
+      },
+      "games": 13,
+      "player": "Grayson Allen",
+      "player_id": 3135045,
+      "season": "2026-2027",
+      "team": "Charlotte Hornets",
+      "team_id": 30
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.692,
+        "blocks_per_game": 0.385,
+        "points_per_game": 6.308,
+        "rebounds_per_game": 4.231,
+        "steals_per_game": 0.385
+      },
+      "games": 13,
+      "player": "Gui Santos",
+      "player_id": 4997536,
+      "season": "2026-2027",
+      "team": "Golden State Warriors",
+      "team_id": 9
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.4,
+        "blocks_per_game": 0.6,
+        "points_per_game": 2.8,
+        "rebounds_per_game": 4.2,
+        "steals_per_game": 0.0
+      },
+      "games": 5,
+      "player": "Hannes Steinbach",
+      "player_id": 5281370,
+      "season": "2026-2027",
+      "team": "Charlotte Hornets",
+      "team_id": 30
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.571,
+        "blocks_per_game": 0.143,
+        "points_per_game": 5.357,
+        "rebounds_per_game": 1.071,
+        "steals_per_game": 0.071
+      },
+      "games": 14,
+      "player": "Harrison Barnes",
+      "player_id": 6578,
+      "season": "2026-2027",
+      "team": "San Antonio Spurs",
+      "team_id": 24
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.438,
+        "blocks_per_game": 0.438,
+        "points_per_game": 6.438,
+        "rebounds_per_game": 2.688,
+        "steals_per_game": 0.938
+      },
+      "games": 16,
+      "player": "Herbert Jones",
+      "player_id": 4277813,
+      "season": "2026-2027",
+      "team": "New Orleans Pelicans",
+      "team_id": 3
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.6,
+        "blocks_per_game": 0.267,
+        "points_per_game": 3.933,
+        "rebounds_per_game": 2.533,
+        "steals_per_game": 0.533
+      },
+      "games": 15,
+      "player": "Hugo Gonzalez",
+      "player_id": 5175647,
+      "season": "2026-2027",
+      "team": "Boston Celtics",
+      "team_id": 2
+    },
+    {
+      "categories": {
+        "assists_per_game": 5.692,
+        "blocks_per_game": 0.077,
+        "points_per_game": 17.769,
+        "rebounds_per_game": 3.538,
+        "steals_per_game": 1.077
+      },
+      "games": 13,
+      "player": "Immanuel Quickley",
+      "player_id": 4395724,
+      "season": "2026-2027",
+      "team": "Toronto Raptors",
+      "team_id": 28
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.2,
+        "blocks_per_game": 0.4,
+        "points_per_game": 0.4,
+        "rebounds_per_game": 1.2,
+        "steals_per_game": 0.0
+      },
+      "games": 5,
+      "player": "Isaac Jones",
+      "player_id": 5107818,
+      "season": "2026-2027",
+      "team": "Detroit Pistons",
+      "team_id": 8
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.857,
+        "blocks_per_game": 0.286,
+        "points_per_game": 7.214,
+        "rebounds_per_game": 2.357,
+        "steals_per_game": 0.714
+      },
+      "games": 14,
+      "player": "Isaac Okoro",
+      "player_id": 4432822,
+      "season": "2026-2027",
+      "team": "Chicago Bulls",
+      "team_id": 4
+    },
+    {
+      "categories": {
+        "assists_per_game": 4.0,
+        "blocks_per_game": 0.0,
+        "points_per_game": 6.357,
+        "rebounds_per_game": 3.214,
+        "steals_per_game": 0.357
+      },
+      "games": 14,
+      "player": "Isaiah Collier",
+      "player_id": 4683766,
+      "season": "2026-2027",
+      "team": "Utah Jazz",
+      "team_id": 26
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.273,
+        "blocks_per_game": 0.091,
+        "points_per_game": 2.636,
+        "rebounds_per_game": 1.182,
+        "steals_per_game": 0.091
+      },
+      "games": 11,
+      "player": "Isaiah Crawford",
+      "player_id": 4592857,
+      "season": "2026-2027",
+      "team": "Houston Rockets",
+      "team_id": 10
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.286,
+        "blocks_per_game": 0.0,
+        "points_per_game": 0.286,
+        "rebounds_per_game": 0.286,
+        "steals_per_game": 0.0
+      },
+      "games": 7,
+      "player": "Isaiah Evans",
+      "player_id": 5061585,
+      "season": "2026-2027",
+      "team": "Minnesota Timberwolves",
+      "team_id": 16
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.867,
+        "blocks_per_game": 0.333,
+        "points_per_game": 8.4,
+        "rebounds_per_game": 11.0,
+        "steals_per_game": 1.0
+      },
+      "games": 15,
+      "player": "Isaiah Hartenstein",
+      "player_id": 4222252,
+      "season": "2026-2027",
+      "team": "Oklahoma City Thunder",
+      "team_id": 25
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.923,
+        "blocks_per_game": 1.077,
+        "points_per_game": 8.077,
+        "rebounds_per_game": 5.154,
+        "steals_per_game": 1.231
+      },
+      "games": 13,
+      "player": "Isaiah Jackson",
+      "player_id": 4432170,
+      "season": "2026-2027",
+      "team": "Los Angeles Clippers",
+      "team_id": 12
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.25,
+        "blocks_per_game": 0.25,
+        "points_per_game": 8.25,
+        "rebounds_per_game": 1.75,
+        "steals_per_game": 0.5
+      },
+      "games": 4,
+      "player": "Isaiah Joe",
+      "player_id": 4395702,
+      "season": "2026-2027",
+      "team": "Detroit Pistons",
+      "team_id": 8
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.909,
+        "blocks_per_game": 0.818,
+        "points_per_game": 10.636,
+        "rebounds_per_game": 3.364,
+        "steals_per_game": 0.091
+      },
+      "games": 11,
+      "player": "Isaiah Stewart",
+      "player_id": 4432810,
+      "season": "2026-2027",
+      "team": "Memphis Grizzlies",
+      "team_id": 29
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.9,
+        "blocks_per_game": 0.7,
+        "points_per_game": 9.8,
+        "rebounds_per_game": 7.9,
+        "steals_per_game": 0.0
+      },
+      "games": 10,
+      "player": "Ivica Zubac",
+      "player_id": 4017837,
+      "season": "2026-2027",
+      "team": "Indiana Pacers",
+      "team_id": 11
+    },
+    {
+      "categories": {
+        "assists_per_game": 5.5,
+        "blocks_per_game": 0.0,
+        "points_per_game": 15.75,
+        "rebounds_per_game": 2.5,
+        "steals_per_game": 1.0
+      },
+      "games": 4,
+      "player": "Ja Morant",
+      "player_id": 4279888,
+      "season": "2026-2027",
+      "team": "Portland Trail Blazers",
+      "team_id": 22
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.133,
+        "blocks_per_game": 0.267,
+        "points_per_game": 12.2,
+        "rebounds_per_game": 4.0,
+        "steals_per_game": 1.267
+      },
+      "games": 15,
+      "player": "Ja'Kobe Walter",
+      "player_id": 4684272,
+      "season": "2026-2027",
+      "team": "Toronto Raptors",
+      "team_id": 28
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.0,
+        "blocks_per_game": 0.0,
+        "points_per_game": 2.5,
+        "rebounds_per_game": 0.0,
+        "steals_per_game": 0.0
+      },
+      "games": 2,
+      "player": "Ja'Kobi Gillespie",
+      "player_id": 5107968,
+      "season": "2026-2027",
+      "team": "San Antonio Spurs",
+      "team_id": 24
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.125,
+        "blocks_per_game": 1.0,
+        "points_per_game": 15.312,
+        "rebounds_per_game": 6.375,
+        "steals_per_game": 0.688
+      },
+      "games": 16,
+      "player": "Jabari Smith Jr.",
+      "player_id": 4432639,
+      "season": "2026-2027",
+      "team": "Houston Rockets",
+      "team_id": 10
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.75,
+        "blocks_per_game": 0.083,
+        "points_per_game": 6.417,
+        "rebounds_per_game": 4.583,
+        "steals_per_game": 0.167
+      },
+      "games": 12,
+      "player": "Jabari Walker",
+      "player_id": 4432446,
+      "season": "2026-2027",
+      "team": "Philadelphia 76ers",
+      "team_id": 20
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.0,
+        "blocks_per_game": 0.0,
+        "points_per_game": 0.0,
+        "rebounds_per_game": 0.0,
+        "steals_per_game": 0.0
+      },
+      "games": 1,
+      "player": "Jaden Akins",
+      "player_id": 4683730,
+      "season": "2026-2027",
+      "team": "New York Knicks",
+      "team_id": 18
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.889,
+        "blocks_per_game": 0.0,
+        "points_per_game": 1.667,
+        "rebounds_per_game": 0.556,
+        "steals_per_game": 0.444
+      },
+      "games": 9,
+      "player": "Jaden Bradley",
+      "player_id": 4432737,
+      "season": "2026-2027",
+      "team": "Toronto Raptors",
+      "team_id": 28
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.5,
+        "blocks_per_game": 0.0,
+        "points_per_game": 1.375,
+        "rebounds_per_game": 0.5,
+        "steals_per_game": 0.25
+      },
+      "games": 8,
+      "player": "Jaden Hardy",
+      "player_id": 4868423,
+      "season": "2026-2027",
+      "team": "Los Angeles Lakers",
+      "team_id": 13
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.562,
+        "blocks_per_game": 1.0,
+        "points_per_game": 17.062,
+        "rebounds_per_game": 6.0,
+        "steals_per_game": 1.188
+      },
+      "games": 16,
+      "player": "Jaden McDaniels",
+      "player_id": 4431671,
+      "season": "2026-2027",
+      "team": "Minnesota Timberwolves",
+      "team_id": 16
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.4,
+        "blocks_per_game": 0.0,
+        "points_per_game": 0.7,
+        "rebounds_per_game": 1.0,
+        "steals_per_game": 0.2
+      },
+      "games": 10,
+      "player": "Jae'Sean Tate",
+      "player_id": 3136777,
+      "season": "2026-2027",
+      "team": "Houston Rockets",
+      "team_id": 10
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.429,
+        "blocks_per_game": 0.143,
+        "points_per_game": 0.714,
+        "rebounds_per_game": 0.714,
+        "steals_per_game": 0.286
+      },
+      "games": 7,
+      "player": "Jahmai Mashack",
+      "player_id": 4683934,
+      "season": "2026-2027",
+      "team": "Memphis Grizzlies",
+      "team_id": 29
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.0,
+        "blocks_per_game": 0.062,
+        "points_per_game": 15.0,
+        "rebounds_per_game": 5.125,
+        "steals_per_game": 0.688
+      },
+      "games": 16,
+      "player": "Jaime Jaquez Jr.",
+      "player_id": 4432848,
+      "season": "2026-2027",
+      "team": "Milwaukee Bucks",
+      "team_id": 15
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.2,
+        "blocks_per_game": 0.8,
+        "points_per_game": 5.8,
+        "rebounds_per_game": 4.133,
+        "steals_per_game": 1.267
+      },
+      "games": 15,
+      "player": "Jake LaRavia",
+      "player_id": 4592691,
+      "season": "2026-2027",
+      "team": "Los Angeles Lakers",
+      "team_id": 13
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.615,
+        "blocks_per_game": 0.692,
+        "points_per_game": 8.077,
+        "rebounds_per_game": 6.615,
+        "steals_per_game": 1.0
+      },
+      "games": 13,
+      "player": "Jakob Poeltl",
+      "player_id": 3134908,
+      "season": "2026-2027",
+      "team": "Toronto Raptors",
+      "team_id": 28
+    },
+    {
+      "categories": {
+        "assists_per_game": 5.933,
+        "blocks_per_game": 0.333,
+        "points_per_game": 26.6,
+        "rebounds_per_game": 2.867,
+        "steals_per_game": 0.8
+      },
+      "games": 15,
+      "player": "Jalen Brunson",
+      "player_id": 3934672,
+      "season": "2026-2027",
+      "team": "New York Knicks",
+      "team_id": 18
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.0,
+        "blocks_per_game": 1.0,
+        "points_per_game": 13.0,
+        "rebounds_per_game": 7.5,
+        "steals_per_game": 1.0
+      },
+      "games": 2,
+      "player": "Jalen Duren",
+      "player_id": 4433621,
+      "season": "2026-2027",
+      "team": "Detroit Pistons",
+      "team_id": 8
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.214,
+        "blocks_per_game": 0.429,
+        "points_per_game": 12.357,
+        "rebounds_per_game": 3.643,
+        "steals_per_game": 0.929
+      },
+      "games": 14,
+      "player": "Jalen Green",
+      "player_id": 4437244,
+      "season": "2026-2027",
+      "team": "Phoenix Suns",
+      "team_id": 21
+    },
+    {
+      "categories": {
+        "assists_per_game": 7.462,
+        "blocks_per_game": 0.538,
+        "points_per_game": 19.692,
+        "rebounds_per_game": 9.0,
+        "steals_per_game": 1.077
+      },
+      "games": 13,
+      "player": "Jalen Johnson",
+      "player_id": 4701230,
+      "season": "2026-2027",
+      "team": "Atlanta Hawks",
+      "team_id": 1
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.833,
+        "blocks_per_game": 0.0,
+        "points_per_game": 1.667,
+        "rebounds_per_game": 0.667,
+        "steals_per_game": 0.333
+      },
+      "games": 6,
+      "player": "Jalen Pickett",
+      "player_id": 4398390,
+      "season": "2026-2027",
+      "team": "Los Angeles Clippers",
+      "team_id": 12
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.154,
+        "blocks_per_game": 0.615,
+        "points_per_game": 3.846,
+        "rebounds_per_game": 3.385,
+        "steals_per_game": 0.769
+      },
+      "games": 13,
+      "player": "Jalen Slawson",
+      "player_id": 4398207,
+      "season": "2026-2027",
+      "team": "Indiana Pacers",
+      "team_id": 11
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.154,
+        "blocks_per_game": 1.0,
+        "points_per_game": 13.385,
+        "rebounds_per_game": 7.923,
+        "steals_per_game": 0.692
+      },
+      "games": 13,
+      "player": "Jalen Smith",
+      "player_id": 4397189,
+      "season": "2026-2027",
+      "team": "Chicago Bulls",
+      "team_id": 4
+    },
+    {
+      "categories": {
+        "assists_per_game": 4.667,
+        "blocks_per_game": 0.667,
+        "points_per_game": 9.5,
+        "rebounds_per_game": 5.167,
+        "steals_per_game": 1.333
+      },
+      "games": 6,
+      "player": "Jalen Suggs",
+      "player_id": 4432165,
+      "season": "2026-2027",
+      "team": "Orlando Magic",
+      "team_id": 19
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.333,
+        "blocks_per_game": 0.667,
+        "points_per_game": 13.667,
+        "rebounds_per_game": 4.667,
+        "steals_per_game": 1.333
+      },
+      "games": 3,
+      "player": "Jalen Williams",
+      "player_id": 4593803,
+      "season": "2026-2027",
+      "team": "Oklahoma City Thunder",
+      "team_id": 25
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.385,
+        "blocks_per_game": 0.077,
+        "points_per_game": 5.538,
+        "rebounds_per_game": 3.154,
+        "steals_per_game": 0.308
+      },
+      "games": 13,
+      "player": "Jamal Cain",
+      "player_id": 4278572,
+      "season": "2026-2027",
+      "team": "Orlando Magic",
+      "team_id": 19
+    },
+    {
+      "categories": {
+        "assists_per_game": 5.692,
+        "blocks_per_game": 1.0,
+        "points_per_game": 25.692,
+        "rebounds_per_game": 5.231,
+        "steals_per_game": 1.154
+      },
+      "games": 13,
+      "player": "Jamal Murray",
+      "player_id": 3936299,
+      "season": "2026-2027",
+      "team": "Denver Nuggets",
+      "team_id": 7
+    },
+    {
+      "categories": {
+        "assists_per_game": 6.467,
+        "blocks_per_game": 0.133,
+        "points_per_game": 8.2,
+        "rebounds_per_game": 1.933,
+        "steals_per_game": 1.133
+      },
+      "games": 15,
+      "player": "Jamal Shead",
+      "player_id": 4432241,
+      "season": "2026-2027",
+      "team": "Toronto Raptors",
+      "team_id": 28
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.429,
+        "blocks_per_game": 0.0,
+        "points_per_game": 2.714,
+        "rebounds_per_game": 0.429,
+        "steals_per_game": 0.143
+      },
+      "games": 7,
+      "player": "Jamaree Bouyea",
+      "player_id": 4280245,
+      "season": "2026-2027",
+      "team": "Phoenix Suns",
+      "team_id": 21
+    },
+    {
+      "categories": {
+        "assists_per_game": 6.267,
+        "blocks_per_game": 0.533,
+        "points_per_game": 16.2,
+        "rebounds_per_game": 4.733,
+        "steals_per_game": 0.933
+      },
+      "games": 15,
+      "player": "James Harden",
+      "player_id": 3992,
+      "season": "2026-2027",
+      "team": "Cleveland Cavaliers",
+      "team_id": 5
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.0,
+        "blocks_per_game": 0.667,
+        "points_per_game": 1.333,
+        "rebounds_per_game": 2.5,
+        "steals_per_game": 0.167
+      },
+      "games": 6,
+      "player": "James Wiseman",
+      "player_id": 4432808,
+      "season": "2026-2027",
+      "team": "New York Knicks",
+      "team_id": 18
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.4,
+        "blocks_per_game": 0.067,
+        "points_per_game": 9.0,
+        "rebounds_per_game": 1.8,
+        "steals_per_game": 0.533
+      },
+      "games": 15,
+      "player": "Jamison Battle",
+      "player_id": 4431893,
+      "season": "2026-2027",
+      "team": "Toronto Raptors",
+      "team_id": 28
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.643,
+        "blocks_per_game": 0.5,
+        "points_per_game": 6.071,
+        "rebounds_per_game": 5.143,
+        "steals_per_game": 0.5
+      },
+      "games": 14,
+      "player": "Jarace Walker",
+      "player_id": 5106060,
+      "season": "2026-2027",
+      "team": "Indiana Pacers",
+      "team_id": 11
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.8,
+        "blocks_per_game": 0.2,
+        "points_per_game": 13.667,
+        "rebounds_per_game": 3.4,
+        "steals_per_game": 0.933
+      },
+      "games": 15,
+      "player": "Jared McCain",
+      "player_id": 4683778,
+      "season": "2026-2027",
+      "team": "Oklahoma City Thunder",
+      "team_id": 25
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.0,
+        "blocks_per_game": 1.25,
+        "points_per_game": 16.25,
+        "rebounds_per_game": 5.0,
+        "steals_per_game": 0.25
+      },
+      "games": 4,
+      "player": "Jaren Jackson Jr.",
+      "player_id": 4277961,
+      "season": "2026-2027",
+      "team": "Utah Jazz",
+      "team_id": 26
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.2,
+        "blocks_per_game": 0.2,
+        "points_per_game": 6.8,
+        "rebounds_per_game": 2.0,
+        "steals_per_game": 0.6
+      },
+      "games": 5,
+      "player": "Jaron Pierre Jr.",
+      "player_id": 4703115,
+      "season": "2026-2027",
+      "team": "New Orleans Pelicans",
+      "team_id": 3
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.182,
+        "blocks_per_game": 0.455,
+        "points_per_game": 2.0,
+        "rebounds_per_game": 4.182,
+        "steals_per_game": 0.273
+      },
+      "games": 11,
+      "player": "Jarred Vanderbilt",
+      "player_id": 4278077,
+      "season": "2026-2027",
+      "team": "Los Angeles Lakers",
+      "team_id": 13
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.692,
+        "blocks_per_game": 1.231,
+        "points_per_game": 13.077,
+        "rebounds_per_game": 8.769,
+        "steals_per_game": 0.692
+      },
+      "games": 13,
+      "player": "Jarrett Allen",
+      "player_id": 4066328,
+      "season": "2026-2027",
+      "team": "Cleveland Cavaliers",
+      "team_id": 5
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.455,
+        "blocks_per_game": 0.636,
+        "points_per_game": 5.909,
+        "rebounds_per_game": 1.909,
+        "steals_per_game": 0.727
+      },
+      "games": 11,
+      "player": "Jase Richardson",
+      "player_id": 5239561,
+      "season": "2026-2027",
+      "team": "Orlando Magic",
+      "team_id": 19
+    },
+    {
+      "categories": {
+        "assists_per_game": 5.556,
+        "blocks_per_game": 0.111,
+        "points_per_game": 9.556,
+        "rebounds_per_game": 3.111,
+        "steals_per_game": 0.222
+      },
+      "games": 9,
+      "player": "Javon Small",
+      "player_id": 4781746,
+      "season": "2026-2027",
+      "team": "Memphis Grizzlies",
+      "team_id": 29
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.429,
+        "blocks_per_game": 0.357,
+        "points_per_game": 6.857,
+        "rebounds_per_game": 2.786,
+        "steals_per_game": 0.786
+      },
+      "games": 14,
+      "player": "Javonte Green",
+      "player_id": 2596112,
+      "season": "2026-2027",
+      "team": "Detroit Pistons",
+      "team_id": 8
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.615,
+        "blocks_per_game": 1.385,
+        "points_per_game": 8.615,
+        "rebounds_per_game": 6.077,
+        "steals_per_game": 1.0
+      },
+      "games": 13,
+      "player": "Jaxson Hayes",
+      "player_id": 4397077,
+      "season": "2026-2027",
+      "team": "Utah Jazz",
+      "team_id": 26
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.846,
+        "blocks_per_game": 0.769,
+        "points_per_game": 7.231,
+        "rebounds_per_game": 3.231,
+        "steals_per_game": 0.154
+      },
+      "games": 13,
+      "player": "Jay Huff",
+      "player_id": 4065731,
+      "season": "2026-2027",
+      "team": "Indiana Pacers",
+      "team_id": 11
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.571,
+        "blocks_per_game": 0.5,
+        "points_per_game": 22.571,
+        "rebounds_per_game": 6.643,
+        "steals_per_game": 1.286
+      },
+      "games": 14,
+      "player": "Jaylen Brown",
+      "player_id": 3917376,
+      "season": "2026-2027",
+      "team": "Philadelphia 76ers",
+      "team_id": 20
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.75,
+        "blocks_per_game": 0.167,
+        "points_per_game": 4.5,
+        "rebounds_per_game": 2.083,
+        "steals_per_game": 0.917
+      },
+      "games": 12,
+      "player": "Jaylen Clark",
+      "player_id": 4432247,
+      "season": "2026-2027",
+      "team": "Minnesota Timberwolves",
+      "team_id": 16
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.375,
+        "blocks_per_game": 0.062,
+        "points_per_game": 11.438,
+        "rebounds_per_game": 3.25,
+        "steals_per_game": 0.812
+      },
+      "games": 16,
+      "player": "Jaylen Wells",
+      "player_id": 5112087,
+      "season": "2026-2027",
+      "team": "Memphis Grizzlies",
+      "team_id": 29
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.333,
+        "blocks_per_game": 0.167,
+        "points_per_game": 4.333,
+        "rebounds_per_game": 0.667,
+        "steals_per_game": 0.333
+      },
+      "games": 6,
+      "player": "Jaylin Sellers",
+      "player_id": 4898010,
+      "season": "2026-2027",
+      "team": "Chicago Bulls",
+      "team_id": 4
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.5,
+        "blocks_per_game": 0.125,
+        "points_per_game": 2.875,
+        "rebounds_per_game": 3.625,
+        "steals_per_game": 0.375
+      },
+      "games": 8,
+      "player": "Jaylin Williams",
+      "player_id": 4432823,
+      "season": "2026-2027",
+      "team": "Oklahoma City Thunder",
+      "team_id": 25
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.5,
+        "blocks_per_game": 0.375,
+        "points_per_game": 9.5,
+        "rebounds_per_game": 3.125,
+        "steals_per_game": 0.5
+      },
+      "games": 8,
+      "player": "Jaylon Tyson",
+      "player_id": 4683747,
+      "season": "2026-2027",
+      "team": "Cleveland Cavaliers",
+      "team_id": 5
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.5,
+        "blocks_per_game": 0.0,
+        "points_per_game": 4.167,
+        "rebounds_per_game": 1.167,
+        "steals_per_game": 1.0
+      },
+      "games": 6,
+      "player": "Jayson Kent",
+      "player_id": 4703889,
+      "season": "2026-2027",
+      "team": "Portland Trail Blazers",
+      "team_id": 22
+    },
+    {
+      "categories": {
+        "assists_per_game": 6.786,
+        "blocks_per_game": 0.714,
+        "points_per_game": 26.357,
+        "rebounds_per_game": 6.643,
+        "steals_per_game": 0.714
+      },
+      "games": 14,
+      "player": "Jayson Tatum",
+      "player_id": 4065648,
+      "season": "2026-2027",
+      "team": "Boston Celtics",
+      "team_id": 2
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.8,
+        "blocks_per_game": 0.867,
+        "points_per_game": 10.6,
+        "rebounds_per_game": 1.733,
+        "steals_per_game": 0.467
+      },
+      "games": 15,
+      "player": "Jerami Grant",
+      "player_id": 2991070,
+      "season": "2026-2027",
+      "team": "Memphis Grizzlies",
+      "team_id": 29
+    },
+    {
+      "categories": {
+        "assists_per_game": 5.438,
+        "blocks_per_game": 0.5,
+        "points_per_game": 15.562,
+        "rebounds_per_game": 4.875,
+        "steals_per_game": 1.0
+      },
+      "games": 16,
+      "player": "Jeremiah Fears",
+      "player_id": 5144091,
+      "season": "2026-2027",
+      "team": "New Orleans Pelicans",
+      "team_id": 3
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.455,
+        "blocks_per_game": 0.091,
+        "points_per_game": 1.091,
+        "rebounds_per_game": 1.545,
+        "steals_per_game": 0.182
+      },
+      "games": 11,
+      "player": "Jericho Sims",
+      "player_id": 4277922,
+      "season": "2026-2027",
+      "team": "Milwaukee Bucks",
+      "team_id": 15
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.143,
+        "blocks_per_game": 0.0,
+        "points_per_game": 2.143,
+        "rebounds_per_game": 0.143,
+        "steals_per_game": 0.143
+      },
+      "games": 7,
+      "player": "Jett Howard",
+      "player_id": 5105806,
+      "season": "2026-2027",
+      "team": "Dallas Mavericks",
+      "team_id": 6
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.8,
+        "blocks_per_game": 0.1,
+        "points_per_game": 4.5,
+        "rebounds_per_game": 1.2,
+        "steals_per_game": 0.6
+      },
+      "games": 10,
+      "player": "Jevon Carter",
+      "player_id": 3133635,
+      "season": "2026-2027",
+      "team": "Orlando Magic",
+      "team_id": 19
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.438,
+        "blocks_per_game": 1.062,
+        "points_per_game": 5.312,
+        "rebounds_per_game": 6.375,
+        "steals_per_game": 0.312
+      },
+      "games": 16,
+      "player": "Joan Beringer",
+      "player_id": 5279133,
+      "season": "2026-2027",
+      "team": "Minnesota Timberwolves",
+      "team_id": 16
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.667,
+        "blocks_per_game": 0.556,
+        "points_per_game": 6.778,
+        "rebounds_per_game": 4.889,
+        "steals_per_game": 0.222
+      },
+      "games": 9,
+      "player": "Jock Landale",
+      "player_id": 3146557,
+      "season": "2026-2027",
+      "team": "Atlanta Hawks",
+      "team_id": 1
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.769,
+        "blocks_per_game": 1.0,
+        "points_per_game": 20.0,
+        "rebounds_per_game": 8.308,
+        "steals_per_game": 0.846
+      },
+      "games": 13,
+      "player": "Joel Embiid",
+      "player_id": 3059318,
+      "season": "2026-2027",
+      "team": "Philadelphia 76ers",
+      "team_id": 20
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.714,
+        "blocks_per_game": 0.929,
+        "points_per_game": 11.143,
+        "rebounds_per_game": 5.714,
+        "steals_per_game": 0.5
+      },
+      "games": 14,
+      "player": "John Collins",
+      "player_id": 3908845,
+      "season": "2026-2027",
+      "team": "Detroit Pistons",
+      "team_id": 8
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.0,
+        "blocks_per_game": 0.0,
+        "points_per_game": 4.0,
+        "rebounds_per_game": 2.333,
+        "steals_per_game": 0.0
+      },
+      "games": 3,
+      "player": "John Tonje",
+      "player_id": 4593043,
+      "season": "2026-2027",
+      "team": "Portland Trail Blazers",
+      "team_id": 22
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.8,
+        "blocks_per_game": 0.8,
+        "points_per_game": 13.067,
+        "rebounds_per_game": 5.533,
+        "steals_per_game": 1.0
+      },
+      "games": 15,
+      "player": "Jonathan Kuminga",
+      "player_id": 4433247,
+      "season": "2026-2027",
+      "team": "Minnesota Timberwolves",
+      "team_id": 16
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.8,
+        "blocks_per_game": 0.4,
+        "points_per_game": 3.0,
+        "rebounds_per_game": 2.2,
+        "steals_per_game": 0.8
+      },
+      "games": 5,
+      "player": "Jonathan Mogbo",
+      "player_id": 5107897,
+      "season": "2026-2027",
+      "team": "Sacramento Kings",
+      "team_id": 23
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.417,
+        "blocks_per_game": 0.167,
+        "points_per_game": 4.917,
+        "rebounds_per_game": 1.583,
+        "steals_per_game": 0.167
+      },
+      "games": 12,
+      "player": "Jordan Clarkson",
+      "player_id": 2528426,
+      "season": "2026-2027",
+      "team": "New York Knicks",
+      "team_id": 18
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.7,
+        "blocks_per_game": 0.1,
+        "points_per_game": 9.0,
+        "rebounds_per_game": 4.3,
+        "steals_per_game": 1.3
+      },
+      "games": 10,
+      "player": "Jordan Goodwin",
+      "player_id": 4278402,
+      "season": "2026-2027",
+      "team": "Phoenix Suns",
+      "team_id": 21
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.571,
+        "blocks_per_game": 0.286,
+        "points_per_game": 3.429,
+        "rebounds_per_game": 0.857,
+        "steals_per_game": 0.286
+      },
+      "games": 7,
+      "player": "Jordan Hawkins",
+      "player_id": 4683750,
+      "season": "2026-2027",
+      "team": "Chicago Bulls",
+      "team_id": 4
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.7,
+        "blocks_per_game": 0.1,
+        "points_per_game": 2.7,
+        "rebounds_per_game": 1.6,
+        "steals_per_game": 1.0
+      },
+      "games": 10,
+      "player": "Jordan McLaughlin",
+      "player_id": 3134916,
+      "season": "2026-2027",
+      "team": "San Antonio Spurs",
+      "team_id": 24
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.5,
+        "blocks_per_game": 0.4,
+        "points_per_game": 10.5,
+        "rebounds_per_game": 1.8,
+        "steals_per_game": 0.8
+      },
+      "games": 10,
+      "player": "Jordan Poole",
+      "player_id": 4277956,
+      "season": "2026-2027",
+      "team": "New Orleans Pelicans",
+      "team_id": 3
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.533,
+        "blocks_per_game": 0.067,
+        "points_per_game": 4.733,
+        "rebounds_per_game": 2.933,
+        "steals_per_game": 0.733
+      },
+      "games": 15,
+      "player": "Jordan Walsh",
+      "player_id": 4683689,
+      "season": "2026-2027",
+      "team": "Boston Celtics",
+      "team_id": 2
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.75,
+        "blocks_per_game": 0.125,
+        "points_per_game": 1.75,
+        "rebounds_per_game": 1.0,
+        "steals_per_game": 0.375
+      },
+      "games": 8,
+      "player": "Jose Alvarado",
+      "player_id": 4277869,
+      "season": "2026-2027",
+      "team": "New York Knicks",
+      "team_id": 18
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.714,
+        "blocks_per_game": 0.143,
+        "points_per_game": 2.286,
+        "rebounds_per_game": 1.571,
+        "steals_per_game": 0.286
+      },
+      "games": 7,
+      "player": "Josh Dix",
+      "player_id": 5105800,
+      "season": "2026-2027",
+      "team": "Oklahoma City Thunder",
+      "team_id": 25
+    },
+    {
+      "categories": {
+        "assists_per_game": 8.5,
+        "blocks_per_game": 0.571,
+        "points_per_game": 10.5,
+        "rebounds_per_game": 5.857,
+        "steals_per_game": 0.429
+      },
+      "games": 14,
+      "player": "Josh Giddey",
+      "player_id": 4871145,
+      "season": "2026-2027",
+      "team": "Chicago Bulls",
+      "team_id": 4
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.0,
+        "blocks_per_game": 0.214,
+        "points_per_game": 4.571,
+        "rebounds_per_game": 1.571,
+        "steals_per_game": 0.429
+      },
+      "games": 14,
+      "player": "Josh Green",
+      "player_id": 4432811,
+      "season": "2026-2027",
+      "team": "Utah Jazz",
+      "team_id": 26
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.333,
+        "blocks_per_game": 0.25,
+        "points_per_game": 6.833,
+        "rebounds_per_game": 6.25,
+        "steals_per_game": 1.5
+      },
+      "games": 12,
+      "player": "Josh Hart",
+      "player_id": 3062679,
+      "season": "2026-2027",
+      "team": "New York Knicks",
+      "team_id": 18
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.375,
+        "blocks_per_game": 0.25,
+        "points_per_game": 3.875,
+        "rebounds_per_game": 1.875,
+        "steals_per_game": 0.5
+      },
+      "games": 8,
+      "player": "Josh Minott",
+      "player_id": 4687718,
+      "season": "2026-2027",
+      "team": "Brooklyn Nets",
+      "team_id": 17
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.133,
+        "blocks_per_game": 0.2,
+        "points_per_game": 4.667,
+        "rebounds_per_game": 3.067,
+        "steals_per_game": 0.867
+      },
+      "games": 15,
+      "player": "Josh Okogie",
+      "player_id": 4065663,
+      "season": "2026-2027",
+      "team": "Utah Jazz",
+      "team_id": 26
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.0,
+        "blocks_per_game": 0.0,
+        "points_per_game": 0.0,
+        "rebounds_per_game": 0.0,
+        "steals_per_game": 0.0
+      },
+      "games": 1,
+      "player": "Joshua Jefferson",
+      "player_id": 4870564,
+      "season": "2026-2027",
+      "team": "Brooklyn Nets",
+      "team_id": 17
+    },
+    {
+      "categories": {
+        "assists_per_game": 4.267,
+        "blocks_per_game": 0.2,
+        "points_per_game": 13.867,
+        "rebounds_per_game": 3.467,
+        "steals_per_game": 1.2
+      },
+      "games": 15,
+      "player": "Jrue Holiday",
+      "player_id": 3995,
+      "season": "2026-2027",
+      "team": "Portland Trail Blazers",
+      "team_id": 22
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.375,
+        "blocks_per_game": 0.562,
+        "points_per_game": 10.5,
+        "rebounds_per_game": 4.188,
+        "steals_per_game": 0.75
+      },
+      "games": 16,
+      "player": "Julian Champagnie",
+      "player_id": 4592479,
+      "season": "2026-2027",
+      "team": "San Antonio Spurs",
+      "team_id": 24
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.167,
+        "blocks_per_game": 0.333,
+        "points_per_game": 1.0,
+        "rebounds_per_game": 1.0,
+        "steals_per_game": 0.167
+      },
+      "games": 6,
+      "player": "Julian Reese",
+      "player_id": 4683742,
+      "season": "2026-2027",
+      "team": "New Orleans Pelicans",
+      "team_id": 3
+    },
+    {
+      "categories": {
+        "assists_per_game": 4.643,
+        "blocks_per_game": 0.214,
+        "points_per_game": 20.643,
+        "rebounds_per_game": 5.786,
+        "steals_per_game": 1.0
+      },
+      "games": 14,
+      "player": "Julius Randle",
+      "player_id": 3064514,
+      "season": "2026-2027",
+      "team": "Brooklyn Nets",
+      "team_id": 17
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.25,
+        "blocks_per_game": 0.5,
+        "points_per_game": 7.25,
+        "rebounds_per_game": 7.5,
+        "steals_per_game": 0.5
+      },
+      "games": 4,
+      "player": "Justin Champagnie",
+      "player_id": 4432907,
+      "season": "2026-2027",
+      "team": "Washington Wizards",
+      "team_id": 27
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.0,
+        "blocks_per_game": 0.0,
+        "points_per_game": 1.0,
+        "rebounds_per_game": 0.714,
+        "steals_per_game": 0.0
+      },
+      "games": 7,
+      "player": "Justin Edwards",
+      "player_id": 4711297,
+      "season": "2026-2027",
+      "team": "Philadelphia 76ers",
+      "team_id": 20
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.0,
+        "blocks_per_game": 0.333,
+        "points_per_game": 1.167,
+        "rebounds_per_game": 0.667,
+        "steals_per_game": 0.0
+      },
+      "games": 6,
+      "player": "Karim Lopez",
+      "player_id": 5231919,
+      "season": "2026-2027",
+      "team": "Memphis Grizzlies",
+      "team_id": 29
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.933,
+        "blocks_per_game": 0.6,
+        "points_per_game": 21.267,
+        "rebounds_per_game": 13.933,
+        "steals_per_game": 0.867
+      },
+      "games": 15,
+      "player": "Karl-Anthony Towns",
+      "player_id": 3136195,
+      "season": "2026-2027",
+      "team": "New York Knicks",
+      "team_id": 18
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.933,
+        "blocks_per_game": 0.533,
+        "points_per_game": 6.867,
+        "rebounds_per_game": 3.8,
+        "steals_per_game": 0.6
+      },
+      "games": 15,
+      "player": "Karlo Matkovic",
+      "player_id": 4997538,
+      "season": "2026-2027",
+      "team": "New Orleans Pelicans",
+      "team_id": 3
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.333,
+        "blocks_per_game": 0.067,
+        "points_per_game": 9.467,
+        "rebounds_per_game": 2.533,
+        "steals_per_game": 0.867
+      },
+      "games": 15,
+      "player": "Kasparas Jakucionis",
+      "player_id": 5214640,
+      "season": "2026-2027",
+      "team": "Milwaukee Bucks",
+      "team_id": 15
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.5,
+        "blocks_per_game": 0.5,
+        "points_per_game": 19.5,
+        "rebounds_per_game": 7.5,
+        "steals_per_game": 3.5
+      },
+      "games": 2,
+      "player": "Kawhi Leonard",
+      "player_id": 6450,
+      "season": "2026-2027",
+      "team": "Toronto Raptors",
+      "team_id": 28
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.0,
+        "blocks_per_game": 0.143,
+        "points_per_game": 12.143,
+        "rebounds_per_game": 3.429,
+        "steals_per_game": 0.786
+      },
+      "games": 14,
+      "player": "Keaton Wagler",
+      "player_id": 5254165,
+      "season": "2026-2027",
+      "team": "Los Angeles Clippers",
+      "team_id": 12
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.571,
+        "blocks_per_game": 0.857,
+        "points_per_game": 9.857,
+        "rebounds_per_game": 3.429,
+        "steals_per_game": 1.0
+      },
+      "games": 7,
+      "player": "Keegan Murray",
+      "player_id": 4594327,
+      "season": "2026-2027",
+      "team": "Sacramento Kings",
+      "team_id": 23
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.812,
+        "blocks_per_game": 1.062,
+        "points_per_game": 8.875,
+        "rebounds_per_game": 6.438,
+        "steals_per_game": 0.625
+      },
+      "games": 16,
+      "player": "Kel'el Ware",
+      "player_id": 5105623,
+      "season": "2026-2027",
+      "team": "Milwaukee Bucks",
+      "team_id": 15
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.312,
+        "blocks_per_game": 0.0,
+        "points_per_game": 8.688,
+        "rebounds_per_game": 5.562,
+        "steals_per_game": 0.812
+      },
+      "games": 16,
+      "player": "Keldon Johnson",
+      "player_id": 4395723,
+      "season": "2026-2027",
+      "team": "San Antonio Spurs",
+      "team_id": 24
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.231,
+        "blocks_per_game": 0.846,
+        "points_per_game": 11.154,
+        "rebounds_per_game": 3.077,
+        "steals_per_game": 0.692
+      },
+      "games": 13,
+      "player": "Kelly Oubre Jr.",
+      "player_id": 3133603,
+      "season": "2026-2027",
+      "team": "Indiana Pacers",
+      "team_id": 11
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.4,
+        "blocks_per_game": 0.267,
+        "points_per_game": 7.333,
+        "rebounds_per_game": 3.733,
+        "steals_per_game": 0.467
+      },
+      "games": 15,
+      "player": "Kenrich Williams",
+      "player_id": 3133626,
+      "season": "2026-2027",
+      "team": "Oklahoma City Thunder",
+      "team_id": 25
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.625,
+        "blocks_per_game": 0.375,
+        "points_per_game": 5.688,
+        "rebounds_per_game": 3.0,
+        "steals_per_game": 0.812
+      },
+      "games": 16,
+      "player": "Kentavious Caldwell-Pope",
+      "player_id": 2581018,
+      "season": "2026-2027",
+      "team": "Philadelphia 76ers",
+      "team_id": 20
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.692,
+        "blocks_per_game": 0.846,
+        "points_per_game": 4.692,
+        "rebounds_per_game": 1.692,
+        "steals_per_game": 1.077
+      },
+      "games": 13,
+      "player": "Keon Ellis",
+      "player_id": 4702177,
+      "season": "2026-2027",
+      "team": "Brooklyn Nets",
+      "team_id": 17
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.0,
+        "blocks_per_game": 0.0,
+        "points_per_game": 0.0,
+        "rebounds_per_game": 1.0,
+        "steals_per_game": 0.0
+      },
+      "games": 2,
+      "player": "Keshad Johnson",
+      "player_id": 4431786,
+      "season": "2026-2027",
+      "team": "Miami Heat",
+      "team_id": 14
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.75,
+        "blocks_per_game": 1.0,
+        "points_per_game": 21.312,
+        "rebounds_per_game": 5.25,
+        "steals_per_game": 0.5
+      },
+      "games": 16,
+      "player": "Kevin Durant",
+      "player_id": 3202,
+      "season": "2026-2027",
+      "team": "Houston Rockets",
+      "team_id": 10
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.714,
+        "blocks_per_game": 1.0,
+        "points_per_game": 9.929,
+        "rebounds_per_game": 2.714,
+        "steals_per_game": 0.857
+      },
+      "games": 14,
+      "player": "Kevin Huerter",
+      "player_id": 4066372,
+      "season": "2026-2027",
+      "team": "Detroit Pistons",
+      "team_id": 8
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.167,
+        "blocks_per_game": 0.0,
+        "points_per_game": 2.0,
+        "rebounds_per_game": 3.0,
+        "steals_per_game": 0.0
+      },
+      "games": 6,
+      "player": "Kevon Looney",
+      "player_id": 3155535,
+      "season": "2026-2027",
+      "team": "Los Angeles Lakers",
+      "team_id": 13
+    },
+    {
+      "categories": {
+        "assists_per_game": 7.133,
+        "blocks_per_game": 0.267,
+        "points_per_game": 21.6,
+        "rebounds_per_game": 4.067,
+        "steals_per_game": 0.8
+      },
+      "games": 15,
+      "player": "Keyonte George",
+      "player_id": 4433627,
+      "season": "2026-2027",
+      "team": "Utah Jazz",
+      "team_id": 26
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.071,
+        "blocks_per_game": 0.786,
+        "points_per_game": 7.571,
+        "rebounds_per_game": 5.571,
+        "steals_per_game": 0.429
+      },
+      "games": 14,
+      "player": "Khaman Maluach",
+      "player_id": 5203685,
+      "season": "2026-2027",
+      "team": "Phoenix Suns",
+      "team_id": 21
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.0,
+        "blocks_per_game": 0.0,
+        "points_per_game": 4.625,
+        "rebounds_per_game": 1.875,
+        "steals_per_game": 0.375
+      },
+      "games": 8,
+      "player": "Khris Middleton",
+      "player_id": 6609,
+      "season": "2026-2027",
+      "team": "Washington Wizards",
+      "team_id": 27
+    },
+    {
+      "categories": {
+        "assists_per_game": 4.083,
+        "blocks_per_game": 0.333,
+        "points_per_game": 7.75,
+        "rebounds_per_game": 2.5,
+        "steals_per_game": 0.667
+      },
+      "games": 12,
+      "player": "Kingston Flemings",
+      "player_id": 5149077,
+      "season": "2026-2027",
+      "team": "Atlanta Hawks",
+      "team_id": 1
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.0,
+        "blocks_per_game": 0.786,
+        "points_per_game": 15.286,
+        "rebounds_per_game": 1.357,
+        "steals_per_game": 0.143
+      },
+      "games": 14,
+      "player": "Klay Thompson",
+      "player_id": 6475,
+      "season": "2026-2027",
+      "team": "Miami Heat",
+      "team_id": 14
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.111,
+        "blocks_per_game": 0.111,
+        "points_per_game": 3.0,
+        "rebounds_per_game": 0.778,
+        "steals_per_game": 0.0
+      },
+      "games": 9,
+      "player": "Koa Peat",
+      "player_id": 5041953,
+      "season": "2026-2027",
+      "team": "Phoenix Suns",
+      "team_id": 21
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.75,
+        "blocks_per_game": 0.0,
+        "points_per_game": 3.5,
+        "rebounds_per_game": 1.75,
+        "steals_per_game": 0.125
+      },
+      "games": 8,
+      "player": "Kobe Brown",
+      "player_id": 4431752,
+      "season": "2026-2027",
+      "team": "Indiana Pacers",
+      "team_id": 11
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.571,
+        "blocks_per_game": 0.143,
+        "points_per_game": 7.857,
+        "rebounds_per_game": 2.643,
+        "steals_per_game": 0.857
+      },
+      "games": 14,
+      "player": "Kobe Sanders",
+      "player_id": 4702352,
+      "season": "2026-2027",
+      "team": "Los Angeles Clippers",
+      "team_id": 12
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.0,
+        "blocks_per_game": 0.0,
+        "points_per_game": 3.0,
+        "rebounds_per_game": 0.0,
+        "steals_per_game": 0.0
+      },
+      "games": 1,
+      "player": "Kon Knueppel",
+      "player_id": 5061575,
+      "season": "2026-2027",
+      "team": "Charlotte Hornets",
+      "team_id": 30
+    },
+    {
+      "categories": {
+        "assists_per_game": 4.071,
+        "blocks_per_game": 0.5,
+        "points_per_game": 7.286,
+        "rebounds_per_game": 3.786,
+        "steals_per_game": 1.929
+      },
+      "games": 14,
+      "player": "Kris Dunn",
+      "player_id": 2991139,
+      "season": "2026-2027",
+      "team": "Los Angeles Clippers",
+      "team_id": 12
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.667,
+        "blocks_per_game": 0.417,
+        "points_per_game": 1.417,
+        "rebounds_per_game": 1.417,
+        "steals_per_game": 0.583
+      },
+      "games": 12,
+      "player": "Kris Murray",
+      "player_id": 4594326,
+      "season": "2026-2027",
+      "team": "Memphis Grizzlies",
+      "team_id": 29
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.4,
+        "blocks_per_game": 0.4,
+        "points_per_game": 1.4,
+        "rebounds_per_game": 1.1,
+        "steals_per_game": 0.3
+      },
+      "games": 10,
+      "player": "Kyle Anderson",
+      "player_id": 2993874,
+      "season": "2026-2027",
+      "team": "Toronto Raptors",
+      "team_id": 28
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.3,
+        "blocks_per_game": 0.0,
+        "points_per_game": 2.7,
+        "rebounds_per_game": 1.7,
+        "steals_per_game": 0.3
+      },
+      "games": 10,
+      "player": "Kyle Filipowski",
+      "player_id": 4684793,
+      "season": "2026-2027",
+      "team": "Utah Jazz",
+      "team_id": 26
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.4,
+        "blocks_per_game": 0.333,
+        "points_per_game": 12.267,
+        "rebounds_per_game": 5.267,
+        "steals_per_game": 1.067
+      },
+      "games": 15,
+      "player": "Kyle Kuzma",
+      "player_id": 3134907,
+      "season": "2026-2027",
+      "team": "Milwaukee Bucks",
+      "team_id": 15
+    },
+    {
+      "categories": {
+        "assists_per_game": 4.417,
+        "blocks_per_game": 0.417,
+        "points_per_game": 22.25,
+        "rebounds_per_game": 3.667,
+        "steals_per_game": 1.333
+      },
+      "games": 12,
+      "player": "Kyrie Irving",
+      "player_id": 6442,
+      "season": "2026-2027",
+      "team": "Dallas Mavericks",
+      "team_id": 6
+    },
+    {
+      "categories": {
+        "assists_per_game": 4.438,
+        "blocks_per_game": 1.188,
+        "points_per_game": 17.812,
+        "rebounds_per_game": 4.25,
+        "steals_per_game": 0.688
+      },
+      "games": 16,
+      "player": "Kyshawn George",
+      "player_id": 5174563,
+      "season": "2026-2027",
+      "team": "Washington Wizards",
+      "team_id": 27
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.769,
+        "blocks_per_game": 0.0,
+        "points_per_game": 6.615,
+        "rebounds_per_game": 0.462,
+        "steals_per_game": 0.077
+      },
+      "games": 13,
+      "player": "LJ Cryer",
+      "player_id": 4433149,
+      "season": "2026-2027",
+      "team": "Golden State Warriors",
+      "team_id": 9
+    },
+    {
+      "categories": {
+        "assists_per_game": 5.688,
+        "blocks_per_game": 0.062,
+        "points_per_game": 17.562,
+        "rebounds_per_game": 4.312,
+        "steals_per_game": 1.75
+      },
+      "games": 16,
+      "player": "LaMelo Ball",
+      "player_id": 4432816,
+      "season": "2026-2027",
+      "team": "Minnesota Timberwolves",
+      "team_id": 16
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.7,
+        "blocks_per_game": 0.0,
+        "points_per_game": 3.0,
+        "rebounds_per_game": 0.9,
+        "steals_per_game": 0.1
+      },
+      "games": 10,
+      "player": "Labaron Philon Jr.",
+      "player_id": 4873090,
+      "season": "2026-2027",
+      "team": "Philadelphia 76ers",
+      "team_id": 20
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.8,
+        "blocks_per_game": 0.2,
+        "points_per_game": 10.4,
+        "rebounds_per_game": 1.667,
+        "steals_per_game": 0.4
+      },
+      "games": 15,
+      "player": "Landry Shamet",
+      "player_id": 3914044,
+      "season": "2026-2027",
+      "team": "New York Knicks",
+      "team_id": 18
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.643,
+        "blocks_per_game": 0.143,
+        "points_per_game": 4.286,
+        "rebounds_per_game": 2.357,
+        "steals_per_game": 0.786
+      },
+      "games": 14,
+      "player": "Larry Nance Jr.",
+      "player_id": 2580365,
+      "season": "2026-2027",
+      "team": "Indiana Pacers",
+      "team_id": 11
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.0,
+        "blocks_per_game": 0.625,
+        "points_per_game": 18.0,
+        "rebounds_per_game": 6.75,
+        "steals_per_game": 0.625
+      },
+      "games": 8,
+      "player": "Lauri Markkanen",
+      "player_id": 4066336,
+      "season": "2026-2027",
+      "team": "Utah Jazz",
+      "team_id": 26
+    },
+    {
+      "categories": {
+        "assists_per_game": 6.833,
+        "blocks_per_game": 0.667,
+        "points_per_game": 15.667,
+        "rebounds_per_game": 6.833,
+        "steals_per_game": 1.083
+      },
+      "games": 12,
+      "player": "LeBron James",
+      "player_id": 1966,
+      "season": "2026-2027",
+      "team": "Philadelphia 76ers",
+      "team_id": 20
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.667,
+        "blocks_per_game": 0.667,
+        "points_per_game": 5.556,
+        "rebounds_per_game": 3.333,
+        "steals_per_game": 1.556
+      },
+      "games": 9,
+      "player": "Leaky Black",
+      "player_id": 4395650,
+      "season": "2026-2027",
+      "team": "Sacramento Kings",
+      "team_id": 23
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.0,
+        "blocks_per_game": 0.583,
+        "points_per_game": 5.417,
+        "rebounds_per_game": 3.167,
+        "steals_per_game": 0.417
+      },
+      "games": 12,
+      "player": "Leonard Miller",
+      "player_id": 5044385,
+      "season": "2026-2027",
+      "team": "Chicago Bulls",
+      "team_id": 4
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.556,
+        "blocks_per_game": 0.0,
+        "points_per_game": 2.778,
+        "rebounds_per_game": 1.222,
+        "steals_per_game": 0.111
+      },
+      "games": 9,
+      "player": "Liam McNeeley",
+      "player_id": 5239590,
+      "season": "2026-2027",
+      "team": "Charlotte Hornets",
+      "team_id": 30
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.438,
+        "blocks_per_game": 0.25,
+        "points_per_game": 8.938,
+        "rebounds_per_game": 3.0,
+        "steals_per_game": 1.062
+      },
+      "games": 16,
+      "player": "Luguentz Dort",
+      "player_id": 4397020,
+      "season": "2026-2027",
+      "team": "Atlanta Hawks",
+      "team_id": 1
+    },
+    {
+      "categories": {
+        "assists_per_game": 7.643,
+        "blocks_per_game": 0.643,
+        "points_per_game": 38.071,
+        "rebounds_per_game": 7.0,
+        "steals_per_game": 1.857
+      },
+      "games": 14,
+      "player": "Luka Doncic",
+      "player_id": 3945274,
+      "season": "2026-2027",
+      "team": "Los Angeles Lakers",
+      "team_id": 13
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.667,
+        "blocks_per_game": 0.4,
+        "points_per_game": 5.467,
+        "rebounds_per_game": 2.867,
+        "steals_per_game": 0.333
+      },
+      "games": 15,
+      "player": "Luka Garza",
+      "player_id": 4277951,
+      "season": "2026-2027",
+      "team": "Boston Celtics",
+      "team_id": 2
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.769,
+        "blocks_per_game": 0.0,
+        "points_per_game": 8.923,
+        "rebounds_per_game": 1.846,
+        "steals_per_game": 0.154
+      },
+      "games": 13,
+      "player": "Luke Kennard",
+      "player_id": 3913174,
+      "season": "2026-2027",
+      "team": "Phoenix Suns",
+      "team_id": 21
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.125,
+        "blocks_per_game": 0.688,
+        "points_per_game": 3.438,
+        "rebounds_per_game": 3.812,
+        "steals_per_game": 0.062
+      },
+      "games": 16,
+      "player": "Luke Kornet",
+      "player_id": 3064560,
+      "season": "2026-2027",
+      "team": "San Antonio Spurs",
+      "team_id": 24
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.0,
+        "blocks_per_game": 0.0,
+        "points_per_game": 0.0,
+        "rebounds_per_game": 0.333,
+        "steals_per_game": 0.0
+      },
+      "games": 3,
+      "player": "Malachi Smith",
+      "player_id": 4397784,
+      "season": "2026-2027",
+      "team": "Toronto Raptors",
+      "team_id": 28
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.1,
+        "blocks_per_game": 0.3,
+        "points_per_game": 1.1,
+        "rebounds_per_game": 1.3,
+        "steals_per_game": 0.2
+      },
+      "games": 10,
+      "player": "Malevy Leons",
+      "player_id": 4897449,
+      "season": "2026-2027",
+      "team": "Golden State Warriors",
+      "team_id": 9
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.5,
+        "blocks_per_game": 0.5,
+        "points_per_game": 2.0,
+        "rebounds_per_game": 0.5,
+        "steals_per_game": 0.0
+      },
+      "games": 2,
+      "player": "Malik Dia",
+      "player_id": 4712862,
+      "season": "2026-2027",
+      "team": "New Orleans Pelicans",
+      "team_id": 3
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.769,
+        "blocks_per_game": 0.077,
+        "points_per_game": 8.231,
+        "rebounds_per_game": 1.308,
+        "steals_per_game": 0.538
+      },
+      "games": 13,
+      "player": "Malik Monk",
+      "player_id": 4066262,
+      "season": "2026-2027",
+      "team": "Sacramento Kings",
+      "team_id": 23
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.0,
+        "blocks_per_game": 0.0,
+        "points_per_game": 0.0,
+        "rebounds_per_game": 0.0,
+        "steals_per_game": 0.0
+      },
+      "games": 1,
+      "player": "Maliq Brown",
+      "player_id": 5105337,
+      "season": "2026-2027",
+      "team": "San Antonio Spurs",
+      "team_id": 24
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.667,
+        "blocks_per_game": 0.083,
+        "points_per_game": 5.083,
+        "rebounds_per_game": 1.167,
+        "steals_per_game": 0.083
+      },
+      "games": 12,
+      "player": "Marcus Sasser",
+      "player_id": 4432107,
+      "season": "2026-2027",
+      "team": "Dallas Mavericks",
+      "team_id": 6
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.2,
+        "blocks_per_game": 0.2,
+        "points_per_game": 7.9,
+        "rebounds_per_game": 2.5,
+        "steals_per_game": 1.0
+      },
+      "games": 10,
+      "player": "Marcus Smart",
+      "player_id": 2990992,
+      "season": "2026-2027",
+      "team": "Houston Rockets",
+      "team_id": 10
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.812,
+        "blocks_per_game": 0.188,
+        "points_per_game": 9.062,
+        "rebounds_per_game": 5.438,
+        "steals_per_game": 0.625
+      },
+      "games": 16,
+      "player": "Mario Hezonja",
+      "player_id": 2995706,
+      "season": "2026-2027",
+      "team": "Cleveland Cavaliers",
+      "team_id": 5
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.462,
+        "blocks_per_game": 0.615,
+        "points_per_game": 5.615,
+        "rebounds_per_game": 3.462,
+        "steals_per_game": 0.154
+      },
+      "games": 13,
+      "player": "Marvin Bagley III",
+      "player_id": 4277848,
+      "season": "2026-2027",
+      "team": "Denver Nuggets",
+      "team_id": 7
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.5,
+        "blocks_per_game": 0.5,
+        "points_per_game": 1.0,
+        "rebounds_per_game": 1.0,
+        "steals_per_game": 0.5
+      },
+      "games": 2,
+      "player": "Mason Plumlee",
+      "player_id": 2488653,
+      "season": "2026-2027",
+      "team": "Sacramento Kings",
+      "team_id": 23
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.0,
+        "blocks_per_game": 0.786,
+        "points_per_game": 15.143,
+        "rebounds_per_game": 4.714,
+        "steals_per_game": 0.571
+      },
+      "games": 14,
+      "player": "Matas Buzelis",
+      "player_id": 4711294,
+      "season": "2026-2027",
+      "team": "Chicago Bulls",
+      "team_id": 4
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.062,
+        "blocks_per_game": 0.938,
+        "points_per_game": 7.062,
+        "rebounds_per_game": 2.375,
+        "steals_per_game": 2.375
+      },
+      "games": 16,
+      "player": "Matisse Thybulle",
+      "player_id": 3907498,
+      "season": "2026-2027",
+      "team": "Los Angeles Lakers",
+      "team_id": 13
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.25,
+        "blocks_per_game": 0.25,
+        "points_per_game": 5.25,
+        "rebounds_per_game": 2.75,
+        "steals_per_game": 0.417
+      },
+      "games": 12,
+      "player": "Max Christie",
+      "player_id": 4432582,
+      "season": "2026-2027",
+      "team": "Dallas Mavericks",
+      "team_id": 6
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.5,
+        "blocks_per_game": 0.0,
+        "points_per_game": 9.625,
+        "rebounds_per_game": 3.5,
+        "steals_per_game": 1.125
+      },
+      "games": 8,
+      "player": "Max Strus",
+      "player_id": 4065778,
+      "season": "2026-2027",
+      "team": "Los Angeles Clippers",
+      "team_id": 12
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.615,
+        "blocks_per_game": 0.231,
+        "points_per_game": 13.385,
+        "rebounds_per_game": 2.846,
+        "steals_per_game": 1.154
+      },
+      "games": 13,
+      "player": "Meleek Thomas",
+      "player_id": 5041951,
+      "season": "2026-2027",
+      "team": "Cleveland Cavaliers",
+      "team_id": 5
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.222,
+        "blocks_per_game": 0.222,
+        "points_per_game": 3.444,
+        "rebounds_per_game": 3.333,
+        "steals_per_game": 0.667
+      },
+      "games": 9,
+      "player": "Micah Peavy",
+      "player_id": 4432185,
+      "season": "2026-2027",
+      "team": "Oklahoma City Thunder",
+      "team_id": 25
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.25,
+        "blocks_per_game": 0.125,
+        "points_per_game": 2.5,
+        "rebounds_per_game": 2.125,
+        "steals_per_game": 0.125
+      },
+      "games": 8,
+      "player": "Micah Potter",
+      "player_id": 4066399,
+      "season": "2026-2027",
+      "team": "Portland Trail Blazers",
+      "team_id": 22
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.308,
+        "blocks_per_game": 0.462,
+        "points_per_game": 20.538,
+        "rebounds_per_game": 7.077,
+        "steals_per_game": 1.154
+      },
+      "games": 13,
+      "player": "Michael Porter Jr.",
+      "player_id": 4278104,
+      "season": "2026-2027",
+      "team": "Brooklyn Nets",
+      "team_id": 17
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.2,
+        "blocks_per_game": 0.533,
+        "points_per_game": 7.533,
+        "rebounds_per_game": 3.533,
+        "steals_per_game": 1.067
+      },
+      "games": 15,
+      "player": "Mikal Bridges",
+      "player_id": 3147657,
+      "season": "2026-2027",
+      "team": "New York Knicks",
+      "team_id": 18
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.5,
+        "blocks_per_game": 0.25,
+        "points_per_game": 3.0,
+        "rebounds_per_game": 0.75,
+        "steals_per_game": 0.5
+      },
+      "games": 4,
+      "player": "Mike Conley",
+      "player_id": 3195,
+      "season": "2026-2027",
+      "team": "Boston Celtics",
+      "team_id": 2
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.8,
+        "blocks_per_game": 0.1,
+        "points_per_game": 11.4,
+        "rebounds_per_game": 1.8,
+        "steals_per_game": 0.7
+      },
+      "games": 10,
+      "player": "Mikel Brown Jr.",
+      "player_id": 5101761,
+      "season": "2026-2027",
+      "team": "Brooklyn Nets",
+      "team_id": 17
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.143,
+        "blocks_per_game": 0.714,
+        "points_per_game": 14.571,
+        "rebounds_per_game": 6.929,
+        "steals_per_game": 1.0
+      },
+      "games": 14,
+      "player": "Miles Bridges",
+      "player_id": 4066383,
+      "season": "2026-2027",
+      "team": "Phoenix Suns",
+      "team_id": 21
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.0,
+        "blocks_per_game": 0.267,
+        "points_per_game": 7.0,
+        "rebounds_per_game": 1.267,
+        "steals_per_game": 0.667
+      },
+      "games": 15,
+      "player": "Miles McBride",
+      "player_id": 4431823,
+      "season": "2026-2027",
+      "team": "New York Knicks",
+      "team_id": 18
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.857,
+        "blocks_per_game": 0.786,
+        "points_per_game": 5.143,
+        "rebounds_per_game": 5.357,
+        "steals_per_game": 0.714
+      },
+      "games": 14,
+      "player": "Mitchell Robinson",
+      "player_id": 4351852,
+      "season": "2026-2027",
+      "team": "Boston Celtics",
+      "team_id": 2
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.083,
+        "blocks_per_game": 1.75,
+        "points_per_game": 9.5,
+        "rebounds_per_game": 7.0,
+        "steals_per_game": 0.417
+      },
+      "games": 12,
+      "player": "Mo Bamba",
+      "player_id": 4277919,
+      "season": "2026-2027",
+      "team": "Utah Jazz",
+      "team_id": 26
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.667,
+        "blocks_per_game": 0.333,
+        "points_per_game": 2.833,
+        "rebounds_per_game": 2.167,
+        "steals_per_game": 0.0
+      },
+      "games": 6,
+      "player": "Mohamed Diawara",
+      "player_id": 5289900,
+      "season": "2026-2027",
+      "team": "New York Knicks",
+      "team_id": 18
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.286,
+        "blocks_per_game": 0.143,
+        "points_per_game": 6.071,
+        "rebounds_per_game": 4.429,
+        "steals_per_game": 0.5
+      },
+      "games": 14,
+      "player": "Morez Johnson Jr.",
+      "player_id": 4873153,
+      "season": "2026-2027",
+      "team": "Dallas Mavericks",
+      "team_id": 6
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.571,
+        "blocks_per_game": 0.071,
+        "points_per_game": 10.357,
+        "rebounds_per_game": 3.429,
+        "steals_per_game": 0.571
+      },
+      "games": 14,
+      "player": "Moritz Wagner",
+      "player_id": 3150844,
+      "season": "2026-2027",
+      "team": "Brooklyn Nets",
+      "team_id": 17
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.1,
+        "blocks_per_game": 0.1,
+        "points_per_game": 1.3,
+        "rebounds_per_game": 0.8,
+        "steals_per_game": 0.0
+      },
+      "games": 10,
+      "player": "Moussa Cisse",
+      "player_id": 4701208,
+      "season": "2026-2027",
+      "team": "Dallas Mavericks",
+      "team_id": 6
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.0,
+        "blocks_per_game": 1.0,
+        "points_per_game": 9.615,
+        "rebounds_per_game": 10.615,
+        "steals_per_game": 1.154
+      },
+      "games": 13,
+      "player": "Moussa Diabate",
+      "player_id": 4433249,
+      "season": "2026-2027",
+      "team": "Charlotte Hornets",
+      "team_id": 30
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.714,
+        "blocks_per_game": 2.143,
+        "points_per_game": 7.143,
+        "rebounds_per_game": 6.0,
+        "steals_per_game": 0.571
+      },
+      "games": 14,
+      "player": "Myles Turner",
+      "player_id": 3133628,
+      "season": "2026-2027",
+      "team": "Milwaukee Bucks",
+      "team_id": 15
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.111,
+        "blocks_per_game": 0.333,
+        "points_per_game": 3.0,
+        "rebounds_per_game": 2.333,
+        "steals_per_game": 0.0
+      },
+      "games": 9,
+      "player": "Myron Gardner",
+      "player_id": 4431772,
+      "season": "2026-2027",
+      "team": "Miami Heat",
+      "team_id": 14
+    },
+    {
+      "categories": {
+        "assists_per_game": 4.083,
+        "blocks_per_game": 0.167,
+        "points_per_game": 11.583,
+        "rebounds_per_game": 2.917,
+        "steals_per_game": 1.333
+      },
+      "games": 12,
+      "player": "Naji Marshall",
+      "player_id": 4278594,
+      "season": "2026-2027",
+      "team": "Dallas Mavericks",
+      "team_id": 6
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.571,
+        "blocks_per_game": 0.214,
+        "points_per_game": 8.071,
+        "rebounds_per_game": 3.143,
+        "steals_per_game": 0.5
+      },
+      "games": 14,
+      "player": "Nate Ament",
+      "player_id": 5164559,
+      "season": "2026-2027",
+      "team": "Milwaukee Bucks",
+      "team_id": 15
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.4,
+        "blocks_per_game": 0.6,
+        "points_per_game": 17.267,
+        "rebounds_per_game": 8.467,
+        "steals_per_game": 0.867
+      },
+      "games": 15,
+      "player": "Naz Reid",
+      "player_id": 4396971,
+      "season": "2026-2027",
+      "team": "Charlotte Hornets",
+      "team_id": 30
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.929,
+        "blocks_per_game": 1.214,
+        "points_per_game": 9.643,
+        "rebounds_per_game": 6.857,
+        "steals_per_game": 0.357
+      },
+      "games": 14,
+      "player": "Neemias Queta",
+      "player_id": 4397424,
+      "season": "2026-2027",
+      "team": "Boston Celtics",
+      "team_id": 2
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.8,
+        "blocks_per_game": 0.8,
+        "points_per_game": 9.0,
+        "rebounds_per_game": 4.4,
+        "steals_per_game": 0.4
+      },
+      "games": 5,
+      "player": "Nic Claxton",
+      "player_id": 4278067,
+      "season": "2026-2027",
+      "team": "Chicago Bulls",
+      "team_id": 4
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.333,
+        "blocks_per_game": 0.0,
+        "points_per_game": 2.833,
+        "rebounds_per_game": 1.333,
+        "steals_per_game": 0.0
+      },
+      "games": 6,
+      "player": "Nick Martinelli",
+      "player_id": 5105832,
+      "season": "2026-2027",
+      "team": "Los Angeles Clippers",
+      "team_id": 12
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.143,
+        "blocks_per_game": 0.0,
+        "points_per_game": 1.0,
+        "rebounds_per_game": 0.286,
+        "steals_per_game": 0.0
+      },
+      "games": 7,
+      "player": "Nick Richards",
+      "player_id": 4278076,
+      "season": "2026-2027",
+      "team": "Miami Heat",
+      "team_id": 14
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.0,
+        "blocks_per_game": 0.375,
+        "points_per_game": 20.938,
+        "rebounds_per_game": 3.625,
+        "steals_per_game": 1.375
+      },
+      "games": 16,
+      "player": "Nickeil Alexander-Walker",
+      "player_id": 4278039,
+      "season": "2026-2027",
+      "team": "Atlanta Hawks",
+      "team_id": 1
+    },
+    {
+      "categories": {
+        "assists_per_game": 8.923,
+        "blocks_per_game": 1.077,
+        "points_per_game": 24.077,
+        "rebounds_per_game": 10.692,
+        "steals_per_game": 1.692
+      },
+      "games": 13,
+      "player": "Nikola Jokic",
+      "player_id": 3112335,
+      "season": "2026-2027",
+      "team": "Denver Nuggets",
+      "team_id": 7
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.444,
+        "blocks_per_game": 0.556,
+        "points_per_game": 2.556,
+        "rebounds_per_game": 2.222,
+        "steals_per_game": 0.333
+      },
+      "games": 9,
+      "player": "Nikola Jovic",
+      "player_id": 4997528,
+      "season": "2026-2027",
+      "team": "Miami Heat",
+      "team_id": 14
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.333,
+        "blocks_per_game": 0.0,
+        "points_per_game": 2.667,
+        "rebounds_per_game": 1.333,
+        "steals_per_game": 0.667
+      },
+      "games": 3,
+      "player": "Nikola Topic",
+      "player_id": 5159925,
+      "season": "2026-2027",
+      "team": "Oklahoma City Thunder",
+      "team_id": 25
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.083,
+        "blocks_per_game": 0.417,
+        "points_per_game": 2.667,
+        "rebounds_per_game": 2.833,
+        "steals_per_game": 0.0
+      },
+      "games": 12,
+      "player": "Nikola Vucevic",
+      "player_id": 6478,
+      "season": "2026-2027",
+      "team": "Orlando Magic",
+      "team_id": 19
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.769,
+        "blocks_per_game": 0.0,
+        "points_per_game": 2.923,
+        "rebounds_per_game": 1.308,
+        "steals_per_game": 0.231
+      },
+      "games": 13,
+      "player": "Nique Clifford",
+      "player_id": 4702384,
+      "season": "2026-2027",
+      "team": "Oklahoma City Thunder",
+      "team_id": 25
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.615,
+        "blocks_per_game": 0.231,
+        "points_per_game": 4.692,
+        "rebounds_per_game": 3.0,
+        "steals_per_game": 0.385
+      },
+      "games": 13,
+      "player": "Noa Essengue",
+      "player_id": 5242496,
+      "season": "2026-2027",
+      "team": "Chicago Bulls",
+      "team_id": 4
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.0,
+        "blocks_per_game": 0.643,
+        "points_per_game": 6.929,
+        "rebounds_per_game": 4.357,
+        "steals_per_game": 0.357
+      },
+      "games": 14,
+      "player": "Noah Clowney",
+      "player_id": 4712896,
+      "season": "2026-2027",
+      "team": "Brooklyn Nets",
+      "team_id": 17
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.769,
+        "blocks_per_game": 0.462,
+        "points_per_game": 13.538,
+        "rebounds_per_game": 1.769,
+        "steals_per_game": 1.231
+      },
+      "games": 13,
+      "player": "Nolan Traore",
+      "player_id": 5279130,
+      "season": "2026-2027",
+      "team": "Brooklyn Nets",
+      "team_id": 17
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.4,
+        "blocks_per_game": 0.4,
+        "points_per_game": 3.8,
+        "rebounds_per_game": 5.2,
+        "steals_per_game": 0.6
+      },
+      "games": 5,
+      "player": "Norchad Omier",
+      "player_id": 4702134,
+      "season": "2026-2027",
+      "team": "Cleveland Cavaliers",
+      "team_id": 5
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.417,
+        "blocks_per_game": 0.167,
+        "points_per_game": 21.25,
+        "rebounds_per_game": 2.833,
+        "steals_per_game": 1.417
+      },
+      "games": 12,
+      "player": "Norman Powell",
+      "player_id": 2595516,
+      "season": "2026-2027",
+      "team": "Chicago Bulls",
+      "team_id": 4
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.0,
+        "blocks_per_game": 0.867,
+        "points_per_game": 16.267,
+        "rebounds_per_game": 5.4,
+        "steals_per_game": 1.067
+      },
+      "games": 15,
+      "player": "OG Anunoby",
+      "player_id": 3934719,
+      "season": "2026-2027",
+      "team": "New York Knicks",
+      "team_id": 18
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.417,
+        "blocks_per_game": 0.167,
+        "points_per_game": 11.25,
+        "rebounds_per_game": 4.083,
+        "steals_per_game": 0.167
+      },
+      "games": 12,
+      "player": "Obi Toppin",
+      "player_id": 4278355,
+      "season": "2026-2027",
+      "team": "Indiana Pacers",
+      "team_id": 11
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.5,
+        "blocks_per_game": 0.1,
+        "points_per_game": 6.2,
+        "rebounds_per_game": 1.9,
+        "steals_per_game": 0.1
+      },
+      "games": 10,
+      "player": "Olivier-Maxence Prosper",
+      "player_id": 4595400,
+      "season": "2026-2027",
+      "team": "Memphis Grizzlies",
+      "team_id": 29
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.375,
+        "blocks_per_game": 0.812,
+        "points_per_game": 15.062,
+        "rebounds_per_game": 8.125,
+        "steals_per_game": 1.0
+      },
+      "games": 16,
+      "player": "Onyeka Okongwu",
+      "player_id": 4431680,
+      "season": "2026-2027",
+      "team": "Atlanta Hawks",
+      "team_id": 1
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.818,
+        "blocks_per_game": 0.364,
+        "points_per_game": 2.818,
+        "rebounds_per_game": 3.273,
+        "steals_per_game": 0.182
+      },
+      "games": 11,
+      "player": "Oscar Tshiebwe",
+      "player_id": 4432827,
+      "season": "2026-2027",
+      "team": "Houston Rockets",
+      "team_id": 10
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.333,
+        "blocks_per_game": 0.75,
+        "points_per_game": 6.083,
+        "rebounds_per_game": 5.25,
+        "steals_per_game": 0.333
+      },
+      "games": 12,
+      "player": "Oso Ighodaro",
+      "player_id": 4601023,
+      "season": "2026-2027",
+      "team": "Phoenix Suns",
+      "team_id": 21
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.0,
+        "blocks_per_game": 0.0,
+        "points_per_game": 3.9,
+        "rebounds_per_game": 1.2,
+        "steals_per_game": 0.2
+      },
+      "games": 10,
+      "player": "Ousmane Dieng",
+      "player_id": 4997526,
+      "season": "2026-2027",
+      "team": "Milwaukee Bucks",
+      "team_id": 15
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.333,
+        "blocks_per_game": 1.067,
+        "points_per_game": 14.0,
+        "rebounds_per_game": 6.667,
+        "steals_per_game": 0.6
+      },
+      "games": 15,
+      "player": "P.J. Washington",
+      "player_id": 4278078,
+      "season": "2026-2027",
+      "team": "Dallas Mavericks",
+      "team_id": 6
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.5,
+        "blocks_per_game": 0.5,
+        "points_per_game": 0.0,
+        "rebounds_per_game": 1.0,
+        "steals_per_game": 0.0
+      },
+      "games": 2,
+      "player": "PJ Hall",
+      "player_id": 4701225,
+      "season": "2026-2027",
+      "team": "Charlotte Hornets",
+      "team_id": 30
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.0,
+        "blocks_per_game": 0.0,
+        "points_per_game": 3.0,
+        "rebounds_per_game": 0.75,
+        "steals_per_game": 0.0
+      },
+      "games": 4,
+      "player": "Pacome Dadiet",
+      "player_id": 5211983,
+      "season": "2026-2027",
+      "team": "New York Knicks",
+      "team_id": 18
+    },
+    {
+      "categories": {
+        "assists_per_game": 7.5,
+        "blocks_per_game": 0.0,
+        "points_per_game": 24.5,
+        "rebounds_per_game": 6.5,
+        "steals_per_game": 1.0
+      },
+      "games": 2,
+      "player": "Paolo Banchero",
+      "player_id": 4432573,
+      "season": "2026-2027",
+      "team": "Orlando Magic",
+      "team_id": 19
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.929,
+        "blocks_per_game": 0.143,
+        "points_per_game": 23.143,
+        "rebounds_per_game": 6.071,
+        "steals_per_game": 1.071
+      },
+      "games": 14,
+      "player": "Pascal Siakam",
+      "player_id": 3149673,
+      "season": "2026-2027",
+      "team": "Indiana Pacers",
+      "team_id": 11
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.0,
+        "blocks_per_game": 0.5,
+        "points_per_game": 1.25,
+        "rebounds_per_game": 1.25,
+        "steals_per_game": 0.25
+      },
+      "games": 4,
+      "player": "Pat Spencer",
+      "player_id": 4592714,
+      "season": "2026-2027",
+      "team": "Phoenix Suns",
+      "team_id": 21
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.0,
+        "blocks_per_game": 0.571,
+        "points_per_game": 7.0,
+        "rebounds_per_game": 2.857,
+        "steals_per_game": 0.714
+      },
+      "games": 7,
+      "player": "Patrick Williams",
+      "player_id": 4431687,
+      "season": "2026-2027",
+      "team": "Chicago Bulls",
+      "team_id": 4
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.692,
+        "blocks_per_game": 0.385,
+        "points_per_game": 19.923,
+        "rebounds_per_game": 5.462,
+        "steals_per_game": 2.077
+      },
+      "games": 13,
+      "player": "Paul George",
+      "player_id": 4251,
+      "season": "2026-2027",
+      "team": "Boston Celtics",
+      "team_id": 2
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.214,
+        "blocks_per_game": 0.857,
+        "points_per_game": 11.643,
+        "rebounds_per_game": 7.643,
+        "steals_per_game": 1.071
+      },
+      "games": 14,
+      "player": "Paul Reed",
+      "player_id": 4278562,
+      "season": "2026-2027",
+      "team": "Detroit Pistons",
+      "team_id": 8
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.8,
+        "blocks_per_game": 0.133,
+        "points_per_game": 13.733,
+        "rebounds_per_game": 3.067,
+        "steals_per_game": 0.6
+      },
+      "games": 15,
+      "player": "Payton Pritchard",
+      "player_id": 4066354,
+      "season": "2026-2027",
+      "team": "Boston Celtics",
+      "team_id": 2
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.417,
+        "blocks_per_game": 0.083,
+        "points_per_game": 10.75,
+        "rebounds_per_game": 3.333,
+        "steals_per_game": 1.25
+      },
+      "games": 12,
+      "player": "Pelle Larsson",
+      "player_id": 4601025,
+      "season": "2026-2027",
+      "team": "Miami Heat",
+      "team_id": 14
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.0,
+        "blocks_per_game": 0.5,
+        "points_per_game": 5.0,
+        "rebounds_per_game": 2.0,
+        "steals_per_game": 0.0
+      },
+      "games": 2,
+      "player": "Pete Nance",
+      "player_id": 4397233,
+      "season": "2026-2027",
+      "team": "Milwaukee Bucks",
+      "team_id": 15
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.5,
+        "blocks_per_game": 1.5,
+        "points_per_game": 10.667,
+        "rebounds_per_game": 4.5,
+        "steals_per_game": 0.667
+      },
+      "games": 12,
+      "player": "Peyton Watson",
+      "player_id": 4576087,
+      "season": "2026-2027",
+      "team": "Cleveland Cavaliers",
+      "team_id": 5
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.0,
+        "blocks_per_game": 1.0,
+        "points_per_game": 9.5,
+        "rebounds_per_game": 5.833,
+        "steals_per_game": 1.167
+      },
+      "games": 12,
+      "player": "Precious Achiuwa",
+      "player_id": 4431679,
+      "season": "2026-2027",
+      "team": "Sacramento Kings",
+      "team_id": 23
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.571,
+        "blocks_per_game": 0.143,
+        "points_per_game": 12.643,
+        "rebounds_per_game": 3.357,
+        "steals_per_game": 0.929
+      },
+      "games": 14,
+      "player": "Quentin Grimes",
+      "player_id": 4397014,
+      "season": "2026-2027",
+      "team": "Los Angeles Lakers",
+      "team_id": 13
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.067,
+        "blocks_per_game": 0.2,
+        "points_per_game": 9.8,
+        "rebounds_per_game": 3.667,
+        "steals_per_game": 1.4
+      },
+      "games": 15,
+      "player": "Quenton Jackson",
+      "player_id": 4592829,
+      "season": "2026-2027",
+      "team": "Indiana Pacers",
+      "team_id": 11
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.273,
+        "blocks_per_game": 0.182,
+        "points_per_game": 4.818,
+        "rebounds_per_game": 2.091,
+        "steals_per_game": 0.273
+      },
+      "games": 11,
+      "player": "Quinten Post",
+      "player_id": 4593016,
+      "season": "2026-2027",
+      "team": "Memphis Grizzlies",
+      "team_id": 29
+    },
+    {
+      "categories": {
+        "assists_per_game": 4.286,
+        "blocks_per_game": 0.5,
+        "points_per_game": 20.857,
+        "rebounds_per_game": 6.429,
+        "steals_per_game": 0.429
+      },
+      "games": 14,
+      "player": "RJ Barrett",
+      "player_id": 4395625,
+      "season": "2026-2027",
+      "team": "Toronto Raptors",
+      "team_id": 28
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.2,
+        "blocks_per_game": 0.2,
+        "points_per_game": 1.4,
+        "rebounds_per_game": 1.4,
+        "steals_per_game": 0.4
+      },
+      "games": 5,
+      "player": "Rasheer Fleming",
+      "player_id": 5105977,
+      "season": "2026-2027",
+      "team": "Phoenix Suns",
+      "team_id": 21
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.0,
+        "blocks_per_game": 0.25,
+        "points_per_game": 5.25,
+        "rebounds_per_game": 2.5,
+        "steals_per_game": 0.75
+      },
+      "games": 4,
+      "player": "RayJ Dennis",
+      "player_id": 4431941,
+      "season": "2026-2027",
+      "team": "Atlanta Hawks",
+      "team_id": 1
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.5,
+        "blocks_per_game": 0.0,
+        "points_per_game": 1.0,
+        "rebounds_per_game": 1.5,
+        "steals_per_game": 0.5
+      },
+      "games": 2,
+      "player": "Rayan Rupert",
+      "player_id": 5099752,
+      "season": "2026-2027",
+      "team": "Philadelphia 76ers",
+      "team_id": 20
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.0,
+        "blocks_per_game": 0.0,
+        "points_per_game": 0.0,
+        "rebounds_per_game": 0.0,
+        "steals_per_game": 0.0
+      },
+      "games": 1,
+      "player": "Reece Beekman",
+      "player_id": 4432187,
+      "season": "2026-2027",
+      "team": "Washington Wizards",
+      "team_id": 27
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.769,
+        "blocks_per_game": 0.231,
+        "points_per_game": 9.769,
+        "rebounds_per_game": 1.692,
+        "steals_per_game": 1.231
+      },
+      "games": 13,
+      "player": "Reed Sheppard",
+      "player_id": 4711272,
+      "season": "2026-2027",
+      "team": "Houston Rockets",
+      "team_id": 10
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.0,
+        "blocks_per_game": 0.0,
+        "points_per_game": 3.0,
+        "rebounds_per_game": 2.0,
+        "steals_per_game": 0.0
+      },
+      "games": 4,
+      "player": "Riley Minix",
+      "player_id": 5177362,
+      "season": "2026-2027",
+      "team": "Cleveland Cavaliers",
+      "team_id": 5
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.25,
+        "blocks_per_game": 1.0,
+        "points_per_game": 6.5,
+        "rebounds_per_game": 6.583,
+        "steals_per_game": 0.75
+      },
+      "games": 12,
+      "player": "Robert Williams III",
+      "player_id": 4066211,
+      "season": "2026-2027",
+      "team": "Portland Trail Blazers",
+      "team_id": 22
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.0,
+        "blocks_per_game": 0.0,
+        "points_per_game": 0.0,
+        "rebounds_per_game": 1.0,
+        "steals_per_game": 0.0
+      },
+      "games": 1,
+      "player": "Rocco Zikarsky",
+      "player_id": 5157587,
+      "season": "2026-2027",
+      "team": "Minnesota Timberwolves",
+      "team_id": 16
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.429,
+        "blocks_per_game": 0.0,
+        "points_per_game": 2.571,
+        "rebounds_per_game": 0.571,
+        "steals_per_game": 0.143
+      },
+      "games": 7,
+      "player": "Ron Harper Jr.",
+      "player_id": 4397251,
+      "season": "2026-2027",
+      "team": "Boston Celtics",
+      "team_id": 2
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.833,
+        "blocks_per_game": 0.75,
+        "points_per_game": 4.917,
+        "rebounds_per_game": 3.833,
+        "steals_per_game": 0.583
+      },
+      "games": 12,
+      "player": "Ronald Holland II",
+      "player_id": 4683771,
+      "season": "2026-2027",
+      "team": "Detroit Pistons",
+      "team_id": 8
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.667,
+        "blocks_per_game": 0.133,
+        "points_per_game": 5.933,
+        "rebounds_per_game": 3.067,
+        "steals_per_game": 0.533
+      },
+      "games": 15,
+      "player": "Royce O'Neale",
+      "player_id": 2583632,
+      "season": "2026-2027",
+      "team": "Charlotte Hornets",
+      "team_id": 30
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.6,
+        "blocks_per_game": 0.933,
+        "points_per_game": 7.667,
+        "rebounds_per_game": 10.867,
+        "steals_per_game": 0.4
+      },
+      "games": 15,
+      "player": "Rudy Gobert",
+      "player_id": 3032976,
+      "season": "2026-2027",
+      "team": "Minnesota Timberwolves",
+      "team_id": 16
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.583,
+        "blocks_per_game": 0.167,
+        "points_per_game": 13.583,
+        "rebounds_per_game": 6.0,
+        "steals_per_game": 1.0
+      },
+      "games": 12,
+      "player": "Rui Hachimura",
+      "player_id": 4066648,
+      "season": "2026-2027",
+      "team": "Los Angeles Clippers",
+      "team_id": 12
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.385,
+        "blocks_per_game": 0.154,
+        "points_per_game": 7.231,
+        "rebounds_per_game": 1.923,
+        "steals_per_game": 0.692
+      },
+      "games": 13,
+      "player": "Ryan Conwell",
+      "player_id": 5107157,
+      "season": "2026-2027",
+      "team": "Miami Heat",
+      "team_id": 14
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.143,
+        "blocks_per_game": 0.571,
+        "points_per_game": 5.143,
+        "rebounds_per_game": 4.0,
+        "steals_per_game": 0.5
+      },
+      "games": 14,
+      "player": "Ryan Dunn",
+      "player_id": 4888725,
+      "season": "2026-2027",
+      "team": "Phoenix Suns",
+      "team_id": 21
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.333,
+        "blocks_per_game": 1.133,
+        "points_per_game": 4.8,
+        "rebounds_per_game": 5.267,
+        "steals_per_game": 0.4
+      },
+      "games": 15,
+      "player": "Ryan Kalkbrenner",
+      "player_id": 4576060,
+      "season": "2026-2027",
+      "team": "Charlotte Hornets",
+      "team_id": 30
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.667,
+        "blocks_per_game": 0.0,
+        "points_per_game": 3.0,
+        "rebounds_per_game": 0.333,
+        "steals_per_game": 0.0
+      },
+      "games": 3,
+      "player": "Ryan Nembhard",
+      "player_id": 4433629,
+      "season": "2026-2027",
+      "team": "Denver Nuggets",
+      "team_id": 7
+    },
+    {
+      "categories": {
+        "assists_per_game": 4.071,
+        "blocks_per_game": 0.286,
+        "points_per_game": 10.857,
+        "rebounds_per_game": 4.857,
+        "steals_per_game": 1.0
+      },
+      "games": 14,
+      "player": "Ryan Rollins",
+      "player_id": 4591725,
+      "season": "2026-2027",
+      "team": "Milwaukee Bucks",
+      "team_id": 15
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.562,
+        "blocks_per_game": 0.25,
+        "points_per_game": 16.5,
+        "rebounds_per_game": 4.438,
+        "steals_per_game": 0.812
+      },
+      "games": 16,
+      "player": "Saddiq Bey",
+      "player_id": 4397136,
+      "season": "2026-2027",
+      "team": "New Orleans Pelicans",
+      "team_id": 3
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.133,
+        "blocks_per_game": 0.133,
+        "points_per_game": 8.4,
+        "rebounds_per_game": 3.067,
+        "steals_per_game": 0.467
+      },
+      "games": 15,
+      "player": "Sam Hauser",
+      "player_id": 4065804,
+      "season": "2026-2027",
+      "team": "Boston Celtics",
+      "team_id": 2
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.0,
+        "blocks_per_game": 0.1,
+        "points_per_game": 7.6,
+        "rebounds_per_game": 3.3,
+        "steals_per_game": 1.1
+      },
+      "games": 10,
+      "player": "Sam Merrill",
+      "player_id": 4066757,
+      "season": "2026-2027",
+      "team": "Cleveland Cavaliers",
+      "team_id": 5
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.625,
+        "blocks_per_game": 0.438,
+        "points_per_game": 9.625,
+        "rebounds_per_game": 4.125,
+        "steals_per_game": 0.75
+      },
+      "games": 16,
+      "player": "Sandro Mamukelashvili",
+      "player_id": 4278580,
+      "season": "2026-2027",
+      "team": "Los Angeles Lakers",
+      "team_id": 13
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.667,
+        "blocks_per_game": 0.167,
+        "points_per_game": 6.667,
+        "rebounds_per_game": 3.0,
+        "steals_per_game": 0.5
+      },
+      "games": 6,
+      "player": "Santi Aldama",
+      "player_id": 4593125,
+      "season": "2026-2027",
+      "team": "Dallas Mavericks",
+      "team_id": 6
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.467,
+        "blocks_per_game": 0.2,
+        "points_per_game": 9.933,
+        "rebounds_per_game": 2.133,
+        "steals_per_game": 0.533
+      },
+      "games": 15,
+      "player": "Scoot Henderson",
+      "player_id": 4683678,
+      "season": "2026-2027",
+      "team": "Portland Trail Blazers",
+      "team_id": 22
+    },
+    {
+      "categories": {
+        "assists_per_game": 4.7,
+        "blocks_per_game": 0.9,
+        "points_per_game": 23.8,
+        "rebounds_per_game": 7.4,
+        "steals_per_game": 1.9
+      },
+      "games": 10,
+      "player": "Scottie Barnes",
+      "player_id": 4433134,
+      "season": "2026-2027",
+      "team": "Toronto Raptors",
+      "team_id": 28
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.2,
+        "blocks_per_game": 0.2,
+        "points_per_game": 6.4,
+        "rebounds_per_game": 2.2,
+        "steals_per_game": 1.0
+      },
+      "games": 5,
+      "player": "Scotty Pippen Jr.",
+      "player_id": 4431785,
+      "season": "2026-2027",
+      "team": "Memphis Grizzlies",
+      "team_id": 29
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.25,
+        "blocks_per_game": 0.0,
+        "points_per_game": 5.25,
+        "rebounds_per_game": 2.0,
+        "steals_per_game": 0.0
+      },
+      "games": 4,
+      "player": "Sergio de Larrea",
+      "player_id": 5279129,
+      "season": "2026-2027",
+      "team": "Dallas Mavericks",
+      "team_id": 6
+    },
+    {
+      "categories": {
+        "assists_per_game": 4.267,
+        "blocks_per_game": 0.933,
+        "points_per_game": 31.133,
+        "rebounds_per_game": 4.133,
+        "steals_per_game": 0.933
+      },
+      "games": 15,
+      "player": "Shai Gilgeous-Alexander",
+      "player_id": 4278073,
+      "season": "2026-2027",
+      "team": "Oklahoma City Thunder",
+      "team_id": 25
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.0,
+        "blocks_per_game": 0.267,
+        "points_per_game": 7.867,
+        "rebounds_per_game": 3.8,
+        "steals_per_game": 0.6
+      },
+      "games": 15,
+      "player": "Sidy Cissoko",
+      "player_id": 5081727,
+      "season": "2026-2027",
+      "team": "Portland Trail Blazers",
+      "team_id": 22
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.556,
+        "blocks_per_game": 0.222,
+        "points_per_game": 3.222,
+        "rebounds_per_game": 2.0,
+        "steals_per_game": 0.111
+      },
+      "games": 9,
+      "player": "Simone Fontecchio",
+      "player_id": 3899664,
+      "season": "2026-2027",
+      "team": "Miami Heat",
+      "team_id": 14
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.0,
+        "blocks_per_game": 0.0,
+        "points_per_game": 5.8,
+        "rebounds_per_game": 3.8,
+        "steals_per_game": 0.8
+      },
+      "games": 15,
+      "player": "Sion James",
+      "player_id": 4602025,
+      "season": "2026-2027",
+      "team": "Charlotte Hornets",
+      "team_id": 30
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.833,
+        "blocks_per_game": 0.5,
+        "points_per_game": 4.333,
+        "rebounds_per_game": 2.333,
+        "steals_per_game": 0.167
+      },
+      "games": 6,
+      "player": "Spencer Jones",
+      "player_id": 4592427,
+      "season": "2026-2027",
+      "team": "Denver Nuggets",
+      "team_id": 7
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.9,
+        "blocks_per_game": 0.1,
+        "points_per_game": 27.8,
+        "rebounds_per_game": 3.7,
+        "steals_per_game": 0.9
+      },
+      "games": 10,
+      "player": "Stephen Curry",
+      "player_id": 3975,
+      "season": "2026-2027",
+      "team": "Golden State Warriors",
+      "team_id": 9
+    },
+    {
+      "categories": {
+        "assists_per_game": 5.875,
+        "blocks_per_game": 0.25,
+        "points_per_game": 15.688,
+        "rebounds_per_game": 5.25,
+        "steals_per_game": 1.188
+      },
+      "games": 16,
+      "player": "Stephon Castle",
+      "player_id": 4845367,
+      "season": "2026-2027",
+      "team": "San Antonio Spurs",
+      "team_id": 24
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.333,
+        "blocks_per_game": 0.333,
+        "points_per_game": 4.667,
+        "rebounds_per_game": 4.667,
+        "steals_per_game": 0.0
+      },
+      "games": 3,
+      "player": "Steven Adams",
+      "player_id": 2991235,
+      "season": "2026-2027",
+      "team": "Houston Rockets",
+      "team_id": 10
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.625,
+        "blocks_per_game": 0.0,
+        "points_per_game": 4.5,
+        "rebounds_per_game": 2.0,
+        "steals_per_game": 0.688
+      },
+      "games": 16,
+      "player": "Svi Mykhailiuk",
+      "player_id": 3133602,
+      "season": "2026-2027",
+      "team": "Utah Jazz",
+      "team_id": 26
+    },
+    {
+      "categories": {
+        "assists_per_game": 4.667,
+        "blocks_per_game": 0.167,
+        "points_per_game": 7.833,
+        "rebounds_per_game": 2.5,
+        "steals_per_game": 1.167
+      },
+      "games": 6,
+      "player": "T.J. McConnell",
+      "player_id": 2530530,
+      "season": "2026-2027",
+      "team": "Indiana Pacers",
+      "team_id": 11
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.0,
+        "blocks_per_game": 0.75,
+        "points_per_game": 0.5,
+        "rebounds_per_game": 1.75,
+        "steals_per_game": 0.0
+      },
+      "games": 4,
+      "player": "Tacko Fall",
+      "player_id": 3904625,
+      "season": "2026-2027",
+      "team": "Philadelphia 76ers",
+      "team_id": 20
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.5,
+        "blocks_per_game": 0.875,
+        "points_per_game": 10.562,
+        "rebounds_per_game": 6.125,
+        "steals_per_game": 1.0
+      },
+      "games": 16,
+      "player": "Tari Eason",
+      "player_id": 4433192,
+      "season": "2026-2027",
+      "team": "Houston Rockets",
+      "team_id": 10
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.333,
+        "blocks_per_game": 0.222,
+        "points_per_game": 2.0,
+        "rebounds_per_game": 2.889,
+        "steals_per_game": 0.222
+      },
+      "games": 9,
+      "player": "Tarris Reed Jr.",
+      "player_id": 5105809,
+      "season": "2026-2027",
+      "team": "San Antonio Spurs",
+      "team_id": 24
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.333,
+        "blocks_per_game": 0.0,
+        "points_per_game": 2.0,
+        "rebounds_per_game": 0.667,
+        "steals_per_game": 0.667
+      },
+      "games": 3,
+      "player": "Taurean Prince",
+      "player_id": 2990962,
+      "season": "2026-2027",
+      "team": "Detroit Pistons",
+      "team_id": 8
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.909,
+        "blocks_per_game": 0.273,
+        "points_per_game": 8.727,
+        "rebounds_per_game": 3.364,
+        "steals_per_game": 0.545
+      },
+      "games": 11,
+      "player": "Taylor Hendricks",
+      "player_id": 4684806,
+      "season": "2026-2027",
+      "team": "Memphis Grizzlies",
+      "team_id": 29
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.25,
+        "blocks_per_game": 0.125,
+        "points_per_game": 1.25,
+        "rebounds_per_game": 1.125,
+        "steals_per_game": 0.625
+      },
+      "games": 8,
+      "player": "Terance Mann",
+      "player_id": 3907823,
+      "season": "2026-2027",
+      "team": "Brooklyn Nets",
+      "team_id": 17
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.923,
+        "blocks_per_game": 0.077,
+        "points_per_game": 12.692,
+        "rebounds_per_game": 3.385,
+        "steals_per_game": 0.462
+      },
+      "games": 13,
+      "player": "Terrence Shannon Jr.",
+      "player_id": 4432847,
+      "season": "2026-2027",
+      "team": "Minnesota Timberwolves",
+      "team_id": 16
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.9,
+        "blocks_per_game": 0.3,
+        "points_per_game": 9.4,
+        "rebounds_per_game": 3.4,
+        "steals_per_game": 0.3
+      },
+      "games": 10,
+      "player": "Thomas Bryant",
+      "player_id": 3934723,
+      "season": "2026-2027",
+      "team": "Cleveland Cavaliers",
+      "team_id": 5
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.143,
+        "blocks_per_game": 0.143,
+        "points_per_game": 5.357,
+        "rebounds_per_game": 3.071,
+        "steals_per_game": 0.429
+      },
+      "games": 14,
+      "player": "Tidjane Salaun",
+      "player_id": 5211176,
+      "season": "2026-2027",
+      "team": "Charlotte Hornets",
+      "team_id": 30
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.727,
+        "blocks_per_game": 0.364,
+        "points_per_game": 4.545,
+        "rebounds_per_game": 1.455,
+        "steals_per_game": 0.273
+      },
+      "games": 11,
+      "player": "Tim Hardaway Jr.",
+      "player_id": 2528210,
+      "season": "2026-2027",
+      "team": "Miami Heat",
+      "team_id": 14
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.75,
+        "blocks_per_game": 0.75,
+        "points_per_game": 2.0,
+        "rebounds_per_game": 5.25,
+        "steals_per_game": 0.25
+      },
+      "games": 4,
+      "player": "Tobe Awaka",
+      "player_id": 5105555,
+      "season": "2026-2027",
+      "team": "Chicago Bulls",
+      "team_id": 4
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.375,
+        "blocks_per_game": 0.0,
+        "points_per_game": 1.375,
+        "rebounds_per_game": 1.125,
+        "steals_per_game": 0.125
+      },
+      "games": 8,
+      "player": "Tobi Lawal",
+      "player_id": 5106040,
+      "season": "2026-2027",
+      "team": "Dallas Mavericks",
+      "team_id": 6
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.111,
+        "blocks_per_game": 0.222,
+        "points_per_game": 1.333,
+        "rebounds_per_game": 1.444,
+        "steals_per_game": 0.111
+      },
+      "games": 9,
+      "player": "Tolu Smith",
+      "player_id": 4397882,
+      "season": "2026-2027",
+      "team": "Detroit Pistons",
+      "team_id": 8
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.25,
+        "blocks_per_game": 0.125,
+        "points_per_game": 2.125,
+        "rebounds_per_game": 3.125,
+        "steals_per_game": 0.125
+      },
+      "games": 8,
+      "player": "Tony Bradley",
+      "player_id": 4065673,
+      "season": "2026-2027",
+      "team": "Utah Jazz",
+      "team_id": 26
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.467,
+        "blocks_per_game": 0.6,
+        "points_per_game": 12.6,
+        "rebounds_per_game": 3.6,
+        "steals_per_game": 0.933
+      },
+      "games": 15,
+      "player": "Toumani Camara",
+      "player_id": 4431736,
+      "season": "2026-2027",
+      "team": "Portland Trail Blazers",
+      "team_id": 22
+    },
+    {
+      "categories": {
+        "assists_per_game": 8.875,
+        "blocks_per_game": 0.125,
+        "points_per_game": 17.5,
+        "rebounds_per_game": 2.75,
+        "steals_per_game": 1.188
+      },
+      "games": 16,
+      "player": "Trae Young",
+      "player_id": 4277905,
+      "season": "2026-2027",
+      "team": "Washington Wizards",
+      "team_id": 27
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.5,
+        "blocks_per_game": 0.4,
+        "points_per_game": 3.1,
+        "rebounds_per_game": 3.1,
+        "steals_per_game": 0.8
+      },
+      "games": 10,
+      "player": "Trayce Jackson-Davis",
+      "player_id": 4431684,
+      "season": "2026-2027",
+      "team": "Toronto Raptors",
+      "team_id": 28
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.0,
+        "blocks_per_game": 0.0,
+        "points_per_game": 0.667,
+        "rebounds_per_game": 0.0,
+        "steals_per_game": 0.0
+      },
+      "games": 3,
+      "player": "Tre Donaldson",
+      "player_id": 4837356,
+      "season": "2026-2027",
+      "team": "Miami Heat",
+      "team_id": 14
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.0,
+        "blocks_per_game": 0.071,
+        "points_per_game": 8.929,
+        "rebounds_per_game": 2.0,
+        "steals_per_game": 0.643
+      },
+      "games": 14,
+      "player": "Tre Johnson",
+      "player_id": 5238230,
+      "season": "2026-2027",
+      "team": "Washington Wizards",
+      "team_id": 27
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.429,
+        "blocks_per_game": 0.286,
+        "points_per_game": 10.857,
+        "rebounds_per_game": 2.143,
+        "steals_per_game": 1.071
+      },
+      "games": 14,
+      "player": "Tre Jones",
+      "player_id": 4395626,
+      "season": "2026-2027",
+      "team": "Chicago Bulls",
+      "team_id": 4
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.571,
+        "blocks_per_game": 0.286,
+        "points_per_game": 1.429,
+        "rebounds_per_game": 0.143,
+        "steals_per_game": 0.571
+      },
+      "games": 7,
+      "player": "Tre Mann",
+      "player_id": 4432819,
+      "season": "2026-2027",
+      "team": "Washington Wizards",
+      "team_id": 27
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.0,
+        "blocks_per_game": 0.5,
+        "points_per_game": 7.167,
+        "rebounds_per_game": 3.5,
+        "steals_per_game": 0.833
+      },
+      "games": 6,
+      "player": "Trendon Watford",
+      "player_id": 4431675,
+      "season": "2026-2027",
+      "team": "New Orleans Pelicans",
+      "team_id": 3
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.385,
+        "blocks_per_game": 0.385,
+        "points_per_game": 6.538,
+        "rebounds_per_game": 5.308,
+        "steals_per_game": 0.462
+      },
+      "games": 13,
+      "player": "Trevon Brazile",
+      "player_id": 4698719,
+      "season": "2026-2027",
+      "team": "Denver Nuggets",
+      "team_id": 7
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.125,
+        "blocks_per_game": 0.312,
+        "points_per_game": 6.375,
+        "rebounds_per_game": 3.938,
+        "steals_per_game": 0.375
+      },
+      "games": 16,
+      "player": "Trey Lyles",
+      "player_id": 3136196,
+      "season": "2026-2027",
+      "team": "Minnesota Timberwolves",
+      "team_id": 16
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.556,
+        "blocks_per_game": 0.222,
+        "points_per_game": 15.556,
+        "rebounds_per_game": 4.778,
+        "steals_per_game": 1.0
+      },
+      "games": 9,
+      "player": "Trey Murphy III",
+      "player_id": 4397688,
+      "season": "2026-2027",
+      "team": "New Orleans Pelicans",
+      "team_id": 3
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.667,
+        "blocks_per_game": 0.25,
+        "points_per_game": 14.417,
+        "rebounds_per_game": 3.917,
+        "steals_per_game": 0.5
+      },
+      "games": 12,
+      "player": "Tristan da Silva",
+      "player_id": 4702382,
+      "season": "2026-2027",
+      "team": "Orlando Magic",
+      "team_id": 19
+    },
+    {
+      "categories": {
+        "assists_per_game": 5.273,
+        "blocks_per_game": 0.182,
+        "points_per_game": 25.364,
+        "rebounds_per_game": 3.364,
+        "steals_per_game": 0.727
+      },
+      "games": 11,
+      "player": "Ty Jerome",
+      "player_id": 4065733,
+      "season": "2026-2027",
+      "team": "Memphis Grizzlies",
+      "team_id": 29
+    },
+    {
+      "categories": {
+        "assists_per_game": 4.133,
+        "blocks_per_game": 0.2,
+        "points_per_game": 19.4,
+        "rebounds_per_game": 4.0,
+        "steals_per_game": 0.933
+      },
+      "games": 15,
+      "player": "Tyler Herro",
+      "player_id": 4395725,
+      "season": "2026-2027",
+      "team": "Milwaukee Bucks",
+      "team_id": 15
+    },
+    {
+      "categories": {
+        "assists_per_game": 4.692,
+        "blocks_per_game": 0.077,
+        "points_per_game": 3.538,
+        "rebounds_per_game": 2.0,
+        "steals_per_game": 0.462
+      },
+      "games": 13,
+      "player": "Tyler Kolek",
+      "player_id": 4433225,
+      "season": "2026-2027",
+      "team": "New York Knicks",
+      "team_id": 18
+    },
+    {
+      "categories": {
+        "assists_per_game": 9.5,
+        "blocks_per_game": 0.75,
+        "points_per_game": 21.75,
+        "rebounds_per_game": 4.5,
+        "steals_per_game": 1.25
+      },
+      "games": 4,
+      "player": "Tyrese Haliburton",
+      "player_id": 4396993,
+      "season": "2026-2027",
+      "team": "Indiana Pacers",
+      "team_id": 11
+    },
+    {
+      "categories": {
+        "assists_per_game": 5.8,
+        "blocks_per_game": 0.533,
+        "points_per_game": 26.533,
+        "rebounds_per_game": 3.267,
+        "steals_per_game": 1.267
+      },
+      "games": 15,
+      "player": "Tyrese Maxey",
+      "player_id": 4431678,
+      "season": "2026-2027",
+      "team": "Philadelphia 76ers",
+      "team_id": 20
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.667,
+        "blocks_per_game": 0.067,
+        "points_per_game": 9.733,
+        "rebounds_per_game": 3.333,
+        "steals_per_game": 0.533
+      },
+      "games": 15,
+      "player": "Tyrese Proctor",
+      "player_id": 5023693,
+      "season": "2026-2027",
+      "team": "Cleveland Cavaliers",
+      "team_id": 5
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.923,
+        "blocks_per_game": 0.154,
+        "points_per_game": 2.077,
+        "rebounds_per_game": 0.538,
+        "steals_per_game": 0.462
+      },
+      "games": 13,
+      "player": "Tyus Jones",
+      "player_id": 3135046,
+      "season": "2026-2027",
+      "team": "Denver Nuggets",
+      "team_id": 7
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.867,
+        "blocks_per_game": 0.4,
+        "points_per_game": 13.6,
+        "rebounds_per_game": 6.533,
+        "steals_per_game": 1.667
+      },
+      "games": 15,
+      "player": "VJ Edgecombe",
+      "player_id": 5124612,
+      "season": "2026-2027",
+      "team": "Philadelphia 76ers",
+      "team_id": 20
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.312,
+        "blocks_per_game": 3.875,
+        "points_per_game": 28.625,
+        "rebounds_per_game": 11.938,
+        "steals_per_game": 1.125
+      },
+      "games": 16,
+      "player": "Victor Wembanyama",
+      "player_id": 5104157,
+      "season": "2026-2027",
+      "team": "San Antonio Spurs",
+      "team_id": 24
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.143,
+        "blocks_per_game": 0.0,
+        "points_per_game": 2.714,
+        "rebounds_per_game": 1.571,
+        "steals_per_game": 0.429
+      },
+      "games": 7,
+      "player": "Vit Krejci",
+      "player_id": 4578893,
+      "season": "2026-2027",
+      "team": "Portland Trail Blazers",
+      "team_id": 22
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.8,
+        "blocks_per_game": 2.067,
+        "points_per_game": 14.2,
+        "rebounds_per_game": 10.933,
+        "steals_per_game": 1.133
+      },
+      "games": 15,
+      "player": "Walker Kessler",
+      "player_id": 4433136,
+      "season": "2026-2027",
+      "team": "Los Angeles Lakers",
+      "team_id": 13
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.571,
+        "blocks_per_game": 0.143,
+        "points_per_game": 7.143,
+        "rebounds_per_game": 2.929,
+        "steals_per_game": 0.571
+      },
+      "games": 14,
+      "player": "Walter Clayton Jr.",
+      "player_id": 4896372,
+      "season": "2026-2027",
+      "team": "Dallas Mavericks",
+      "team_id": 6
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.214,
+        "blocks_per_game": 0.786,
+        "points_per_game": 13.357,
+        "rebounds_per_game": 8.786,
+        "steals_per_game": 0.857
+      },
+      "games": 14,
+      "player": "Wendell Carter Jr.",
+      "player_id": 4277847,
+      "season": "2026-2027",
+      "team": "Orlando Magic",
+      "team_id": 19
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.0,
+        "blocks_per_game": 0.2,
+        "points_per_game": 7.533,
+        "rebounds_per_game": 2.267,
+        "steals_per_game": 0.733
+      },
+      "games": 15,
+      "player": "Will Richard",
+      "player_id": 4897262,
+      "season": "2026-2027",
+      "team": "Golden State Warriors",
+      "team_id": 9
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.231,
+        "blocks_per_game": 0.077,
+        "points_per_game": 2.692,
+        "rebounds_per_game": 0.692,
+        "steals_per_game": 0.077
+      },
+      "games": 13,
+      "player": "Will Riley",
+      "player_id": 5144126,
+      "season": "2026-2027",
+      "team": "Washington Wizards",
+      "team_id": 27
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.778,
+        "blocks_per_game": 0.111,
+        "points_per_game": 3.333,
+        "rebounds_per_game": 2.556,
+        "steals_per_game": 0.333
+      },
+      "games": 9,
+      "player": "Yang Hansen",
+      "player_id": 5217746,
+      "season": "2026-2027",
+      "team": "Portland Trail Blazers",
+      "team_id": 22
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.0,
+        "blocks_per_game": 0.0,
+        "points_per_game": 2.0,
+        "rebounds_per_game": 3.0,
+        "steals_per_game": 1.0
+      },
+      "games": 1,
+      "player": "Yanic Konan Niederhauser",
+      "player_id": 5108024,
+      "season": "2026-2027",
+      "team": "Los Angeles Clippers",
+      "team_id": 12
+    },
+    {
+      "categories": {
+        "assists_per_game": 3.688,
+        "blocks_per_game": 0.812,
+        "points_per_game": 19.688,
+        "rebounds_per_game": 7.312,
+        "steals_per_game": 1.062
+      },
+      "games": 16,
+      "player": "Yaxel Lendeborg",
+      "player_id": 5175737,
+      "season": "2026-2027",
+      "team": "Golden State Warriors",
+      "team_id": 9
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.8,
+        "blocks_per_game": 1.8,
+        "points_per_game": 6.4,
+        "rebounds_per_game": 8.4,
+        "steals_per_game": 1.0
+      },
+      "games": 5,
+      "player": "Yves Missi",
+      "player_id": 5061589,
+      "season": "2026-2027",
+      "team": "New Orleans Pelicans",
+      "team_id": 3
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.2,
+        "blocks_per_game": 1.0,
+        "points_per_game": 8.4,
+        "rebounds_per_game": 4.667,
+        "steals_per_game": 1.133
+      },
+      "games": 15,
+      "player": "Zaccharie Risacher",
+      "player_id": 5211175,
+      "season": "2026-2027",
+      "team": "Dallas Mavericks",
+      "team_id": 6
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.0,
+        "blocks_per_game": 0.111,
+        "points_per_game": 2.444,
+        "rebounds_per_game": 2.667,
+        "steals_per_game": 0.222
+      },
+      "games": 9,
+      "player": "Zach Collins",
+      "player_id": 4066650,
+      "season": "2026-2027",
+      "team": "Chicago Bulls",
+      "team_id": 4
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.917,
+        "blocks_per_game": 1.167,
+        "points_per_game": 9.167,
+        "rebounds_per_game": 7.417,
+        "steals_per_game": 0.25
+      },
+      "games": 12,
+      "player": "Zach Edey",
+      "player_id": 4600663,
+      "season": "2026-2027",
+      "team": "Memphis Grizzlies",
+      "team_id": 29
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.769,
+        "blocks_per_game": 0.385,
+        "points_per_game": 21.154,
+        "rebounds_per_game": 3.385,
+        "steals_per_game": 1.0
+      },
+      "games": 13,
+      "player": "Zach LaVine",
+      "player_id": 3064440,
+      "season": "2026-2027",
+      "team": "Sacramento Kings",
+      "team_id": 23
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.0,
+        "blocks_per_game": 0.0,
+        "points_per_game": 3.5,
+        "rebounds_per_game": 0.5,
+        "steals_per_game": 0.0
+      },
+      "games": 2,
+      "player": "Zeke Nnaji",
+      "player_id": 4431690,
+      "season": "2026-2027",
+      "team": "Denver Nuggets",
+      "team_id": 7
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.846,
+        "blocks_per_game": 0.154,
+        "points_per_game": 9.462,
+        "rebounds_per_game": 2.385,
+        "steals_per_game": 1.385
+      },
+      "games": 13,
+      "player": "Ziaire Williams",
+      "player_id": 4433137,
+      "season": "2026-2027",
+      "team": "Los Angeles Lakers",
+      "team_id": 13
+    },
+    {
+      "categories": {
+        "assists_per_game": 2.533,
+        "blocks_per_game": 0.6,
+        "points_per_game": 21.667,
+        "rebounds_per_game": 5.4,
+        "steals_per_game": 1.8
+      },
+      "games": 15,
+      "player": "Zion Williamson",
+      "player_id": 4395628,
+      "season": "2026-2027",
+      "team": "New Orleans Pelicans",
+      "team_id": 3
+    },
+    {
+      "categories": {
+        "assists_per_game": 1.1,
+        "blocks_per_game": 0.3,
+        "points_per_game": 4.6,
+        "rebounds_per_game": 2.9,
+        "steals_per_game": 0.4
+      },
+      "games": 10,
+      "player": "Zuby Ejiofor",
+      "player_id": 5106262,
+      "season": "2026-2027",
+      "team": "Atlanta Hawks",
+      "team_id": 1
+    },
+    {
+      "categories": {
+        "assists_per_game": 0.0,
+        "blocks_per_game": 0.0,
+        "points_per_game": 1.333,
+        "rebounds_per_game": 0.667,
+        "steals_per_game": 0.0
+      },
+      "games": 3,
+      "player": "Zyon Pullin",
+      "player_id": 4592979,
+      "season": "2026-2027",
+      "team": "Minnesota Timberwolves",
+      "team_id": 16
+    }
+  ],
+  "season": "2026-2027",
+  "sport": "basketball"
+}

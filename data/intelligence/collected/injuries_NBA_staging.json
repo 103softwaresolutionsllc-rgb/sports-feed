@@ -1,8 +1,8 @@
 {
  "kind": "collected-injuries-staging",
  "league": "NBA",
- "generated_at": "2026-11-21T20:04:10.006346+00:00",
- "report_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_02_45PM.pdf",
+ "generated_at": "2026-11-21T23:04:20.459544+00:00",
+ "report_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_06_00PM.pdf",
  "staged": [
   {
    "player_name": "Tarik Biberovic",
@@ -18,13 +18,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_02_45PM.pdf",
-    "fetched_at": "2026-11-21T20:04:10.006346+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_06_00PM.pdf",
+    "fetched_at": "2026-11-21T23:04:20.459544+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-21T15:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-21T19:45:00+00:00"
+    "report_timestamp": "2026-11-21T23:00:00+00:00"
    },
    "player_id": null,
    "staging_reason": "no_registry_match"
@@ -43,13 +43,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_02_45PM.pdf",
-    "fetched_at": "2026-11-21T20:04:10.006346+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_06_00PM.pdf",
+    "fetched_at": "2026-11-21T23:04:20.459544+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-21T15:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-21T19:45:00+00:00"
+    "report_timestamp": "2026-11-21T23:00:00+00:00"
    },
    "player_id": null,
    "staging_reason": "no_registry_match"
@@ -68,13 +68,163 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_02_45PM.pdf",
-    "fetched_at": "2026-11-21T20:04:10.006346+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_06_00PM.pdf",
+    "fetched_at": "2026-11-21T23:04:20.459544+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-21T15:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-21T19:45:00+00:00"
+    "report_timestamp": "2026-11-21T23:00:00+00:00"
+   },
+   "player_id": null,
+   "staging_reason": "no_registry_match"
+  },
+  {
+   "player_name": "Ben Simmons",
+   "team": "Sacramento Kings",
+   "game_date": "11/21/2026",
+   "game_time": "10:00 (ET)",
+   "matchup": "BOS@SAC",
+   "status": "Out",
+   "reason": "Injury/Illness - Right Achilles Tendon Repair / Surgery",
+   "reason_category": "Injury/Illness",
+   "collected": true,
+   "expires_at": "2026-11-21T17:00:00+00:00",
+   "provenance": {
+    "origin": "collected",
+    "source_name": "NBA official injury report",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_06_00PM.pdf",
+    "fetched_at": "2026-11-21T23:04:20.459544+00:00",
+    "collector": "gapfill_injuries_nba",
+    "classification": "Historical",
+    "expires_at": "2026-11-21T17:00:00+00:00",
+    "supersedes": null,
+    "report_timestamp": "2026-11-21T23:00:00+00:00"
+   },
+   "player_id": null,
+   "staging_reason": "no_registry_match"
+  },
+  {
+   "player_name": "Ugonna Onyenso",
+   "team": "Detroit Pistons",
+   "game_date": "11/22/2026",
+   "game_time": "03:30 (ET)",
+   "matchup": "DET@ATL",
+   "status": "Out",
+   "reason": "G League - Two-Way",
+   "reason_category": "G League",
+   "collected": true,
+   "expires_at": "2026-11-22T10:30:00+00:00",
+   "provenance": {
+    "origin": "collected",
+    "source_name": "NBA official injury report",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_06_00PM.pdf",
+    "fetched_at": "2026-11-21T23:04:20.459544+00:00",
+    "collector": "gapfill_injuries_nba",
+    "classification": "Historical",
+    "expires_at": "2026-11-22T10:30:00+00:00",
+    "supersedes": null,
+    "report_timestamp": "2026-11-21T23:00:00+00:00"
+   },
+   "player_id": null,
+   "staging_reason": "no_registry_match"
+  },
+  {
+   "player_name": "Rafael Castro",
+   "team": "Atlanta Hawks",
+   "game_date": "11/22/2026",
+   "game_time": "03:30 (ET)",
+   "matchup": "DET@ATL",
+   "status": "Questionable",
+   "reason": "G League - Two-Way",
+   "reason_category": "G League",
+   "collected": true,
+   "expires_at": "2026-11-22T10:30:00+00:00",
+   "provenance": {
+    "origin": "collected",
+    "source_name": "NBA official injury report",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_06_00PM.pdf",
+    "fetched_at": "2026-11-21T23:04:20.459544+00:00",
+    "collector": "gapfill_injuries_nba",
+    "classification": "Historical",
+    "expires_at": "2026-11-22T10:30:00+00:00",
+    "supersedes": null,
+    "report_timestamp": "2026-11-21T23:00:00+00:00"
+   },
+   "player_id": null,
+   "staging_reason": "no_registry_match"
+  },
+  {
+   "player_name": "Henri Veesaar",
+   "team": "Atlanta Hawks",
+   "game_date": "11/22/2026",
+   "game_time": "03:30 (ET)",
+   "matchup": "DET@ATL",
+   "status": "Out",
+   "reason": "Injury/Illness - Right ACL Tear",
+   "reason_category": "Injury/Illness",
+   "collected": true,
+   "expires_at": "2026-11-22T10:30:00+00:00",
+   "provenance": {
+    "origin": "collected",
+    "source_name": "NBA official injury report",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_06_00PM.pdf",
+    "fetched_at": "2026-11-21T23:04:20.459544+00:00",
+    "collector": "gapfill_injuries_nba",
+    "classification": "Historical",
+    "expires_at": "2026-11-22T10:30:00+00:00",
+    "supersedes": null,
+    "report_timestamp": "2026-11-21T23:00:00+00:00"
+   },
+   "player_id": null,
+   "staging_reason": "no_registry_match"
+  },
+  {
+   "player_name": "Thomas Sorber",
+   "team": "Oklahoma City Thunder",
+   "game_date": "11/22/2026",
+   "game_time": "06:00 (ET)",
+   "matchup": "OKC@MIA",
+   "status": "Out",
+   "reason": "Injury/Illness - Right Knee Surgery",
+   "reason_category": "Injury/Illness",
+   "collected": true,
+   "expires_at": "2026-11-22T13:00:00+00:00",
+   "provenance": {
+    "origin": "collected",
+    "source_name": "NBA official injury report",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_06_00PM.pdf",
+    "fetched_at": "2026-11-21T23:04:20.459544+00:00",
+    "collector": "gapfill_injuries_nba",
+    "classification": "Historical",
+    "expires_at": "2026-11-22T13:00:00+00:00",
+    "supersedes": null,
+    "report_timestamp": "2026-11-21T23:00:00+00:00"
+   },
+   "player_id": null,
+   "staging_reason": "no_registry_match"
+  },
+  {
+   "player_name": "Izaiyah Nelson",
+   "team": "Orlando Magic",
+   "game_date": "11/22/2026",
+   "game_time": "07:00 (ET)",
+   "matchup": "ORL@WAS",
+   "status": "Out",
+   "reason": "recovery Injury/Illness - Right Partially torn",
+   "reason_category": "recovery Injury/Illness",
+   "collected": true,
+   "expires_at": "2026-11-22T14:00:00+00:00",
+   "provenance": {
+    "origin": "collected",
+    "source_name": "NBA official injury report",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_06_00PM.pdf",
+    "fetched_at": "2026-11-21T23:04:20.459544+00:00",
+    "collector": "gapfill_injuries_nba",
+    "classification": "Historical",
+    "expires_at": "2026-11-22T14:00:00+00:00",
+    "supersedes": null,
+    "report_timestamp": "2026-11-21T23:00:00+00:00"
    },
    "player_id": null,
    "staging_reason": "no_registry_match"

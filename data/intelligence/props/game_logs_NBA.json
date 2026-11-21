@@ -2,7 +2,7 @@
   "classification": "Historical",
   "coverage": {
     "as_of": "2026-11-21",
-    "season": "2025-2026",
+    "season": "2026-2027",
     "seasons": [
       "2025-2026",
       "2026-2027"
@@ -10,36 +10,7 @@
     "source": "espn-fallback",
     "sport": "basketball",
     "teams_covered": [
-      "Atlanta Hawks",
-      "Boston Celtics",
-      "Brooklyn Nets",
-      "Charlotte Hornets",
-      "Chicago Bulls",
-      "Cleveland Cavaliers",
-      "Dallas Mavericks",
-      "Denver Nuggets",
-      "Detroit Pistons",
-      "Golden State Warriors",
-      "Houston Rockets",
-      "Indiana Pacers",
-      "Los Angeles Clippers",
-      "Los Angeles Lakers",
-      "Memphis Grizzlies",
-      "Miami Heat",
-      "Milwaukee Bucks",
-      "Minnesota Timberwolves",
-      "New Orleans Pelicans",
-      "New York Knicks",
-      "Oklahoma City Thunder",
-      "Orlando Magic",
-      "Philadelphia 76ers",
-      "Phoenix Suns",
-      "Portland Trail Blazers",
-      "Sacramento Kings",
-      "San Antonio Spurs",
-      "Toronto Raptors",
-      "Utah Jazz",
-      "Washington Wizards"
+      "Toronto Raptors"
     ],
     "teams_total": 30
   },
@@ -675870,6 +675841,34 @@
             "turnovers": 0.0
           },
           "team": "Toronto Raptors"
+        },
+        {
+          "date": "2026-11-21",
+          "game_id": 401909308,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 5.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 21.0,
+            "field_goal_percentage": 66.7,
+            "field_goals_made": 14.0,
+            "free_throw_attempts": 2.0,
+            "free_throws_made": 1.0,
+            "minutes": 37.0,
+            "points": 29.0,
+            "points_assists": 34.0,
+            "points_rebounds": 34.0,
+            "points_rebounds_assists": 39.0,
+            "rebounds": 5.0,
+            "rebounds_assists": 10.0,
+            "steals": 1.0,
+            "three_point_attempts": 0.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 3.0
+          },
+          "team": "Toronto Raptors"
         }
       ]
     },
@@ -679966,6 +679965,34 @@
             "turnovers": 0.0
           },
           "team": "Toronto Raptors"
+        },
+        {
+          "date": "2026-11-21",
+          "game_id": 401909308,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 0.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 6.0,
+            "field_goal_percentage": 66.7,
+            "field_goals_made": 4.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 20.0,
+            "points": 10.0,
+            "points_assists": 10.0,
+            "points_rebounds": 15.0,
+            "points_rebounds_assists": 15.0,
+            "rebounds": 5.0,
+            "rebounds_assists": 5.0,
+            "steals": 0.0,
+            "three_point_attempts": 4.0,
+            "three_pointers_made": 2.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
+          },
+          "team": "Toronto Raptors"
         }
       ]
     },
@@ -680642,6 +680669,34 @@
             "steals": 0.0,
             "three_point_attempts": 3.0,
             "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "Toronto Raptors"
+        },
+        {
+          "date": "2026-11-21",
+          "game_id": 401909308,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 1.0,
+            "blocks": 1.0,
+            "double_double": 1.0,
+            "field_goal_attempts": 9.0,
+            "field_goal_percentage": 66.7,
+            "field_goals_made": 6.0,
+            "free_throw_attempts": 6.0,
+            "free_throws_made": 6.0,
+            "minutes": 33.0,
+            "points": 20.0,
+            "points_assists": 21.0,
+            "points_rebounds": 30.0,
+            "points_rebounds_assists": 31.0,
+            "rebounds": 10.0,
+            "rebounds_assists": 11.0,
+            "steals": 3.0,
+            "three_point_attempts": 4.0,
+            "three_pointers_made": 2.0,
             "triple_double": 0.0,
             "turnovers": 0.0
           },
@@ -682407,6 +682462,34 @@
             "points_rebounds_assists": 11.0,
             "rebounds": 7.0,
             "rebounds_assists": 8.0,
+            "steals": 1.0,
+            "three_point_attempts": 0.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "Toronto Raptors"
+        },
+        {
+          "date": "2026-11-21",
+          "game_id": 401909308,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 1.0,
+            "blocks": 1.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 4.0,
+            "field_goal_percentage": 100.0,
+            "field_goals_made": 4.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 16.0,
+            "points": 8.0,
+            "points_assists": 9.0,
+            "points_rebounds": 10.0,
+            "points_rebounds_assists": 11.0,
+            "rebounds": 2.0,
+            "rebounds_assists": 3.0,
             "steals": 1.0,
             "three_point_attempts": 0.0,
             "three_pointers_made": 0.0,
@@ -685444,6 +685527,34 @@
             "three_pointers_made": 0.0,
             "triple_double": 0.0,
             "turnovers": 0.0
+          },
+          "team": "Toronto Raptors"
+        },
+        {
+          "date": "2026-11-21",
+          "game_id": 401909308,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 1.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 4.0,
+            "field_goal_percentage": 0.0,
+            "field_goals_made": 0.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 16.0,
+            "points": 0.0,
+            "points_assists": 1.0,
+            "points_rebounds": 2.0,
+            "points_rebounds_assists": 3.0,
+            "rebounds": 2.0,
+            "rebounds_assists": 3.0,
+            "steals": 0.0,
+            "three_point_attempts": 3.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
           },
           "team": "Toronto Raptors"
         }
@@ -689094,6 +689205,34 @@
             "turnovers": 3.0
           },
           "team": "Toronto Raptors"
+        },
+        {
+          "date": "2026-11-21",
+          "game_id": 401909308,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 3.0,
+            "blocks": 2.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 7.0,
+            "field_goal_percentage": 71.4,
+            "field_goals_made": 5.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 32.0,
+            "points": 10.0,
+            "points_assists": 13.0,
+            "points_rebounds": 19.0,
+            "points_rebounds_assists": 22.0,
+            "rebounds": 9.0,
+            "rebounds_assists": 12.0,
+            "steals": 0.0,
+            "three_point_attempts": 0.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "Toronto Raptors"
         }
       ]
     },
@@ -691420,6 +691559,34 @@
             "three_pointers_made": 4.0,
             "triple_double": 0.0,
             "turnovers": 1.0
+          },
+          "team": "Toronto Raptors"
+        },
+        {
+          "date": "2026-11-21",
+          "game_id": 401909308,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 10.0,
+            "blocks": 0.0,
+            "double_double": 1.0,
+            "field_goal_attempts": 10.0,
+            "field_goal_percentage": 60.0,
+            "field_goals_made": 6.0,
+            "free_throw_attempts": 4.0,
+            "free_throws_made": 3.0,
+            "minutes": 33.0,
+            "points": 18.0,
+            "points_assists": 28.0,
+            "points_rebounds": 21.0,
+            "points_rebounds_assists": 31.0,
+            "rebounds": 3.0,
+            "rebounds_assists": 13.0,
+            "steals": 0.0,
+            "three_point_attempts": 7.0,
+            "three_pointers_made": 3.0,
+            "triple_double": 0.0,
+            "turnovers": 3.0
           },
           "team": "Toronto Raptors"
         }
@@ -694142,6 +694309,34 @@
             "turnovers": 1.0
           },
           "team": "Toronto Raptors"
+        },
+        {
+          "date": "2026-11-21",
+          "game_id": 401909308,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 4.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 4.0,
+            "field_goal_percentage": 0.0,
+            "field_goals_made": 0.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 15.0,
+            "points": 0.0,
+            "points_assists": 4.0,
+            "points_rebounds": 1.0,
+            "points_rebounds_assists": 5.0,
+            "rebounds": 1.0,
+            "rebounds_assists": 5.0,
+            "steals": 0.0,
+            "three_point_attempts": 2.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 2.0
+          },
+          "team": "Toronto Raptors"
         }
       ]
     },
@@ -694648,6 +694843,34 @@
             "three_pointers_made": 0.0,
             "triple_double": 0.0,
             "turnovers": 0.0
+          },
+          "team": "Toronto Raptors"
+        },
+        {
+          "date": "2026-11-21",
+          "game_id": 401909308,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 1.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 1.0,
+            "field_goal_percentage": 100.0,
+            "field_goals_made": 1.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 5.0,
+            "points": 2.0,
+            "points_assists": 3.0,
+            "points_rebounds": 2.0,
+            "points_rebounds_assists": 3.0,
+            "rebounds": 0.0,
+            "rebounds_assists": 1.0,
+            "steals": 0.0,
+            "three_point_attempts": 0.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
           },
           "team": "Toronto Raptors"
         }
@@ -697088,6 +697311,34 @@
             "three_pointers_made": 3.0,
             "triple_double": 0.0,
             "turnovers": 2.0
+          },
+          "team": "Toronto Raptors"
+        },
+        {
+          "date": "2026-11-21",
+          "game_id": 401909308,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 3.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 11.0,
+            "field_goal_percentage": 18.2,
+            "field_goals_made": 2.0,
+            "free_throw_attempts": 2.0,
+            "free_throws_made": 2.0,
+            "minutes": 33.0,
+            "points": 8.0,
+            "points_assists": 11.0,
+            "points_rebounds": 11.0,
+            "points_rebounds_assists": 14.0,
+            "rebounds": 3.0,
+            "rebounds_assists": 6.0,
+            "steals": 1.0,
+            "three_point_attempts": 8.0,
+            "three_pointers_made": 2.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
           },
           "team": "Toronto Raptors"
         }

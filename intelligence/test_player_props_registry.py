@@ -49,11 +49,12 @@ class TaxonomyTests(unittest.TestCase):
         self.assertIsNone(taxonomy.get_market("NFL", "blocks"))
         self.assertFalse(taxonomy.market_supported("NBA", "passing_yards"))
 
-    def test_mlb_mma_are_phase_later_stubs(self):
-        for league in ("MLB", "MMA"):
-            self.assertIsNotNone(taxonomy.get_league(league))
-            self.assertFalse(taxonomy.league_supported(league))
-            self.assertEqual(taxonomy.markets_for_league(league), [])
+    def test_mma_is_phase_later_stub(self):
+        # MLB's taxonomy was defined Nov 21, 2026 (see
+        # test_player_props_taxonomy_mlb.py); MMA remains the stub.
+        self.assertIsNotNone(taxonomy.get_league("MMA"))
+        self.assertFalse(taxonomy.league_supported("MMA"))
+        self.assertEqual(taxonomy.markets_for_league("MMA"), [])
 
     def test_market_resolution_by_id_and_name(self):
         by_id = taxonomy.get_market("NBA", "nba_player_blocks")

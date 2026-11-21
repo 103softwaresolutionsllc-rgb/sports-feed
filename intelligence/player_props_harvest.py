@@ -427,6 +427,13 @@ def _add_derived(sport: str, stats: dict) -> None:
             stats["kicking_points"] = float(
                 stats["field_goals_made"] * 3
                 + stats["extra_points_made"])
+    elif sport == "baseball":
+        # The MLB taxonomy's one derived market (adopted Nov 21, 2026):
+        # Hits + Runs + RBIs, computed only when all three components
+        # were harvested — a missing component leaves it absent.
+        if all(k in stats for k in ("hits", "runs", "rbi")):
+            stats["hits_runs_rbi"] = float(
+                stats["hits"] + stats["runs"] + stats["rbi"])
 
 
 def _row_status(entry: dict, player: dict):

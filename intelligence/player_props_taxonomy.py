@@ -6,11 +6,15 @@ roster changes, or retirement. Everything else (player registry, lines,
 projections) references these definitions; nothing redefines a statistic
 locally.
 
-Phase 1 scope: NBA + NFL markets are fully defined. MLB and MMA are
-registered as phase-later league stubs with NO markets — their taxonomies
-exist in the design input but are deliberately not defined here until
-their phase opens. The structure is data-driven: registering a new league
-or market later is a data change, not a code change.
+Phase 1 scope: NBA + NFL markets are fully defined and active. MLB
+markets are fully DEFINED (adopted Nov 21, 2026 from the taxonomy
+proposal grounded in the collected 2026 game logs) but DORMANT — every
+MLB market is inactive because no MLB props store exists yet and the
+collected layer is answers-only until Isaac promotes it; activation is
+flipping `active` when a line-making feed exists. MMA remains a
+phase-later league stub with NO markets. The structure is data-driven:
+registering a new league or market later is a data change, not a code
+change.
 
 Market record fields (mirrors the design spec):
   market_id                      e.g. "nba_player_blocks"
@@ -37,12 +41,14 @@ Rules:
 
 from __future__ import annotations
 
-# League registry. "phase1" leagues carry full market definitions;
-# "phase_later" leagues are stubs on purpose (see module docstring).
+# League registry. "phase1" leagues carry full market definitions
+# (individual markets may still be inactive — see the NBA rebound
+# splits and the whole dormant MLB set); "phase_later" leagues are
+# stubs on purpose (see module docstring).
 LEAGUES = {
     "NBA": {"league": "NBA", "sport": "basketball", "status": "phase1"},
     "NFL": {"league": "NFL", "sport": "american-football", "status": "phase1"},
-    "MLB": {"league": "MLB", "sport": "baseball", "status": "phase_later"},
+    "MLB": {"league": "MLB", "sport": "baseball", "status": "phase1"},
     "MMA": {"league": "MMA", "sport": "mma", "status": "phase_later"},
 }
 
@@ -169,7 +175,61 @@ _NFL = [
             "return_touchdowns"),
 ]
 
-MARKETS = _NBA + _NFL
+# ---------------------------------------------------------------------------
+# MLB — permanent statistical categories (adopted Nov 21, 2026)
+# ---------------------------------------------------------------------------
+# Market set adopted in full from the taxonomy proposal of Nov 21, 2026,
+# grounded in the MLB Stats API game logs collected for the 2026 season
+# (gapfill_stats_mlb.py): every statistic_key below is the collected
+# layer's canonical key, carried directly in the logs. Batting and
+# pitching keys are disjoint by construction (a pitcher's hits are
+# hits_allowed, his strikeouts pitching_strikeouts), so a two-way
+# player's game entry never collides. NOT defined, per the proposal:
+# quality starts, rate stats, inning splits, doubles/pitches_thrown
+# (second wave). total_bases is carried directly in the logs — it is
+# NOT a derived market; hits_runs_rbi is the one derived market,
+# computed by player_props_harvest._add_derived from its components.
+_MLB = [
+    # Batting
+    _market("MLB", "Batting", "Hits", "hits"),
+    _market("MLB", "Batting", "Total Bases", "total_bases"),
+    _market("MLB", "Batting", "Runs Scored", "runs"),
+    _market("MLB", "Batting", "Runs Batted In", "rbi"),
+    _market("MLB", "Batting", "Home Runs", "home_runs"),
+    _market("MLB", "Batting", "Stolen Bases", "stolen_bases"),
+    _market("MLB", "Batting", "Walks", "walks"),
+    _market("MLB", "Batting", "Strikeouts", "strikeouts"),
+    # Pitching
+    _market("MLB", "Pitching", "Strikeouts", "pitching_strikeouts"),
+    # Outs recorded, NOT innings pitched: the logs' inningsPitched is a
+    # baseball-notation string ("6.1" = 6 1/3), never a number; outs is
+    # the true count a line grades against (17.5 outs = 5 2/3 innings).
+    _market("MLB", "Pitching", "Outs Recorded", "outs_recorded"),
+    _market("MLB", "Pitching", "Earned Runs", "earned_runs"),
+    _market("MLB", "Pitching", "Hits Allowed", "hits_allowed"),
+    _market("MLB", "Pitching", "Walks Allowed", "walks_allowed"),
+    # Pitcher Win is a DECISION stat — it depends on the pitcher's team
+    # scoring and the bullpen holding the lead, not only on the
+    # pitcher's own performance. Defined because it is a real book
+    # market and the logs carry the official decision (1 or 0 per game,
+    # graded on a 0.5 line); adopted with that flag noted, Nov 21, 2026.
+    _market("MLB", "Pitching", "Pitcher Win", "wins"),
+    # Combined (derived: hits + runs + rbi)
+    _market("MLB", "Combined", "Hits + Runs + RBIs", "hits_runs_rbi"),
+]
+
+# Every MLB market stays INACTIVE for now — the same defined-but-dormant
+# representation as the NBA rebound splits above. There is no MLB props
+# store for the line-maker to read (props/game_logs_MLB.json does not
+# exist), and the collected game logs are answers-only under the
+# Gap-Filler spec (D4) until Isaac promotes that source. Defining the
+# markets completes the taxonomy; flipping a market active is the
+# activation step, and it waits on a line-making feed or Isaac's
+# collected-layer promotion ruling.
+for _m in _MLB:
+    _m["active"] = False
+
+MARKETS = _NBA + _NFL + _MLB
 
 _BY_ID = {m["market_id"]: m for m in MARKETS}
 _BY_LEAGUE: dict[str, list[dict]] = {}
@@ -190,10 +250,13 @@ def get_league(league: str | None) -> dict | None:
 
 
 def league_supported(league: str | None) -> bool:
-    """True only for leagues with a live Phase-1 taxonomy (NBA, NFL).
+    """True only for leagues with a defined taxonomy (NBA, NFL, MLB).
 
-    Phase-later stubs (MLB, MMA) are registered but NOT supported yet —
-    validation must fail them explicitly rather than guess at markets.
+    A supported league can still have inactive markets (the NBA rebound
+    splits; the entire MLB set until activation) — market_supported is
+    the per-market check. Phase-later stubs (MMA) are registered but
+    NOT supported yet — validation must fail them explicitly rather
+    than guess at markets.
     """
     rec = get_league(league)
     return bool(rec and rec["status"] == "phase1")

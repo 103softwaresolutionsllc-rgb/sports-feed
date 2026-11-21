@@ -148,7 +148,10 @@ class AcceptanceCriteriaTests(unittest.TestCase):
         self.assertEqual(r["error_code"], "MARKET_UNSUPPORTED")
 
     def test_phase_later_league_rejected(self):
-        r = self.v(league="MLB", player_name="José Canseco",
+        # MMA is the remaining phase-later league (MLB's taxonomy was
+        # defined Nov 21, 2026 — its dormant markets reject at the
+        # market check instead; see test_player_props_taxonomy_mlb.py).
+        r = self.v(league="MMA", player_name="José Canseco",
                    market="hits", line=1.5, direction="over")
         self.assertFalse(r["valid"])
         self.assertEqual(r["error_code"], "LEAGUE_UNSUPPORTED")

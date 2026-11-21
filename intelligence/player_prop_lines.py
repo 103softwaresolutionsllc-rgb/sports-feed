@@ -22,6 +22,17 @@ expects), model_line (the model's own fair threshold), and the market
 block (sportsbook_line / sportsbook_odds / market_consensus — null
 with status "not_sourced" until a licensed book-lines source exists).
 
+PUBLISH GATE (framework adopted Nov 20, 2026): do not publish
+projections when the underlying data is incomplete or too old.
+evaluate_publish_gate withholds a player's lines entirely when his
+harvested record fails plausibility — an established player (40+
+prior-season games) with almost no current-season games (<= 3) is
+the signature of the identity corruption found in ESPN's
+current-season feed that night (athlete 6450's 2026-2027 gamelog
+contained another player's games). A stale store withholds
+everything. Withholding is never silent: the published document
+lists every withheld player with his reasons and counts.
+
 Honesty rules (binding):
   * Lines are MODEL lines. They are stamped classification "Estimated"
     with the model name/version and the data's as-of date, and they
@@ -157,6 +168,61 @@ def fair_line(values: list[float], statistic_type: str) -> dict | None:
     }
 
 
+def evaluate_publish_gate(players: dict) -> dict:
+    """Per-player publish gate over the log store's players mapping.
+
+    Returns {player_id: {"reasons": [...], "current_season_games": n,
+    "prior_season_games": m}} for WITHHELD players only. The check is
+    a completeness/plausibility rule, stated plainly: it says the
+    record is suspect, not that it is certainly wrong — a genuinely
+    injured established player trips it too, and his lines stay
+    withheld until his data verifies. That asymmetry is the point of
+    the gate.
+    """
+    all_seasons: set[str] = set()
+    counts_by_player: dict[str, dict[str, int]] = {}
+    for pid, prec in (players or {}).items():
+        counts: dict[str, int] = {}
+        for g in prec.get("games", []):
+            counts[g.get("season")] = counts.get(g.get("season"), 0) + 1
+            all_seasons.add(g.get("season"))
+        counts_by_player[pid] = counts
+    if not all_seasons:
+        return {}
+    latest = max(all_seasons)
+    withheld: dict[str, dict] = {}
+    for pid, counts in counts_by_player.items():
+        current = counts.get(latest, 0)
+        prior = sum(v for s, v in counts.items() if s != latest)
+        if current <= 3 and prior >= 40:
+            withheld[pid] = {
+                "reasons": ["suspect_current_season"],
+                "current_season_games": current,
+                "prior_season_games": prior,
+            }
+    return withheld
+
+
+def store_stale_reason(players: dict, data_as_of: str | None) -> str | None:
+    """The 'too old' half of the publish gate: when the store's
+    newest game is more than 2 days behind the harvest's as-of date,
+    the whole publication is stale. Returns a reason or None."""
+    if not data_as_of:
+        return None
+    dates = [g.get("date") for prec in (players or {}).values()
+             for g in prec.get("games", []) if g.get("date")]
+    if not dates:
+        return None
+    try:
+        as_of = datetime.fromisoformat(str(data_as_of)[:10]).date()
+        newest = datetime.fromisoformat(str(max(dates))[:10]).date()
+    except ValueError:
+        return None
+    if (as_of - newest).days > 2:
+        return "stale_store"
+    return None
+
+
 def build_lines(league: str, log_store, window: str = DEFAULT_WINDOW,
                 data_as_of: str | None = None,
                 source: str | None = None) -> dict:
@@ -166,33 +232,17 @@ def build_lines(league: str, log_store, window: str = DEFAULT_WINDOW,
     skipped: dict[str, int] = {}
     players_seen: set[str] = set()
 
-    # Data-quality flag (Nov 20, 2026): ESPN's current-season gamelog
-    # feed was caught returning other players' games under a player's
-    # id (athlete 6450's 2026-2027 gamelog is a subset of Scottie
-    # Barnes's) and truncating established players to 0-3 games. A
-    # player with a full prior season but almost no current-season
-    # games is SUSPECT: the flag rides on every line so no consumer
-    # mistakes the line for clean. It says "suspect", not "wrong" —
-    # a genuinely injured star trips it too, by design.
-    season_counts: dict[str, dict[str, int]] = {}
-    all_seasons: set[str] = set()
-    for pid, prec in (log_store.document.get("players") or {}).items():
-        counts: dict[str, int] = {}
-        for g in prec.get("games", []):
-            counts[g.get("season")] = counts.get(g.get("season"), 0) + 1
-            all_seasons.add(g.get("season"))
-        season_counts[pid] = counts
-    latest_season = max(all_seasons) if all_seasons else None
-
-    def _quality_flag(player_id: str) -> str | None:
-        if latest_season is None:
-            return None
-        counts = season_counts.get(player_id) or {}
-        current = counts.get(latest_season, 0)
-        prior = sum(v for s, v in counts.items() if s != latest_season)
-        if current <= 3 and prior >= 40:
-            return "suspect_current_season"
-        return None
+    players_doc = log_store.document.get("players") or {}
+    withheld = evaluate_publish_gate(players_doc)
+    stale = store_stale_reason(players_doc, data_as_of)
+    if stale:
+        withheld = {
+            pid: {"reasons": [stale],
+                  "current_season_games": 0, "prior_season_games": 0}
+            for pid in players_doc}
+    for pid in withheld:
+        skipped["withheld_by_publish_gate"] = \
+            skipped.get("withheld_by_publish_gate", 0) + 1
 
     for market in markets:
         key = market["statistic_key"]
@@ -205,7 +255,9 @@ def build_lines(league: str, log_store, window: str = DEFAULT_WINDOW,
             skipped["rate_stat_no_line"] = \
                 skipped.get("rate_stat_no_line", 0) + 1
             continue
-        for player_id in list((log_store.document.get("players") or {})):
+        for player_id in list(players_doc):
+            if player_id in withheld:
+                continue
             series = log_store.series(player_id, key)
             if not series:
                 continue
@@ -215,7 +267,7 @@ def build_lines(league: str, log_store, window: str = DEFAULT_WINDOW,
                 skipped["insufficient_games"] = \
                     skipped.get("insufficient_games", 0) + 1
                 continue
-            record = {
+            lines.append({
                 "player_id": player_id,
                 "league": league,
                 "statistic_key": key,
@@ -225,11 +277,7 @@ def build_lines(league: str, log_store, window: str = DEFAULT_WINDOW,
                 "model_version": LINE_MODEL_VERSION,
                 "data_as_of": data_as_of,
                 "classification": "Estimated",
-            }
-            flag = _quality_flag(player_id)
-            if flag:
-                record["data_quality"] = flag
-            lines.append(record)
+            })
 
     return {
         "classification": "Estimated",
@@ -243,6 +291,16 @@ def build_lines(league: str, log_store, window: str = DEFAULT_WINDOW,
         "players_covered": len(players_seen),
         "lines": lines,
         "skipped": skipped,
+        "gate": {
+            "status": "withheld_all" if stale else "active",
+            "rule": "withhold when an established player's current-"
+                    "season record is implausibly thin, and withhold "
+                    "everything when the store is stale",
+            "withheld_players": len(withheld),
+        },
+        "withheld": [
+            {"player_id": pid, **info}
+            for pid, info in sorted(withheld.items())],
     }
 
 
@@ -278,6 +336,7 @@ def main(argv: list[str] | None = None) -> int:
         "league": args.league,
         "players_covered": doc["players_covered"],
         "lines_published": len(doc["lines"]),
+        "withheld_players": doc["gate"]["withheld_players"],
         "skipped": doc["skipped"],
         "data_as_of": data_as_of,
         "source": source,

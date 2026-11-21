@@ -12,7 +12,8 @@ data serves as a spec.
 import math
 import unittest
 
-from player_prop_lines import fair_line
+from player_prop_lines import (
+    build_lines, evaluate_publish_gate, fair_line, store_stale_reason)
 from player_props_projection import (
     distribution_p_over, fit_distribution)
 
@@ -65,6 +66,77 @@ class FairLineMath(unittest.TestCase):
         self.assertEqual(out["line"], 19.5)
         self.assertAlmostEqual(out["probability_over"], 0.5297,
                                delta=0.001)
+
+
+def _games(season: str, n: int, points: float = 20.0) -> list[dict]:
+    return [{"season": season, "date": "2026-11-19",
+             "stats": {"points": points}} for _ in range(n)]
+
+
+class PublishGateTests(unittest.TestCase):
+    def test_established_player_thin_current_season_withheld(self):
+        players = {"p1": {"games": _games("2025-2026", 69)
+                          + _games("2026-2027", 2)}}
+        withheld = evaluate_publish_gate(players)
+        self.assertIn("p1", withheld)
+        self.assertEqual(withheld["p1"]["reasons"],
+                         ["suspect_current_season"])
+        self.assertEqual(withheld["p1"]["current_season_games"], 2)
+        self.assertEqual(withheld["p1"]["prior_season_games"], 69)
+
+    def test_healthy_and_rookie_players_clear(self):
+        players = {
+            "star": {"games": _games("2025-2026", 70)
+                     + _games("2026-2027", 15)},
+            "rookie": {"games": _games("2026-2027", 2)},
+            "sophomore": {"games": _games("2025-2026", 12)
+                          + _games("2026-2027", 1)},
+        }
+        self.assertEqual(evaluate_publish_gate(players), {})
+
+    def test_stale_store_detected(self):
+        players = {"p1": {"games": [
+            {"season": "2026-2027", "date": "2026-11-01",
+             "stats": {"points": 20.0}}]}}
+        self.assertEqual(store_stale_reason(players, "2026-11-21"),
+                         "stale_store")
+        self.assertIsNone(store_stale_reason(players, "2026-11-02"))
+        self.assertIsNone(store_stale_reason(players, None))
+
+
+class _FakeStore:
+    """Minimal GameLogStore stand-in: document + series()."""
+
+    def __init__(self, values_by_player: dict, players_doc: dict):
+        self.document = {"players": players_doc}
+        self._values = values_by_player
+
+    def series(self, player_id: str, key: str) -> list[dict]:
+        if key != "points":
+            return []
+        return [{"value": v} for v in self._values.get(player_id, [])]
+
+
+class BuildLinesGateTests(unittest.TestCase):
+    def test_withheld_player_publishes_no_lines(self):
+        doc_players = {
+            "p-clear": {"games": _games("2025-2026", 50)
+                        + _games("2026-2027", 14)},
+            "p-held": {"games": _games("2025-2026", 69)
+                       + _games("2026-2027", 2)},
+        }
+        store = _FakeStore(
+            {"p-clear": [20, 22, 24, 26, 28, 21, 23, 25, 27, 29],
+             "p-held": [30, 31, 29, 32, 30, 31, 29, 30, 32, 31]},
+            doc_players)
+        doc = build_lines("NBA", store, data_as_of="2026-11-21")
+        line_players = {l["player_id"] for l in doc["lines"]}
+        self.assertIn("p-clear", line_players)
+        self.assertNotIn("p-held", line_players)
+        held = {w["player_id"] for w in doc["withheld"]}
+        self.assertEqual(held, {"p-held"})
+        self.assertEqual(doc["gate"]["withheld_players"], 1)
+        self.assertEqual(doc["gate"]["status"], "active")
 
 
 if __name__ == "__main__":

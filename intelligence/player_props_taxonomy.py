@@ -104,6 +104,16 @@ _NBA = [
     _market("NBA", "Special", "Triple-Double", "triple_double", "boolean"),
 ]
 
+# ESPN game logs — the only live NBA source while API-Sports is
+# suspended — carry total rebounds only, never the offensive/defensive
+# split. These two markets therefore stay INACTIVE (unsupported,
+# visibly) rather than present-but-empty: no approximation, no silent
+# gap. Reactivation needs a source that actually records the split
+# (API-Sports reinstatement is Isaac's call).
+for _m in _NBA:
+    if _m["statistic_key"] in ("offensive_rebounds", "defensive_rebounds"):
+        _m["active"] = False
+
 # ---------------------------------------------------------------------------
 # NFL — permanent statistical categories (design taxonomy)
 # ---------------------------------------------------------------------------

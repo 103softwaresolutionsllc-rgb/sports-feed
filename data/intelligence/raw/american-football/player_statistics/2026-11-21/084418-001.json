@@ -1,0 +1,2749 @@
+{
+  "errors": [],
+  "get": "players/statistics",
+  "parameters": {
+    "season": "2026",
+    "source": "espn-fallback",
+    "team": "Carolina Panthers"
+  },
+  "response": [
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873055
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 3.0,
+      "player": {
+        "id": 4695883,
+        "name": "Jalen Coker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 3.0,
+      "targets": 4.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873041
+      },
+      "longest_reception": 11.0,
+      "longest_rush": -3.0,
+      "player": {
+        "id": 4695883,
+        "name": "Jalen Coker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 29.0,
+      "receptions": 4.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -3.0,
+      "targets": 5.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-30T00:15:00.000+00:00",
+        "id": 401873023
+      },
+      "longest_reception": 26.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4695883,
+        "name": "Jalen Coker"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 36.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873018
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4695883,
+        "name": "Jalen Coker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872998
+      },
+      "longest_reception": 32.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4695883,
+        "name": "Jalen Coker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 97.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 13.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872949
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4695883,
+        "name": "Jalen Coker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 18.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872933
+      },
+      "longest_reception": 25.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4695883,
+        "name": "Jalen Coker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 66.0,
+      "receptions": 8.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872661
+      },
+      "longest_reception": 51.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4695883,
+        "name": "Jalen Coker"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 138.0,
+      "receptions": 8.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-05T00:20:00.000+00:00",
+        "id": 401872978
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 2.0,
+      "player": {
+        "id": 4239934,
+        "name": "AJ Dillon"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 2.0,
+      "targets": 1.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872949
+      },
+      "longest_reception": -2.0,
+      "longest_rush": 11.0,
+      "player": {
+        "id": 4239934,
+        "name": "AJ Dillon"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": -2.0,
+      "receptions": 1.0,
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 16.0,
+      "targets": 1.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872933
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 1.0,
+      "player": {
+        "id": 4239934,
+        "name": "AJ Dillon"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -3.0,
+      "targets": 0.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872661
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 11.0,
+      "player": {
+        "id": 4239934,
+        "name": "AJ Dillon"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 28.0,
+      "targets": 0.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873055
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 3.0,
+      "player": {
+        "id": 4685350,
+        "name": "Trevor Etienne"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 2.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "targets": 2.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873041
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 5.0,
+      "player": {
+        "id": 4685350,
+        "name": "Trevor Etienne"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 7.0,
+      "targets": 0.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-30T00:15:00.000+00:00",
+        "id": 401873023
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 1.0,
+      "player": {
+        "id": 4685350,
+        "name": "Trevor Etienne"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "targets": 0.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873018
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 5.0,
+      "player": {
+        "id": 4685350,
+        "name": "Trevor Etienne"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 17.0,
+      "receptions": 2.0,
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 8.0,
+      "targets": 2.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872998
+      },
+      "longest_reception": 0.0,
+      "longest_rush": -1.0,
+      "player": {
+        "id": 4685350,
+        "name": "Trevor Etienne"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -1.0,
+      "targets": 0.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873055
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4683243,
+        "name": "Mitchell Evans"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873041
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4683243,
+        "name": "Mitchell Evans"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 20.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-30T00:15:00.000+00:00",
+        "id": 401873023
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4683243,
+        "name": "Mitchell Evans"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 22.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873018
+      },
+      "longest_reception": 32.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4683243,
+        "name": "Mitchell Evans"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 39.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872998
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 1.0,
+      "player": {
+        "id": 4683243,
+        "name": "Mitchell Evans"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "targets": 1.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-05T00:20:00.000+00:00",
+        "id": 401872978
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4683243,
+        "name": "Mitchell Evans"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872949
+      },
+      "longest_reception": 19.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4683243,
+        "name": "Mitchell Evans"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 36.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872933
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4683243,
+        "name": "Mitchell Evans"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 13.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872661
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4683243,
+        "name": "Mitchell Evans"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873055
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4034948,
+        "name": "Feleipe Franks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873041
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4034948,
+        "name": "Feleipe Franks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-30T00:15:00.000+00:00",
+        "id": 401873023
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4034948,
+        "name": "Feleipe Franks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873018
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4034948,
+        "name": "Feleipe Franks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872998
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4034948,
+        "name": "Feleipe Franks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-05T00:20:00.000+00:00",
+        "id": 401872978
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4034948,
+        "name": "Feleipe Franks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872949
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4034948,
+        "name": "Feleipe Franks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872933
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4034948,
+        "name": "Feleipe Franks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873055
+      },
+      "longest_reception": 34.0,
+      "longest_rush": 17.0,
+      "player": {
+        "id": 4241416,
+        "name": "Chuba Hubbard"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 80.0,
+      "receptions": 5.0,
+      "rushing_attempts": 27.0,
+      "rushing_touchdowns": 2.0,
+      "rushing_yards": 92.0,
+      "targets": 5.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873041
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 23.0,
+      "player": {
+        "id": 4241416,
+        "name": "Chuba Hubbard"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 17.0,
+      "receptions": 4.0,
+      "rushing_attempts": 16.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 79.0,
+      "targets": 5.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-30T00:15:00.000+00:00",
+        "id": 401873023
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 18.0,
+      "player": {
+        "id": 4241416,
+        "name": "Chuba Hubbard"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 38.0,
+      "receptions": 7.0,
+      "rushing_attempts": 22.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 81.0,
+      "targets": 8.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873018
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4241416,
+        "name": "Chuba Hubbard"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 27.0,
+      "receptions": 4.0,
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 33.0,
+      "targets": 5.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872998
+      },
+      "longest_reception": 1.0,
+      "longest_rush": 19.0,
+      "player": {
+        "id": 4241416,
+        "name": "Chuba Hubbard"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 1.0,
+      "receptions": 1.0,
+      "rushing_attempts": 28.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 120.0,
+      "targets": 2.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-05T00:20:00.000+00:00",
+        "id": 401872978
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 32.0,
+      "player": {
+        "id": 4241416,
+        "name": "Chuba Hubbard"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 20.0,
+      "rushing_touchdowns": 2.0,
+      "rushing_yards": 122.0,
+      "targets": 2.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872949
+      },
+      "longest_reception": 30.0,
+      "longest_rush": 16.0,
+      "player": {
+        "id": 4241416,
+        "name": "Chuba Hubbard"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 28.0,
+      "receptions": 4.0,
+      "rushing_attempts": 19.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 82.0,
+      "targets": 4.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872933
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 12.0,
+      "player": {
+        "id": 4241416,
+        "name": "Chuba Hubbard"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 11.0,
+      "receptions": 2.0,
+      "rushing_attempts": 12.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 53.0,
+      "targets": 2.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872661
+      },
+      "longest_reception": 29.0,
+      "longest_rush": 11.0,
+      "player": {
+        "id": 4241416,
+        "name": "Chuba Hubbard"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 38.0,
+      "receptions": 3.0,
+      "rushing_attempts": 10.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 49.0,
+      "targets": 3.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873055
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430034,
+        "name": "Xavier Legette"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872933
+      },
+      "longest_reception": 55.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430034,
+        "name": "Xavier Legette"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 64.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872661
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430034,
+        "name": "Xavier Legette"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873055
+      },
+      "longest_reception": 20.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685472,
+        "name": "Tetairoa McMillan"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 35.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873041
+      },
+      "longest_reception": 20.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685472,
+        "name": "Tetairoa McMillan"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 56.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-30T00:15:00.000+00:00",
+        "id": 401873023
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685472,
+        "name": "Tetairoa McMillan"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 58.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 11.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873018
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685472,
+        "name": "Tetairoa McMillan"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 40.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872998
+      },
+      "longest_reception": 21.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685472,
+        "name": "Tetairoa McMillan"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 86.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-05T00:20:00.000+00:00",
+        "id": 401872978
+      },
+      "longest_reception": 32.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685472,
+        "name": "Tetairoa McMillan"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 192.0,
+      "receptions": 14.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 16.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872949
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685472,
+        "name": "Tetairoa McMillan"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 17.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872933
+      },
+      "longest_reception": 28.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685472,
+        "name": "Tetairoa McMillan"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 101.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 10.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872661
+      },
+      "longest_reception": 21.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685472,
+        "name": "Tetairoa McMillan"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 75.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873055
+      },
+      "longest_reception": 4.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4567096,
+        "name": "John Metchie III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873041
+      },
+      "longest_reception": 25.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4567096,
+        "name": "John Metchie III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 40.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-30T00:15:00.000+00:00",
+        "id": 401873023
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4567096,
+        "name": "John Metchie III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 14.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873018
+      },
+      "longest_reception": 16.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4567096,
+        "name": "John Metchie III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 20.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872998
+      },
+      "longest_reception": 15.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4567096,
+        "name": "John Metchie III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 24.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-05T00:20:00.000+00:00",
+        "id": 401872978
+      },
+      "longest_reception": 18.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4567096,
+        "name": "John Metchie III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 37.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872949
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4567096,
+        "name": "John Metchie III"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 19.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872933
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4567096,
+        "name": "John Metchie III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "completions": 3.0,
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873018
+      },
+      "longest_rush": 15.0,
+      "passing_attempts": 4.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 47.0,
+      "player": {
+        "id": 4240703,
+        "name": "Kenny Pickett"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 15.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872949
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 0.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 4240703,
+        "name": "Kenny Pickett"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872933
+      },
+      "longest_rush": -4.0,
+      "passing_attempts": 0.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 4240703,
+        "name": "Kenny Pickett"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -4.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872661
+      },
+      "longest_rush": 24.0,
+      "passing_attempts": 1.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 4240703,
+        "name": "Kenny Pickett"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 24.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-05T00:20:00.000+00:00",
+        "id": 401872978
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4876995,
+        "name": "Ja'seem Reed"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873041
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431588,
+        "name": "Ja'Tavion Sanders"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873055
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360763,
+        "name": "Brycen Tremayne"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873041
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360763,
+        "name": "Brycen Tremayne"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-30T00:15:00.000+00:00",
+        "id": 401873023
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360763,
+        "name": "Brycen Tremayne"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 11.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873018
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360763,
+        "name": "Brycen Tremayne"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872998
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360763,
+        "name": "Brycen Tremayne"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-05T00:20:00.000+00:00",
+        "id": 401872978
+      },
+      "longest_reception": 21.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360763,
+        "name": "Brycen Tremayne"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 32.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872949
+      },
+      "longest_reception": 31.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360763,
+        "name": "Brycen Tremayne"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 83.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872933
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360763,
+        "name": "Brycen Tremayne"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873055
+      },
+      "longest_reception": 34.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372780,
+        "name": "Tommy Tremble"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 48.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873041
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372780,
+        "name": "Tommy Tremble"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 24.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-30T00:15:00.000+00:00",
+        "id": 401873023
+      },
+      "longest_reception": 19.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372780,
+        "name": "Tommy Tremble"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 19.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873018
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372780,
+        "name": "Tommy Tremble"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872998
+      },
+      "longest_reception": 19.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372780,
+        "name": "Tommy Tremble"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 46.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-05T00:20:00.000+00:00",
+        "id": 401872978
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372780,
+        "name": "Tommy Tremble"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 12.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872949
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372780,
+        "name": "Tommy Tremble"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 41.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872933
+      },
+      "longest_reception": 4.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372780,
+        "name": "Tommy Tremble"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872661
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372780,
+        "name": "Tommy Tremble"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 25.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873055
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4709392,
+        "name": "Anthony Tyus III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873041
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4709392,
+        "name": "Anthony Tyus III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-30T00:15:00.000+00:00",
+        "id": 401873023
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4709392,
+        "name": "Anthony Tyus III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873018
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 12.0,
+      "player": {
+        "id": 4709392,
+        "name": "Anthony Tyus III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 23.0,
+      "targets": 0.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872998
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4709392,
+        "name": "Anthony Tyus III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-05T00:20:00.000+00:00",
+        "id": 401872978
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4709392,
+        "name": "Anthony Tyus III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872949
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4709392,
+        "name": "Anthony Tyus III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873055
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2576925,
+        "name": "Darren Waller"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 24.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873041
+      },
+      "longest_reception": 21.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2576925,
+        "name": "Darren Waller"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 90.0,
+      "receptions": 8.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 10.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-30T00:15:00.000+00:00",
+        "id": 401873023
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2576925,
+        "name": "Darren Waller"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 11.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873018
+      },
+      "longest_reception": 50.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2576925,
+        "name": "Darren Waller"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 50.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872998
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2576925,
+        "name": "Darren Waller"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-05T00:20:00.000+00:00",
+        "id": 401872978
+      },
+      "longest_reception": 16.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2576925,
+        "name": "Darren Waller"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 36.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872949
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2576925,
+        "name": "Darren Waller"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 51.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872933
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2576925,
+        "name": "Darren Waller"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 33.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872661
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2576925,
+        "name": "Darren Waller"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 28.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "completions": 17.0,
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873055
+      },
+      "longest_rush": 1.0,
+      "passing_attempts": 30.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 200.0,
+      "player": {
+        "id": 4685720,
+        "name": "Bryce Young"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "completions": 28.0,
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873041
+      },
+      "longest_rush": 13.0,
+      "passing_attempts": 39.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 3.0,
+      "passing_yards": 276.0,
+      "player": {
+        "id": 4685720,
+        "name": "Bryce Young"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 13.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "completions": 23.0,
+      "game": {
+        "date": "2026-10-30T00:15:00.000+00:00",
+        "id": 401873023
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 41.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 209.0,
+      "player": {
+        "id": 4685720,
+        "name": "Bryce Young"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "completions": 14.0,
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873018
+      },
+      "longest_rush": 9.0,
+      "passing_attempts": 27.0,
+      "passing_interceptions": 2.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 163.0,
+      "player": {
+        "id": 4685720,
+        "name": "Bryce Young"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 9.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "completions": 20.0,
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872998
+      },
+      "longest_rush": 8.0,
+      "passing_attempts": 39.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 281.0,
+      "player": {
+        "id": 4685720,
+        "name": "Bryce Young"
+      },
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 6.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "completions": 29.0,
+      "game": {
+        "date": "2026-10-05T00:20:00.000+00:00",
+        "id": 401872978
+      },
+      "longest_rush": 7.0,
+      "passing_attempts": 41.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 329.0,
+      "player": {
+        "id": 4685720,
+        "name": "Bryce Young"
+      },
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 3.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "completions": 26.0,
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872949
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 48.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 291.0,
+      "player": {
+        "id": 4685720,
+        "name": "Bryce Young"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "completions": 23.0,
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872933
+      },
+      "longest_rush": 6.0,
+      "passing_attempts": 36.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 3.0,
+      "passing_yards": 287.0,
+      "player": {
+        "id": 4685720,
+        "name": "Bryce Young"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 6.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "completions": 23.0,
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872661
+      },
+      "longest_rush": 7.0,
+      "passing_attempts": 37.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 3.0,
+      "passing_yards": 361.0,
+      "player": {
+        "id": 4685720,
+        "name": "Bryce Young"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 10.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872933
+      },
+      "longest_reception": -5.0,
+      "longest_rush": 7.0,
+      "player": {
+        "id": 4678008,
+        "name": "Jonathon Brooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": -5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 16.0,
+      "targets": 1.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872661
+      },
+      "longest_reception": 48.0,
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4678008,
+        "name": "Jonathon Brooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 48.0,
+      "receptions": 1.0,
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 14.0,
+      "targets": 2.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873041
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4212909,
+        "name": "David Moore"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-30T00:15:00.000+00:00",
+        "id": 401873023
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4212909,
+        "name": "David Moore"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873018
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4212909,
+        "name": "David Moore"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872998
+      },
+      "longest_reception": 27.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4212909,
+        "name": "David Moore"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 27.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-05T00:20:00.000+00:00",
+        "id": 401872978
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4212909,
+        "name": "David Moore"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872949
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4212909,
+        "name": "David Moore"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    }
+  ],
+  "results": 119
+}

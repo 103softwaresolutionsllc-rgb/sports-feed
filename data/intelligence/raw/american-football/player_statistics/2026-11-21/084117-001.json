@@ -1,0 +1,2487 @@
+{
+  "errors": [],
+  "get": "players/statistics",
+  "parameters": {
+    "season": "2026",
+    "source": "espn-fallback",
+    "team": "Tennessee Titans"
+  },
+  "response": [
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873057
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4883647,
+        "name": "Elic Ayomanor"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 79.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873031
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4883647,
+        "name": "Elic Ayomanor"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 34.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873013
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4883647,
+        "name": "Elic Ayomanor"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 44.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401873003
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4883647,
+        "name": "Elic Ayomanor"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 3.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872984
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4883647,
+        "name": "Elic Ayomanor"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 17.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872973
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4883647,
+        "name": "Elic Ayomanor"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 22.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872956
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4883647,
+        "name": "Elic Ayomanor"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 11.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872939
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4883647,
+        "name": "Elic Ayomanor"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 69.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872924
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4883647,
+        "name": "Elic Ayomanor"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 11.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873057
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361516,
+        "name": "Daniel Bellinger"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 6.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873031
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361516,
+        "name": "Daniel Bellinger"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 36.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873013
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361516,
+        "name": "Daniel Bellinger"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401873003
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361516,
+        "name": "Daniel Bellinger"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872984
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361516,
+        "name": "Daniel Bellinger"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872973
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361516,
+        "name": "Daniel Bellinger"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 2.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872956
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361516,
+        "name": "Daniel Bellinger"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 16.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872939
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361516,
+        "name": "Daniel Bellinger"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872924
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361516,
+        "name": "Daniel Bellinger"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873057
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4367567,
+        "name": "Julius Chestnut"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873031
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4367567,
+        "name": "Julius Chestnut"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873013
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4367567,
+        "name": "Julius Chestnut"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401873003
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4367567,
+        "name": "Julius Chestnut"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872984
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4367567,
+        "name": "Julius Chestnut"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872973
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4367567,
+        "name": "Julius Chestnut"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872956
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4367567,
+        "name": "Julius Chestnut"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872939
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4367567,
+        "name": "Julius Chestnut"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872924
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4367567,
+        "name": "Julius Chestnut"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873057
+      },
+      "longest_rush": 5.0,
+      "player": {
+        "id": 4431268,
+        "name": "Chimere Dike"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 16.0,
+      "receptions": 2.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 5.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873031
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431268,
+        "name": "Chimere Dike"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 71.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873013
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431268,
+        "name": "Chimere Dike"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401873003
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431268,
+        "name": "Chimere Dike"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872984
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431268,
+        "name": "Chimere Dike"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 28.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872973
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431268,
+        "name": "Chimere Dike"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 15.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872956
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431268,
+        "name": "Chimere Dike"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 3.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872939
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431268,
+        "name": "Chimere Dike"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872924
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431268,
+        "name": "Chimere Dike"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873057
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4039160,
+        "name": "Kylen Granson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872984
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4039160,
+        "name": "Kylen Granson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872924
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4039160,
+        "name": "Kylen Granson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873057
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4686728,
+        "name": "Gunnar Helm"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 23.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873031
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4686728,
+        "name": "Gunnar Helm"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 76.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873013
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4686728,
+        "name": "Gunnar Helm"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 24.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401873003
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4686728,
+        "name": "Gunnar Helm"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872984
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4686728,
+        "name": "Gunnar Helm"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872973
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4686728,
+        "name": "Gunnar Helm"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872956
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4686728,
+        "name": "Gunnar Helm"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 14.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872939
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4686728,
+        "name": "Gunnar Helm"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 13.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872924
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4686728,
+        "name": "Gunnar Helm"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 28.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873057
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360978,
+        "name": "David Martin-Robinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873031
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360978,
+        "name": "David Martin-Robinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873013
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360978,
+        "name": "David Martin-Robinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401873003
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360978,
+        "name": "David Martin-Robinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872973
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360978,
+        "name": "David Martin-Robinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872956
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360978,
+        "name": "David Martin-Robinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872939
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360978,
+        "name": "David Martin-Robinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872924
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360978,
+        "name": "David Martin-Robinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873013
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429121,
+        "name": "Kalel Mullings"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872984
+      },
+      "longest_rush": 3.0,
+      "player": {
+        "id": 4429121,
+        "name": "Kalel Mullings"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 3.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873013
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3916566,
+        "name": "K.J. Osborn"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873057
+      },
+      "longest_rush": 15.0,
+      "player": {
+        "id": 3916148,
+        "name": "Tony Pollard"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 66.0,
+      "receptions": 8.0,
+      "rushing_attempts": 9.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 33.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873031
+      },
+      "longest_rush": 40.0,
+      "player": {
+        "id": 3916148,
+        "name": "Tony Pollard"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 20.0,
+      "receptions": 3.0,
+      "rushing_attempts": 21.0,
+      "rushing_touchdowns": 2.0,
+      "rushing_yards": 117.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873013
+      },
+      "longest_rush": 36.0,
+      "player": {
+        "id": 3916148,
+        "name": "Tony Pollard"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 26.0,
+      "receptions": 3.0,
+      "rushing_attempts": 25.0,
+      "rushing_touchdowns": 3.0,
+      "rushing_yards": 129.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401873003
+      },
+      "longest_rush": 16.0,
+      "player": {
+        "id": 3916148,
+        "name": "Tony Pollard"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 19.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 76.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872984
+      },
+      "longest_rush": 14.0,
+      "player": {
+        "id": 3916148,
+        "name": "Tony Pollard"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 14.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 52.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872973
+      },
+      "longest_rush": 7.0,
+      "player": {
+        "id": 3916148,
+        "name": "Tony Pollard"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 2.0,
+      "receptions": 2.0,
+      "rushing_attempts": 16.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 48.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872956
+      },
+      "longest_rush": 16.0,
+      "player": {
+        "id": 3916148,
+        "name": "Tony Pollard"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 22.0,
+      "receptions": 4.0,
+      "rushing_attempts": 17.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 74.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872939
+      },
+      "longest_rush": 18.0,
+      "player": {
+        "id": 3916148,
+        "name": "Tony Pollard"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 1.0,
+      "receptions": 1.0,
+      "rushing_attempts": 14.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 64.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872924
+      },
+      "longest_rush": 13.0,
+      "player": {
+        "id": 3916148,
+        "name": "Tony Pollard"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": -1.0,
+      "receptions": 1.0,
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 35.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873057
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431353,
+        "name": "Xavier Restrepo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 31.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873031
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431353,
+        "name": "Xavier Restrepo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873057
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3925357,
+        "name": "Calvin Ridley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873031
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3925357,
+        "name": "Calvin Ridley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 10.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401873003
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3925357,
+        "name": "Calvin Ridley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872984
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3925357,
+        "name": "Calvin Ridley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 33.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872973
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3925357,
+        "name": "Calvin Ridley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 13.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872956
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3925357,
+        "name": "Calvin Ridley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872939
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3925357,
+        "name": "Calvin Ridley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 35.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872924
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3925357,
+        "name": "Calvin Ridley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873031
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685555,
+        "name": "Nicholas Singleton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872973
+      },
+      "longest_rush": 2.0,
+      "player": {
+        "id": 4685555,
+        "name": "Nicholas Singleton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 2.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872956
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685555,
+        "name": "Nicholas Singleton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872939
+      },
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4685555,
+        "name": "Nicholas Singleton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 10.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873057
+      },
+      "longest_rush": 14.0,
+      "player": {
+        "id": 4428557,
+        "name": "Tyjae Spears"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 1.0,
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 28.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401873003
+      },
+      "longest_rush": 1.0,
+      "player": {
+        "id": 4428557,
+        "name": "Tyjae Spears"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872984
+      },
+      "longest_rush": 3.0,
+      "player": {
+        "id": 4428557,
+        "name": "Tyjae Spears"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 28.0,
+      "receptions": 9.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872973
+      },
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4428557,
+        "name": "Tyjae Spears"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": -1.0,
+      "receptions": 1.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 7.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872956
+      },
+      "longest_rush": 3.0,
+      "player": {
+        "id": 4428557,
+        "name": "Tyjae Spears"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 5.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872939
+      },
+      "longest_rush": 27.0,
+      "player": {
+        "id": 4428557,
+        "name": "Tyjae Spears"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 29.0,
+      "receptions": 2.0,
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 41.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872924
+      },
+      "longest_rush": 10.0,
+      "player": {
+        "id": 4428557,
+        "name": "Tyjae Spears"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 12.0,
+      "receptions": 2.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 12.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873013
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4871023,
+        "name": "Carnell Tate"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 69.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401873003
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4871023,
+        "name": "Carnell Tate"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 70.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872984
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4871023,
+        "name": "Carnell Tate"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872973
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4871023,
+        "name": "Carnell Tate"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 145.0,
+      "receptions": 9.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872956
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4871023,
+        "name": "Carnell Tate"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 58.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872939
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4871023,
+        "name": "Carnell Tate"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 27.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872924
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4871023,
+        "name": "Carnell Tate"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 38.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "completions": 28.0,
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873057
+      },
+      "longest_rush": 26.0,
+      "passing_attempts": 39.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 231.0,
+      "player": {
+        "id": 4688380,
+        "name": "Cam Ward"
+      },
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 39.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "completions": 26.0,
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873031
+      },
+      "longest_rush": 14.0,
+      "passing_attempts": 40.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 304.0,
+      "player": {
+        "id": 4688380,
+        "name": "Cam Ward"
+      },
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 41.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "completions": 20.0,
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873013
+      },
+      "longest_rush": 5.0,
+      "passing_attempts": 31.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 181.0,
+      "player": {
+        "id": 4688380,
+        "name": "Cam Ward"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 5.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "completions": 11.0,
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401873003
+      },
+      "longest_rush": 5.0,
+      "passing_attempts": 22.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 102.0,
+      "player": {
+        "id": 4688380,
+        "name": "Cam Ward"
+      },
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 7.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "completions": 23.0,
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872984
+      },
+      "longest_rush": 2.0,
+      "passing_attempts": 36.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 170.0,
+      "player": {
+        "id": 4688380,
+        "name": "Cam Ward"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 2.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "completions": 20.0,
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872973
+      },
+      "longest_rush": 22.0,
+      "passing_attempts": 31.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 222.0,
+      "player": {
+        "id": 4688380,
+        "name": "Cam Ward"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 27.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "completions": 23.0,
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872956
+      },
+      "longest_rush": 2.0,
+      "passing_attempts": 36.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 181.0,
+      "player": {
+        "id": 4688380,
+        "name": "Cam Ward"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 2.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "completions": 13.0,
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872939
+      },
+      "longest_rush": 4.0,
+      "passing_attempts": 20.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 183.0,
+      "player": {
+        "id": 4688380,
+        "name": "Cam Ward"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 2.0,
+      "rushing_yards": 7.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "completions": 19.0,
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872924
+      },
+      "longest_rush": 7.0,
+      "passing_attempts": 32.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 140.0,
+      "player": {
+        "id": 4688380,
+        "name": "Cam Ward"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 21.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873057
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569587,
+        "name": "Wan'Dale Robinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 10.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873031
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569587,
+        "name": "Wan'Dale Robinson"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 57.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873013
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569587,
+        "name": "Wan'Dale Robinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401873003
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569587,
+        "name": "Wan'Dale Robinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 22.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872984
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569587,
+        "name": "Wan'Dale Robinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 53.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872973
+      },
+      "longest_rush": 1.0,
+      "player": {
+        "id": 4569587,
+        "name": "Wan'Dale Robinson"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 19.0,
+      "receptions": 3.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872956
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569587,
+        "name": "Wan'Dale Robinson"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 57.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872939
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569587,
+        "name": "Wan'Dale Robinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872924
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569587,
+        "name": "Wan'Dale Robinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 38.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873031
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4240657,
+        "name": "Michael Carter"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873013
+      },
+      "longest_rush": 3.0,
+      "player": {
+        "id": 4240657,
+        "name": "Michael Carter"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 7.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401873003
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4240657,
+        "name": "Michael Carter"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    }
+  ],
+  "results": 117
+}

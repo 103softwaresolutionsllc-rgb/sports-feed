@@ -1,0 +1,2542 @@
+{
+  "errors": [],
+  "get": "players/statistics",
+  "parameters": {
+    "season": "2026",
+    "source": "espn-fallback",
+    "team": "Detroit Lions"
+  },
+  "response": [
+    {
+      "game": {
+        "date": "2026-11-15T14:30:00.000+00:00",
+        "id": 401873053
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2580216,
+        "name": "DeAndre Carter"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873042
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2580216,
+        "name": "DeAndre Carter"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873030
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2580216,
+        "name": "DeAndre Carter"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873020
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2580216,
+        "name": "DeAndre Carter"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T14:30:00.000+00:00",
+        "id": 401873053
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3915486,
+        "name": "Tyler Conklin"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873042
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3915486,
+        "name": "Tyler Conklin"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873030
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3915486,
+        "name": "Tyler Conklin"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873020
+      },
+      "longest_reception": 4.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3915486,
+        "name": "Tyler Conklin"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T20:25:00.000+00:00",
+        "id": 401872991
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3915486,
+        "name": "Tyler Conklin"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-18T00:15:00.000+00:00",
+        "id": 401872932
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3915486,
+        "name": "Tyler Conklin"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872923
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3915486,
+        "name": "Tyler Conklin"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "completions": 1.0,
+      "game": {
+        "date": "2026-11-15T14:30:00.000+00:00",
+        "id": 401873053
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 1.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 7.0,
+      "player": {
+        "id": 3044720,
+        "name": "Joshua Dobbs"
+      },
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -2.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2026-10-11T20:25:00.000+00:00",
+        "id": 401872991
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 0.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 3044720,
+        "name": "Joshua Dobbs"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872923
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 0.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 3044720,
+        "name": "Joshua Dobbs"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T14:30:00.000+00:00",
+        "id": 401873053
+      },
+      "longest_reception": 50.0,
+      "longest_rush": 28.0,
+      "player": {
+        "id": 4429795,
+        "name": "Jahmyr Gibbs"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 99.0,
+      "receptions": 7.0,
+      "rushing_attempts": 22.0,
+      "rushing_touchdowns": 2.0,
+      "rushing_yards": 153.0,
+      "targets": 8.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873042
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 16.0,
+      "player": {
+        "id": 4429795,
+        "name": "Jahmyr Gibbs"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 20.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 74.0,
+      "targets": 1.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873030
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 30.0,
+      "player": {
+        "id": 4429795,
+        "name": "Jahmyr Gibbs"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 15.0,
+      "receptions": 2.0,
+      "rushing_attempts": 23.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 153.0,
+      "targets": 4.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873020
+      },
+      "longest_reception": 15.0,
+      "longest_rush": 15.0,
+      "player": {
+        "id": 4429795,
+        "name": "Jahmyr Gibbs"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 27.0,
+      "receptions": 5.0,
+      "rushing_attempts": 29.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 116.0,
+      "targets": 6.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T20:25:00.000+00:00",
+        "id": 401872991
+      },
+      "longest_reception": 23.0,
+      "longest_rush": 22.0,
+      "player": {
+        "id": 4429795,
+        "name": "Jahmyr Gibbs"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 56.0,
+      "receptions": 5.0,
+      "rushing_attempts": 25.0,
+      "rushing_touchdowns": 2.0,
+      "rushing_yards": 151.0,
+      "targets": 6.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-05T00:20:00.000+00:00",
+        "id": 401872978
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 13.0,
+      "player": {
+        "id": 4429795,
+        "name": "Jahmyr Gibbs"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 31.0,
+      "receptions": 4.0,
+      "rushing_attempts": 15.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 46.0,
+      "targets": 7.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872954
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 17.0,
+      "player": {
+        "id": 4429795,
+        "name": "Jahmyr Gibbs"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 65.0,
+      "receptions": 7.0,
+      "rushing_attempts": 20.0,
+      "rushing_touchdowns": 2.0,
+      "rushing_yards": 99.0,
+      "targets": 8.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-18T00:15:00.000+00:00",
+        "id": 401872932
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 16.0,
+      "player": {
+        "id": 4429795,
+        "name": "Jahmyr Gibbs"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 61.0,
+      "receptions": 6.0,
+      "rushing_attempts": 16.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 52.0,
+      "targets": 8.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872923
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 21.0,
+      "player": {
+        "id": 4429795,
+        "name": "Jahmyr Gibbs"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 30.0,
+      "receptions": 5.0,
+      "rushing_attempts": 29.0,
+      "rushing_touchdowns": 2.0,
+      "rushing_yards": 156.0,
+      "targets": 5.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "completions": 20.0,
+      "game": {
+        "date": "2026-11-15T14:30:00.000+00:00",
+        "id": 401873053
+      },
+      "longest_rush": 3.0,
+      "passing_attempts": 31.0,
+      "passing_interceptions": 2.0,
+      "passing_touchdowns": 3.0,
+      "passing_yards": 303.0,
+      "player": {
+        "id": 3046779,
+        "name": "Jared Goff"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 3.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "completions": 17.0,
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873042
+      },
+      "longest_rush": 6.0,
+      "passing_attempts": 25.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 170.0,
+      "player": {
+        "id": 3046779,
+        "name": "Jared Goff"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 5.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "completions": 18.0,
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873030
+      },
+      "longest_rush": 2.0,
+      "passing_attempts": 25.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 176.0,
+      "player": {
+        "id": 3046779,
+        "name": "Jared Goff"
+      },
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "completions": 22.0,
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873020
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 32.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 303.0,
+      "player": {
+        "id": 3046779,
+        "name": "Jared Goff"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -1.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "completions": 19.0,
+      "game": {
+        "date": "2026-10-11T20:25:00.000+00:00",
+        "id": 401872991
+      },
+      "longest_rush": 1.0,
+      "passing_attempts": 30.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 3.0,
+      "passing_yards": 271.0,
+      "player": {
+        "id": 3046779,
+        "name": "Jared Goff"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 1.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "completions": 32.0,
+      "game": {
+        "date": "2026-10-05T00:20:00.000+00:00",
+        "id": 401872978
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 52.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 412.0,
+      "player": {
+        "id": 3046779,
+        "name": "Jared Goff"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "completions": 25.0,
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872954
+      },
+      "longest_rush": 6.0,
+      "passing_attempts": 32.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 269.0,
+      "player": {
+        "id": 3046779,
+        "name": "Jared Goff"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 6.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "completions": 26.0,
+      "game": {
+        "date": "2026-09-18T00:15:00.000+00:00",
+        "id": 401872932
+      },
+      "longest_rush": 4.0,
+      "passing_attempts": 38.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 4.0,
+      "passing_yards": 327.0,
+      "player": {
+        "id": 3046779,
+        "name": "Jared Goff"
+      },
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 7.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "completions": 26.0,
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872923
+      },
+      "longest_rush": 2.0,
+      "passing_attempts": 39.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 206.0,
+      "player": {
+        "id": 3046779,
+        "name": "Jared Goff"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 2.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T14:30:00.000+00:00",
+        "id": 401873053
+      },
+      "longest_reception": 16.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430027,
+        "name": "Sam LaPorta"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 16.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873042
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430027,
+        "name": "Sam LaPorta"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 32.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873030
+      },
+      "longest_reception": 19.0,
+      "longest_rush": 2.0,
+      "player": {
+        "id": 4430027,
+        "name": "Sam LaPorta"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 33.0,
+      "receptions": 3.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 2.0,
+      "targets": 5.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873020
+      },
+      "longest_reception": 18.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430027,
+        "name": "Sam LaPorta"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 18.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T20:25:00.000+00:00",
+        "id": 401872991
+      },
+      "longest_reception": 38.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430027,
+        "name": "Sam LaPorta"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 88.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-05T00:20:00.000+00:00",
+        "id": 401872978
+      },
+      "longest_reception": 25.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430027,
+        "name": "Sam LaPorta"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 84.0,
+      "receptions": 8.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 13.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872954
+      },
+      "longest_reception": 28.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430027,
+        "name": "Sam LaPorta"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 44.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-18T00:15:00.000+00:00",
+        "id": 401872932
+      },
+      "longest_reception": 18.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430027,
+        "name": "Sam LaPorta"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 52.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872923
+      },
+      "longest_reception": 19.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430027,
+        "name": "Sam LaPorta"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 48.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T14:30:00.000+00:00",
+        "id": 401873053
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4245144,
+        "name": "Tay Martin"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873042
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4245144,
+        "name": "Tay Martin"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 11.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873030
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4245144,
+        "name": "Tay Martin"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873020
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4245144,
+        "name": "Tay Martin"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T20:25:00.000+00:00",
+        "id": 401872991
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4245144,
+        "name": "Tay Martin"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-05T00:20:00.000+00:00",
+        "id": 401872978
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4245144,
+        "name": "Tay Martin"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872954
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4245144,
+        "name": "Tay Martin"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-18T00:15:00.000+00:00",
+        "id": 401872932
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4245144,
+        "name": "Tay Martin"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T14:30:00.000+00:00",
+        "id": 401873053
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4383429,
+        "name": "Jacob Saylors"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 9.0,
+      "targets": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873030
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4383429,
+        "name": "Jacob Saylors"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873020
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4383429,
+        "name": "Jacob Saylors"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T20:25:00.000+00:00",
+        "id": 401872991
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4383429,
+        "name": "Jacob Saylors"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-05T00:20:00.000+00:00",
+        "id": 401872978
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4383429,
+        "name": "Jacob Saylors"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872954
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4383429,
+        "name": "Jacob Saylors"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-18T00:15:00.000+00:00",
+        "id": 401872932
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4383429,
+        "name": "Jacob Saylors"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873042
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4432545,
+        "name": "Jabari Small"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T14:30:00.000+00:00",
+        "id": 401873053
+      },
+      "longest_reception": 56.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4374302,
+        "name": "Amon-Ra St. Brown"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 98.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873042
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4374302,
+        "name": "Amon-Ra St. Brown"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 86.0,
+      "receptions": 8.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 10.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873030
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 10.0,
+      "player": {
+        "id": 4374302,
+        "name": "Amon-Ra St. Brown"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 46.0,
+      "receptions": 7.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 10.0,
+      "targets": 8.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873020
+      },
+      "longest_reception": 40.0,
+      "longest_rush": -1.0,
+      "player": {
+        "id": 4374302,
+        "name": "Amon-Ra St. Brown"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 153.0,
+      "receptions": 9.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -1.0,
+      "targets": 11.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T20:25:00.000+00:00",
+        "id": 401872991
+      },
+      "longest_reception": 36.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4374302,
+        "name": "Amon-Ra St. Brown"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 69.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 11.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-05T00:20:00.000+00:00",
+        "id": 401872978
+      },
+      "longest_reception": 19.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4374302,
+        "name": "Amon-Ra St. Brown"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 75.0,
+      "receptions": 8.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 11.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872954
+      },
+      "longest_reception": 16.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4374302,
+        "name": "Amon-Ra St. Brown"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 19.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-18T00:15:00.000+00:00",
+        "id": 401872932
+      },
+      "longest_reception": 34.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4374302,
+        "name": "Amon-Ra St. Brown"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 142.0,
+      "receptions": 9.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 13.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872923
+      },
+      "longest_reception": 19.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4374302,
+        "name": "Amon-Ra St. Brown"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 67.0,
+      "receptions": 10.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 14.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T14:30:00.000+00:00",
+        "id": 401873053
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5123663,
+        "name": "Isaac TeSlaa"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 19.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873042
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5123663,
+        "name": "Isaac TeSlaa"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873030
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5123663,
+        "name": "Isaac TeSlaa"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873020
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5123663,
+        "name": "Isaac TeSlaa"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 10.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T20:25:00.000+00:00",
+        "id": 401872991
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5123663,
+        "name": "Isaac TeSlaa"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-05T00:20:00.000+00:00",
+        "id": 401872978
+      },
+      "longest_reception": 57.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5123663,
+        "name": "Isaac TeSlaa"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 95.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872954
+      },
+      "longest_reception": 49.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5123663,
+        "name": "Isaac TeSlaa"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 66.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-18T00:15:00.000+00:00",
+        "id": 401872932
+      },
+      "longest_reception": 20.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5123663,
+        "name": "Isaac TeSlaa"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 26.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872923
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5123663,
+        "name": "Isaac TeSlaa"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T14:30:00.000+00:00",
+        "id": 401873053
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4912274,
+        "name": "Sione Vaki"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 17.0,
+      "receptions": 1.0,
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 28.0,
+      "targets": 1.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873042
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4912274,
+        "name": "Sione Vaki"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 2.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 14.0,
+      "targets": 2.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873030
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 12.0,
+      "player": {
+        "id": 4912274,
+        "name": "Sione Vaki"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 11.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 65.0,
+      "targets": 1.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873020
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 5.0,
+      "player": {
+        "id": 4912274,
+        "name": "Sione Vaki"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 5.0,
+      "targets": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T20:25:00.000+00:00",
+        "id": 401872991
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4912274,
+        "name": "Sione Vaki"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 11.0,
+      "targets": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-05T00:20:00.000+00:00",
+        "id": 401872978
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4912274,
+        "name": "Sione Vaki"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 17.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872954
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 7.0,
+      "player": {
+        "id": 4912274,
+        "name": "Sione Vaki"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 11.0,
+      "receptions": 1.0,
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 26.0,
+      "targets": 1.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-18T00:15:00.000+00:00",
+        "id": 401872932
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 7.0,
+      "player": {
+        "id": 4912274,
+        "name": "Sione Vaki"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 13.0,
+      "receptions": 1.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 7.0,
+      "targets": 1.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872923
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 4.0,
+      "player": {
+        "id": 4912274,
+        "name": "Sione Vaki"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 11.0,
+      "receptions": 1.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 7.0,
+      "targets": 1.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T14:30:00.000+00:00",
+        "id": 401873053
+      },
+      "longest_reception": 19.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426388,
+        "name": "Jameson Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 50.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873042
+      },
+      "longest_reception": 31.0,
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4426388,
+        "name": "Jameson Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 31.0,
+      "receptions": 1.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 9.0,
+      "targets": 2.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873030
+      },
+      "longest_reception": 46.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426388,
+        "name": "Jameson Williams"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 70.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873020
+      },
+      "longest_reception": 30.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426388,
+        "name": "Jameson Williams"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 91.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T20:25:00.000+00:00",
+        "id": 401872991
+      },
+      "longest_reception": 39.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426388,
+        "name": "Jameson Williams"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 47.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-05T00:20:00.000+00:00",
+        "id": 401872978
+      },
+      "longest_reception": 49.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426388,
+        "name": "Jameson Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 102.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872954
+      },
+      "longest_reception": 21.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426388,
+        "name": "Jameson Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 49.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-18T00:15:00.000+00:00",
+        "id": 401872932
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426388,
+        "name": "Jameson Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 33.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872923
+      },
+      "longest_reception": 22.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426388,
+        "name": "Jameson Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 45.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T14:30:00.000+00:00",
+        "id": 401873053
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4242392,
+        "name": "Brock Wright"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 11.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873042
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4242392,
+        "name": "Brock Wright"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873030
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4242392,
+        "name": "Brock Wright"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873020
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4242392,
+        "name": "Brock Wright"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T20:25:00.000+00:00",
+        "id": 401872991
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4242392,
+        "name": "Brock Wright"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 11.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-05T00:20:00.000+00:00",
+        "id": 401872978
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4242392,
+        "name": "Brock Wright"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872954
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4242392,
+        "name": "Brock Wright"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-18T00:15:00.000+00:00",
+        "id": 401872932
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4242392,
+        "name": "Brock Wright"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872923
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4242392,
+        "name": "Brock Wright"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T20:25:00.000+00:00",
+        "id": 401872991
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3126997,
+        "name": "Tom Kennedy"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-05T00:20:00.000+00:00",
+        "id": 401872978
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3126997,
+        "name": "Tom Kennedy"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872954
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3126997,
+        "name": "Tom Kennedy"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-18T00:15:00.000+00:00",
+        "id": 401872932
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3126997,
+        "name": "Tom Kennedy"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-05T00:20:00.000+00:00",
+        "id": 401872978
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4602788,
+        "name": "Jackson Meeks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872954
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4602788,
+        "name": "Jackson Meeks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-18T00:15:00.000+00:00",
+        "id": 401872932
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4602788,
+        "name": "Jackson Meeks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872923
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4602788,
+        "name": "Jackson Meeks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    }
+  ],
+  "results": 110
+}

@@ -1,0 +1,2887 @@
+{
+  "errors": [],
+  "get": "players/statistics",
+  "parameters": {
+    "season": "2026",
+    "source": "espn-fallback",
+    "team": "Atlanta Falcons"
+  },
+  "response": [
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873058
+      },
+      "longest_reception": 26.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4369886,
+        "name": "Chris Blair"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 26.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T14:30:00.000+00:00",
+        "id": 401873038
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4369886,
+        "name": "Chris Blair"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873025
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4369886,
+        "name": "Chris Blair"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873017
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4369886,
+        "name": "Chris Blair"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872999
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4369886,
+        "name": "Chris Blair"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-12T00:20:00.000+00:00",
+        "id": 401872993
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4369886,
+        "name": "Chris Blair"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-06T00:15:00.000+00:00",
+        "id": 401872979
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4369886,
+        "name": "Chris Blair"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-25T00:15:00.000+00:00",
+        "id": 401872948
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4369886,
+        "name": "Chris Blair"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872933
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4369886,
+        "name": "Chris Blair"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873025
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4870612,
+        "name": "Zachariah Branch"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873017
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4870612,
+        "name": "Zachariah Branch"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 8.0,
+      "targets": 2.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872999
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4870612,
+        "name": "Zachariah Branch"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-12T00:20:00.000+00:00",
+        "id": 401872993
+      },
+      "longest_reception": 23.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4870612,
+        "name": "Zachariah Branch"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 15.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-06T00:15:00.000+00:00",
+        "id": 401872979
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4870612,
+        "name": "Zachariah Branch"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 10.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-25T00:15:00.000+00:00",
+        "id": 401872948
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4870612,
+        "name": "Zachariah Branch"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872933
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4870612,
+        "name": "Zachariah Branch"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 14.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873058
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431210,
+        "name": "Beaux Collins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T14:30:00.000+00:00",
+        "id": 401873038
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431210,
+        "name": "Beaux Collins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872970
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 0.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 14012,
+        "name": "Andy Dalton"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2026-09-29T00:15:00.000+00:00",
+        "id": 401872963
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 1.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 14012,
+        "name": "Andy Dalton"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873058
+      },
+      "longest_reception": 37.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361409,
+        "name": "Jahan Dotson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 63.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T14:30:00.000+00:00",
+        "id": 401873038
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361409,
+        "name": "Jahan Dotson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 16.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873025
+      },
+      "longest_reception": 76.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361409,
+        "name": "Jahan Dotson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 95.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873017
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361409,
+        "name": "Jahan Dotson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872999
+      },
+      "longest_reception": 41.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361409,
+        "name": "Jahan Dotson"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 87.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-12T00:20:00.000+00:00",
+        "id": 401872993
+      },
+      "longest_reception": 36.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361409,
+        "name": "Jahan Dotson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 54.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-06T00:15:00.000+00:00",
+        "id": 401872979
+      },
+      "longest_reception": 31.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361409,
+        "name": "Jahan Dotson"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 54.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-25T00:15:00.000+00:00",
+        "id": 401872948
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361409,
+        "name": "Jahan Dotson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 11.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872933
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361409,
+        "name": "Jahan Dotson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 11.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872658
+      },
+      "longest_reception": 19.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361409,
+        "name": "Jahan Dotson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 19.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873058
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4035886,
+        "name": "Khalil Herbert"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T14:30:00.000+00:00",
+        "id": 401873038
+      },
+      "longest_reception": 1.0,
+      "longest_rush": 7.0,
+      "player": {
+        "id": 4035886,
+        "name": "Khalil Herbert"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 2.0,
+      "receptions": 2.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 7.0,
+      "targets": 3.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873025
+      },
+      "longest_reception": 3.0,
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4035886,
+        "name": "Khalil Herbert"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 3.0,
+      "receptions": 1.0,
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 12.0,
+      "targets": 1.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873017
+      },
+      "longest_reception": 19.0,
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4035886,
+        "name": "Khalil Herbert"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 19.0,
+      "receptions": 1.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 9.0,
+      "targets": 1.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873058
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3043275,
+        "name": "Austin Hooper"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T14:30:00.000+00:00",
+        "id": 401873038
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3043275,
+        "name": "Austin Hooper"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873025
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3043275,
+        "name": "Austin Hooper"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873017
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3043275,
+        "name": "Austin Hooper"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 21.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872999
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3043275,
+        "name": "Austin Hooper"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-12T00:20:00.000+00:00",
+        "id": 401872993
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3043275,
+        "name": "Austin Hooper"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-06T00:15:00.000+00:00",
+        "id": 401872979
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3043275,
+        "name": "Austin Hooper"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-25T00:15:00.000+00:00",
+        "id": 401872948
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3043275,
+        "name": "Austin Hooper"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 11.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872933
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3043275,
+        "name": "Austin Hooper"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 20.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872658
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3043275,
+        "name": "Austin Hooper"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873058
+      },
+      "longest_reception": 38.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426502,
+        "name": "Drake London"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 109.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 12.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T14:30:00.000+00:00",
+        "id": 401873038
+      },
+      "longest_reception": 21.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426502,
+        "name": "Drake London"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 68.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873025
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426502,
+        "name": "Drake London"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873017
+      },
+      "longest_reception": 21.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426502,
+        "name": "Drake London"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 66.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 10.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872999
+      },
+      "longest_reception": 39.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426502,
+        "name": "Drake London"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 62.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 10.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-12T00:20:00.000+00:00",
+        "id": 401872993
+      },
+      "longest_reception": 25.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426502,
+        "name": "Drake London"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 118.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 11.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-06T00:15:00.000+00:00",
+        "id": 401872979
+      },
+      "longest_reception": 37.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426502,
+        "name": "Drake London"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 96.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-25T00:15:00.000+00:00",
+        "id": 401872948
+      },
+      "longest_reception": 68.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426502,
+        "name": "Drake London"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 194.0,
+      "receptions": 9.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 10.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872933
+      },
+      "longest_reception": 17.0,
+      "longest_rush": -2.0,
+      "player": {
+        "id": 4426502,
+        "name": "Drake London"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 51.0,
+      "receptions": 4.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -2.0,
+      "targets": 5.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872658
+      },
+      "longest_reception": 21.0,
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4426502,
+        "name": "Drake London"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 29.0,
+      "receptions": 2.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 6.0,
+      "targets": 5.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873058
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4249624,
+        "name": "Nick Muse"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T14:30:00.000+00:00",
+        "id": 401873038
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4249624,
+        "name": "Nick Muse"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873025
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4249624,
+        "name": "Nick Muse"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873017
+      },
+      "longest_reception": 1.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4249624,
+        "name": "Nick Muse"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 2.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872999
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4249624,
+        "name": "Nick Muse"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-12T00:20:00.000+00:00",
+        "id": 401872993
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4249624,
+        "name": "Nick Muse"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-06T00:15:00.000+00:00",
+        "id": 401872979
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4249624,
+        "name": "Nick Muse"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-25T00:15:00.000+00:00",
+        "id": 401872948
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4249624,
+        "name": "Nick Muse"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872933
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4249624,
+        "name": "Nick Muse"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "completions": 23.0,
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873058
+      },
+      "longest_rush": 16.0,
+      "passing_attempts": 43.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 286.0,
+      "player": {
+        "id": 4360423,
+        "name": "Michael Penix Jr."
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 29.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "completions": 20.0,
+      "game": {
+        "date": "2026-11-08T14:30:00.000+00:00",
+        "id": 401873038
+      },
+      "longest_rush": 23.0,
+      "passing_attempts": 31.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 162.0,
+      "player": {
+        "id": 4360423,
+        "name": "Michael Penix Jr."
+      },
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 50.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "completions": 8.0,
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873025
+      },
+      "longest_rush": 7.0,
+      "passing_attempts": 24.0,
+      "passing_interceptions": 4.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 125.0,
+      "player": {
+        "id": 4360423,
+        "name": "Michael Penix Jr."
+      },
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 11.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "completions": 25.0,
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873017
+      },
+      "longest_rush": 2.0,
+      "passing_attempts": 34.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 3.0,
+      "passing_yards": 213.0,
+      "player": {
+        "id": 4360423,
+        "name": "Michael Penix Jr."
+      },
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -1.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "completions": 19.0,
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872999
+      },
+      "longest_rush": 1.0,
+      "passing_attempts": 33.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 3.0,
+      "passing_yards": 225.0,
+      "player": {
+        "id": 4360423,
+        "name": "Michael Penix Jr."
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "completions": 19.0,
+      "game": {
+        "date": "2026-10-12T00:20:00.000+00:00",
+        "id": 401872993
+      },
+      "longest_rush": 5.0,
+      "passing_attempts": 32.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 240.0,
+      "player": {
+        "id": 4360423,
+        "name": "Michael Penix Jr."
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 8.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "completions": 15.0,
+      "game": {
+        "date": "2026-10-06T00:15:00.000+00:00",
+        "id": 401872979
+      },
+      "longest_rush": -1.0,
+      "passing_attempts": 20.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 223.0,
+      "player": {
+        "id": 4360423,
+        "name": "Michael Penix Jr."
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -2.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "completions": 18.0,
+      "game": {
+        "date": "2026-09-25T00:15:00.000+00:00",
+        "id": 401872948
+      },
+      "longest_rush": -1.0,
+      "passing_attempts": 25.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 256.0,
+      "player": {
+        "id": 4360423,
+        "name": "Michael Penix Jr."
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -2.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873058
+      },
+      "longest_reception": 28.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360248,
+        "name": "Kyle Pitts Sr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 50.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T14:30:00.000+00:00",
+        "id": 401873038
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360248,
+        "name": "Kyle Pitts Sr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 23.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873025
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360248,
+        "name": "Kyle Pitts Sr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873017
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360248,
+        "name": "Kyle Pitts Sr."
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 22.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872999
+      },
+      "longest_reception": 29.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360248,
+        "name": "Kyle Pitts Sr."
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 60.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-12T00:20:00.000+00:00",
+        "id": 401872993
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360248,
+        "name": "Kyle Pitts Sr."
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 42.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-06T00:15:00.000+00:00",
+        "id": 401872979
+      },
+      "longest_reception": 28.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360248,
+        "name": "Kyle Pitts Sr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 47.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-25T00:15:00.000+00:00",
+        "id": 401872948
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360248,
+        "name": "Kyle Pitts Sr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872933
+      },
+      "longest_reception": 15.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360248,
+        "name": "Kyle Pitts Sr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 15.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872658
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360248,
+        "name": "Kyle Pitts Sr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873058
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 17.0,
+      "player": {
+        "id": 4430807,
+        "name": "Bijan Robinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 4.0,
+      "rushing_attempts": 16.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 71.0,
+      "targets": 5.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T14:30:00.000+00:00",
+        "id": 401873038
+      },
+      "longest_reception": 28.0,
+      "longest_rush": 21.0,
+      "player": {
+        "id": 4430807,
+        "name": "Bijan Robinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 47.0,
+      "receptions": 6.0,
+      "rushing_attempts": 19.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 100.0,
+      "targets": 7.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873025
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 26.0,
+      "player": {
+        "id": 4430807,
+        "name": "Bijan Robinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 19.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 76.0,
+      "targets": 1.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873017
+      },
+      "longest_reception": 19.0,
+      "longest_rush": 12.0,
+      "player": {
+        "id": 4430807,
+        "name": "Bijan Robinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 59.0,
+      "receptions": 5.0,
+      "rushing_attempts": 20.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 63.0,
+      "targets": 5.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872999
+      },
+      "longest_reception": -3.0,
+      "longest_rush": 23.0,
+      "player": {
+        "id": 4430807,
+        "name": "Bijan Robinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": -8.0,
+      "receptions": 2.0,
+      "rushing_attempts": 9.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 61.0,
+      "targets": 2.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-12T00:20:00.000+00:00",
+        "id": 401872993
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 38.0,
+      "player": {
+        "id": 4430807,
+        "name": "Bijan Robinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 32.0,
+      "receptions": 4.0,
+      "rushing_attempts": 17.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 86.0,
+      "targets": 7.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-06T00:15:00.000+00:00",
+        "id": 401872979
+      },
+      "longest_reception": 2.0,
+      "longest_rush": 59.0,
+      "player": {
+        "id": 4430807,
+        "name": "Bijan Robinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 2.0,
+      "receptions": 1.0,
+      "rushing_attempts": 19.0,
+      "rushing_touchdowns": 2.0,
+      "rushing_yards": 145.0,
+      "targets": 2.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-25T00:15:00.000+00:00",
+        "id": 401872948
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 55.0,
+      "player": {
+        "id": 4430807,
+        "name": "Bijan Robinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 19.0,
+      "receptions": 2.0,
+      "rushing_attempts": 29.0,
+      "rushing_touchdowns": 2.0,
+      "rushing_yards": 194.0,
+      "targets": 2.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872933
+      },
+      "longest_reception": 4.0,
+      "longest_rush": 11.0,
+      "player": {
+        "id": 4430807,
+        "name": "Bijan Robinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 3.0,
+      "rushing_attempts": 16.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 72.0,
+      "targets": 4.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872658
+      },
+      "longest_reception": 24.0,
+      "longest_rush": 20.0,
+      "player": {
+        "id": 4430807,
+        "name": "Bijan Robinson"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 90.0,
+      "receptions": 8.0,
+      "rushing_attempts": 21.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 83.0,
+      "targets": 10.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "completions": 8.0,
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872933
+      },
+      "longest_rush": 8.0,
+      "passing_attempts": 15.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 59.0,
+      "player": {
+        "id": 5344782,
+        "name": "Jack Strand"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 16.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873017
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 0.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 4241479,
+        "name": "Tua Tagovailoa"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "completions": 2.0,
+      "game": {
+        "date": "2026-10-12T00:20:00.000+00:00",
+        "id": 401872993
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 3.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 34.0,
+      "player": {
+        "id": 4241479,
+        "name": "Tua Tagovailoa"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873058
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4035020,
+        "name": "Charlie Woerner"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T14:30:00.000+00:00",
+        "id": 401873038
+      },
+      "longest_reception": 1.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4035020,
+        "name": "Charlie Woerner"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 1.0,
+      "receptions": 1.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873025
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4035020,
+        "name": "Charlie Woerner"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873017
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 3.0,
+      "player": {
+        "id": 4035020,
+        "name": "Charlie Woerner"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 3.0,
+      "targets": 1.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872999
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4035020,
+        "name": "Charlie Woerner"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-12T00:20:00.000+00:00",
+        "id": 401872993
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4035020,
+        "name": "Charlie Woerner"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 13.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-06T00:15:00.000+00:00",
+        "id": 401872979
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4035020,
+        "name": "Charlie Woerner"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-25T00:15:00.000+00:00",
+        "id": 401872948
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4035020,
+        "name": "Charlie Woerner"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872933
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4035020,
+        "name": "Charlie Woerner"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872658
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4035020,
+        "name": "Charlie Woerner"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873058
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3917914,
+        "name": "Olamide Zaccheaus"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 17.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T14:30:00.000+00:00",
+        "id": 401873038
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3917914,
+        "name": "Olamide Zaccheaus"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873025
+      },
+      "longest_reception": 4.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3917914,
+        "name": "Olamide Zaccheaus"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872999
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3917914,
+        "name": "Olamide Zaccheaus"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-12T00:20:00.000+00:00",
+        "id": 401872993
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3917914,
+        "name": "Olamide Zaccheaus"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-06T00:15:00.000+00:00",
+        "id": 401872979
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3917914,
+        "name": "Olamide Zaccheaus"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-25T00:15:00.000+00:00",
+        "id": 401872948
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3917914,
+        "name": "Olamide Zaccheaus"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872933
+      },
+      "longest_reception": 3.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3917914,
+        "name": "Olamide Zaccheaus"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 3.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872658
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3917914,
+        "name": "Olamide Zaccheaus"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872999
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 2.0,
+      "player": {
+        "id": 4241474,
+        "name": "Brian Robinson Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 2.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "targets": 2.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-12T00:20:00.000+00:00",
+        "id": 401872993
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 4.0,
+      "player": {
+        "id": 4241474,
+        "name": "Brian Robinson Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 16.0,
+      "targets": 1.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-06T00:15:00.000+00:00",
+        "id": 401872979
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 11.0,
+      "player": {
+        "id": 4241474,
+        "name": "Brian Robinson Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 14.0,
+      "rushing_touchdowns": 3.0,
+      "rushing_yards": 62.0,
+      "targets": 1.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-25T00:15:00.000+00:00",
+        "id": 401872948
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 16.0,
+      "player": {
+        "id": 4241474,
+        "name": "Brian Robinson Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 10.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 50.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872933
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4241474,
+        "name": "Brian Robinson Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 16.0,
+      "receptions": 2.0,
+      "rushing_attempts": 11.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 51.0,
+      "targets": 2.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872658
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 14.0,
+      "player": {
+        "id": 4241474,
+        "name": "Brian Robinson Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 9.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 31.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872998
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4248557,
+        "name": "E.J. Jenkins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T13:30:00.000+00:00",
+        "id": 401872981
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4248557,
+        "name": "E.J. Jenkins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872970
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4248557,
+        "name": "E.J. Jenkins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-29T00:15:00.000+00:00",
+        "id": 401872963
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4248557,
+        "name": "E.J. Jenkins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872939
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4248557,
+        "name": "E.J. Jenkins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872929
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4248557,
+        "name": "E.J. Jenkins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    }
+  ],
+  "results": 125
+}

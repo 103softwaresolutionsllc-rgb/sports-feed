@@ -1,0 +1,2427 @@
+{
+  "errors": [],
+  "get": "players/statistics",
+  "parameters": {
+    "season": "2026",
+    "source": "espn-fallback",
+    "team": "Philadelphia Eagles"
+  },
+  "response": [
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873044
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 5.0,
+      "player": {
+        "id": 3929630,
+        "name": "Saquon Barkley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 13.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 22.0,
+      "targets": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-02T01:20:00.000+00:00",
+        "id": 401873035
+      },
+      "longest_reception": 24.0,
+      "longest_rush": 5.0,
+      "player": {
+        "id": 3929630,
+        "name": "Saquon Barkley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 24.0,
+      "receptions": 1.0,
+      "rushing_attempts": 13.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 30.0,
+      "targets": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-27T00:15:00.000+00:00",
+        "id": 401873009
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 29.0,
+      "player": {
+        "id": 3929630,
+        "name": "Saquon Barkley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 2.0,
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 62.0,
+      "targets": 2.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872970
+      },
+      "longest_reception": 2.0,
+      "longest_rush": 6.0,
+      "player": {
+        "id": 3929630,
+        "name": "Saquon Barkley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 2.0,
+      "receptions": 1.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 8.0,
+      "targets": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-29T00:15:00.000+00:00",
+        "id": 401872963
+      },
+      "longest_reception": -2.0,
+      "longest_rush": 17.0,
+      "player": {
+        "id": 3929630,
+        "name": "Saquon Barkley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": -2.0,
+      "receptions": 1.0,
+      "rushing_attempts": 15.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 82.0,
+      "targets": 2.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872939
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 4.0,
+      "player": {
+        "id": 3929630,
+        "name": "Saquon Barkley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 11.0,
+      "receptions": 1.0,
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 9.0,
+      "targets": 2.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872929
+      },
+      "longest_reception": -3.0,
+      "longest_rush": 42.0,
+      "player": {
+        "id": 3929630,
+        "name": "Saquon Barkley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": -3.0,
+      "receptions": 1.0,
+      "rushing_attempts": 15.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 83.0,
+      "targets": 2.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872970
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 19.0,
+      "player": {
+        "id": 4429013,
+        "name": "Tank Bigsby"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 14.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 55.0,
+      "targets": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-29T00:15:00.000+00:00",
+        "id": 401872963
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429013,
+        "name": "Tank Bigsby"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872939
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4429013,
+        "name": "Tank Bigsby"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 2.0,
+      "rushing_attempts": 13.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 33.0,
+      "targets": 2.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872929
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 3.0,
+      "player": {
+        "id": 4429013,
+        "name": "Tank Bigsby"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 3.0,
+      "targets": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873044
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685279,
+        "name": "Jaydon Blue"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-02T01:20:00.000+00:00",
+        "id": 401873035
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685279,
+        "name": "Jaydon Blue"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873044
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241374,
+        "name": "Grant Calcaterra"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-02T01:20:00.000+00:00",
+        "id": 401873035
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241374,
+        "name": "Grant Calcaterra"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-27T00:15:00.000+00:00",
+        "id": 401873009
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241374,
+        "name": "Grant Calcaterra"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873044
+      },
+      "longest_reception": 20.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4715355,
+        "name": "Darius Cooper"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 25.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-02T01:20:00.000+00:00",
+        "id": 401873035
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4715355,
+        "name": "Darius Cooper"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 19.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-27T00:15:00.000+00:00",
+        "id": 401873009
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4715355,
+        "name": "Darius Cooper"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 17.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872998
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4715355,
+        "name": "Darius Cooper"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T13:30:00.000+00:00",
+        "id": 401872981
+      },
+      "longest_reception": 62.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4715355,
+        "name": "Darius Cooper"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 71.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872970
+      },
+      "longest_reception": 18.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4715355,
+        "name": "Darius Cooper"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 33.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-29T00:15:00.000+00:00",
+        "id": 401872963
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4715355,
+        "name": "Darius Cooper"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872939
+      },
+      "longest_reception": 23.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4715355,
+        "name": "Darius Cooper"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 26.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-27T00:15:00.000+00:00",
+        "id": 401873009
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3926231,
+        "name": "Britain Covey"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872998
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3926231,
+        "name": "Britain Covey"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T13:30:00.000+00:00",
+        "id": 401872981
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3926231,
+        "name": "Britain Covey"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872970
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3926231,
+        "name": "Britain Covey"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-29T00:15:00.000+00:00",
+        "id": 401872963
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3926231,
+        "name": "Britain Covey"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872939
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3926231,
+        "name": "Britain Covey"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T13:30:00.000+00:00",
+        "id": 401872981
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 15835,
+        "name": "Zach Ertz"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872970
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 15835,
+        "name": "Zach Ertz"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 13.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-29T00:15:00.000+00:00",
+        "id": 401872963
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 15835,
+        "name": "Zach Ertz"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873044
+      },
+      "longest_reception": 19.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3121023,
+        "name": "Dallas Goedert"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 50.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-02T01:20:00.000+00:00",
+        "id": 401873035
+      },
+      "longest_reception": 16.0,
+      "longest_rush": 2.0,
+      "player": {
+        "id": 3121023,
+        "name": "Dallas Goedert"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 30.0,
+      "receptions": 4.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 2.0,
+      "targets": 4.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-27T00:15:00.000+00:00",
+        "id": 401873009
+      },
+      "longest_reception": 18.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3121023,
+        "name": "Dallas Goedert"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 48.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872998
+      },
+      "longest_reception": 18.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3121023,
+        "name": "Dallas Goedert"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 61.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T13:30:00.000+00:00",
+        "id": 401872981
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3121023,
+        "name": "Dallas Goedert"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 38.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872939
+      },
+      "longest_reception": 4.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3121023,
+        "name": "Dallas Goedert"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872929
+      },
+      "longest_reception": 43.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3121023,
+        "name": "Dallas Goedert"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 77.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873044
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4870795,
+        "name": "Makai Lemon"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 61.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-02T01:20:00.000+00:00",
+        "id": 401873035
+      },
+      "longest_reception": 20.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4870795,
+        "name": "Makai Lemon"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 57.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-27T00:15:00.000+00:00",
+        "id": 401873009
+      },
+      "longest_reception": 21.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4870795,
+        "name": "Makai Lemon"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 67.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872998
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4870795,
+        "name": "Makai Lemon"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 19.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T13:30:00.000+00:00",
+        "id": 401872981
+      },
+      "longest_reception": 18.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4870795,
+        "name": "Makai Lemon"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 43.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872970
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4870795,
+        "name": "Makai Lemon"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 27.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-29T00:15:00.000+00:00",
+        "id": 401872963
+      },
+      "longest_reception": 19.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4870795,
+        "name": "Makai Lemon"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 29.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872939
+      },
+      "longest_reception": 14.0,
+      "longest_rush": -5.0,
+      "player": {
+        "id": 4870795,
+        "name": "Makai Lemon"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 14.0,
+      "receptions": 1.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -5.0,
+      "targets": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872929
+      },
+      "longest_reception": 3.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4870795,
+        "name": "Makai Lemon"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": -5.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "completions": 23.0,
+      "game": {
+        "date": "2026-11-02T01:20:00.000+00:00",
+        "id": 401873035
+      },
+      "longest_rush": 15.0,
+      "passing_attempts": 34.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 212.0,
+      "player": {
+        "id": 4685201,
+        "name": "Tanner McKee"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 25.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "completions": 23.0,
+      "game": {
+        "date": "2026-10-27T00:15:00.000+00:00",
+        "id": 401873009
+      },
+      "longest_rush": 1.0,
+      "passing_attempts": 35.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 211.0,
+      "player": {
+        "id": 4685201,
+        "name": "Tanner McKee"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "completions": 26.0,
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872998
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 45.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 215.0,
+      "player": {
+        "id": 4685201,
+        "name": "Tanner McKee"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "completions": 18.0,
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873044
+      },
+      "longest_rush": 24.0,
+      "passing_attempts": 34.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 169.0,
+      "player": {
+        "id": 4360698,
+        "name": "Joe Milton"
+      },
+      "rushing_attempts": 9.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 64.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873044
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 4.0,
+      "player": {
+        "id": 4241555,
+        "name": "Elijah Mitchell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 20.0,
+      "receptions": 3.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 6.0,
+      "targets": 4.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-02T01:20:00.000+00:00",
+        "id": 401873035
+      },
+      "longest_reception": 4.0,
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4241555,
+        "name": "Elijah Mitchell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 3.0,
+      "receptions": 4.0,
+      "rushing_attempts": 11.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 34.0,
+      "targets": 6.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-27T00:15:00.000+00:00",
+        "id": 401873009
+      },
+      "longest_reception": 15.0,
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4241555,
+        "name": "Elijah Mitchell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 23.0,
+      "receptions": 3.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 11.0,
+      "targets": 4.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873044
+      },
+      "longest_reception": -3.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372414,
+        "name": "Elijah Moore"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": -3.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-02T01:20:00.000+00:00",
+        "id": 401873035
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372414,
+        "name": "Elijah Moore"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-27T00:15:00.000+00:00",
+        "id": 401873009
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372414,
+        "name": "Elijah Moore"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 16.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872998
+      },
+      "longest_reception": 4.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372414,
+        "name": "Elijah Moore"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T13:30:00.000+00:00",
+        "id": 401872981
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372414,
+        "name": "Elijah Moore"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872970
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372414,
+        "name": "Elijah Moore"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-29T00:15:00.000+00:00",
+        "id": 401872963
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372414,
+        "name": "Elijah Moore"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873044
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3052096,
+        "name": "Johnny Mundt"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-02T01:20:00.000+00:00",
+        "id": 401873035
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3052096,
+        "name": "Johnny Mundt"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-27T00:15:00.000+00:00",
+        "id": 401873009
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3052096,
+        "name": "Johnny Mundt"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872998
+      },
+      "longest_reception": 4.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3052096,
+        "name": "Johnny Mundt"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T13:30:00.000+00:00",
+        "id": 401872981
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3052096,
+        "name": "Johnny Mundt"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872970
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3052096,
+        "name": "Johnny Mundt"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-29T00:15:00.000+00:00",
+        "id": 401872963
+      },
+      "longest_reception": 4.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3052096,
+        "name": "Johnny Mundt"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872939
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3052096,
+        "name": "Johnny Mundt"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872929
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3052096,
+        "name": "Johnny Mundt"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2026-10-11T13:30:00.000+00:00",
+        "id": 401872981
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 0.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 4879250,
+        "name": "Cole Payton"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-27T00:15:00.000+00:00",
+        "id": 401873009
+      },
+      "longest_reception": 1.0,
+      "longest_rush": 12.0,
+      "player": {
+        "id": 4360238,
+        "name": "Dameon Pierce"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 1.0,
+      "receptions": 1.0,
+      "rushing_attempts": 14.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 47.0,
+      "targets": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872998
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4360238,
+        "name": "Dameon Pierce"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 15.0,
+      "receptions": 4.0,
+      "rushing_attempts": 12.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 35.0,
+      "targets": 5.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T13:30:00.000+00:00",
+        "id": 401872981
+      },
+      "longest_reception": 1.0,
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4360238,
+        "name": "Dameon Pierce"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": -2.0,
+      "receptions": 2.0,
+      "rushing_attempts": 11.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 14.0,
+      "targets": 5.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872998
+      },
+      "longest_reception": 19.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241478,
+        "name": "DeVonta Smith"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 75.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 14.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-29T00:15:00.000+00:00",
+        "id": 401872963
+      },
+      "longest_reception": 30.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241478,
+        "name": "DeVonta Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 65.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872939
+      },
+      "longest_reception": 22.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241478,
+        "name": "DeVonta Smith"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 117.0,
+      "receptions": 10.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 13.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872929
+      },
+      "longest_reception": 31.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241478,
+        "name": "DeVonta Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 53.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873044
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431574,
+        "name": "Eli Stowers"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-02T01:20:00.000+00:00",
+        "id": 401873035
+      },
+      "longest_reception": 34.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431574,
+        "name": "Eli Stowers"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 53.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-27T00:15:00.000+00:00",
+        "id": 401873009
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431574,
+        "name": "Eli Stowers"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872998
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4428850,
+        "name": "Dontayvion Wicks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 24.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T13:30:00.000+00:00",
+        "id": 401872981
+      },
+      "longest_reception": 19.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4428850,
+        "name": "Dontayvion Wicks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 63.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872970
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4428850,
+        "name": "Dontayvion Wicks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 18.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-29T00:15:00.000+00:00",
+        "id": 401872963
+      },
+      "longest_reception": 19.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4428850,
+        "name": "Dontayvion Wicks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 32.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872939
+      },
+      "longest_reception": 27.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4428850,
+        "name": "Dontayvion Wicks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 74.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872929
+      },
+      "longest_reception": 64.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4428850,
+        "name": "Dontayvion Wicks"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 73.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "completions": 21.0,
+      "game": {
+        "date": "2026-10-11T13:30:00.000+00:00",
+        "id": 401872981
+      },
+      "longest_rush": 2.0,
+      "passing_attempts": 40.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 220.0,
+      "player": {
+        "id": 4040715,
+        "name": "Jalen Hurts"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 2.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "completions": 12.0,
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872970
+      },
+      "longest_rush": 14.0,
+      "passing_attempts": 27.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 93.0,
+      "player": {
+        "id": 4040715,
+        "name": "Jalen Hurts"
+      },
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 18.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "completions": 16.0,
+      "game": {
+        "date": "2026-09-29T00:15:00.000+00:00",
+        "id": 401872963
+      },
+      "longest_rush": 20.0,
+      "passing_attempts": 25.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 153.0,
+      "player": {
+        "id": 4040715,
+        "name": "Jalen Hurts"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 25.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "completions": 26.0,
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872939
+      },
+      "longest_rush": 7.0,
+      "passing_attempts": 37.0,
+      "passing_interceptions": 2.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 264.0,
+      "player": {
+        "id": 4040715,
+        "name": "Jalen Hurts"
+      },
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 16.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "completions": 14.0,
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872929
+      },
+      "longest_rush": 22.0,
+      "passing_attempts": 25.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 3.0,
+      "passing_yards": 203.0,
+      "player": {
+        "id": 4040715,
+        "name": "Jalen Hurts"
+      },
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 46.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T13:30:00.000+00:00",
+        "id": 401872981
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 3.0,
+      "player": {
+        "id": 4431545,
+        "name": "Will Shipley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 6.0,
+      "targets": 2.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872970
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4431545,
+        "name": "Will Shipley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 23.0,
+      "targets": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-29T00:15:00.000+00:00",
+        "id": 401872963
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431545,
+        "name": "Will Shipley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 11.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872939
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 7.0,
+      "player": {
+        "id": 4431545,
+        "name": "Will Shipley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 2.0,
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 24.0,
+      "targets": 2.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872929
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 2.0,
+      "player": {
+        "id": 4431545,
+        "name": "Will Shipley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 4.0,
+      "targets": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T21:05:00.000+00:00",
+        "id": 401873046
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4428396,
+        "name": "Hayden Rucci"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 24,
+        "name": "Los Angeles Chargers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T21:05:00.000+00:00",
+        "id": 401873032
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4428396,
+        "name": "Hayden Rucci"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 24,
+        "name": "Los Angeles Chargers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:25:00.000+00:00",
+        "id": 401873006
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4428396,
+        "name": "Hayden Rucci"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 24,
+        "name": "Los Angeles Chargers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T20:05:00.000+00:00",
+        "id": 401872989
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4428396,
+        "name": "Hayden Rucci"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 24,
+        "name": "Los Angeles Chargers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T20:25:00.000+00:00",
+        "id": 401872977
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4428396,
+        "name": "Hayden Rucci"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 24,
+        "name": "Los Angeles Chargers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872953
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4428396,
+        "name": "Hayden Rucci"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 24,
+        "name": "Los Angeles Chargers"
+      }
+    }
+  ],
+  "results": 105
+}

@@ -1,0 +1,2562 @@
+{
+  "errors": [],
+  "get": "players/statistics",
+  "parameters": {
+    "season": "2026",
+    "source": "espn-fallback",
+    "team": "Cincinnati Bengals"
+  },
+  "response": [
+    {
+      "game": {
+        "date": "2026-11-16T01:20:00.000+00:00",
+        "id": 401873064
+      },
+      "longest_rush": 7.0,
+      "player": {
+        "id": 4429299,
+        "name": "Tahj Brooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 12.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873031
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429299,
+        "name": "Tahj Brooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873012
+      },
+      "longest_rush": 3.0,
+      "player": {
+        "id": 4429299,
+        "name": "Tahj Brooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 6.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872982
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429299,
+        "name": "Tahj Brooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872969
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429299,
+        "name": "Tahj Brooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872950
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429299,
+        "name": "Tahj Brooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872934
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429299,
+        "name": "Tahj Brooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-16T01:20:00.000+00:00",
+        "id": 401873064
+      },
+      "longest_rush": 11.0,
+      "player": {
+        "id": 4362238,
+        "name": "Chase Brown"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 39.0,
+      "receptions": 8.0,
+      "rushing_attempts": 10.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 44.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T14:30:00.000+00:00",
+        "id": 401873038
+      },
+      "longest_rush": 19.0,
+      "player": {
+        "id": 4362238,
+        "name": "Chase Brown"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 18.0,
+      "receptions": 3.0,
+      "rushing_attempts": 9.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 57.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873031
+      },
+      "longest_rush": 14.0,
+      "player": {
+        "id": 4362238,
+        "name": "Chase Brown"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 46.0,
+      "receptions": 8.0,
+      "rushing_attempts": 12.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 55.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873012
+      },
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4362238,
+        "name": "Chase Brown"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 19.0,
+      "receptions": 4.0,
+      "rushing_attempts": 11.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 39.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872982
+      },
+      "longest_rush": 7.0,
+      "player": {
+        "id": 4362238,
+        "name": "Chase Brown"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 21.0,
+      "receptions": 3.0,
+      "rushing_attempts": 13.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 39.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872969
+      },
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4362238,
+        "name": "Chase Brown"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 71.0,
+      "receptions": 11.0,
+      "rushing_attempts": 9.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 10.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872950
+      },
+      "longest_rush": 13.0,
+      "player": {
+        "id": 4362238,
+        "name": "Chase Brown"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 2.0,
+      "rushing_attempts": 13.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 61.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872934
+      },
+      "longest_rush": 11.0,
+      "player": {
+        "id": 4362238,
+        "name": "Chase Brown"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 2.0,
+      "receptions": 3.0,
+      "rushing_attempts": 20.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 80.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872925
+      },
+      "longest_rush": 13.0,
+      "player": {
+        "id": 4362238,
+        "name": "Chase Brown"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 22.0,
+      "receptions": 5.0,
+      "rushing_attempts": 16.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 56.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "completions": 35.0,
+      "game": {
+        "date": "2026-11-16T01:20:00.000+00:00",
+        "id": 401873064
+      },
+      "longest_rush": 8.0,
+      "passing_attempts": 44.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 4.0,
+      "passing_yards": 409.0,
+      "player": {
+        "id": 3915511,
+        "name": "Joe Burrow"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 8.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "completions": 24.0,
+      "game": {
+        "date": "2026-11-08T14:30:00.000+00:00",
+        "id": 401873038
+      },
+      "longest_rush": 7.0,
+      "passing_attempts": 29.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 3.0,
+      "passing_yards": 271.0,
+      "player": {
+        "id": 3915511,
+        "name": "Joe Burrow"
+      },
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 7.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "completions": 38.0,
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873031
+      },
+      "longest_rush": 9.0,
+      "passing_attempts": 48.0,
+      "passing_interceptions": 3.0,
+      "passing_touchdowns": 5.0,
+      "passing_yards": 462.0,
+      "player": {
+        "id": 3915511,
+        "name": "Joe Burrow"
+      },
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 10.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "completions": 22.0,
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873012
+      },
+      "longest_rush": 9.0,
+      "passing_attempts": 30.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 4.0,
+      "passing_yards": 292.0,
+      "player": {
+        "id": 3915511,
+        "name": "Joe Burrow"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 12.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "completions": 23.0,
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872982
+      },
+      "longest_rush": 11.0,
+      "passing_attempts": 32.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 4.0,
+      "passing_yards": 190.0,
+      "player": {
+        "id": 3915511,
+        "name": "Joe Burrow"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 10.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "completions": 39.0,
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872969
+      },
+      "longest_rush": 3.0,
+      "passing_attempts": 54.0,
+      "passing_interceptions": 2.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 428.0,
+      "player": {
+        "id": 3915511,
+        "name": "Joe Burrow"
+      },
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 6.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "completions": 28.0,
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872950
+      },
+      "longest_rush": 8.0,
+      "passing_attempts": 37.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 3.0,
+      "passing_yards": 282.0,
+      "player": {
+        "id": 3915511,
+        "name": "Joe Burrow"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 13.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "completions": 20.0,
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872934
+      },
+      "longest_rush": -1.0,
+      "passing_attempts": 31.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 207.0,
+      "player": {
+        "id": 3915511,
+        "name": "Joe Burrow"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -1.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "completions": 25.0,
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872925
+      },
+      "longest_rush": 12.0,
+      "passing_attempts": 35.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 254.0,
+      "player": {
+        "id": 3915511,
+        "name": "Joe Burrow"
+      },
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 20.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-16T01:20:00.000+00:00",
+        "id": 401873064
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362628,
+        "name": "Ja'Marr Chase"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 231.0,
+      "receptions": 11.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T14:30:00.000+00:00",
+        "id": 401873038
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362628,
+        "name": "Ja'Marr Chase"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 155.0,
+      "receptions": 10.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873031
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362628,
+        "name": "Ja'Marr Chase"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 141.0,
+      "receptions": 11.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873012
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362628,
+        "name": "Ja'Marr Chase"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 62.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872982
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362628,
+        "name": "Ja'Marr Chase"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 77.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872969
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362628,
+        "name": "Ja'Marr Chase"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 27.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872950
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362628,
+        "name": "Ja'Marr Chase"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 98.0,
+      "receptions": 9.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872934
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362628,
+        "name": "Ja'Marr Chase"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 75.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872925
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362628,
+        "name": "Ja'Marr Chase"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 12.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-16T01:20:00.000+00:00",
+        "id": 401873064
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5085189,
+        "name": "Jack Endries"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T14:30:00.000+00:00",
+        "id": 401873038
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5085189,
+        "name": "Jack Endries"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873031
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5085189,
+        "name": "Jack Endries"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 1.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873012
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5085189,
+        "name": "Jack Endries"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872969
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5085189,
+        "name": "Jack Endries"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872934
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5085189,
+        "name": "Jack Endries"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2026-11-16T01:20:00.000+00:00",
+        "id": 401873064
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 0.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 11252,
+        "name": "Joe Flacco"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873012
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 0.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 11252,
+        "name": "Joe Flacco"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872969
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 0.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 11252,
+        "name": "Joe Flacco"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872950
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 0.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 11252,
+        "name": "Joe Flacco"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872934
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 0.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 11252,
+        "name": "Joe Flacco"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872925
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 0.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 11252,
+        "name": "Joe Flacco"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-16T01:20:00.000+00:00",
+        "id": 401873064
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3116164,
+        "name": "Mike Gesicki"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T14:30:00.000+00:00",
+        "id": 401873038
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3116164,
+        "name": "Mike Gesicki"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 11.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873031
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3116164,
+        "name": "Mike Gesicki"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 76.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873012
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3116164,
+        "name": "Mike Gesicki"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 6.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872982
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3116164,
+        "name": "Mike Gesicki"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872969
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3116164,
+        "name": "Mike Gesicki"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 40.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872950
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3116164,
+        "name": "Mike Gesicki"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 37.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872934
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3116164,
+        "name": "Mike Gesicki"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872925
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3116164,
+        "name": "Mike Gesicki"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 78.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-16T01:20:00.000+00:00",
+        "id": 401873064
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4700712,
+        "name": "Cam Grandy"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T14:30:00.000+00:00",
+        "id": 401873038
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4700712,
+        "name": "Cam Grandy"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873031
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4700712,
+        "name": "Cam Grandy"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-16T01:20:00.000+00:00",
+        "id": 401873064
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4239993,
+        "name": "Tee Higgins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 66.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T14:30:00.000+00:00",
+        "id": 401873038
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4239993,
+        "name": "Tee Higgins"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 32.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873031
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4239993,
+        "name": "Tee Higgins"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 155.0,
+      "receptions": 10.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873012
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4239993,
+        "name": "Tee Higgins"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 148.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872982
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4239993,
+        "name": "Tee Higgins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 22.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872969
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4239993,
+        "name": "Tee Higgins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 157.0,
+      "receptions": 11.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872950
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4239993,
+        "name": "Tee Higgins"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 90.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872934
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4239993,
+        "name": "Tee Higgins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 95.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872925
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4239993,
+        "name": "Tee Higgins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 59.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-16T01:20:00.000+00:00",
+        "id": 401873064
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4384852,
+        "name": "Dohnte Meyers"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 20.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T14:30:00.000+00:00",
+        "id": 401873038
+      },
+      "longest_rush": 16.0,
+      "player": {
+        "id": 4384852,
+        "name": "Dohnte Meyers"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 47.0,
+      "receptions": 2.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 16.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873031
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4384852,
+        "name": "Dohnte Meyers"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 34.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873012
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4384852,
+        "name": "Dohnte Meyers"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872982
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4384852,
+        "name": "Dohnte Meyers"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 12.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872969
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4384852,
+        "name": "Dohnte Meyers"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 82.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872950
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4384852,
+        "name": "Dohnte Meyers"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 29.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872934
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4384852,
+        "name": "Dohnte Meyers"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872925
+      },
+      "longest_rush": 10.0,
+      "player": {
+        "id": 4384852,
+        "name": "Dohnte Meyers"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 18.0,
+      "receptions": 1.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 10.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-16T01:20:00.000+00:00",
+        "id": 401873064
+      },
+      "longest_rush": 6.0,
+      "player": {
+        "id": 3116389,
+        "name": "Samaje Perine"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 25.0,
+      "receptions": 4.0,
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 14.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T14:30:00.000+00:00",
+        "id": 401873038
+      },
+      "longest_rush": 14.0,
+      "player": {
+        "id": 3116389,
+        "name": "Samaje Perine"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 11.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 43.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873031
+      },
+      "longest_rush": 6.0,
+      "player": {
+        "id": 3116389,
+        "name": "Samaje Perine"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 10.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873012
+      },
+      "longest_rush": 15.0,
+      "player": {
+        "id": 3116389,
+        "name": "Samaje Perine"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 16.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872982
+      },
+      "longest_rush": 11.0,
+      "player": {
+        "id": 3116389,
+        "name": "Samaje Perine"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 10.0,
+      "receptions": 2.0,
+      "rushing_attempts": 14.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 68.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872969
+      },
+      "longest_rush": 3.0,
+      "player": {
+        "id": 3116389,
+        "name": "Samaje Perine"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 7.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872950
+      },
+      "longest_rush": 5.0,
+      "player": {
+        "id": 3116389,
+        "name": "Samaje Perine"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 9.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872934
+      },
+      "longest_rush": 4.0,
+      "player": {
+        "id": 3116389,
+        "name": "Samaje Perine"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 16.0,
+      "receptions": 1.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 6.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872925
+      },
+      "longest_rush": 8.0,
+      "player": {
+        "id": 3116389,
+        "name": "Samaje Perine"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 30.0,
+      "receptions": 3.0,
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 20.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-16T01:20:00.000+00:00",
+        "id": 401873064
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3127310,
+        "name": "Drew Sample"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 15.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T14:30:00.000+00:00",
+        "id": 401873038
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3127310,
+        "name": "Drew Sample"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873031
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3127310,
+        "name": "Drew Sample"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873012
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3127310,
+        "name": "Drew Sample"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 24.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872982
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3127310,
+        "name": "Drew Sample"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872969
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3127310,
+        "name": "Drew Sample"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872950
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3127310,
+        "name": "Drew Sample"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872934
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3127310,
+        "name": "Drew Sample"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872925
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3127310,
+        "name": "Drew Sample"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 19.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-16T01:20:00.000+00:00",
+        "id": 401873064
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4690070,
+        "name": "Mitchell Tinsley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T14:30:00.000+00:00",
+        "id": 401873038
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4690070,
+        "name": "Mitchell Tinsley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873012
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4690070,
+        "name": "Mitchell Tinsley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872982
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4690070,
+        "name": "Mitchell Tinsley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872969
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4690070,
+        "name": "Mitchell Tinsley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 49.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-16T01:20:00.000+00:00",
+        "id": 401873064
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5092508,
+        "name": "Colbie Young"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T14:30:00.000+00:00",
+        "id": 401873038
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5092508,
+        "name": "Colbie Young"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873031
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5092508,
+        "name": "Colbie Young"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873012
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5092508,
+        "name": "Colbie Young"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872950
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5092508,
+        "name": "Colbie Young"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 2.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872934
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5092508,
+        "name": "Colbie Young"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872925
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5092508,
+        "name": "Colbie Young"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873012
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4427834,
+        "name": "Erick All Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 26.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872982
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4427834,
+        "name": "Erick All Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 25.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872969
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4427834,
+        "name": "Erick All Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872950
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4427834,
+        "name": "Erick All Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872934
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4427834,
+        "name": "Erick All Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872925
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4427834,
+        "name": "Erick All Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872982
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3050481,
+        "name": "Tanner Hudson"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 14.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872969
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3050481,
+        "name": "Tanner Hudson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 2.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872950
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3050481,
+        "name": "Tanner Hudson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 13.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872934
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3050481,
+        "name": "Tanner Hudson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872925
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3050481,
+        "name": "Tanner Hudson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872934
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4368003,
+        "name": "Andrei Iosivas"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872925
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4368003,
+        "name": "Andrei Iosivas"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 12.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872950
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4570738,
+        "name": "Ke'Shawn Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Cincinnati Bengals"
+      }
+    }
+  ],
+  "results": 120
+}

@@ -1,0 +1,2729 @@
+{
+  "errors": [],
+  "get": "players/statistics",
+  "parameters": {
+    "season": "2026",
+    "source": "espn-fallback",
+    "team": "Las Vegas Raiders"
+  },
+  "response": [
+    {
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873062
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4603186,
+        "name": "Jack Bech"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 10.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873047
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4603186,
+        "name": "Jack Bech"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873029
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4603186,
+        "name": "Jack Bech"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T20:25:00.000+00:00",
+        "id": 401872961
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4603186,
+        "name": "Jack Bech"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:05:00.000+00:00",
+        "id": 401872941
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4603186,
+        "name": "Jack Bech"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 25.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872928
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4603186,
+        "name": "Jack Bech"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 23.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873021
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5150247,
+        "name": "Malik Benson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:25:00.000+00:00",
+        "id": 401873005
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5150247,
+        "name": "Malik Benson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872986
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5150247,
+        "name": "Malik Benson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T20:25:00.000+00:00",
+        "id": 401872976
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5150247,
+        "name": "Malik Benson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T20:25:00.000+00:00",
+        "id": 401872961
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5150247,
+        "name": "Malik Benson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:05:00.000+00:00",
+        "id": 401872941
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5150247,
+        "name": "Malik Benson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872928
+      },
+      "longest_rush": -8.0,
+      "player": {
+        "id": 5150247,
+        "name": "Malik Benson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 1.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -8.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873062
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4432665,
+        "name": "Brock Bowers"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 18.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873047
+      },
+      "longest_rush": 2.0,
+      "player": {
+        "id": 4432665,
+        "name": "Brock Bowers"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 111.0,
+      "receptions": 7.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 2.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873029
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4432665,
+        "name": "Brock Bowers"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 92.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873021
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4432665,
+        "name": "Brock Bowers"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 73.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:25:00.000+00:00",
+        "id": 401873005
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4432665,
+        "name": "Brock Bowers"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 70.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872986
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4432665,
+        "name": "Brock Bowers"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 110.0,
+      "receptions": 8.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T20:25:00.000+00:00",
+        "id": 401872976
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4432665,
+        "name": "Brock Bowers"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 86.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T20:25:00.000+00:00",
+        "id": 401872961
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4432665,
+        "name": "Brock Bowers"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 116.0,
+      "receptions": 10.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873062
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241961,
+        "name": "Connor Heyward"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873047
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241961,
+        "name": "Connor Heyward"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873029
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241961,
+        "name": "Connor Heyward"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873021
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241961,
+        "name": "Connor Heyward"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 13.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:25:00.000+00:00",
+        "id": 401873005
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241961,
+        "name": "Connor Heyward"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872986
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241961,
+        "name": "Connor Heyward"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T20:25:00.000+00:00",
+        "id": 401872976
+      },
+      "longest_rush": 1.0,
+      "player": {
+        "id": 4241961,
+        "name": "Connor Heyward"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -4.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T20:25:00.000+00:00",
+        "id": 401872961
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241961,
+        "name": "Connor Heyward"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:05:00.000+00:00",
+        "id": 401872941
+      },
+      "longest_rush": 1.0,
+      "player": {
+        "id": 4241961,
+        "name": "Connor Heyward"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872928
+      },
+      "longest_rush": 1.0,
+      "player": {
+        "id": 4241961,
+        "name": "Connor Heyward"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873062
+      },
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4890973,
+        "name": "Ashton Jeanty"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 46.0,
+      "receptions": 4.0,
+      "rushing_attempts": 9.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 18.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873047
+      },
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4890973,
+        "name": "Ashton Jeanty"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": -5.0,
+      "receptions": 5.0,
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 25.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873029
+      },
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4890973,
+        "name": "Ashton Jeanty"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 64.0,
+      "receptions": 3.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 9.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873021
+      },
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4890973,
+        "name": "Ashton Jeanty"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 61.0,
+      "receptions": 8.0,
+      "rushing_attempts": 8.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 15.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:25:00.000+00:00",
+        "id": 401873005
+      },
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4890973,
+        "name": "Ashton Jeanty"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 36.0,
+      "receptions": 4.0,
+      "rushing_attempts": 10.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 22.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872986
+      },
+      "longest_rush": 4.0,
+      "player": {
+        "id": 4890973,
+        "name": "Ashton Jeanty"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 50.0,
+      "receptions": 3.0,
+      "rushing_attempts": 10.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 27.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T20:25:00.000+00:00",
+        "id": 401872976
+      },
+      "longest_rush": 19.0,
+      "player": {
+        "id": 4890973,
+        "name": "Ashton Jeanty"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 68.0,
+      "receptions": 6.0,
+      "rushing_attempts": 15.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 58.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T20:25:00.000+00:00",
+        "id": 401872961
+      },
+      "longest_rush": 12.0,
+      "player": {
+        "id": 4890973,
+        "name": "Ashton Jeanty"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 37.0,
+      "receptions": 3.0,
+      "rushing_attempts": 19.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 56.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:05:00.000+00:00",
+        "id": 401872941
+      },
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4890973,
+        "name": "Ashton Jeanty"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 15.0,
+      "receptions": 4.0,
+      "rushing_attempts": 21.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 48.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872928
+      },
+      "longest_rush": 15.0,
+      "player": {
+        "id": 4890973,
+        "name": "Ashton Jeanty"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 45.0,
+      "receptions": 6.0,
+      "rushing_attempts": 23.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 102.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873062
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4366963,
+        "name": "Dylan Laube"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873047
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4366963,
+        "name": "Dylan Laube"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873029
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4366963,
+        "name": "Dylan Laube"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873021
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4366963,
+        "name": "Dylan Laube"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:25:00.000+00:00",
+        "id": 401873005
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4366963,
+        "name": "Dylan Laube"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": -1.0,
+      "receptions": 1.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872986
+      },
+      "longest_rush": 5.0,
+      "player": {
+        "id": 4366963,
+        "name": "Dylan Laube"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 16.0,
+      "receptions": 3.0,
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 9.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T20:25:00.000+00:00",
+        "id": 401872976
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4366963,
+        "name": "Dylan Laube"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T20:25:00.000+00:00",
+        "id": 401872961
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4366963,
+        "name": "Dylan Laube"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:05:00.000+00:00",
+        "id": 401872941
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4366963,
+        "name": "Dylan Laube"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873062
+      },
+      "longest_rush": 2.0,
+      "player": {
+        "id": 4429086,
+        "name": "Michael Mayer"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 16.0,
+      "receptions": 2.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 2.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873047
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429086,
+        "name": "Michael Mayer"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 37.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873029
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429086,
+        "name": "Michael Mayer"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 53.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873021
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429086,
+        "name": "Michael Mayer"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 32.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:25:00.000+00:00",
+        "id": 401873005
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429086,
+        "name": "Michael Mayer"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 95.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872986
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429086,
+        "name": "Michael Mayer"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 2.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T20:25:00.000+00:00",
+        "id": 401872976
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429086,
+        "name": "Michael Mayer"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 82.0,
+      "receptions": 8.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T20:25:00.000+00:00",
+        "id": 401872961
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429086,
+        "name": "Michael Mayer"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 32.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:05:00.000+00:00",
+        "id": 401872941
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429086,
+        "name": "Michael Mayer"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 23.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872928
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429086,
+        "name": "Michael Mayer"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 32.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "completions": 17.0,
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873062
+      },
+      "longest_rush": 10.0,
+      "passing_attempts": 29.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 143.0,
+      "player": {
+        "id": 4837248,
+        "name": "Fernando Mendoza"
+      },
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 22.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "completions": 6.0,
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872986
+      },
+      "longest_rush": 3.0,
+      "passing_attempts": 8.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 48.0,
+      "player": {
+        "id": 4837248,
+        "name": "Fernando Mendoza"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 3.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2026-09-20T20:05:00.000+00:00",
+        "id": 401872941
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 0.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 4837248,
+        "name": "Fernando Mendoza"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872928
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 0.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 4837248,
+        "name": "Fernando Mendoza"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T20:25:00.000+00:00",
+        "id": 401872976
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3138744,
+        "name": "Chris Myarick"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T20:25:00.000+00:00",
+        "id": 401872961
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3138744,
+        "name": "Chris Myarick"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:05:00.000+00:00",
+        "id": 401872941
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3138744,
+        "name": "Chris Myarick"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872928
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3138744,
+        "name": "Chris Myarick"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873062
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4382466,
+        "name": "Jalen Nailor"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": -1.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873047
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4382466,
+        "name": "Jalen Nailor"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873029
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4382466,
+        "name": "Jalen Nailor"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 38.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873021
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4382466,
+        "name": "Jalen Nailor"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 14.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:25:00.000+00:00",
+        "id": 401873005
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4382466,
+        "name": "Jalen Nailor"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T20:25:00.000+00:00",
+        "id": 401872976
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4382466,
+        "name": "Jalen Nailor"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T20:25:00.000+00:00",
+        "id": 401872961
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4382466,
+        "name": "Jalen Nailor"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 16.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:05:00.000+00:00",
+        "id": 401872941
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4382466,
+        "name": "Jalen Nailor"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872928
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4382466,
+        "name": "Jalen Nailor"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 27.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873062
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5155825,
+        "name": "Carter Runyon"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873062
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4045305,
+        "name": "Ian Thomas"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 13.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873047
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4045305,
+        "name": "Ian Thomas"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873029
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4045305,
+        "name": "Ian Thomas"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873021
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4045305,
+        "name": "Ian Thomas"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:25:00.000+00:00",
+        "id": 401873005
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4045305,
+        "name": "Ian Thomas"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872986
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4045305,
+        "name": "Ian Thomas"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T20:25:00.000+00:00",
+        "id": 401872976
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4045305,
+        "name": "Ian Thomas"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 32.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T20:25:00.000+00:00",
+        "id": 401872961
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4045305,
+        "name": "Ian Thomas"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:05:00.000+00:00",
+        "id": 401872941
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4045305,
+        "name": "Ian Thomas"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 11.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872928
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4045305,
+        "name": "Ian Thomas"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872986
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4374187,
+        "name": "Deven Thompkins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873062
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4428718,
+        "name": "Tre Tucker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873047
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4428718,
+        "name": "Tre Tucker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 55.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873029
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4428718,
+        "name": "Tre Tucker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873021
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4428718,
+        "name": "Tre Tucker"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 103.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:25:00.000+00:00",
+        "id": 401873005
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4428718,
+        "name": "Tre Tucker"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 97.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872986
+      },
+      "longest_rush": 5.0,
+      "player": {
+        "id": 4428718,
+        "name": "Tre Tucker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 41.0,
+      "receptions": 4.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -6.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T20:25:00.000+00:00",
+        "id": 401872976
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4428718,
+        "name": "Tre Tucker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 44.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T20:25:00.000+00:00",
+        "id": 401872961
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4428718,
+        "name": "Tre Tucker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 43.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:05:00.000+00:00",
+        "id": 401872941
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4428718,
+        "name": "Tre Tucker"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 119.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872928
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4428718,
+        "name": "Tre Tucker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 27.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873062
+      },
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4686658,
+        "name": "Mike Washington Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 8.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 23.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873047
+      },
+      "longest_rush": 4.0,
+      "player": {
+        "id": 4686658,
+        "name": "Mike Washington Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -3.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873029
+      },
+      "longest_rush": 15.0,
+      "player": {
+        "id": 4686658,
+        "name": "Mike Washington Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 25.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 83.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873021
+      },
+      "longest_rush": 21.0,
+      "player": {
+        "id": 4686658,
+        "name": "Mike Washington Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 27.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:25:00.000+00:00",
+        "id": 401873005
+      },
+      "longest_rush": 18.0,
+      "player": {
+        "id": 4686658,
+        "name": "Mike Washington Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 9.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 43.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872986
+      },
+      "longest_rush": 5.0,
+      "player": {
+        "id": 4686658,
+        "name": "Mike Washington Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 5.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T20:25:00.000+00:00",
+        "id": 401872976
+      },
+      "longest_rush": 11.0,
+      "player": {
+        "id": 4686658,
+        "name": "Mike Washington Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": -1.0,
+      "receptions": 1.0,
+      "rushing_attempts": 9.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 18.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T20:25:00.000+00:00",
+        "id": 401872961
+      },
+      "longest_rush": 36.0,
+      "player": {
+        "id": 4686658,
+        "name": "Mike Washington Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 54.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:05:00.000+00:00",
+        "id": 401872941
+      },
+      "longest_rush": 3.0,
+      "player": {
+        "id": 4686658,
+        "name": "Mike Washington Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 7.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872928
+      },
+      "longest_rush": 18.0,
+      "player": {
+        "id": 4686658,
+        "name": "Mike Washington Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 41.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873062
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241983,
+        "name": "Cody White"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 22.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873047
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241983,
+        "name": "Cody White"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873029
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241983,
+        "name": "Cody White"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873021
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241983,
+        "name": "Cody White"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:25:00.000+00:00",
+        "id": 401873005
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241983,
+        "name": "Cody White"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872986
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241983,
+        "name": "Cody White"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 44.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T20:25:00.000+00:00",
+        "id": 401872976
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241983,
+        "name": "Cody White"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 36.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T20:25:00.000+00:00",
+        "id": 401872961
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241983,
+        "name": "Cody White"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:05:00.000+00:00",
+        "id": 401872941
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241983,
+        "name": "Cody White"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 24.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872928
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241983,
+        "name": "Cody White"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873062
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4401805,
+        "name": "Dareke Young"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873047
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4401805,
+        "name": "Dareke Young"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873029
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4401805,
+        "name": "Dareke Young"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873021
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4401805,
+        "name": "Dareke Young"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:25:00.000+00:00",
+        "id": 401873005
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4401805,
+        "name": "Dareke Young"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872986
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4401805,
+        "name": "Dareke Young"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T20:25:00.000+00:00",
+        "id": 401872976
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4401805,
+        "name": "Dareke Young"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T20:25:00.000+00:00",
+        "id": 401872961
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4401805,
+        "name": "Dareke Young"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:05:00.000+00:00",
+        "id": 401872941
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4401805,
+        "name": "Dareke Young"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 27.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872928
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4401805,
+        "name": "Dareke Young"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    }
+  ],
+  "results": 129
+}

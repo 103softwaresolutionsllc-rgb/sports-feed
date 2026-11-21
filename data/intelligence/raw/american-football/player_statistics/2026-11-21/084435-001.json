@@ -1,0 +1,2634 @@
+{
+  "errors": [],
+  "get": "players/statistics",
+  "parameters": {
+    "season": "2026",
+    "source": "espn-fallback",
+    "team": "Chicago Bears"
+  },
+  "response": [
+    {
+      "game": {
+        "date": "2026-11-09T01:20:00.000+00:00",
+        "id": 401873050
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4243315,
+        "name": "Salvon Ahmed"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 25.0,
+      "targets": 0.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "completions": 12.0,
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872990
+      },
+      "longest_rush": 7.0,
+      "passing_attempts": 21.0,
+      "passing_interceptions": 2.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 87.0,
+      "player": {
+        "id": 4434153,
+        "name": "Tyson Bagent"
+      },
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 17.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "completions": 25.0,
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872972
+      },
+      "longest_rush": 4.0,
+      "passing_attempts": 34.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 268.0,
+      "player": {
+        "id": 4434153,
+        "name": "Tyson Bagent"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2026-09-29T00:15:00.000+00:00",
+        "id": 401872963
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 0.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 4434153,
+        "name": "Tyson Bagent"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "completions": 5.0,
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872937
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 9.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 54.0,
+      "player": {
+        "id": 4434153,
+        "name": "Tyson Bagent"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-09T01:20:00.000+00:00",
+        "id": 401873050
+      },
+      "longest_reception": 56.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685278,
+        "name": "Luther Burden III"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 97.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 10.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-03T01:15:00.000+00:00",
+        "id": 401873036
+      },
+      "longest_reception": 23.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685278,
+        "name": "Luther Burden III"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 56.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-23T00:15:00.000+00:00",
+        "id": 401873010
+      },
+      "longest_reception": 58.0,
+      "longest_rush": 7.0,
+      "player": {
+        "id": 4685278,
+        "name": "Luther Burden III"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 130.0,
+      "receptions": 4.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 7.0,
+      "targets": 4.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872999
+      },
+      "longest_reception": 25.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685278,
+        "name": "Luther Burden III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 95.0,
+      "receptions": 8.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872990
+      },
+      "longest_reception": 23.0,
+      "longest_rush": 7.0,
+      "player": {
+        "id": 4685278,
+        "name": "Luther Burden III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 47.0,
+      "receptions": 4.0,
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 2.0,
+      "targets": 6.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872972
+      },
+      "longest_reception": 22.0,
+      "longest_rush": 11.0,
+      "player": {
+        "id": 4685278,
+        "name": "Luther Burden III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 63.0,
+      "receptions": 4.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 11.0,
+      "targets": 6.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-29T00:15:00.000+00:00",
+        "id": 401872963
+      },
+      "longest_reception": 25.0,
+      "longest_rush": 7.0,
+      "player": {
+        "id": 4685278,
+        "name": "Luther Burden III"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 61.0,
+      "receptions": 7.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 7.0,
+      "targets": 11.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872937
+      },
+      "longest_reception": 18.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685278,
+        "name": "Luther Burden III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 32.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872661
+      },
+      "longest_reception": 24.0,
+      "longest_rush": 2.0,
+      "player": {
+        "id": 4685278,
+        "name": "Luther Burden III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 63.0,
+      "receptions": 5.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 2.0,
+      "targets": 5.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-09T01:20:00.000+00:00",
+        "id": 401873050
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3948283,
+        "name": "Stephen Carlson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-03T01:15:00.000+00:00",
+        "id": 401873036
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3948283,
+        "name": "Stephen Carlson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872972
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5065495,
+        "name": "Kaden Davis"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-29T00:15:00.000+00:00",
+        "id": 401872963
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5065495,
+        "name": "Kaden Davis"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872937
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5065495,
+        "name": "Kaden Davis"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-09T01:20:00.000+00:00",
+        "id": 401873050
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426386,
+        "name": "Roschon Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-03T01:15:00.000+00:00",
+        "id": 401873036
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4426386,
+        "name": "Roschon Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 11.0,
+      "receptions": 1.0,
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 17.0,
+      "targets": 1.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-23T00:15:00.000+00:00",
+        "id": 401873010
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4426386,
+        "name": "Roschon Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 13.0,
+      "targets": 0.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872999
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 10.0,
+      "player": {
+        "id": 4426386,
+        "name": "Roschon Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 34.0,
+      "receptions": 2.0,
+      "rushing_attempts": 13.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 51.0,
+      "targets": 2.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872990
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 3.0,
+      "player": {
+        "id": 4426386,
+        "name": "Roschon Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 34.0,
+      "receptions": 5.0,
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 6.0,
+      "targets": 7.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872972
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 11.0,
+      "player": {
+        "id": 4426386,
+        "name": "Roschon Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 16.0,
+      "targets": 1.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-29T00:15:00.000+00:00",
+        "id": 401872963
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426386,
+        "name": "Roschon Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872937
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426386,
+        "name": "Roschon Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "completions": 11.0,
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872990
+      },
+      "longest_rush": 4.0,
+      "passing_attempts": 19.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 108.0,
+      "player": {
+        "id": 15168,
+        "name": "Case Keenum"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 4.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872972
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 0.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 15168,
+        "name": "Case Keenum"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "completions": 24.0,
+      "game": {
+        "date": "2026-09-29T00:15:00.000+00:00",
+        "id": 401872963
+      },
+      "longest_rush": 7.0,
+      "passing_attempts": 34.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 247.0,
+      "player": {
+        "id": 15168,
+        "name": "Case Keenum"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 6.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-09T01:20:00.000+00:00",
+        "id": 401873050
+      },
+      "longest_reception": 38.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4723086,
+        "name": "Colston Loveland"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 54.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-03T01:15:00.000+00:00",
+        "id": 401873036
+      },
+      "longest_reception": 15.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4723086,
+        "name": "Colston Loveland"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 65.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-23T00:15:00.000+00:00",
+        "id": 401873010
+      },
+      "longest_reception": 22.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4723086,
+        "name": "Colston Loveland"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 69.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 12.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872999
+      },
+      "longest_reception": 16.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4723086,
+        "name": "Colston Loveland"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 65.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872990
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4723086,
+        "name": "Colston Loveland"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 19.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872972
+      },
+      "longest_reception": 18.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4723086,
+        "name": "Colston Loveland"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 57.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-29T00:15:00.000+00:00",
+        "id": 401872963
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4723086,
+        "name": "Colston Loveland"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 31.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872937
+      },
+      "longest_reception": 3.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4723086,
+        "name": "Colston Loveland"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 3.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872661
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4723086,
+        "name": "Colston Loveland"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872972
+      },
+      "longest_reception": 4.0,
+      "longest_rush": 26.0,
+      "player": {
+        "id": 4608686,
+        "name": "Kyle Monangai"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 30.0,
+      "rushing_touchdowns": 2.0,
+      "rushing_yards": 146.0,
+      "targets": 1.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-29T00:15:00.000+00:00",
+        "id": 401872963
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4608686,
+        "name": "Kyle Monangai"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 10.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 31.0,
+      "targets": 0.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872937
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 15.0,
+      "player": {
+        "id": 4608686,
+        "name": "Kyle Monangai"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 11.0,
+      "receptions": 2.0,
+      "rushing_attempts": 10.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 47.0,
+      "targets": 2.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872661
+      },
+      "longest_reception": 19.0,
+      "longest_rush": 61.0,
+      "player": {
+        "id": 4608686,
+        "name": "Kyle Monangai"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 24.0,
+      "receptions": 2.0,
+      "rushing_attempts": 10.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 100.0,
+      "targets": 2.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-09T01:20:00.000+00:00",
+        "id": 401873050
+      },
+      "longest_reception": 23.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431299,
+        "name": "Rome Odunze"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 60.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-03T01:15:00.000+00:00",
+        "id": 401873036
+      },
+      "longest_reception": 24.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431299,
+        "name": "Rome Odunze"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 87.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-23T00:15:00.000+00:00",
+        "id": 401873010
+      },
+      "longest_reception": 21.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431299,
+        "name": "Rome Odunze"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 69.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872999
+      },
+      "longest_reception": 23.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431299,
+        "name": "Rome Odunze"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 39.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872990
+      },
+      "longest_reception": 20.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431299,
+        "name": "Rome Odunze"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 40.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872972
+      },
+      "longest_reception": 37.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431299,
+        "name": "Rome Odunze"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 94.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-29T00:15:00.000+00:00",
+        "id": 401872963
+      },
+      "longest_reception": 22.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431299,
+        "name": "Rome Odunze"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 44.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872937
+      },
+      "longest_reception": 21.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431299,
+        "name": "Rome Odunze"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 43.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872661
+      },
+      "longest_reception": 47.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431299,
+        "name": "Rome Odunze"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 52.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-09T01:20:00.000+00:00",
+        "id": 401873050
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2973405,
+        "name": "Kalif Raymond"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 32.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-03T01:15:00.000+00:00",
+        "id": 401873036
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 39.0,
+      "player": {
+        "id": 2973405,
+        "name": "Kalif Raymond"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 14.0,
+      "receptions": 2.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 39.0,
+      "targets": 3.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-23T00:15:00.000+00:00",
+        "id": 401873010
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2973405,
+        "name": "Kalif Raymond"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872999
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2973405,
+        "name": "Kalif Raymond"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 18.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872990
+      },
+      "longest_reception": 6.0,
+      "longest_rush": -2.0,
+      "player": {
+        "id": 2973405,
+        "name": "Kalif Raymond"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 3.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -2.0,
+      "targets": 4.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872972
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2973405,
+        "name": "Kalif Raymond"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-29T00:15:00.000+00:00",
+        "id": 401872963
+      },
+      "longest_reception": 41.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2973405,
+        "name": "Kalif Raymond"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 90.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872937
+      },
+      "longest_reception": 16.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2973405,
+        "name": "Kalif Raymond"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 40.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872661
+      },
+      "longest_reception": 28.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2973405,
+        "name": "Kalif Raymond"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 84.0,
+      "receptions": 8.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-09T01:20:00.000+00:00",
+        "id": 401873050
+      },
+      "longest_reception": 18.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685504,
+        "name": "Sam Roush"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 23.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-03T01:15:00.000+00:00",
+        "id": 401873036
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685504,
+        "name": "Sam Roush"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-23T00:15:00.000+00:00",
+        "id": 401873010
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685504,
+        "name": "Sam Roush"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872999
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685504,
+        "name": "Sam Roush"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872990
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685504,
+        "name": "Sam Roush"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872972
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685504,
+        "name": "Sam Roush"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-29T00:15:00.000+00:00",
+        "id": 401872963
+      },
+      "longest_reception": 16.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685504,
+        "name": "Sam Roush"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 16.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872937
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685504,
+        "name": "Sam Roush"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872661
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685504,
+        "name": "Sam Roush"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-09T01:20:00.000+00:00",
+        "id": 401873050
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4259545,
+        "name": "D'Andre Swift"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 12.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 31.0,
+      "targets": 1.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-03T01:15:00.000+00:00",
+        "id": 401873036
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 7.0,
+      "player": {
+        "id": 4259545,
+        "name": "D'Andre Swift"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 10.0,
+      "receptions": 2.0,
+      "rushing_attempts": 27.0,
+      "rushing_touchdowns": 3.0,
+      "rushing_yards": 69.0,
+      "targets": 3.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-23T00:15:00.000+00:00",
+        "id": 401873010
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 10.0,
+      "player": {
+        "id": 4259545,
+        "name": "D'Andre Swift"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 12.0,
+      "receptions": 4.0,
+      "rushing_attempts": 22.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 78.0,
+      "targets": 4.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872999
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 14.0,
+      "player": {
+        "id": 4259545,
+        "name": "D'Andre Swift"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 26.0,
+      "receptions": 4.0,
+      "rushing_attempts": 16.0,
+      "rushing_touchdowns": 2.0,
+      "rushing_yards": 44.0,
+      "targets": 5.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872990
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 12.0,
+      "player": {
+        "id": 4259545,
+        "name": "D'Andre Swift"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 30.0,
+      "receptions": 4.0,
+      "rushing_attempts": 9.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 43.0,
+      "targets": 5.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872972
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 13.0,
+      "player": {
+        "id": 4259545,
+        "name": "D'Andre Swift"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 16.0,
+      "receptions": 2.0,
+      "rushing_attempts": 15.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 58.0,
+      "targets": 2.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-29T00:15:00.000+00:00",
+        "id": 401872963
+      },
+      "longest_reception": 4.0,
+      "longest_rush": 15.0,
+      "player": {
+        "id": 4259545,
+        "name": "D'Andre Swift"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 2.0,
+      "rushing_attempts": 20.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 84.0,
+      "targets": 3.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872937
+      },
+      "longest_reception": 32.0,
+      "longest_rush": 12.0,
+      "player": {
+        "id": 4259545,
+        "name": "D'Andre Swift"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 54.0,
+      "receptions": 5.0,
+      "rushing_attempts": 16.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 45.0,
+      "targets": 6.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872661
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 32.0,
+      "player": {
+        "id": 4259545,
+        "name": "D'Andre Swift"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 10.0,
+      "receptions": 1.0,
+      "rushing_attempts": 18.0,
+      "rushing_touchdowns": 3.0,
+      "rushing_yards": 124.0,
+      "targets": 1.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-09T01:20:00.000+00:00",
+        "id": 401873050
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4869748,
+        "name": "Zavion Thomas"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 13.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-03T01:15:00.000+00:00",
+        "id": 401873036
+      },
+      "longest_reception": 4.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4869748,
+        "name": "Zavion Thomas"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-23T00:15:00.000+00:00",
+        "id": 401873010
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4869748,
+        "name": "Zavion Thomas"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872999
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4869748,
+        "name": "Zavion Thomas"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 25.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872990
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 11.0,
+      "player": {
+        "id": 4869748,
+        "name": "Zavion Thomas"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 11.0,
+      "receptions": 1.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 11.0,
+      "targets": 1.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872972
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4869748,
+        "name": "Zavion Thomas"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-29T00:15:00.000+00:00",
+        "id": 401872963
+      },
+      "longest_reception": 1.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4869748,
+        "name": "Zavion Thomas"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 1.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872937
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4869748,
+        "name": "Zavion Thomas"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872661
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4869748,
+        "name": "Zavion Thomas"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-09T01:20:00.000+00:00",
+        "id": 401873050
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5160110,
+        "name": "Jahdae Walker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-03T01:15:00.000+00:00",
+        "id": 401873036
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5160110,
+        "name": "Jahdae Walker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-23T00:15:00.000+00:00",
+        "id": 401873010
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5160110,
+        "name": "Jahdae Walker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872999
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5160110,
+        "name": "Jahdae Walker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872990
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5160110,
+        "name": "Jahdae Walker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872972
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5160110,
+        "name": "Jahdae Walker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-29T00:15:00.000+00:00",
+        "id": 401872963
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5160110,
+        "name": "Jahdae Walker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872937
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5160110,
+        "name": "Jahdae Walker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872661
+      },
+      "longest_reception": 1.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5160110,
+        "name": "Jahdae Walker"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 1.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "completions": 22.0,
+      "game": {
+        "date": "2026-11-09T01:20:00.000+00:00",
+        "id": 401873050
+      },
+      "longest_rush": 9.0,
+      "passing_attempts": 37.0,
+      "passing_interceptions": 4.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 279.0,
+      "player": {
+        "id": 4431611,
+        "name": "Caleb Williams"
+      },
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 16.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "completions": 24.0,
+      "game": {
+        "date": "2026-11-03T01:15:00.000+00:00",
+        "id": 401873036
+      },
+      "longest_rush": 2.0,
+      "passing_attempts": 34.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 247.0,
+      "player": {
+        "id": 4431611,
+        "name": "Caleb Williams"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "completions": 22.0,
+      "game": {
+        "date": "2026-10-23T00:15:00.000+00:00",
+        "id": 401873010
+      },
+      "longest_rush": 9.0,
+      "passing_attempts": 33.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 308.0,
+      "player": {
+        "id": 4431611,
+        "name": "Caleb Williams"
+      },
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 18.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "completions": 30.0,
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872999
+      },
+      "longest_rush": 2.0,
+      "passing_attempts": 36.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 305.0,
+      "player": {
+        "id": 4431611,
+        "name": "Caleb Williams"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 3.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "completions": 15.0,
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872937
+      },
+      "longest_rush": 17.0,
+      "passing_attempts": 26.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 138.0,
+      "player": {
+        "id": 4431611,
+        "name": "Caleb Williams"
+      },
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 42.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "completions": 21.0,
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872661
+      },
+      "longest_rush": 29.0,
+      "passing_attempts": 29.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 269.0,
+      "player": {
+        "id": 4431611,
+        "name": "Caleb Williams"
+      },
+      "rushing_attempts": 10.0,
+      "rushing_touchdowns": 2.0,
+      "rushing_yards": 65.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-23T00:15:00.000+00:00",
+        "id": 401873010
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4258595,
+        "name": "Cole Kmet"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 28.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872999
+      },
+      "longest_reception": 2.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4258595,
+        "name": "Cole Kmet"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 3.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872990
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4258595,
+        "name": "Cole Kmet"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872972
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4258595,
+        "name": "Cole Kmet"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 13.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-29T00:15:00.000+00:00",
+        "id": 401872963
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4258595,
+        "name": "Cole Kmet"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872937
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4258595,
+        "name": "Cole Kmet"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872661
+      },
+      "longest_reception": 22.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4258595,
+        "name": "Cole Kmet"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 35.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-03T01:15:00.000+00:00",
+        "id": 401873036
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4257364,
+        "name": "Zavier Scott"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-23T00:15:00.000+00:00",
+        "id": 401873010
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4257364,
+        "name": "Zavier Scott"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872999
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4257364,
+        "name": "Zavier Scott"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872990
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4257364,
+        "name": "Zavier Scott"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 3,
+        "name": "Chicago Bears"
+      }
+    }
+  ],
+  "results": 114
+}

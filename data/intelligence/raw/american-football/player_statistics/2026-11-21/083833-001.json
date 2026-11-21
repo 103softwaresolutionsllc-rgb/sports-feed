@@ -1,0 +1,2478 @@
+{
+  "errors": [],
+  "get": "players/statistics",
+  "parameters": {
+    "season": "2026",
+    "source": "espn-fallback",
+    "team": "New York Giants"
+  },
+  "response": [
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872988
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4570296,
+        "name": "Dalen Cambre"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-13T01:15:00.000+00:00",
+        "id": 401873052
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4691889,
+        "name": "Greg Desrosiers Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873044
+      },
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4691889,
+        "name": "Greg Desrosiers Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 20.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873016
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4590292,
+        "name": "Thomas Fidone II"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 29.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401873000
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4590292,
+        "name": "Thomas Fidone II"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872988
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4590292,
+        "name": "Thomas Fidone II"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-13T01:15:00.000+00:00",
+        "id": 401873052
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4682648,
+        "name": "Malachi Fields"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 62.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873044
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4682648,
+        "name": "Malachi Fields"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 40.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873016
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4682648,
+        "name": "Malachi Fields"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 83.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401873000
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4682648,
+        "name": "Malachi Fields"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 19.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872988
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4682648,
+        "name": "Malachi Fields"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 20.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872966
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4682648,
+        "name": "Malachi Fields"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 52.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872956
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4682648,
+        "name": "Malachi Fields"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 19.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-22T00:15:00.000+00:00",
+        "id": 401872947
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4682648,
+        "name": "Malachi Fields"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 30.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-14T00:20:00.000+00:00",
+        "id": 401872930
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4682648,
+        "name": "Malachi Fields"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 25.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-13T01:15:00.000+00:00",
+        "id": 401873052
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4692590,
+        "name": "Jalin Hyatt"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873044
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4692590,
+        "name": "Jalin Hyatt"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873016
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4692590,
+        "name": "Jalin Hyatt"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-13T01:15:00.000+00:00",
+        "id": 401873052
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429148,
+        "name": "Theo Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873044
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429148,
+        "name": "Theo Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872988
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429148,
+        "name": "Theo Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 35.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872966
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429148,
+        "name": "Theo Johnson"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 11.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872956
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429148,
+        "name": "Theo Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-22T00:15:00.000+00:00",
+        "id": 401872947
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429148,
+        "name": "Theo Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-14T00:20:00.000+00:00",
+        "id": 401872930
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429148,
+        "name": "Theo Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-13T01:15:00.000+00:00",
+        "id": 401873052
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361050,
+        "name": "Isaiah Likely"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 127.0,
+      "receptions": 9.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873044
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361050,
+        "name": "Isaiah Likely"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 53.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873016
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361050,
+        "name": "Isaiah Likely"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 12.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401873000
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361050,
+        "name": "Isaiah Likely"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 99.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872988
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361050,
+        "name": "Isaiah Likely"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 94.0,
+      "receptions": 11.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872966
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361050,
+        "name": "Isaiah Likely"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 66.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872956
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361050,
+        "name": "Isaiah Likely"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 13.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-22T00:15:00.000+00:00",
+        "id": 401872947
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361050,
+        "name": "Isaiah Likely"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 33.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-14T00:20:00.000+00:00",
+        "id": 401872930
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361050,
+        "name": "Isaiah Likely"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 78.0,
+      "receptions": 8.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873044
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431562,
+        "name": "Phil Mafah"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-13T01:15:00.000+00:00",
+        "id": 401873052
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2531358,
+        "name": "Chris Manhertz"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873044
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2531358,
+        "name": "Chris Manhertz"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873016
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2531358,
+        "name": "Chris Manhertz"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401873000
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2531358,
+        "name": "Chris Manhertz"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872988
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2531358,
+        "name": "Chris Manhertz"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872966
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2531358,
+        "name": "Chris Manhertz"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872956
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2531358,
+        "name": "Chris Manhertz"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-22T00:15:00.000+00:00",
+        "id": 401872947
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2531358,
+        "name": "Chris Manhertz"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-14T00:20:00.000+00:00",
+        "id": 401872930
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2531358,
+        "name": "Chris Manhertz"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "completions": 23.0,
+      "game": {
+        "date": "2026-11-13T01:15:00.000+00:00",
+        "id": 401873052
+      },
+      "longest_rush": 12.0,
+      "passing_attempts": 36.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 293.0,
+      "player": {
+        "id": 4433970,
+        "name": "J.J. McCarthy"
+      },
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 34.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "completions": 12.0,
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873044
+      },
+      "longest_rush": 11.0,
+      "passing_attempts": 19.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 127.0,
+      "player": {
+        "id": 4433970,
+        "name": "J.J. McCarthy"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 22.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "completions": 20.0,
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873016
+      },
+      "longest_rush": 1.0,
+      "passing_attempts": 28.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 252.0,
+      "player": {
+        "id": 4433970,
+        "name": "J.J. McCarthy"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "completions": 11.0,
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401873000
+      },
+      "longest_rush": 28.0,
+      "passing_attempts": 21.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 243.0,
+      "player": {
+        "id": 4433970,
+        "name": "J.J. McCarthy"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 26.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872988
+      },
+      "longest_rush": 2.0,
+      "passing_attempts": 0.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 4433970,
+        "name": "J.J. McCarthy"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 2.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-13T01:15:00.000+00:00",
+        "id": 401873052
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4040655,
+        "name": "Darnell Mooney"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873044
+      },
+      "longest_rush": -4.0,
+      "player": {
+        "id": 4040655,
+        "name": "Darnell Mooney"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 54.0,
+      "receptions": 3.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -4.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873016
+      },
+      "longest_rush": 3.0,
+      "player": {
+        "id": 4040655,
+        "name": "Darnell Mooney"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 3.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401873000
+      },
+      "longest_rush": 20.0,
+      "player": {
+        "id": 4040655,
+        "name": "Darnell Mooney"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 20.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872988
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4040655,
+        "name": "Darnell Mooney"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 14.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872966
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4040655,
+        "name": "Darnell Mooney"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872956
+      },
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4040655,
+        "name": "Darnell Mooney"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 20.0,
+      "receptions": 2.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 9.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-22T00:15:00.000+00:00",
+        "id": 401872947
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4040655,
+        "name": "Darnell Mooney"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 48.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-14T00:20:00.000+00:00",
+        "id": 401872930
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4040655,
+        "name": "Darnell Mooney"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 27.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-13T01:15:00.000+00:00",
+        "id": 401873052
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4595348,
+        "name": "Malik Nabers"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 44.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873044
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4595348,
+        "name": "Malik Nabers"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 43.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873016
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4595348,
+        "name": "Malik Nabers"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 111.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401873000
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4595348,
+        "name": "Malik Nabers"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 165.0,
+      "receptions": 12.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872988
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4595348,
+        "name": "Malik Nabers"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 121.0,
+      "receptions": 11.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872966
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4595348,
+        "name": "Malik Nabers"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 112.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872956
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4595348,
+        "name": "Malik Nabers"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 26.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-22T00:15:00.000+00:00",
+        "id": 401872947
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4595348,
+        "name": "Malik Nabers"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 1.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-14T00:20:00.000+00:00",
+        "id": 401872930
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4595348,
+        "name": "Malik Nabers"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 69.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-13T01:15:00.000+00:00",
+        "id": 401873052
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2975417,
+        "name": "Patrick Ricard"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873044
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2975417,
+        "name": "Patrick Ricard"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873016
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2975417,
+        "name": "Patrick Ricard"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401873000
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2975417,
+        "name": "Patrick Ricard"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872988
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2975417,
+        "name": "Patrick Ricard"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872966
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2975417,
+        "name": "Patrick Ricard"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 1.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872956
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2975417,
+        "name": "Patrick Ricard"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-22T00:15:00.000+00:00",
+        "id": 401872947
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2975417,
+        "name": "Patrick Ricard"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-14T00:20:00.000+00:00",
+        "id": 401872930
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2975417,
+        "name": "Patrick Ricard"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-13T01:15:00.000+00:00",
+        "id": 401873052
+      },
+      "longest_rush": 3.0,
+      "player": {
+        "id": 4040761,
+        "name": "Devin Singletary"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 3.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873044
+      },
+      "longest_rush": 12.0,
+      "player": {
+        "id": 4040761,
+        "name": "Devin Singletary"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 2.0,
+      "rushing_attempts": 21.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 31.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873016
+      },
+      "longest_rush": 30.0,
+      "player": {
+        "id": 4040761,
+        "name": "Devin Singletary"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 14.0,
+      "receptions": 3.0,
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 41.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401873000
+      },
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4040761,
+        "name": "Devin Singletary"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 19.0,
+      "receptions": 1.0,
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 14.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-22T00:15:00.000+00:00",
+        "id": 401872947
+      },
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4040761,
+        "name": "Devin Singletary"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 9.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-14T00:20:00.000+00:00",
+        "id": 401872930
+      },
+      "longest_rush": 4.0,
+      "player": {
+        "id": 4040761,
+        "name": "Devin Singletary"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 22.0,
+      "receptions": 4.0,
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 16.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-13T01:15:00.000+00:00",
+        "id": 401873052
+      },
+      "longest_rush": 14.0,
+      "player": {
+        "id": 4696981,
+        "name": "Cam Skattebo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 44.0,
+      "receptions": 3.0,
+      "rushing_attempts": 18.0,
+      "rushing_touchdowns": 2.0,
+      "rushing_yards": 78.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873016
+      },
+      "longest_rush": 42.0,
+      "player": {
+        "id": 4696981,
+        "name": "Cam Skattebo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": -3.0,
+      "receptions": 1.0,
+      "rushing_attempts": 17.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 124.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401873000
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4696981,
+        "name": "Cam Skattebo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872988
+      },
+      "longest_rush": 19.0,
+      "player": {
+        "id": 4696981,
+        "name": "Cam Skattebo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 12.0,
+      "receptions": 2.0,
+      "rushing_attempts": 13.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 59.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872966
+      },
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4696981,
+        "name": "Cam Skattebo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 18.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 58.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872956
+      },
+      "longest_rush": 13.0,
+      "player": {
+        "id": 4696981,
+        "name": "Cam Skattebo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 40.0,
+      "receptions": 3.0,
+      "rushing_attempts": 20.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 60.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-22T00:15:00.000+00:00",
+        "id": 401872947
+      },
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4696981,
+        "name": "Cam Skattebo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 19.0,
+      "receptions": 4.0,
+      "rushing_attempts": 12.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 36.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-14T00:20:00.000+00:00",
+        "id": 401872930
+      },
+      "longest_rush": 13.0,
+      "player": {
+        "id": 4696981,
+        "name": "Cam Skattebo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 18.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 81.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873016
+      },
+      "longest_rush": 7.0,
+      "player": {
+        "id": 4360516,
+        "name": "Tyrone Tracy Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 2.0,
+      "receptions": 1.0,
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 15.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401873000
+      },
+      "longest_rush": 5.0,
+      "player": {
+        "id": 4360516,
+        "name": "Tyrone Tracy Jr."
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 27.0,
+      "receptions": 2.0,
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 18.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872988
+      },
+      "longest_rush": 3.0,
+      "player": {
+        "id": 4360516,
+        "name": "Tyrone Tracy Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 25.0,
+      "receptions": 2.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 6.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872966
+      },
+      "longest_rush": -1.0,
+      "player": {
+        "id": 4360516,
+        "name": "Tyrone Tracy Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -1.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872956
+      },
+      "longest_rush": 3.0,
+      "player": {
+        "id": 4360516,
+        "name": "Tyrone Tracy Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 3.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-22T00:15:00.000+00:00",
+        "id": 401872947
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360516,
+        "name": "Tyrone Tracy Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-14T00:20:00.000+00:00",
+        "id": 401872930
+      },
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4360516,
+        "name": "Tyrone Tracy Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 14.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2026-11-13T01:15:00.000+00:00",
+        "id": 401873052
+      },
+      "longest_rush": 1.0,
+      "passing_attempts": 0.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 2969939,
+        "name": "Jameis Winston"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "completions": 6.0,
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873044
+      },
+      "longest_rush": 10.0,
+      "passing_attempts": 8.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 71.0,
+      "player": {
+        "id": 2969939,
+        "name": "Jameis Winston"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 11.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873016
+      },
+      "longest_rush": 2.0,
+      "passing_attempts": 0.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 2969939,
+        "name": "Jameis Winston"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 4.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "completions": 14.0,
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401873000
+      },
+      "longest_rush": 3.0,
+      "passing_attempts": 26.0,
+      "passing_interceptions": 2.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 152.0,
+      "player": {
+        "id": 2969939,
+        "name": "Jameis Winston"
+      },
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 4.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "completions": 33.0,
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872988
+      },
+      "longest_rush": 15.0,
+      "passing_attempts": 54.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 3.0,
+      "passing_yards": 326.0,
+      "player": {
+        "id": 2969939,
+        "name": "Jameis Winston"
+      },
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 27.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "completions": 18.0,
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872966
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 29.0,
+      "passing_interceptions": 2.0,
+      "passing_touchdowns": 3.0,
+      "passing_yards": 250.0,
+      "player": {
+        "id": 2969939,
+        "name": "Jameis Winston"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "completions": 14.0,
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872956
+      },
+      "longest_rush": 15.0,
+      "passing_attempts": 22.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 118.0,
+      "player": {
+        "id": 2969939,
+        "name": "Jameis Winston"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 14.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "completions": 11.0,
+      "game": {
+        "date": "2026-09-22T00:15:00.000+00:00",
+        "id": 401872947
+      },
+      "longest_rush": 1.0,
+      "passing_attempts": 27.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 111.0,
+      "player": {
+        "id": 2969939,
+        "name": "Jameis Winston"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872966
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3123075,
+        "name": "Braxton Berrios"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872956
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3123075,
+        "name": "Braxton Berrios"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-22T00:15:00.000+00:00",
+        "id": 401872947
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3123075,
+        "name": "Braxton Berrios"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "completions": 3.0,
+      "game": {
+        "date": "2026-09-22T00:15:00.000+00:00",
+        "id": 401872947
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 5.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 20.0,
+      "player": {
+        "id": 4689114,
+        "name": "Jaxson Dart"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "completions": 23.0,
+      "game": {
+        "date": "2026-09-14T00:20:00.000+00:00",
+        "id": 401872930
+      },
+      "longest_rush": 22.0,
+      "passing_attempts": 29.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 3.0,
+      "passing_yards": 230.0,
+      "player": {
+        "id": 4689114,
+        "name": "Jaxson Dart"
+      },
+      "rushing_attempts": 11.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 54.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-13T01:15:00.000+00:00",
+        "id": 401873052
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4257188,
+        "name": "Charlie Jones"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873044
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4257188,
+        "name": "Charlie Jones"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873016
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4257188,
+        "name": "Charlie Jones"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401873000
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4257188,
+        "name": "Charlie Jones"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 66.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872988
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4257188,
+        "name": "Charlie Jones"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872966
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4257188,
+        "name": "Charlie Jones"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 19,
+        "name": "New York Giants"
+      }
+    }
+  ],
+  "results": 116
+}

@@ -1,0 +1,2772 @@
+{
+  "errors": [],
+  "get": "players/statistics",
+  "parameters": {
+    "season": "2026",
+    "source": "espn-fallback",
+    "team": "Los Angeles Rams"
+  },
+  "response": [
+    {
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873061
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426553,
+        "name": "Davis Allen"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 19.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873043
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426553,
+        "name": "Davis Allen"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T21:05:00.000+00:00",
+        "id": 401873032
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426553,
+        "name": "Davis Allen"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873021
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426553,
+        "name": "Davis Allen"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 20.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:05:00.000+00:00",
+        "id": 401873004
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426553,
+        "name": "Davis Allen"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-13T00:15:00.000+00:00",
+        "id": 401872994
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426553,
+        "name": "Davis Allen"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 24.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872970
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426553,
+        "name": "Davis Allen"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-28T00:20:00.000+00:00",
+        "id": 401872962
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426553,
+        "name": "Davis Allen"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 19.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-22T00:15:00.000+00:00",
+        "id": 401872947
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426553,
+        "name": "Davis Allen"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-11T00:35:00.000+00:00",
+        "id": 401872657
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426553,
+        "name": "Davis Allen"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 13.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873061
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360797,
+        "name": "Tutu Atwell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 31.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873043
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360797,
+        "name": "Tutu Atwell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 16.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T21:05:00.000+00:00",
+        "id": 401873032
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360797,
+        "name": "Tutu Atwell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 52.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873021
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360797,
+        "name": "Tutu Atwell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-13T00:15:00.000+00:00",
+        "id": 401872994
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360797,
+        "name": "Tutu Atwell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872970
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360797,
+        "name": "Tutu Atwell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-22T00:15:00.000+00:00",
+        "id": 401872947
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360797,
+        "name": "Tutu Atwell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 19.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2026-10-18T20:05:00.000+00:00",
+        "id": 401873004
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 0.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 4259553,
+        "name": "Stetson Bennett IV"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872970
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 0.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 4259553,
+        "name": "Stetson Bennett IV"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2026-09-28T00:20:00.000+00:00",
+        "id": 401872962
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 0.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 4259553,
+        "name": "Stetson Bennett IV"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2026-09-22T00:15:00.000+00:00",
+        "id": 401872947
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 0.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 4259553,
+        "name": "Stetson Bennett IV"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "completions": 2.0,
+      "game": {
+        "date": "2026-09-11T00:35:00.000+00:00",
+        "id": 401872657
+      },
+      "longest_rush": 9.0,
+      "passing_attempts": 3.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 13.0,
+      "player": {
+        "id": 4259553,
+        "name": "Stetson Bennett IV"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 9.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873061
+      },
+      "longest_rush": 16.0,
+      "player": {
+        "id": 4429096,
+        "name": "Blake Corum"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 19.0,
+      "receptions": 3.0,
+      "rushing_attempts": 17.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 100.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873043
+      },
+      "longest_rush": 15.0,
+      "player": {
+        "id": 4429096,
+        "name": "Blake Corum"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 11.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 58.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T21:05:00.000+00:00",
+        "id": 401873032
+      },
+      "longest_rush": 23.0,
+      "player": {
+        "id": 4429096,
+        "name": "Blake Corum"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 11.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 73.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873021
+      },
+      "longest_rush": 17.0,
+      "player": {
+        "id": 4429096,
+        "name": "Blake Corum"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 17.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 93.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:05:00.000+00:00",
+        "id": 401873004
+      },
+      "longest_rush": 13.0,
+      "player": {
+        "id": 4429096,
+        "name": "Blake Corum"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 18.0,
+      "receptions": 2.0,
+      "rushing_attempts": 9.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 42.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-13T00:15:00.000+00:00",
+        "id": 401872994
+      },
+      "longest_rush": 10.0,
+      "player": {
+        "id": 4429096,
+        "name": "Blake Corum"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 53.0,
+      "receptions": 3.0,
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 19.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872970
+      },
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4429096,
+        "name": "Blake Corum"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 14.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-28T00:20:00.000+00:00",
+        "id": 401872962
+      },
+      "longest_rush": 7.0,
+      "player": {
+        "id": 4429096,
+        "name": "Blake Corum"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 2.0,
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 15.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-22T00:15:00.000+00:00",
+        "id": 401872947
+      },
+      "longest_rush": 18.0,
+      "player": {
+        "id": 4429096,
+        "name": "Blake Corum"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 13.0,
+      "receptions": 1.0,
+      "rushing_attempts": 12.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 79.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-11T00:35:00.000+00:00",
+        "id": 401872657
+      },
+      "longest_rush": 13.0,
+      "player": {
+        "id": 4429096,
+        "name": "Blake Corum"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 10.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 54.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873061
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4605951,
+        "name": "CJ Daniels"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 22.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873043
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4605951,
+        "name": "CJ Daniels"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T21:05:00.000+00:00",
+        "id": 401873032
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4605951,
+        "name": "CJ Daniels"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873021
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4605951,
+        "name": "CJ Daniels"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873061
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2573401,
+        "name": "Tyler Higbee"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 17.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873043
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2573401,
+        "name": "Tyler Higbee"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 13.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T21:05:00.000+00:00",
+        "id": 401873032
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2573401,
+        "name": "Tyler Higbee"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 14.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873021
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2573401,
+        "name": "Tyler Higbee"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 14.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:05:00.000+00:00",
+        "id": 401873004
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2573401,
+        "name": "Tyler Higbee"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 22.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-13T00:15:00.000+00:00",
+        "id": 401872994
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2573401,
+        "name": "Tyler Higbee"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 83.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872970
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2573401,
+        "name": "Tyler Higbee"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 67.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-28T00:20:00.000+00:00",
+        "id": 401872962
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2573401,
+        "name": "Tyler Higbee"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 62.0,
+      "receptions": 8.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-22T00:15:00.000+00:00",
+        "id": 401872947
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2573401,
+        "name": "Tyler Higbee"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-11T00:35:00.000+00:00",
+        "id": 401872657
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2573401,
+        "name": "Tyler Higbee"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 12.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873061
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4833029,
+        "name": "Max Klare"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873043
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4833029,
+        "name": "Max Klare"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T21:05:00.000+00:00",
+        "id": 401873032
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4833029,
+        "name": "Max Klare"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:05:00.000+00:00",
+        "id": 401873004
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4833029,
+        "name": "Max Klare"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872970
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4833029,
+        "name": "Max Klare"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-28T00:20:00.000+00:00",
+        "id": 401872962
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4833029,
+        "name": "Max Klare"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-22T00:15:00.000+00:00",
+        "id": 401872947
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4833029,
+        "name": "Max Klare"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873061
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4710855,
+        "name": "Konata Mumpfield"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 81.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873043
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4710855,
+        "name": "Konata Mumpfield"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 20.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T21:05:00.000+00:00",
+        "id": 401873032
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4710855,
+        "name": "Konata Mumpfield"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873021
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4710855,
+        "name": "Konata Mumpfield"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 15.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:05:00.000+00:00",
+        "id": 401873004
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4710855,
+        "name": "Konata Mumpfield"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 15.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-13T00:15:00.000+00:00",
+        "id": 401872994
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4710855,
+        "name": "Konata Mumpfield"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872970
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4710855,
+        "name": "Konata Mumpfield"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-28T00:20:00.000+00:00",
+        "id": 401872962
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4710855,
+        "name": "Konata Mumpfield"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 93.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-22T00:15:00.000+00:00",
+        "id": 401872947
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4710855,
+        "name": "Konata Mumpfield"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 12.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-11T00:35:00.000+00:00",
+        "id": 401872657
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4710855,
+        "name": "Konata Mumpfield"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873061
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4242557,
+        "name": "Colby Parkinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 11.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873043
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4242557,
+        "name": "Colby Parkinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 13.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873021
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4242557,
+        "name": "Colby Parkinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 48.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:05:00.000+00:00",
+        "id": 401873004
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4242557,
+        "name": "Colby Parkinson"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 31.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-13T00:15:00.000+00:00",
+        "id": 401872994
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4242557,
+        "name": "Colby Parkinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 3.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-28T00:20:00.000+00:00",
+        "id": 401872962
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4242557,
+        "name": "Colby Parkinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-22T00:15:00.000+00:00",
+        "id": 401872947
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4242557,
+        "name": "Colby Parkinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 15.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-11T00:35:00.000+00:00",
+        "id": 401872657
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4242557,
+        "name": "Colby Parkinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873061
+      },
+      "longest_rush": 16.0,
+      "player": {
+        "id": 4243003,
+        "name": "Ronnie Rivers"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 15.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 81.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873043
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4243003,
+        "name": "Ronnie Rivers"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-22T00:15:00.000+00:00",
+        "id": 401872947
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4243003,
+        "name": "Ronnie Rivers"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-11T00:35:00.000+00:00",
+        "id": 401872657
+      },
+      "longest_rush": 7.0,
+      "player": {
+        "id": 4243003,
+        "name": "Ronnie Rivers"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 19.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873061
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4386544,
+        "name": "Xavier Smith"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 40.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-28T00:20:00.000+00:00",
+        "id": 401872962
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4386544,
+        "name": "Xavier Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-22T00:15:00.000+00:00",
+        "id": 401872947
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4386544,
+        "name": "Xavier Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-11T00:35:00.000+00:00",
+        "id": 401872657
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4386544,
+        "name": "Xavier Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "completions": 18.0,
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873061
+      },
+      "longest_rush": -1.0,
+      "passing_attempts": 26.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 3.0,
+      "passing_yards": 249.0,
+      "player": {
+        "id": 12483,
+        "name": "Matthew Stafford"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -2.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "completions": 26.0,
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873043
+      },
+      "longest_rush": 1.0,
+      "passing_attempts": 43.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 228.0,
+      "player": {
+        "id": 12483,
+        "name": "Matthew Stafford"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "completions": 17.0,
+      "game": {
+        "date": "2026-11-01T21:05:00.000+00:00",
+        "id": 401873032
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 25.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 157.0,
+      "player": {
+        "id": 12483,
+        "name": "Matthew Stafford"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "completions": 23.0,
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873021
+      },
+      "longest_rush": -1.0,
+      "passing_attempts": 29.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 3.0,
+      "passing_yards": 195.0,
+      "player": {
+        "id": 12483,
+        "name": "Matthew Stafford"
+      },
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -3.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "completions": 25.0,
+      "game": {
+        "date": "2026-10-18T20:05:00.000+00:00",
+        "id": 401873004
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 33.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 222.0,
+      "player": {
+        "id": 12483,
+        "name": "Matthew Stafford"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "completions": 40.0,
+      "game": {
+        "date": "2026-10-13T00:15:00.000+00:00",
+        "id": 401872994
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 54.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 3.0,
+      "passing_yards": 383.0,
+      "player": {
+        "id": 12483,
+        "name": "Matthew Stafford"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "completions": 32.0,
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872970
+      },
+      "longest_rush": 8.0,
+      "passing_attempts": 51.0,
+      "passing_interceptions": 2.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 317.0,
+      "player": {
+        "id": 12483,
+        "name": "Matthew Stafford"
+      },
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 10.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "completions": 30.0,
+      "game": {
+        "date": "2026-09-28T00:20:00.000+00:00",
+        "id": 401872962
+      },
+      "longest_rush": 10.0,
+      "passing_attempts": 55.0,
+      "passing_interceptions": 2.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 390.0,
+      "player": {
+        "id": 12483,
+        "name": "Matthew Stafford"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 13.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "completions": 22.0,
+      "game": {
+        "date": "2026-09-22T00:15:00.000+00:00",
+        "id": 401872947
+      },
+      "longest_rush": 2.0,
+      "passing_attempts": 31.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 4.0,
+      "passing_yards": 327.0,
+      "player": {
+        "id": 12483,
+        "name": "Matthew Stafford"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -1.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "completions": 15.0,
+      "game": {
+        "date": "2026-09-11T00:35:00.000+00:00",
+        "id": 401872657
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 25.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 155.0,
+      "player": {
+        "id": 12483,
+        "name": "Matthew Stafford"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -1.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873061
+      },
+      "longest_rush": 7.0,
+      "player": {
+        "id": 4430737,
+        "name": "Kyren Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 2.0,
+      "rushing_attempts": 12.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 23.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873043
+      },
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4430737,
+        "name": "Kyren Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 16.0,
+      "receptions": 3.0,
+      "rushing_attempts": 15.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 45.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T21:05:00.000+00:00",
+        "id": 401873032
+      },
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4430737,
+        "name": "Kyren Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 3.0,
+      "receptions": 1.0,
+      "rushing_attempts": 16.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 56.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873021
+      },
+      "longest_rush": 17.0,
+      "player": {
+        "id": 4430737,
+        "name": "Kyren Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 22.0,
+      "receptions": 2.0,
+      "rushing_attempts": 16.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 99.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:05:00.000+00:00",
+        "id": 401873004
+      },
+      "longest_rush": 14.0,
+      "player": {
+        "id": 4430737,
+        "name": "Kyren Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 17.0,
+      "receptions": 3.0,
+      "rushing_attempts": 10.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 50.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-13T00:15:00.000+00:00",
+        "id": 401872994
+      },
+      "longest_rush": 12.0,
+      "player": {
+        "id": 4430737,
+        "name": "Kyren Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 27.0,
+      "receptions": 6.0,
+      "rushing_attempts": 16.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 49.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872970
+      },
+      "longest_rush": 23.0,
+      "player": {
+        "id": 4430737,
+        "name": "Kyren Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 67.0,
+      "receptions": 10.0,
+      "rushing_attempts": 16.0,
+      "rushing_touchdowns": 2.0,
+      "rushing_yards": 80.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-28T00:20:00.000+00:00",
+        "id": 401872962
+      },
+      "longest_rush": 30.0,
+      "player": {
+        "id": 4430737,
+        "name": "Kyren Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 70.0,
+      "receptions": 6.0,
+      "rushing_attempts": 15.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 88.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-22T00:15:00.000+00:00",
+        "id": 401872947
+      },
+      "longest_rush": 20.0,
+      "player": {
+        "id": 4430737,
+        "name": "Kyren Williams"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 12.0,
+      "receptions": 2.0,
+      "rushing_attempts": 12.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 85.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-11T00:35:00.000+00:00",
+        "id": 401872657
+      },
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4430737,
+        "name": "Kyren Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 24.0,
+      "receptions": 3.0,
+      "rushing_attempts": 11.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 41.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:05:00.000+00:00",
+        "id": 401873004
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16800,
+        "name": "Davante Adams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 39.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-13T00:15:00.000+00:00",
+        "id": 401872994
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16800,
+        "name": "Davante Adams"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 51.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872970
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16800,
+        "name": "Davante Adams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 32.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-28T00:20:00.000+00:00",
+        "id": 401872962
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16800,
+        "name": "Davante Adams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 137.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-22T00:15:00.000+00:00",
+        "id": 401872947
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16800,
+        "name": "Davante Adams"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 195.0,
+      "receptions": 8.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-11T00:35:00.000+00:00",
+        "id": 401872657
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16800,
+        "name": "Davante Adams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 26.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T21:05:00.000+00:00",
+        "id": 401873032
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5082269,
+        "name": "Dean Connors"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873021
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5082269,
+        "name": "Dean Connors"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:05:00.000+00:00",
+        "id": 401873004
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5082269,
+        "name": "Dean Connors"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-13T00:15:00.000+00:00",
+        "id": 401872994
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5082269,
+        "name": "Dean Connors"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872970
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5082269,
+        "name": "Dean Connors"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-28T00:20:00.000+00:00",
+        "id": 401872962
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5082269,
+        "name": "Dean Connors"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-28T00:20:00.000+00:00",
+        "id": 401872962
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4570037,
+        "name": "Terrance Ferguson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-22T00:15:00.000+00:00",
+        "id": 401872947
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4570037,
+        "name": "Terrance Ferguson"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 54.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-11T00:35:00.000+00:00",
+        "id": 401872657
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4570037,
+        "name": "Terrance Ferguson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873043
+      },
+      "longest_rush": 15.0,
+      "player": {
+        "id": 4426515,
+        "name": "Puka Nacua"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 150.0,
+      "receptions": 14.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 20.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T21:05:00.000+00:00",
+        "id": 401873032
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426515,
+        "name": "Puka Nacua"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 80.0,
+      "receptions": 11.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873021
+      },
+      "longest_rush": 7.0,
+      "player": {
+        "id": 4426515,
+        "name": "Puka Nacua"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 68.0,
+      "receptions": 8.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 10.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:05:00.000+00:00",
+        "id": 401873004
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426515,
+        "name": "Puka Nacua"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 80.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-13T00:15:00.000+00:00",
+        "id": 401872994
+      },
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4426515,
+        "name": "Puka Nacua"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 138.0,
+      "receptions": 17.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 9.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872970
+      },
+      "longest_rush": 2.0,
+      "player": {
+        "id": 4426515,
+        "name": "Puka Nacua"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 125.0,
+      "receptions": 9.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 2.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-11T00:35:00.000+00:00",
+        "id": 401872657
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426515,
+        "name": "Puka Nacua"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 74.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873043
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569382,
+        "name": "Jordan Whittington"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T21:05:00.000+00:00",
+        "id": 401873032
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569382,
+        "name": "Jordan Whittington"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873021
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569382,
+        "name": "Jordan Whittington"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:05:00.000+00:00",
+        "id": 401873004
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569382,
+        "name": "Jordan Whittington"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-13T00:15:00.000+00:00",
+        "id": 401872994
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569382,
+        "name": "Jordan Whittington"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872970
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569382,
+        "name": "Jordan Whittington"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-28T00:20:00.000+00:00",
+        "id": 401872962
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569382,
+        "name": "Jordan Whittington"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-11T00:35:00.000+00:00",
+        "id": 401872657
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569382,
+        "name": "Jordan Whittington"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873061
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431342,
+        "name": "Brennan Presley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 14,
+        "name": "Los Angeles Rams"
+      }
+    }
+  ],
+  "results": 130
+}

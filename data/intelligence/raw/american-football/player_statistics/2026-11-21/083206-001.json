@@ -1,0 +1,2852 @@
+{
+  "errors": [],
+  "get": "players/statistics",
+  "parameters": {
+    "season": "2026",
+    "source": "espn-fallback",
+    "team": "Cleveland Browns"
+  },
+  "response": [
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873056
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4808839,
+        "name": "Isaiah Bond"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873039
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4808839,
+        "name": "Isaiah Bond"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873027
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4808839,
+        "name": "Isaiah Bond"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873013
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4808839,
+        "name": "Isaiah Bond"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872997
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4808839,
+        "name": "Isaiah Bond"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872983
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4808839,
+        "name": "Isaiah Bond"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 74.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-02T00:15:00.000+00:00",
+        "id": 401872964
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4808839,
+        "name": "Isaiah Bond"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 2.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872949
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4808839,
+        "name": "Isaiah Bond"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872935
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4808839,
+        "name": "Isaiah Bond"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 10.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872922
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4808839,
+        "name": "Isaiah Bond"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873056
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4832800,
+        "name": "Denzel Boston"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 16.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873039
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4832800,
+        "name": "Denzel Boston"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 98.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873027
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4832800,
+        "name": "Denzel Boston"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 37.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873013
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4832800,
+        "name": "Denzel Boston"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 27.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872997
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4832800,
+        "name": "Denzel Boston"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 15.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872983
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4832800,
+        "name": "Denzel Boston"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 46.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-02T00:15:00.000+00:00",
+        "id": 401872964
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4832800,
+        "name": "Denzel Boston"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 89.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872949
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4832800,
+        "name": "Denzel Boston"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 41.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872935
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4832800,
+        "name": "Denzel Boston"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 95.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872922
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4832800,
+        "name": "Denzel Boston"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 59.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873056
+      },
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4870653,
+        "name": "KC Concepcion"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 21.0,
+      "receptions": 3.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 6.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873039
+      },
+      "longest_rush": 3.0,
+      "player": {
+        "id": 4870653,
+        "name": "KC Concepcion"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 85.0,
+      "receptions": 4.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 3.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873027
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4870653,
+        "name": "KC Concepcion"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 37.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873013
+      },
+      "longest_rush": 18.0,
+      "player": {
+        "id": 4870653,
+        "name": "KC Concepcion"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 129.0,
+      "receptions": 8.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 23.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872997
+      },
+      "longest_rush": 2.0,
+      "player": {
+        "id": 4870653,
+        "name": "KC Concepcion"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 37.0,
+      "receptions": 4.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 2.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872983
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4870653,
+        "name": "KC Concepcion"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-02T00:15:00.000+00:00",
+        "id": 401872964
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4870653,
+        "name": "KC Concepcion"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 64.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872949
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4870653,
+        "name": "KC Concepcion"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872935
+      },
+      "longest_rush": -6.0,
+      "player": {
+        "id": 4870653,
+        "name": "KC Concepcion"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 28.0,
+      "receptions": 6.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -6.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872922
+      },
+      "longest_rush": 10.0,
+      "player": {
+        "id": 4870653,
+        "name": "KC Concepcion"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 43.0,
+      "receptions": 4.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 15.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873056
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4613104,
+        "name": "Malachi Corley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 37.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873039
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4613104,
+        "name": "Malachi Corley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873027
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4613104,
+        "name": "Malachi Corley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873013
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4613104,
+        "name": "Malachi Corley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872997
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4613104,
+        "name": "Malachi Corley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872983
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4613104,
+        "name": "Malachi Corley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-02T00:15:00.000+00:00",
+        "id": 401872964
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4613104,
+        "name": "Malachi Corley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872949
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4613104,
+        "name": "Malachi Corley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872935
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4613104,
+        "name": "Malachi Corley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873056
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5083076,
+        "name": "Harold Fannin Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 91.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873039
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5083076,
+        "name": "Harold Fannin Jr."
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 42.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873027
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5083076,
+        "name": "Harold Fannin Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 154.0,
+      "receptions": 10.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873013
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5083076,
+        "name": "Harold Fannin Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 91.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872997
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5083076,
+        "name": "Harold Fannin Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872983
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5083076,
+        "name": "Harold Fannin Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-02T00:15:00.000+00:00",
+        "id": 401872964
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5083076,
+        "name": "Harold Fannin Jr."
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 27.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872949
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5083076,
+        "name": "Harold Fannin Jr."
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 51.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872935
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5083076,
+        "name": "Harold Fannin Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 54.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872922
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5083076,
+        "name": "Harold Fannin Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 21.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873056
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241463,
+        "name": "Jerry Jeudy"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 74.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873039
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241463,
+        "name": "Jerry Jeudy"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 37.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873027
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241463,
+        "name": "Jerry Jeudy"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873013
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241463,
+        "name": "Jerry Jeudy"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 21.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872997
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241463,
+        "name": "Jerry Jeudy"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 69.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872983
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241463,
+        "name": "Jerry Jeudy"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 19.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-02T00:15:00.000+00:00",
+        "id": 401872964
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241463,
+        "name": "Jerry Jeudy"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 36.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872949
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241463,
+        "name": "Jerry Jeudy"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872935
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241463,
+        "name": "Jerry Jeudy"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872922
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241463,
+        "name": "Jerry Jeudy"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 26.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873056
+      },
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4685702,
+        "name": "Quinshon Judkins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 33.0,
+      "receptions": 3.0,
+      "rushing_attempts": 10.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 38.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873039
+      },
+      "longest_rush": 12.0,
+      "player": {
+        "id": 4685702,
+        "name": "Quinshon Judkins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 2.0,
+      "receptions": 1.0,
+      "rushing_attempts": 15.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 43.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873027
+      },
+      "longest_rush": 7.0,
+      "player": {
+        "id": 4685702,
+        "name": "Quinshon Judkins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 24.0,
+      "receptions": 2.0,
+      "rushing_attempts": 11.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 25.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873013
+      },
+      "longest_rush": 30.0,
+      "player": {
+        "id": 4685702,
+        "name": "Quinshon Judkins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 17.0,
+      "rushing_touchdowns": 2.0,
+      "rushing_yards": 96.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872983
+      },
+      "longest_rush": 14.0,
+      "player": {
+        "id": 4685702,
+        "name": "Quinshon Judkins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 3.0,
+      "rushing_attempts": 14.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 44.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-02T00:15:00.000+00:00",
+        "id": 401872964
+      },
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4685702,
+        "name": "Quinshon Judkins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 43.0,
+      "receptions": 6.0,
+      "rushing_attempts": 17.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 53.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872949
+      },
+      "longest_rush": 11.0,
+      "player": {
+        "id": 4685702,
+        "name": "Quinshon Judkins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 2.0,
+      "rushing_attempts": 18.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 70.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872935
+      },
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4685702,
+        "name": "Quinshon Judkins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 27.0,
+      "receptions": 5.0,
+      "rushing_attempts": 12.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 21.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872922
+      },
+      "longest_rush": 5.0,
+      "player": {
+        "id": 4685702,
+        "name": "Quinshon Judkins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 17.0,
+      "receptions": 2.0,
+      "rushing_attempts": 12.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 33.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873027
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4722893,
+        "name": "Jaleel McLaughlin"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873013
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4722893,
+        "name": "Jaleel McLaughlin"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872997
+      },
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4722893,
+        "name": "Jaleel McLaughlin"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 14.0,
+      "receptions": 4.0,
+      "rushing_attempts": 9.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 41.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872983
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4722893,
+        "name": "Jaleel McLaughlin"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-02T00:15:00.000+00:00",
+        "id": 401872964
+      },
+      "longest_rush": 28.0,
+      "player": {
+        "id": 4722893,
+        "name": "Jaleel McLaughlin"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 28.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872949
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4722893,
+        "name": "Jaleel McLaughlin"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872935
+      },
+      "longest_rush": 3.0,
+      "player": {
+        "id": 4722893,
+        "name": "Jaleel McLaughlin"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 3.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873056
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4876006,
+        "name": "Zaire Mitchell-Paden"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873056
+      },
+      "longest_rush": 3.0,
+      "player": {
+        "id": 5081397,
+        "name": "Dylan Sampson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 31.0,
+      "receptions": 4.0,
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 6.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873039
+      },
+      "longest_rush": 6.0,
+      "player": {
+        "id": 5081397,
+        "name": "Dylan Sampson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 27.0,
+      "receptions": 3.0,
+      "rushing_attempts": 8.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 21.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873027
+      },
+      "longest_rush": 7.0,
+      "player": {
+        "id": 5081397,
+        "name": "Dylan Sampson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 62.0,
+      "receptions": 6.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 7.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873013
+      },
+      "longest_rush": 19.0,
+      "player": {
+        "id": 5081397,
+        "name": "Dylan Sampson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 32.0,
+      "receptions": 3.0,
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 45.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "completions": 19.0,
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873039
+      },
+      "longest_rush": 11.0,
+      "passing_attempts": 31.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 297.0,
+      "player": {
+        "id": 4432762,
+        "name": "Shedeur Sanders"
+      },
+      "rushing_attempts": 10.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 28.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "completions": 2.0,
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873027
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 2.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 2.0,
+      "player": {
+        "id": 4432762,
+        "name": "Shedeur Sanders"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2026-10-02T00:15:00.000+00:00",
+        "id": 401872964
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 0.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 4432762,
+        "name": "Shedeur Sanders"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "completions": 1.0,
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872949
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 1.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 4432762,
+        "name": "Shedeur Sanders"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873056
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241424,
+        "name": "Tylan Wallace"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873039
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241424,
+        "name": "Tylan Wallace"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873027
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241424,
+        "name": "Tylan Wallace"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 3.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873013
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241424,
+        "name": "Tylan Wallace"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872997
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241424,
+        "name": "Tylan Wallace"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 12.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872949
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241424,
+        "name": "Tylan Wallace"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872935
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241424,
+        "name": "Tylan Wallace"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872922
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241424,
+        "name": "Tylan Wallace"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "completions": 25.0,
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873056
+      },
+      "longest_rush": 20.0,
+      "passing_attempts": 40.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 312.0,
+      "player": {
+        "id": 3122840,
+        "name": "Deshaun Watson"
+      },
+      "rushing_attempts": 8.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 49.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "completions": 27.0,
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873027
+      },
+      "longest_rush": 3.0,
+      "passing_attempts": 39.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 324.0,
+      "player": {
+        "id": 3122840,
+        "name": "Deshaun Watson"
+      },
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 2.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "completions": 25.0,
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873013
+      },
+      "longest_rush": 9.0,
+      "passing_attempts": 36.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 308.0,
+      "player": {
+        "id": 3122840,
+        "name": "Deshaun Watson"
+      },
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 19.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "completions": 16.0,
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872997
+      },
+      "longest_rush": 6.0,
+      "passing_attempts": 26.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 164.0,
+      "player": {
+        "id": 3122840,
+        "name": "Deshaun Watson"
+      },
+      "rushing_attempts": 8.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 29.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "completions": 15.0,
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872983
+      },
+      "longest_rush": 20.0,
+      "passing_attempts": 33.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 155.0,
+      "player": {
+        "id": 3122840,
+        "name": "Deshaun Watson"
+      },
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 40.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "completions": 24.0,
+      "game": {
+        "date": "2026-10-02T00:15:00.000+00:00",
+        "id": 401872964
+      },
+      "longest_rush": 21.0,
+      "passing_attempts": 33.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 268.0,
+      "player": {
+        "id": 3122840,
+        "name": "Deshaun Watson"
+      },
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 22.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "completions": 16.0,
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872949
+      },
+      "longest_rush": 21.0,
+      "passing_attempts": 30.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 144.0,
+      "player": {
+        "id": 3122840,
+        "name": "Deshaun Watson"
+      },
+      "rushing_attempts": 11.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 45.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "completions": 24.0,
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872935
+      },
+      "longest_rush": 8.0,
+      "passing_attempts": 30.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 238.0,
+      "player": {
+        "id": 3122840,
+        "name": "Deshaun Watson"
+      },
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 22.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "completions": 16.0,
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872922
+      },
+      "longest_rush": 9.0,
+      "passing_attempts": 22.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 205.0,
+      "player": {
+        "id": 3122840,
+        "name": "Deshaun Watson"
+      },
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 38.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873056
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362018,
+        "name": "Blake Whiteheart"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873039
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362018,
+        "name": "Blake Whiteheart"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873027
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362018,
+        "name": "Blake Whiteheart"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873013
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362018,
+        "name": "Blake Whiteheart"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872997
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362018,
+        "name": "Blake Whiteheart"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872983
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362018,
+        "name": "Blake Whiteheart"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-02T00:15:00.000+00:00",
+        "id": 401872964
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362018,
+        "name": "Blake Whiteheart"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872949
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362018,
+        "name": "Blake Whiteheart"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872935
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362018,
+        "name": "Blake Whiteheart"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 17.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872922
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362018,
+        "name": "Blake Whiteheart"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 14.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873039
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2515270,
+        "name": "Michael Burton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873027
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2515270,
+        "name": "Michael Burton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873013
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2515270,
+        "name": "Michael Burton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872997
+      },
+      "longest_rush": 2.0,
+      "player": {
+        "id": 2515270,
+        "name": "Michael Burton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 2.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872983
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2515270,
+        "name": "Michael Burton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-02T00:15:00.000+00:00",
+        "id": 401872964
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2515270,
+        "name": "Michael Burton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872949
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2515270,
+        "name": "Michael Burton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872935
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2515270,
+        "name": "Michael Burton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872922
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2515270,
+        "name": "Michael Burton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872983
+      },
+      "longest_rush": 5.0,
+      "player": {
+        "id": 4601080,
+        "name": "Raheim Sanders"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 1.0,
+      "receptions": 1.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 12.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-02T00:15:00.000+00:00",
+        "id": 401872964
+      },
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4601080,
+        "name": "Raheim Sanders"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 2.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 9.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872949
+      },
+      "longest_rush": 17.0,
+      "player": {
+        "id": 4601080,
+        "name": "Raheim Sanders"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 34.0,
+      "receptions": 4.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 17.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872935
+      },
+      "longest_rush": 3.0,
+      "player": {
+        "id": 4601080,
+        "name": "Raheim Sanders"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 4.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872922
+      },
+      "longest_rush": 1.0,
+      "player": {
+        "id": 4601080,
+        "name": "Raheim Sanders"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 25.0,
+      "receptions": 3.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872661
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4708486,
+        "name": "Jimmy Horn Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873056
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685540,
+        "name": "Carsen Ryan"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873039
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685540,
+        "name": "Carsen Ryan"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873027
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685540,
+        "name": "Carsen Ryan"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T17:00:00.000+00:00",
+        "id": 401873013
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685540,
+        "name": "Carsen Ryan"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401872997
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685540,
+        "name": "Carsen Ryan"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-02T00:15:00.000+00:00",
+        "id": 401872964
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685540,
+        "name": "Carsen Ryan"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872949
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685540,
+        "name": "Carsen Ryan"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872935
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685540,
+        "name": "Carsen Ryan"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 5,
+        "name": "Cleveland Browns"
+      }
+    }
+  ],
+  "results": 134
+}

@@ -1,0 +1,2810 @@
+{
+  "errors": [],
+  "get": "players/statistics",
+  "parameters": {
+    "season": "2026",
+    "source": "espn-fallback",
+    "team": "Green Bay Packers"
+  },
+  "response": [
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873060
+      },
+      "longest_rush": 1.0,
+      "player": {
+        "id": 3149687,
+        "name": "Chris Brooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 2.0,
+      "receptions": 1.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872968
+      },
+      "longest_rush": 27.0,
+      "player": {
+        "id": 3149687,
+        "name": "Chris Brooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 30.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-25T00:15:00.000+00:00",
+        "id": 401872948
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3149687,
+        "name": "Chris Brooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872936
+      },
+      "longest_rush": 4.0,
+      "player": {
+        "id": 3149687,
+        "name": "Chris Brooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 15.0,
+      "receptions": 1.0,
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 11.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872927
+      },
+      "longest_rush": 14.0,
+      "player": {
+        "id": 3149687,
+        "name": "Chris Brooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 29.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873060
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429466,
+        "name": "Drake Dabney"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873049
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429466,
+        "name": "Drake Dabney"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873060
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4701936,
+        "name": "Matthew Golden"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 70.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873049
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4701936,
+        "name": "Matthew Golden"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 164.0,
+      "receptions": 10.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-30T00:15:00.000+00:00",
+        "id": 401873023
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4701936,
+        "name": "Matthew Golden"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 79.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873020
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4701936,
+        "name": "Matthew Golden"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 39.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-19T00:20:00.000+00:00",
+        "id": 401873007
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4701936,
+        "name": "Matthew Golden"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 104.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872990
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4701936,
+        "name": "Matthew Golden"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 123.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872968
+      },
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4701936,
+        "name": "Matthew Golden"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 21.0,
+      "receptions": 3.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 6.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-25T00:15:00.000+00:00",
+        "id": 401872948
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4701936,
+        "name": "Matthew Golden"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 100.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872936
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4701936,
+        "name": "Matthew Golden"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 58.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872927
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4701936,
+        "name": "Matthew Golden"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 95.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873049
+      },
+      "longest_rush": 3.0,
+      "player": {
+        "id": 4047365,
+        "name": "Josh Jacobs"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 5.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-30T00:15:00.000+00:00",
+        "id": 401873023
+      },
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4047365,
+        "name": "Josh Jacobs"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 13.0,
+      "receptions": 6.0,
+      "rushing_attempts": 21.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 39.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873020
+      },
+      "longest_rush": 10.0,
+      "player": {
+        "id": 4047365,
+        "name": "Josh Jacobs"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 55.0,
+      "receptions": 5.0,
+      "rushing_attempts": 11.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 36.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873060
+      },
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4819231,
+        "name": "Kaleb Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 10.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 42.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873049
+      },
+      "longest_rush": 34.0,
+      "player": {
+        "id": 4819231,
+        "name": "Kaleb Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 14.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 68.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-19T00:20:00.000+00:00",
+        "id": 401873007
+      },
+      "longest_rush": -2.0,
+      "player": {
+        "id": 4819231,
+        "name": "Kaleb Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -2.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872990
+      },
+      "longest_rush": 23.0,
+      "player": {
+        "id": 4819231,
+        "name": "Kaleb Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 26.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872968
+      },
+      "longest_rush": 31.0,
+      "player": {
+        "id": 4819231,
+        "name": "Kaleb Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 8.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 42.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-25T00:15:00.000+00:00",
+        "id": 401872948
+      },
+      "longest_rush": 5.0,
+      "player": {
+        "id": 4819231,
+        "name": "Kaleb Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 10.0,
+      "receptions": 1.0,
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 6.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872936
+      },
+      "longest_rush": 12.0,
+      "player": {
+        "id": 4819231,
+        "name": "Kaleb Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 8.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 32.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873060
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4572680,
+        "name": "Tucker Kraft"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 19.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873049
+      },
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4572680,
+        "name": "Tucker Kraft"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 1.0,
+      "receptions": 1.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 8.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-30T00:15:00.000+00:00",
+        "id": 401873023
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4572680,
+        "name": "Tucker Kraft"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 53.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873020
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4572680,
+        "name": "Tucker Kraft"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 48.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-19T00:20:00.000+00:00",
+        "id": 401873007
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4572680,
+        "name": "Tucker Kraft"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 37.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872990
+      },
+      "longest_rush": 2.0,
+      "player": {
+        "id": 4572680,
+        "name": "Tucker Kraft"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 64.0,
+      "receptions": 5.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 2.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872968
+      },
+      "longest_rush": 3.0,
+      "player": {
+        "id": 4572680,
+        "name": "Tucker Kraft"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 42.0,
+      "receptions": 6.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 3.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-25T00:15:00.000+00:00",
+        "id": 401872948
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4572680,
+        "name": "Tucker Kraft"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 26.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872936
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4572680,
+        "name": "Tucker Kraft"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 15.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872927
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4572680,
+        "name": "Tucker Kraft"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 65.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873060
+      },
+      "longest_rush": 11.0,
+      "player": {
+        "id": 4429023,
+        "name": "MarShawn Lloyd"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 26.0,
+      "receptions": 3.0,
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 13.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-30T00:15:00.000+00:00",
+        "id": 401873023
+      },
+      "longest_rush": 5.0,
+      "player": {
+        "id": 4429023,
+        "name": "MarShawn Lloyd"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 7.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873020
+      },
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4429023,
+        "name": "MarShawn Lloyd"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 15.0,
+      "receptions": 2.0,
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 20.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-19T00:20:00.000+00:00",
+        "id": 401873007
+      },
+      "longest_rush": 4.0,
+      "player": {
+        "id": 4429023,
+        "name": "MarShawn Lloyd"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 8.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 10.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872990
+      },
+      "longest_rush": 10.0,
+      "player": {
+        "id": 4429023,
+        "name": "MarShawn Lloyd"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 1.0,
+      "rushing_attempts": 10.0,
+      "rushing_touchdowns": 2.0,
+      "rushing_yards": 31.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872968
+      },
+      "longest_rush": 5.0,
+      "player": {
+        "id": 4429023,
+        "name": "MarShawn Lloyd"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 36.0,
+      "receptions": 5.0,
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 13.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-25T00:15:00.000+00:00",
+        "id": 401872948
+      },
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4429023,
+        "name": "MarShawn Lloyd"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 2.0,
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 11.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872936
+      },
+      "longest_rush": 7.0,
+      "player": {
+        "id": 4429023,
+        "name": "MarShawn Lloyd"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 6.0,
+      "receptions": 2.0,
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 20.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872927
+      },
+      "longest_rush": 12.0,
+      "player": {
+        "id": 4429023,
+        "name": "MarShawn Lloyd"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 13.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 37.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "completions": 17.0,
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873060
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 27.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 220.0,
+      "player": {
+        "id": 4036378,
+        "name": "Jordan Love"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "completions": 23.0,
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873049
+      },
+      "longest_rush": 13.0,
+      "passing_attempts": 29.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 3.0,
+      "passing_yards": 372.0,
+      "player": {
+        "id": 4036378,
+        "name": "Jordan Love"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 13.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "completions": 30.0,
+      "game": {
+        "date": "2026-10-30T00:15:00.000+00:00",
+        "id": 401873023
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 41.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 3.0,
+      "passing_yards": 288.0,
+      "player": {
+        "id": 4036378,
+        "name": "Jordan Love"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "completions": 27.0,
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873020
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 45.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 274.0,
+      "player": {
+        "id": 4036378,
+        "name": "Jordan Love"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "completions": 23.0,
+      "game": {
+        "date": "2026-10-19T00:20:00.000+00:00",
+        "id": 401873007
+      },
+      "longest_rush": 13.0,
+      "passing_attempts": 41.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 276.0,
+      "player": {
+        "id": 4036378,
+        "name": "Jordan Love"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 12.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "completions": 25.0,
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872990
+      },
+      "longest_rush": 6.0,
+      "passing_attempts": 31.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 367.0,
+      "player": {
+        "id": 4036378,
+        "name": "Jordan Love"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 6.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "completions": 22.0,
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872968
+      },
+      "longest_rush": 4.0,
+      "passing_attempts": 30.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 197.0,
+      "player": {
+        "id": 4036378,
+        "name": "Jordan Love"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -8.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "completions": 28.0,
+      "game": {
+        "date": "2026-09-25T00:15:00.000+00:00",
+        "id": 401872948
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 53.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 312.0,
+      "player": {
+        "id": 4036378,
+        "name": "Jordan Love"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "completions": 16.0,
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872936
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 29.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 145.0,
+      "player": {
+        "id": 4036378,
+        "name": "Jordan Love"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "completions": 21.0,
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872927
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 42.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 387.0,
+      "player": {
+        "id": 4036378,
+        "name": "Jordan Love"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873060
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4259305,
+        "name": "Bo Melton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873049
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4259305,
+        "name": "Bo Melton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-30T00:15:00.000+00:00",
+        "id": 401873023
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4259305,
+        "name": "Bo Melton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873020
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4259305,
+        "name": "Bo Melton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-19T00:20:00.000+00:00",
+        "id": 401873007
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4259305,
+        "name": "Bo Melton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872990
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4259305,
+        "name": "Bo Melton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 20.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872968
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4259305,
+        "name": "Bo Melton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-25T00:15:00.000+00:00",
+        "id": 401872948
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4259305,
+        "name": "Bo Melton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872936
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4259305,
+        "name": "Bo Melton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872927
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4259305,
+        "name": "Bo Melton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 10.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873060
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430191,
+        "name": "Skyy Moore"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872990
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430191,
+        "name": "Skyy Moore"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872968
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430191,
+        "name": "Skyy Moore"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": -2.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-25T00:15:00.000+00:00",
+        "id": 401872948
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430191,
+        "name": "Skyy Moore"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 31.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872936
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430191,
+        "name": "Skyy Moore"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872927
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430191,
+        "name": "Skyy Moore"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873060
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431346,
+        "name": "Mark Redman"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873049
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431346,
+        "name": "Mark Redman"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-30T00:15:00.000+00:00",
+        "id": 401873023
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431346,
+        "name": "Mark Redman"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873020
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431346,
+        "name": "Mark Redman"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-19T00:20:00.000+00:00",
+        "id": 401873007
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431346,
+        "name": "Mark Redman"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872990
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431346,
+        "name": "Mark Redman"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872968
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431346,
+        "name": "Mark Redman"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 29.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-25T00:15:00.000+00:00",
+        "id": 401872948
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431346,
+        "name": "Mark Redman"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872936
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431346,
+        "name": "Mark Redman"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872927
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431346,
+        "name": "Mark Redman"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873060
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3054212,
+        "name": "Jonnu Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873049
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3054212,
+        "name": "Jonnu Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873020
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3054212,
+        "name": "Jonnu Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-19T00:20:00.000+00:00",
+        "id": 401873007
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3054212,
+        "name": "Jonnu Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872990
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3054212,
+        "name": "Jonnu Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872968
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3054212,
+        "name": "Jonnu Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 19.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-25T00:15:00.000+00:00",
+        "id": 401872948
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3054212,
+        "name": "Jonnu Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 16.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872936
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3054212,
+        "name": "Jonnu Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872927
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3054212,
+        "name": "Jonnu Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 50.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873060
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4635009,
+        "name": "J. Michael Sturdivant"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 37.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873049
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4635009,
+        "name": "J. Michael Sturdivant"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-30T00:15:00.000+00:00",
+        "id": 401873023
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4635009,
+        "name": "J. Michael Sturdivant"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 16.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873020
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4635009,
+        "name": "J. Michael Sturdivant"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-19T00:20:00.000+00:00",
+        "id": 401873007
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4635009,
+        "name": "J. Michael Sturdivant"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872990
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4635009,
+        "name": "J. Michael Sturdivant"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872968
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4635009,
+        "name": "J. Michael Sturdivant"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-25T00:15:00.000+00:00",
+        "id": 401872948
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4635009,
+        "name": "J. Michael Sturdivant"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 22.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872936
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4635009,
+        "name": "J. Michael Sturdivant"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "completions": 1.0,
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873060
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 2.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 3.0,
+      "player": {
+        "id": 14163,
+        "name": "Tyrod Taylor"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873049
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 0.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 14163,
+        "name": "Tyrod Taylor"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872990
+      },
+      "longest_rush": -1.0,
+      "passing_attempts": 0.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 14163,
+        "name": "Tyrod Taylor"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -2.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873060
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4248528,
+        "name": "Christian Watson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 37.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873049
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4248528,
+        "name": "Christian Watson"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 171.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-30T00:15:00.000+00:00",
+        "id": 401873023
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4248528,
+        "name": "Christian Watson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 113.0,
+      "receptions": 8.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873020
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4248528,
+        "name": "Christian Watson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 57.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-19T00:20:00.000+00:00",
+        "id": 401873007
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4248528,
+        "name": "Christian Watson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 64.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872990
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4248528,
+        "name": "Christian Watson"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 143.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872968
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4248528,
+        "name": "Christian Watson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 47.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-25T00:15:00.000+00:00",
+        "id": 401872948
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4248528,
+        "name": "Christian Watson"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 96.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872936
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4248528,
+        "name": "Christian Watson"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 41.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872927
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4248528,
+        "name": "Christian Watson"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 147.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873060
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431487,
+        "name": "Savion Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 27.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873049
+      },
+      "longest_rush": 13.0,
+      "player": {
+        "id": 4431487,
+        "name": "Savion Williams"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 25.0,
+      "receptions": 3.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 13.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-30T00:15:00.000+00:00",
+        "id": 401873023
+      },
+      "longest_rush": 18.0,
+      "player": {
+        "id": 4431487,
+        "name": "Savion Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 18.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873020
+      },
+      "longest_rush": 3.0,
+      "player": {
+        "id": 4431487,
+        "name": "Savion Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 47.0,
+      "receptions": 3.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 4.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-19T00:20:00.000+00:00",
+        "id": 401873007
+      },
+      "longest_rush": 5.0,
+      "player": {
+        "id": 4431487,
+        "name": "Savion Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 32.0,
+      "receptions": 4.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 9.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872936
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362249,
+        "name": "Jayden Reed"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872927
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362249,
+        "name": "Jayden Reed"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 20.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-30T00:15:00.000+00:00",
+        "id": 401873023
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360086,
+        "name": "Josh Whyle"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873020
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360086,
+        "name": "Josh Whyle"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-19T00:20:00.000+00:00",
+        "id": 401873007
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360086,
+        "name": "Josh Whyle"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872990
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360086,
+        "name": "Josh Whyle"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872968
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360086,
+        "name": "Josh Whyle"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-25T00:15:00.000+00:00",
+        "id": 401872948
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360086,
+        "name": "Josh Whyle"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T17:00:00.000+00:00",
+        "id": 401872936
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360086,
+        "name": "Josh Whyle"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872927
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360086,
+        "name": "Josh Whyle"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873049
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4578436,
+        "name": "Coleman Owen"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-30T00:15:00.000+00:00",
+        "id": 401873023
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4578436,
+        "name": "Coleman Owen"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:25:00.000+00:00",
+        "id": 401873020
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4578436,
+        "name": "Coleman Owen"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-19T00:20:00.000+00:00",
+        "id": 401873007
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4578436,
+        "name": "Coleman Owen"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    }
+  ],
+  "results": 132
+}

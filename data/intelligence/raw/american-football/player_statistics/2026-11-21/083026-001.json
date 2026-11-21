@@ -1,0 +1,2514 @@
+{
+  "errors": [],
+  "get": "players/statistics",
+  "parameters": {
+    "season": "2026",
+    "source": "espn-fallback",
+    "team": "Buffalo Bills"
+  },
+  "response": [
+    {
+      "completions": 11.0,
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873054
+      },
+      "longest_rush": 2.0,
+      "passing_attempts": 21.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 196.0,
+      "player": {
+        "id": 3918298,
+        "name": "Josh Allen"
+      },
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 2.0,
+      "rushing_yards": 5.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "completions": 21.0,
+      "game": {
+        "date": "2026-11-10T01:15:00.000+00:00",
+        "id": 401873051
+      },
+      "longest_rush": 7.0,
+      "passing_attempts": 31.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 234.0,
+      "player": {
+        "id": 3918298,
+        "name": "Josh Allen"
+      },
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 15.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "completions": 21.0,
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873026
+      },
+      "longest_rush": 14.0,
+      "passing_attempts": 34.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 289.0,
+      "player": {
+        "id": 3918298,
+        "name": "Josh Allen"
+      },
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 30.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "completions": 23.0,
+      "game": {
+        "date": "2026-10-18T20:25:00.000+00:00",
+        "id": 401873005
+      },
+      "longest_rush": 2.0,
+      "passing_attempts": 33.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 255.0,
+      "player": {
+        "id": 3918298,
+        "name": "Josh Allen"
+      },
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "completions": 12.0,
+      "game": {
+        "date": "2026-10-13T00:15:00.000+00:00",
+        "id": 401872994
+      },
+      "longest_rush": 22.0,
+      "passing_attempts": 19.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 210.0,
+      "player": {
+        "id": 3918298,
+        "name": "Josh Allen"
+      },
+      "rushing_attempts": 10.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 121.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "completions": 23.0,
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872971
+      },
+      "longest_rush": 4.0,
+      "passing_attempts": 33.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 253.0,
+      "player": {
+        "id": 3918298,
+        "name": "Josh Allen"
+      },
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 4.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "completions": 16.0,
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872953
+      },
+      "longest_rush": 8.0,
+      "passing_attempts": 26.0,
+      "passing_interceptions": 2.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 204.0,
+      "player": {
+        "id": 3918298,
+        "name": "Josh Allen"
+      },
+      "rushing_attempts": 8.0,
+      "rushing_touchdowns": 2.0,
+      "rushing_yards": 22.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "completions": 20.0,
+      "game": {
+        "date": "2026-09-18T00:15:00.000+00:00",
+        "id": 401872932
+      },
+      "longest_rush": 14.0,
+      "passing_attempts": 31.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 3.0,
+      "passing_yards": 248.0,
+      "player": {
+        "id": 3918298,
+        "name": "Josh Allen"
+      },
+      "rushing_attempts": 14.0,
+      "rushing_touchdowns": 2.0,
+      "rushing_yards": 69.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "completions": 20.0,
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872660
+      },
+      "longest_rush": 21.0,
+      "passing_attempts": 29.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 334.0,
+      "player": {
+        "id": 3918298,
+        "name": "Josh Allen"
+      },
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 2.0,
+      "rushing_yards": 23.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873054
+      },
+      "longest_rush": -1.0,
+      "passing_attempts": 0.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 3115293,
+        "name": "Kyle Allen"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -2.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2026-11-10T01:15:00.000+00:00",
+        "id": 401873051
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 0.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 3115293,
+        "name": "Kyle Allen"
+      },
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -2.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873026
+      },
+      "longest_rush": -1.0,
+      "passing_attempts": 0.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 3115293,
+        "name": "Kyle Allen"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -2.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873054
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4683153,
+        "name": "Skyler Bell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:25:00.000+00:00",
+        "id": 401873005
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4683153,
+        "name": "Skyler Bell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-13T00:15:00.000+00:00",
+        "id": 401872994
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4683153,
+        "name": "Skyler Bell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873054
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4635008,
+        "name": "Keon Coleman"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 11.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-10T01:15:00.000+00:00",
+        "id": 401873051
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4635008,
+        "name": "Keon Coleman"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 17.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873026
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4635008,
+        "name": "Keon Coleman"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:25:00.000+00:00",
+        "id": 401873005
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4635008,
+        "name": "Keon Coleman"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 59.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-13T00:15:00.000+00:00",
+        "id": 401872994
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4635008,
+        "name": "Keon Coleman"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872971
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4635008,
+        "name": "Keon Coleman"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 116.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872953
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4635008,
+        "name": "Keon Coleman"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 37.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-18T00:15:00.000+00:00",
+        "id": 401872932
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4635008,
+        "name": "Keon Coleman"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 63.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872660
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4635008,
+        "name": "Keon Coleman"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 1.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873054
+      },
+      "longest_rush": 74.0,
+      "player": {
+        "id": 4379399,
+        "name": "James Cook III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 18.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 157.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-10T01:15:00.000+00:00",
+        "id": 401873051
+      },
+      "longest_rush": 11.0,
+      "player": {
+        "id": 4379399,
+        "name": "James Cook III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 31.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 107.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873026
+      },
+      "longest_rush": 16.0,
+      "player": {
+        "id": 4379399,
+        "name": "James Cook III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 21.0,
+      "receptions": 2.0,
+      "rushing_attempts": 21.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 80.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:25:00.000+00:00",
+        "id": 401873005
+      },
+      "longest_rush": 13.0,
+      "player": {
+        "id": 4379399,
+        "name": "James Cook III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 58.0,
+      "receptions": 3.0,
+      "rushing_attempts": 22.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 95.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-13T00:15:00.000+00:00",
+        "id": 401872994
+      },
+      "longest_rush": 18.0,
+      "player": {
+        "id": 4379399,
+        "name": "James Cook III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 25.0,
+      "rushing_touchdowns": 2.0,
+      "rushing_yards": 111.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872971
+      },
+      "longest_rush": 17.0,
+      "player": {
+        "id": 4379399,
+        "name": "James Cook III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 2.0,
+      "rushing_attempts": 12.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 75.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872953
+      },
+      "longest_rush": 23.0,
+      "player": {
+        "id": 4379399,
+        "name": "James Cook III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 24.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 154.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-18T00:15:00.000+00:00",
+        "id": 401872932
+      },
+      "longest_rush": 35.0,
+      "player": {
+        "id": 4379399,
+        "name": "James Cook III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 21.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 135.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872660
+      },
+      "longest_rush": 12.0,
+      "player": {
+        "id": 4379399,
+        "name": "James Cook III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 12.0,
+      "receptions": 3.0,
+      "rushing_attempts": 13.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 57.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873054
+      },
+      "longest_rush": 5.0,
+      "player": {
+        "id": 4429501,
+        "name": "Ray Davis"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 8.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-10T01:15:00.000+00:00",
+        "id": 401873051
+      },
+      "longest_rush": 2.0,
+      "player": {
+        "id": 4429501,
+        "name": "Ray Davis"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 2.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873026
+      },
+      "longest_rush": 7.0,
+      "player": {
+        "id": 4429501,
+        "name": "Ray Davis"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 30.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:25:00.000+00:00",
+        "id": 401873005
+      },
+      "longest_rush": 4.0,
+      "player": {
+        "id": 4429501,
+        "name": "Ray Davis"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 4.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-13T00:15:00.000+00:00",
+        "id": 401872994
+      },
+      "longest_rush": 4.0,
+      "player": {
+        "id": 4429501,
+        "name": "Ray Davis"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 31.0,
+      "receptions": 1.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 2.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872971
+      },
+      "longest_rush": 3.0,
+      "player": {
+        "id": 4429501,
+        "name": "Ray Davis"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 3.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872953
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429501,
+        "name": "Ray Davis"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-18T00:15:00.000+00:00",
+        "id": 401872932
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429501,
+        "name": "Ray Davis"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872660
+      },
+      "longest_rush": 3.0,
+      "player": {
+        "id": 4429501,
+        "name": "Ray Davis"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 3.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873054
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4037235,
+        "name": "Greg Dortch"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-10T01:15:00.000+00:00",
+        "id": 401873051
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4037235,
+        "name": "Greg Dortch"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873026
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4037235,
+        "name": "Greg Dortch"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:25:00.000+00:00",
+        "id": 401873005
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4037235,
+        "name": "Greg Dortch"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-13T00:15:00.000+00:00",
+        "id": 401872994
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4037235,
+        "name": "Greg Dortch"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872971
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4037235,
+        "name": "Greg Dortch"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872953
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4037235,
+        "name": "Greg Dortch"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-18T00:15:00.000+00:00",
+        "id": 401872932
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4037235,
+        "name": "Greg Dortch"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873054
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4573699,
+        "name": "Jackson Hawes"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-10T01:15:00.000+00:00",
+        "id": 401873051
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4573699,
+        "name": "Jackson Hawes"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873026
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4573699,
+        "name": "Jackson Hawes"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:25:00.000+00:00",
+        "id": 401873005
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4573699,
+        "name": "Jackson Hawes"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-13T00:15:00.000+00:00",
+        "id": 401872994
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4573699,
+        "name": "Jackson Hawes"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872971
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4573699,
+        "name": "Jackson Hawes"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872953
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4573699,
+        "name": "Jackson Hawes"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-18T00:15:00.000+00:00",
+        "id": 401872932
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4573699,
+        "name": "Jackson Hawes"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872660
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4573699,
+        "name": "Jackson Hawes"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873054
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3915411,
+        "name": "Ty Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-10T01:15:00.000+00:00",
+        "id": 401873051
+      },
+      "longest_rush": 1.0,
+      "player": {
+        "id": 3915411,
+        "name": "Ty Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 36.0,
+      "receptions": 2.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873026
+      },
+      "longest_rush": 2.0,
+      "player": {
+        "id": 3915411,
+        "name": "Ty Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 19.0,
+      "receptions": 3.0,
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 4.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:25:00.000+00:00",
+        "id": 401873005
+      },
+      "longest_rush": 3.0,
+      "player": {
+        "id": 3915411,
+        "name": "Ty Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 24.0,
+      "receptions": 2.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 3.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-13T00:15:00.000+00:00",
+        "id": 401872994
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3915411,
+        "name": "Ty Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 72.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872971
+      },
+      "longest_rush": 3.0,
+      "player": {
+        "id": 3915411,
+        "name": "Ty Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 2.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 3.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872953
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3915411,
+        "name": "Ty Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 50.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873054
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4385690,
+        "name": "Dalton Kincaid"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 58.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-10T01:15:00.000+00:00",
+        "id": 401873051
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4385690,
+        "name": "Dalton Kincaid"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 28.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873026
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4385690,
+        "name": "Dalton Kincaid"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 86.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:25:00.000+00:00",
+        "id": 401873005
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4385690,
+        "name": "Dalton Kincaid"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 38.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-13T00:15:00.000+00:00",
+        "id": 401872994
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4385690,
+        "name": "Dalton Kincaid"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872971
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4385690,
+        "name": "Dalton Kincaid"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872953
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4385690,
+        "name": "Dalton Kincaid"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 38.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-18T00:15:00.000+00:00",
+        "id": 401872932
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4385690,
+        "name": "Dalton Kincaid"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 95.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872660
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4385690,
+        "name": "Dalton Kincaid"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 130.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873054
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3930086,
+        "name": "Dawson Knox"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-10T01:15:00.000+00:00",
+        "id": 401873051
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3930086,
+        "name": "Dawson Knox"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 37.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873026
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3930086,
+        "name": "Dawson Knox"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:25:00.000+00:00",
+        "id": 401873005
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3930086,
+        "name": "Dawson Knox"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-13T00:15:00.000+00:00",
+        "id": 401872994
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3930086,
+        "name": "Dawson Knox"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872971
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3930086,
+        "name": "Dawson Knox"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 13.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872953
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3930086,
+        "name": "Dawson Knox"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-18T00:15:00.000+00:00",
+        "id": 401872932
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3930086,
+        "name": "Dawson Knox"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 5.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872660
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3930086,
+        "name": "Dawson Knox"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873054
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4688552,
+        "name": "Keleki Latu"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-10T01:15:00.000+00:00",
+        "id": 401873051
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4688552,
+        "name": "Keleki Latu"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 25.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873026
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4688552,
+        "name": "Keleki Latu"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:25:00.000+00:00",
+        "id": 401873005
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4688552,
+        "name": "Keleki Latu"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-13T00:15:00.000+00:00",
+        "id": 401872994
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4688552,
+        "name": "Keleki Latu"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872971
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4688552,
+        "name": "Keleki Latu"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872953
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4688552,
+        "name": "Keleki Latu"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-18T00:15:00.000+00:00",
+        "id": 401872932
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4688552,
+        "name": "Keleki Latu"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873054
+      },
+      "longest_rush": 4.0,
+      "player": {
+        "id": 3915416,
+        "name": "DJ Moore"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 90.0,
+      "receptions": 4.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 4.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-10T01:15:00.000+00:00",
+        "id": 401873051
+      },
+      "longest_rush": 11.0,
+      "player": {
+        "id": 3915416,
+        "name": "DJ Moore"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 25.0,
+      "receptions": 3.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 11.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873026
+      },
+      "longest_rush": 4.0,
+      "player": {
+        "id": 3915416,
+        "name": "DJ Moore"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 82.0,
+      "receptions": 4.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 4.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872971
+      },
+      "longest_rush": 6.0,
+      "player": {
+        "id": 3915416,
+        "name": "DJ Moore"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 11.0,
+      "receptions": 1.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 6.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872953
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3915416,
+        "name": "DJ Moore"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 67.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-18T00:15:00.000+00:00",
+        "id": 401872932
+      },
+      "longest_rush": -1.0,
+      "player": {
+        "id": 3915416,
+        "name": "DJ Moore"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -1.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872660
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3915416,
+        "name": "DJ Moore"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 100.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401873054
+      },
+      "longest_rush": 13.0,
+      "player": {
+        "id": 4373678,
+        "name": "Khalil Shakir"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 26.0,
+      "receptions": 2.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 29.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-10T01:15:00.000+00:00",
+        "id": 401873051
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4373678,
+        "name": "Khalil Shakir"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 58.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873026
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4373678,
+        "name": "Khalil Shakir"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 64.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:25:00.000+00:00",
+        "id": 401873005
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4373678,
+        "name": "Khalil Shakir"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 34.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-13T00:15:00.000+00:00",
+        "id": 401872994
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4373678,
+        "name": "Khalil Shakir"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 80.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872971
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4373678,
+        "name": "Khalil Shakir"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 82.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872953
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4373678,
+        "name": "Khalil Shakir"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-18T00:15:00.000+00:00",
+        "id": 401872932
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4373678,
+        "name": "Khalil Shakir"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 38.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872660
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4373678,
+        "name": "Khalil Shakir"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 50.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873026
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4242433,
+        "name": "Joshua Palmer"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:25:00.000+00:00",
+        "id": 401873005
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4242433,
+        "name": "Joshua Palmer"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 37.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872971
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4242433,
+        "name": "Joshua Palmer"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 3.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872953
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4242433,
+        "name": "Joshua Palmer"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-18T00:15:00.000+00:00",
+        "id": 401872932
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4242433,
+        "name": "Joshua Palmer"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 43.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872660
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4242433,
+        "name": "Joshua Palmer"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 34.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-18T00:15:00.000+00:00",
+        "id": 401872932
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429805,
+        "name": "Frank Gore Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872660
+      },
+      "longest_rush": 3.0,
+      "player": {
+        "id": 4429805,
+        "name": "Frank Gore Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 3.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-10T01:15:00.000+00:00",
+        "id": 401873051
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3122168,
+        "name": "Trent Sherfield"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-13T00:15:00.000+00:00",
+        "id": 401872994
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3122168,
+        "name": "Trent Sherfield"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    }
+  ],
+  "results": 118
+}

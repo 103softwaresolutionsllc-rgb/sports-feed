@@ -1,0 +1,2636 @@
+{
+  "errors": [],
+  "get": "players/statistics",
+  "parameters": {
+    "season": "2026",
+    "source": "espn-fallback",
+    "team": "Dallas Cowboys"
+  },
+  "response": [
+    {
+      "game": {
+        "date": "2026-11-15T21:25:00.000+00:00",
+        "id": 401873063
+      },
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4429202,
+        "name": "Israel Abanikanda"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 2.0,
+      "receptions": 1.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 8.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:25:00.000+00:00",
+        "id": 401873063
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4808759,
+        "name": "Camden Brown"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873040
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4808759,
+        "name": "Camden Brown"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873024
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4808759,
+        "name": "Camden Brown"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-27T00:15:00.000+00:00",
+        "id": 401873009
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4808759,
+        "name": "Camden Brown"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873040
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4242355,
+        "name": "Jake Ferguson"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 21.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873024
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4242355,
+        "name": "Jake Ferguson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-27T00:15:00.000+00:00",
+        "id": 401873009
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4242355,
+        "name": "Jake Ferguson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-19T00:20:00.000+00:00",
+        "id": 401873007
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4242355,
+        "name": "Jake Ferguson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 13.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-09T00:15:00.000+00:00",
+        "id": 401872980
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4242355,
+        "name": "Jake Ferguson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 19.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872967
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4242355,
+        "name": "Jake Ferguson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 11.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T20:25:00.000+00:00",
+        "id": 401872960
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4242355,
+        "name": "Jake Ferguson"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 23.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:25:00.000+00:00",
+        "id": 401872944
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4242355,
+        "name": "Jake Ferguson"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 43.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-14T00:20:00.000+00:00",
+        "id": 401872930
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4242355,
+        "name": "Jake Ferguson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:25:00.000+00:00",
+        "id": 401873063
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5083754,
+        "name": "Ryan Flournoy"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 71.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873040
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5083754,
+        "name": "Ryan Flournoy"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 53.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873024
+      },
+      "longest_rush": 3.0,
+      "player": {
+        "id": 5083754,
+        "name": "Ryan Flournoy"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 38.0,
+      "receptions": 3.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 3.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-27T00:15:00.000+00:00",
+        "id": 401873009
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5083754,
+        "name": "Ryan Flournoy"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 70.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-19T00:20:00.000+00:00",
+        "id": 401873007
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5083754,
+        "name": "Ryan Flournoy"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 40.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-09T00:15:00.000+00:00",
+        "id": 401872980
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5083754,
+        "name": "Ryan Flournoy"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 90.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872967
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5083754,
+        "name": "Ryan Flournoy"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 37.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T20:25:00.000+00:00",
+        "id": 401872960
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5083754,
+        "name": "Ryan Flournoy"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 22.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:25:00.000+00:00",
+        "id": 401872944
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5083754,
+        "name": "Ryan Flournoy"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 23.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-14T00:20:00.000+00:00",
+        "id": 401872930
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5083754,
+        "name": "Ryan Flournoy"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 22.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873040
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685409,
+        "name": "Jordan Hudson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:25:00.000+00:00",
+        "id": 401873063
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241389,
+        "name": "CeeDee Lamb"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 72.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873040
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241389,
+        "name": "CeeDee Lamb"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 195.0,
+      "receptions": 10.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873024
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241389,
+        "name": "CeeDee Lamb"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 58.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-27T00:15:00.000+00:00",
+        "id": 401873009
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241389,
+        "name": "CeeDee Lamb"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 74.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-19T00:20:00.000+00:00",
+        "id": 401873007
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241389,
+        "name": "CeeDee Lamb"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 70.0,
+      "receptions": 9.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-09T00:15:00.000+00:00",
+        "id": 401872980
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241389,
+        "name": "CeeDee Lamb"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872967
+      },
+      "longest_rush": -6.0,
+      "player": {
+        "id": 4241389,
+        "name": "CeeDee Lamb"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 189.0,
+      "receptions": 17.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -6.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T20:25:00.000+00:00",
+        "id": 401872960
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241389,
+        "name": "CeeDee Lamb"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 112.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:25:00.000+00:00",
+        "id": 401872944
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241389,
+        "name": "CeeDee Lamb"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 153.0,
+      "receptions": 8.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-14T00:20:00.000+00:00",
+        "id": 401872930
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241389,
+        "name": "CeeDee Lamb"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 44.0,
+      "receptions": 5.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:25:00.000+00:00",
+        "id": 401873063
+      },
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4383396,
+        "name": "Hunter Luepke"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 1.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 9.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873040
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4383396,
+        "name": "Hunter Luepke"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873024
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4383396,
+        "name": "Hunter Luepke"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-27T00:15:00.000+00:00",
+        "id": 401873009
+      },
+      "longest_rush": 3.0,
+      "player": {
+        "id": 4383396,
+        "name": "Hunter Luepke"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 3.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-19T00:20:00.000+00:00",
+        "id": 401873007
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4383396,
+        "name": "Hunter Luepke"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-09T00:15:00.000+00:00",
+        "id": 401872980
+      },
+      "longest_rush": 5.0,
+      "player": {
+        "id": 4383396,
+        "name": "Hunter Luepke"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 5.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872967
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4383396,
+        "name": "Hunter Luepke"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 2.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T20:25:00.000+00:00",
+        "id": 401872960
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4383396,
+        "name": "Hunter Luepke"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:25:00.000+00:00",
+        "id": 401872944
+      },
+      "longest_rush": 1.0,
+      "player": {
+        "id": 4383396,
+        "name": "Hunter Luepke"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-14T00:20:00.000+00:00",
+        "id": 401872930
+      },
+      "longest_rush": 7.0,
+      "player": {
+        "id": 4383396,
+        "name": "Hunter Luepke"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 7.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873040
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426485,
+        "name": "Jonathan Mingo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 23.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873024
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426485,
+        "name": "Jonathan Mingo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-27T00:15:00.000+00:00",
+        "id": 401873009
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426485,
+        "name": "Jonathan Mingo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-19T00:20:00.000+00:00",
+        "id": 401873007
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426485,
+        "name": "Jonathan Mingo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-09T00:15:00.000+00:00",
+        "id": 401872980
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426485,
+        "name": "Jonathan Mingo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 20.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872967
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426485,
+        "name": "Jonathan Mingo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T20:25:00.000+00:00",
+        "id": 401872960
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426485,
+        "name": "Jonathan Mingo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:25:00.000+00:00",
+        "id": 401872944
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426485,
+        "name": "Jonathan Mingo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-14T00:20:00.000+00:00",
+        "id": 401872930
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426485,
+        "name": "Jonathan Mingo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 10.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:25:00.000+00:00",
+        "id": 401873063
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361988,
+        "name": "James Mitchell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873040
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361988,
+        "name": "James Mitchell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873024
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361988,
+        "name": "James Mitchell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:25:00.000+00:00",
+        "id": 401873063
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426354,
+        "name": "George Pickens"
+      },
+      "receiving_touchdowns": 3.0,
+      "receiving_yards": 145.0,
+      "receptions": 11.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873024
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426354,
+        "name": "George Pickens"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 48.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-27T00:15:00.000+00:00",
+        "id": 401873009
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426354,
+        "name": "George Pickens"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 57.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-19T00:20:00.000+00:00",
+        "id": 401873007
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426354,
+        "name": "George Pickens"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 73.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-09T00:15:00.000+00:00",
+        "id": 401872980
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426354,
+        "name": "George Pickens"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 130.0,
+      "receptions": 9.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872967
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426354,
+        "name": "George Pickens"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 75.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T20:25:00.000+00:00",
+        "id": 401872960
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426354,
+        "name": "George Pickens"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 82.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:25:00.000+00:00",
+        "id": 401872944
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426354,
+        "name": "George Pickens"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 40.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-14T00:20:00.000+00:00",
+        "id": 401872930
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426354,
+        "name": "George Pickens"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 28.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "completions": 30.0,
+      "game": {
+        "date": "2026-11-15T21:25:00.000+00:00",
+        "id": 401873063
+      },
+      "longest_rush": 5.0,
+      "passing_attempts": 51.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 5.0,
+      "passing_yards": 343.0,
+      "player": {
+        "id": 2577417,
+        "name": "Dak Prescott"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 7.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "completions": 21.0,
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873040
+      },
+      "longest_rush": 2.0,
+      "passing_attempts": 34.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 335.0,
+      "player": {
+        "id": 2577417,
+        "name": "Dak Prescott"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "completions": 19.0,
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873024
+      },
+      "longest_rush": 7.0,
+      "passing_attempts": 29.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 195.0,
+      "player": {
+        "id": 2577417,
+        "name": "Dak Prescott"
+      },
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 20.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "completions": 15.0,
+      "game": {
+        "date": "2026-10-27T00:15:00.000+00:00",
+        "id": 401873009
+      },
+      "longest_rush": 6.0,
+      "passing_attempts": 27.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 3.0,
+      "passing_yards": 212.0,
+      "player": {
+        "id": 2577417,
+        "name": "Dak Prescott"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 8.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "completions": 34.0,
+      "game": {
+        "date": "2026-10-19T00:20:00.000+00:00",
+        "id": 401873007
+      },
+      "longest_rush": 7.0,
+      "passing_attempts": 54.0,
+      "passing_interceptions": 2.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 258.0,
+      "player": {
+        "id": 2577417,
+        "name": "Dak Prescott"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 7.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "completions": 24.0,
+      "game": {
+        "date": "2026-10-09T00:15:00.000+00:00",
+        "id": 401872980
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 42.0,
+      "passing_interceptions": 2.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 316.0,
+      "player": {
+        "id": 2577417,
+        "name": "Dak Prescott"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "completions": 32.0,
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872967
+      },
+      "longest_rush": 6.0,
+      "passing_attempts": 45.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 335.0,
+      "player": {
+        "id": 2577417,
+        "name": "Dak Prescott"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 7.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "completions": 25.0,
+      "game": {
+        "date": "2026-09-27T20:25:00.000+00:00",
+        "id": 401872960
+      },
+      "longest_rush": 7.0,
+      "passing_attempts": 40.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 276.0,
+      "player": {
+        "id": 2577417,
+        "name": "Dak Prescott"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 19.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "completions": 26.0,
+      "game": {
+        "date": "2026-09-20T20:25:00.000+00:00",
+        "id": 401872944
+      },
+      "longest_rush": 11.0,
+      "passing_attempts": 31.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 4.0,
+      "passing_yards": 279.0,
+      "player": {
+        "id": 2577417,
+        "name": "Dak Prescott"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 26.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "completions": 22.0,
+      "game": {
+        "date": "2026-09-14T00:20:00.000+00:00",
+        "id": 401872930
+      },
+      "longest_rush": 10.0,
+      "passing_attempts": 34.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 175.0,
+      "player": {
+        "id": 2577417,
+        "name": "Dak Prescott"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 14.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:25:00.000+00:00",
+        "id": 401873063
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372096,
+        "name": "Luke Schoonmaker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 12.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-27T00:15:00.000+00:00",
+        "id": 401873009
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372096,
+        "name": "Luke Schoonmaker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-19T00:20:00.000+00:00",
+        "id": 401873007
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372096,
+        "name": "Luke Schoonmaker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-09T00:15:00.000+00:00",
+        "id": 401872980
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372096,
+        "name": "Luke Schoonmaker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872967
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372096,
+        "name": "Luke Schoonmaker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T20:25:00.000+00:00",
+        "id": 401872960
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372096,
+        "name": "Luke Schoonmaker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:25:00.000+00:00",
+        "id": 401872944
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372096,
+        "name": "Luke Schoonmaker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-14T00:20:00.000+00:00",
+        "id": 401872930
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372096,
+        "name": "Luke Schoonmaker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 12.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:25:00.000+00:00",
+        "id": 401873063
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360967,
+        "name": "Brevyn Spann-Ford"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 26.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873040
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360967,
+        "name": "Brevyn Spann-Ford"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 20.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873024
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360967,
+        "name": "Brevyn Spann-Ford"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 31.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-27T00:15:00.000+00:00",
+        "id": 401873009
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360967,
+        "name": "Brevyn Spann-Ford"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 11.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-19T00:20:00.000+00:00",
+        "id": 401873007
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360967,
+        "name": "Brevyn Spann-Ford"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 35.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-09T00:15:00.000+00:00",
+        "id": 401872980
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360967,
+        "name": "Brevyn Spann-Ford"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872967
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360967,
+        "name": "Brevyn Spann-Ford"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T20:25:00.000+00:00",
+        "id": 401872960
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360967,
+        "name": "Brevyn Spann-Ford"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 19.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:25:00.000+00:00",
+        "id": 401872944
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360967,
+        "name": "Brevyn Spann-Ford"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-14T00:20:00.000+00:00",
+        "id": 401872930
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360967,
+        "name": "Brevyn Spann-Ford"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 14.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:25:00.000+00:00",
+        "id": 401873063
+      },
+      "longest_rush": 9.0,
+      "player": {
+        "id": 3676833,
+        "name": "KaVontae Turpin"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 10.0,
+      "receptions": 1.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 9.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-19T00:20:00.000+00:00",
+        "id": 401873007
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3676833,
+        "name": "KaVontae Turpin"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-09T00:15:00.000+00:00",
+        "id": 401872980
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3676833,
+        "name": "KaVontae Turpin"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 22.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872967
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3676833,
+        "name": "KaVontae Turpin"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T20:25:00.000+00:00",
+        "id": 401872960
+      },
+      "longest_rush": 9.0,
+      "player": {
+        "id": 3676833,
+        "name": "KaVontae Turpin"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 9.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:25:00.000+00:00",
+        "id": 401872944
+      },
+      "longest_rush": 1.0,
+      "player": {
+        "id": 3676833,
+        "name": "KaVontae Turpin"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-14T00:20:00.000+00:00",
+        "id": 401872930
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3676833,
+        "name": "KaVontae Turpin"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:25:00.000+00:00",
+        "id": 401873063
+      },
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4361579,
+        "name": "Javonte Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 16.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 63.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873040
+      },
+      "longest_rush": 15.0,
+      "player": {
+        "id": 4361579,
+        "name": "Javonte Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 23.0,
+      "receptions": 4.0,
+      "rushing_attempts": 20.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 101.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873024
+      },
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4361579,
+        "name": "Javonte Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 1.0,
+      "receptions": 1.0,
+      "rushing_attempts": 24.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 56.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-27T00:15:00.000+00:00",
+        "id": 401873009
+      },
+      "longest_rush": 34.0,
+      "player": {
+        "id": 4361579,
+        "name": "Javonte Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 25.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 155.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-19T00:20:00.000+00:00",
+        "id": 401873007
+      },
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4361579,
+        "name": "Javonte Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 2.0,
+      "rushing_attempts": 11.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 41.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-09T00:15:00.000+00:00",
+        "id": 401872980
+      },
+      "longest_rush": 21.0,
+      "player": {
+        "id": 4361579,
+        "name": "Javonte Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 17.0,
+      "receptions": 2.0,
+      "rushing_attempts": 12.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 45.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872967
+      },
+      "longest_rush": 13.0,
+      "player": {
+        "id": 4361579,
+        "name": "Javonte Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 21.0,
+      "receptions": 5.0,
+      "rushing_attempts": 19.0,
+      "rushing_touchdowns": 3.0,
+      "rushing_yards": 62.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T20:25:00.000+00:00",
+        "id": 401872960
+      },
+      "longest_rush": 22.0,
+      "player": {
+        "id": 4361579,
+        "name": "Javonte Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 2.0,
+      "rushing_attempts": 19.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 98.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:25:00.000+00:00",
+        "id": 401872944
+      },
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4361579,
+        "name": "Javonte Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 20.0,
+      "receptions": 3.0,
+      "rushing_attempts": 12.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 30.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-14T00:20:00.000+00:00",
+        "id": 401872930
+      },
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4361579,
+        "name": "Javonte Williams"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 31.0,
+      "receptions": 5.0,
+      "rushing_attempts": 12.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 41.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873040
+      },
+      "longest_rush": 13.0,
+      "player": {
+        "id": 4429676,
+        "name": "Tyler Goodson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 12.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 77.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873024
+      },
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4429676,
+        "name": "Tyler Goodson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 19.0,
+      "receptions": 2.0,
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 14.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-27T00:15:00.000+00:00",
+        "id": 401873009
+      },
+      "longest_rush": 11.0,
+      "player": {
+        "id": 4429676,
+        "name": "Tyler Goodson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 10.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 38.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-19T00:20:00.000+00:00",
+        "id": 401873007
+      },
+      "longest_rush": 2.0,
+      "player": {
+        "id": 4429676,
+        "name": "Tyler Goodson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-09T00:15:00.000+00:00",
+        "id": 401872980
+      },
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429676,
+        "name": "Tyler Goodson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872967
+      },
+      "longest_rush": 10.0,
+      "player": {
+        "id": 4429676,
+        "name": "Tyler Goodson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 12.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T20:25:00.000+00:00",
+        "id": 401872960
+      },
+      "longest_rush": 10.0,
+      "player": {
+        "id": 4429676,
+        "name": "Tyler Goodson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": -5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 22.0,
+      "team": {
+        "id": 6,
+        "name": "Dallas Cowboys"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T13:30:00.000+00:00",
+        "id": 401873011
+      },
+      "longest_rush": 3.0,
+      "player": {
+        "id": 4599739,
+        "name": "Kendre Miller"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 22.0,
+      "receptions": 3.0,
+      "rushing_attempts": 8.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 6.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T17:00:00.000+00:00",
+        "id": 401873000
+      },
+      "longest_rush": 11.0,
+      "player": {
+        "id": 4599739,
+        "name": "Kendre Miller"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 2.0,
+      "rushing_attempts": 20.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 70.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872987
+      },
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4599739,
+        "name": "Kendre Miller"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 10.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 30.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-06T00:15:00.000+00:00",
+        "id": 401872979
+      },
+      "longest_rush": 4.0,
+      "player": {
+        "id": 4599739,
+        "name": "Kendre Miller"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 10.0,
+      "receptions": 2.0,
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 9.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T20:25:00.000+00:00",
+        "id": 401872961
+      },
+      "longest_rush": 5.0,
+      "player": {
+        "id": 4599739,
+        "name": "Kendre Miller"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 2.0,
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 14.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T17:00:00.000+00:00",
+        "id": 401872923
+      },
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4599739,
+        "name": "Kendre Miller"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 9.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 30.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    }
+  ],
+  "results": 124
+}

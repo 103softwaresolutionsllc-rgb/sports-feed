@@ -1,0 +1,4604 @@
+{
+  "errors": [],
+  "get": "players/statistics",
+  "parameters": {
+    "season": "2026-2027",
+    "source": "espn-fallback",
+    "team": "Phoenix Suns"
+  },
+  "response": [
+    {
+      "assists": 6.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 18.0,
+      "field_goal_percentage": 55.6,
+      "field_goals_made": 10.0,
+      "free_throw_attempts": 7.0,
+      "free_throws_made": 7.0,
+      "game": {
+        "date": "2026-11-19T03:00:00.000+00:00",
+        "id": 401910018
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 3136193,
+        "name": "Devin Booker"
+      },
+      "points": 29.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 8.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 14.0,
+      "field_goal_percentage": 35.7,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 10.0,
+      "free_throws_made": 9.0,
+      "game": {
+        "date": "2026-11-17T02:00:00.000+00:00",
+        "id": 401910001
+      },
+      "minutes": 37.0,
+      "player": {
+        "id": 3136193,
+        "name": "Devin Booker"
+      },
+      "points": 20.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 7.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 14.0,
+      "field_goal_percentage": 28.6,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 9.0,
+      "free_throws_made": 9.0,
+      "game": {
+        "date": "2026-11-15T21:00:00.000+00:00",
+        "id": 401909986
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 3136193,
+        "name": "Devin Booker"
+      },
+      "points": 17.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 7.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 20.0,
+      "field_goal_percentage": 60.0,
+      "field_goals_made": 12.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-13T02:00:00.000+00:00",
+        "id": 401909979
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 3136193,
+        "name": "Devin Booker"
+      },
+      "points": 30.0,
+      "rebounds": 1.0,
+      "steals": 3.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 14.0,
+      "field_goal_percentage": 42.9,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-11T02:00:00.000+00:00",
+        "id": 401909962
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 3136193,
+        "name": "Devin Booker"
+      },
+      "points": 17.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 17.0,
+      "field_goal_percentage": 58.8,
+      "field_goals_made": 10.0,
+      "free_throw_attempts": 10.0,
+      "free_throws_made": 9.0,
+      "game": {
+        "date": "2026-11-10T02:00:00.000+00:00",
+        "id": 401909958
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 3136193,
+        "name": "Devin Booker"
+      },
+      "points": 32.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 24.0,
+      "field_goal_percentage": 41.7,
+      "field_goals_made": 10.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-08T02:00:00.000+00:00",
+        "id": 401909943
+      },
+      "minutes": 39.0,
+      "player": {
+        "id": 3136193,
+        "name": "Devin Booker"
+      },
+      "points": 24.0,
+      "rebounds": 2.0,
+      "steals": 3.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 9.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 8.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 22.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 11.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-06T02:00:00.000+00:00",
+        "id": 401909936
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 3136193,
+        "name": "Devin Booker"
+      },
+      "points": 30.0,
+      "rebounds": 1.0,
+      "steals": 3.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 19.0,
+      "field_goal_percentage": 47.4,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 13.0,
+      "free_throws_made": 13.0,
+      "game": {
+        "date": "2026-11-05T02:00:00.000+00:00",
+        "id": 401909932
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 3136193,
+        "name": "Devin Booker"
+      },
+      "points": 33.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 18.0,
+      "field_goal_percentage": 44.4,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 8.0,
+      "free_throws_made": 8.0,
+      "game": {
+        "date": "2026-11-03T03:00:00.000+00:00",
+        "id": 401909919
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 3136193,
+        "name": "Devin Booker"
+      },
+      "points": 26.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 19.0,
+      "field_goal_percentage": 36.8,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-31T02:00:00.000+00:00",
+        "id": 401909286
+      },
+      "minutes": 39.0,
+      "player": {
+        "id": 3136193,
+        "name": "Devin Booker"
+      },
+      "points": 20.0,
+      "rebounds": 2.0,
+      "steals": 2.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 7.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 14.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-27T00:00:00.000+00:00",
+        "id": 401909873
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 3136193,
+        "name": "Devin Booker"
+      },
+      "points": 3.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 7.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 25.0,
+      "field_goal_percentage": 68.0,
+      "field_goals_made": 17.0,
+      "free_throw_attempts": 8.0,
+      "free_throws_made": 7.0,
+      "game": {
+        "date": "2026-10-25T02:00:00.000+00:00",
+        "id": 401909860
+      },
+      "minutes": 36.0,
+      "player": {
+        "id": 3136193,
+        "name": "Devin Booker"
+      },
+      "points": 43.0,
+      "rebounds": 7.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 53.8,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 9.0,
+      "free_throws_made": 9.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909841
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 3136193,
+        "name": "Devin Booker"
+      },
+      "points": 23.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T03:00:00.000+00:00",
+        "id": 401910018
+      },
+      "minutes": 4.0,
+      "player": {
+        "id": 4280245,
+        "name": "Jamaree Bouyea"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-11T02:00:00.000+00:00",
+        "id": 401909962
+      },
+      "minutes": 8.0,
+      "player": {
+        "id": 4280245,
+        "name": "Jamaree Bouyea"
+      },
+      "points": 7.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-10T02:00:00.000+00:00",
+        "id": 401909958
+      },
+      "minutes": 9.0,
+      "player": {
+        "id": 4280245,
+        "name": "Jamaree Bouyea"
+      },
+      "points": 4.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-06T02:00:00.000+00:00",
+        "id": 401909936
+      },
+      "minutes": 2.0,
+      "player": {
+        "id": 4280245,
+        "name": "Jamaree Bouyea"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-05T02:00:00.000+00:00",
+        "id": 401909932
+      },
+      "minutes": 3.0,
+      "player": {
+        "id": 4280245,
+        "name": "Jamaree Bouyea"
+      },
+      "points": 3.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-27T00:00:00.000+00:00",
+        "id": 401909873
+      },
+      "minutes": 3.0,
+      "player": {
+        "id": 4280245,
+        "name": "Jamaree Bouyea"
+      },
+      "points": 2.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909841
+      },
+      "minutes": 7.0,
+      "player": {
+        "id": 4280245,
+        "name": "Jamaree Bouyea"
+      },
+      "points": 3.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 75.0,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T03:00:00.000+00:00",
+        "id": 401910018
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 4066383,
+        "name": "Miles Bridges"
+      },
+      "points": 13.0,
+      "rebounds": 6.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 46.7,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-17T02:00:00.000+00:00",
+        "id": 401910001
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 4066383,
+        "name": "Miles Bridges"
+      },
+      "points": 16.0,
+      "rebounds": 8.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 60.0,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-15T21:00:00.000+00:00",
+        "id": 401909986
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4066383,
+        "name": "Miles Bridges"
+      },
+      "points": 14.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-13T02:00:00.000+00:00",
+        "id": 401909979
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 4066383,
+        "name": "Miles Bridges"
+      },
+      "points": 11.0,
+      "rebounds": 6.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 37.5,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-11T02:00:00.000+00:00",
+        "id": 401909962
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 4066383,
+        "name": "Miles Bridges"
+      },
+      "points": 8.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-10T02:00:00.000+00:00",
+        "id": 401909958
+      },
+      "minutes": 26.0,
+      "player": {
+        "id": 4066383,
+        "name": "Miles Bridges"
+      },
+      "points": 7.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 7.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 41.7,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-08T02:00:00.000+00:00",
+        "id": 401909943
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 4066383,
+        "name": "Miles Bridges"
+      },
+      "points": 13.0,
+      "rebounds": 10.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 60.0,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-06T02:00:00.000+00:00",
+        "id": 401909936
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 4066383,
+        "name": "Miles Bridges"
+      },
+      "points": 18.0,
+      "rebounds": 13.0,
+      "steals": 2.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 46.2,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-05T02:00:00.000+00:00",
+        "id": 401909932
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 4066383,
+        "name": "Miles Bridges"
+      },
+      "points": 18.0,
+      "rebounds": 7.0,
+      "steals": 2.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 14.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-03T03:00:00.000+00:00",
+        "id": 401909919
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 4066383,
+        "name": "Miles Bridges"
+      },
+      "points": 21.0,
+      "rebounds": 6.0,
+      "steals": 4.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 3.0,
+      "field_goal_attempts": 19.0,
+      "field_goal_percentage": 52.6,
+      "field_goals_made": 10.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-31T02:00:00.000+00:00",
+        "id": 401909286
+      },
+      "minutes": 37.0,
+      "player": {
+        "id": 4066383,
+        "name": "Miles Bridges"
+      },
+      "points": 24.0,
+      "rebounds": 10.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 17.0,
+      "field_goal_percentage": 41.2,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-27T00:00:00.000+00:00",
+        "id": 401909873
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 4066383,
+        "name": "Miles Bridges"
+      },
+      "points": 17.0,
+      "rebounds": 8.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 10.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 54.5,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-25T02:00:00.000+00:00",
+        "id": 401909860
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 4066383,
+        "name": "Miles Bridges"
+      },
+      "points": 16.0,
+      "rebounds": 7.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 27.3,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909841
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 4066383,
+        "name": "Miles Bridges"
+      },
+      "points": 8.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 18.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 12.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T03:00:00.000+00:00",
+        "id": 401910018
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 3155526,
+        "name": "Dillon Brooks"
+      },
+      "points": 29.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 9.0,
+      "three_pointers_made": 5.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 17.0,
+      "field_goal_percentage": 35.3,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-17T02:00:00.000+00:00",
+        "id": 401910001
+      },
+      "minutes": 27.0,
+      "player": {
+        "id": 3155526,
+        "name": "Dillon Brooks"
+      },
+      "points": 15.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-15T21:00:00.000+00:00",
+        "id": 401909986
+      },
+      "minutes": 22.0,
+      "player": {
+        "id": 3155526,
+        "name": "Dillon Brooks"
+      },
+      "points": 1.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 46.2,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-13T02:00:00.000+00:00",
+        "id": 401909979
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 3155526,
+        "name": "Dillon Brooks"
+      },
+      "points": 15.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-11T02:00:00.000+00:00",
+        "id": 401909962
+      },
+      "minutes": 22.0,
+      "player": {
+        "id": 3155526,
+        "name": "Dillon Brooks"
+      },
+      "points": 8.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 14.0,
+      "field_goal_percentage": 21.4,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-10T02:00:00.000+00:00",
+        "id": 401909958
+      },
+      "minutes": 26.0,
+      "player": {
+        "id": 3155526,
+        "name": "Dillon Brooks"
+      },
+      "points": 7.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-08T02:00:00.000+00:00",
+        "id": 401909943
+      },
+      "minutes": 37.0,
+      "player": {
+        "id": 3155526,
+        "name": "Dillon Brooks"
+      },
+      "points": 11.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 16.0,
+      "field_goal_percentage": 56.3,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-06T02:00:00.000+00:00",
+        "id": 401909936
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 3155526,
+        "name": "Dillon Brooks"
+      },
+      "points": 24.0,
+      "rebounds": 1.0,
+      "steals": 2.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 46.7,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-05T02:00:00.000+00:00",
+        "id": 401909932
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 3155526,
+        "name": "Dillon Brooks"
+      },
+      "points": 15.0,
+      "rebounds": 6.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 62.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 7.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-11-03T03:00:00.000+00:00",
+        "id": 401909919
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 3155526,
+        "name": "Dillon Brooks"
+      },
+      "points": 18.0,
+      "rebounds": 8.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 75.0,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-31T02:00:00.000+00:00",
+        "id": 401909286
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 3155526,
+        "name": "Dillon Brooks"
+      },
+      "points": 22.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 14.0,
+      "field_goal_percentage": 28.6,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 12.0,
+      "free_throws_made": 8.0,
+      "game": {
+        "date": "2026-10-27T00:00:00.000+00:00",
+        "id": 401909873
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 3155526,
+        "name": "Dillon Brooks"
+      },
+      "points": 19.0,
+      "rebounds": 5.0,
+      "steals": 3.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 10.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-25T02:00:00.000+00:00",
+        "id": 401909860
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 3155526,
+        "name": "Dillon Brooks"
+      },
+      "points": 15.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 36.4,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909841
+      },
+      "minutes": 27.0,
+      "player": {
+        "id": 3155526,
+        "name": "Dillon Brooks"
+      },
+      "points": 10.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-19T03:00:00.000+00:00",
+        "id": 401910018
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 4888725,
+        "name": "Ryan Dunn"
+      },
+      "points": 6.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-17T02:00:00.000+00:00",
+        "id": 401910001
+      },
+      "minutes": 12.0,
+      "player": {
+        "id": 4888725,
+        "name": "Ryan Dunn"
+      },
+      "points": 5.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-15T21:00:00.000+00:00",
+        "id": 401909986
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4888725,
+        "name": "Ryan Dunn"
+      },
+      "points": 3.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-13T02:00:00.000+00:00",
+        "id": 401909979
+      },
+      "minutes": 10.0,
+      "player": {
+        "id": 4888725,
+        "name": "Ryan Dunn"
+      },
+      "points": 0.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 80.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-11T02:00:00.000+00:00",
+        "id": 401909962
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 4888725,
+        "name": "Ryan Dunn"
+      },
+      "points": 10.0,
+      "rebounds": 8.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 16.7,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-10T02:00:00.000+00:00",
+        "id": 401909958
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 4888725,
+        "name": "Ryan Dunn"
+      },
+      "points": 3.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 60.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-08T02:00:00.000+00:00",
+        "id": 401909943
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 4888725,
+        "name": "Ryan Dunn"
+      },
+      "points": 8.0,
+      "rebounds": 5.0,
+      "steals": 3.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 71.4,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-06T02:00:00.000+00:00",
+        "id": 401909936
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 4888725,
+        "name": "Ryan Dunn"
+      },
+      "points": 11.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-05T02:00:00.000+00:00",
+        "id": 401909932
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 4888725,
+        "name": "Ryan Dunn"
+      },
+      "points": 2.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T03:00:00.000+00:00",
+        "id": 401909919
+      },
+      "minutes": 10.0,
+      "player": {
+        "id": 4888725,
+        "name": "Ryan Dunn"
+      },
+      "points": 5.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-31T02:00:00.000+00:00",
+        "id": 401909286
+      },
+      "minutes": 11.0,
+      "player": {
+        "id": 4888725,
+        "name": "Ryan Dunn"
+      },
+      "points": 5.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-27T00:00:00.000+00:00",
+        "id": 401909873
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 4888725,
+        "name": "Ryan Dunn"
+      },
+      "points": 6.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-25T02:00:00.000+00:00",
+        "id": 401909860
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 4888725,
+        "name": "Ryan Dunn"
+      },
+      "points": 5.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909841
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 4888725,
+        "name": "Ryan Dunn"
+      },
+      "points": 3.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T03:00:00.000+00:00",
+        "id": 401910018
+      },
+      "minutes": 4.0,
+      "player": {
+        "id": 5105977,
+        "name": "Rasheer Fleming"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-11T02:00:00.000+00:00",
+        "id": 401909962
+      },
+      "minutes": 12.0,
+      "player": {
+        "id": 5105977,
+        "name": "Rasheer Fleming"
+      },
+      "points": 4.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-10T02:00:00.000+00:00",
+        "id": 401909958
+      },
+      "minutes": 9.0,
+      "player": {
+        "id": 5105977,
+        "name": "Rasheer Fleming"
+      },
+      "points": 2.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-27T00:00:00.000+00:00",
+        "id": 401909873
+      },
+      "minutes": 3.0,
+      "player": {
+        "id": 5105977,
+        "name": "Rasheer Fleming"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909841
+      },
+      "minutes": 12.0,
+      "player": {
+        "id": 5105977,
+        "name": "Rasheer Fleming"
+      },
+      "points": 1.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-19T03:00:00.000+00:00",
+        "id": 401910018
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 4278585,
+        "name": "Collin Gillespie"
+      },
+      "points": 9.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 57.1,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-17T02:00:00.000+00:00",
+        "id": 401910001
+      },
+      "minutes": 26.0,
+      "player": {
+        "id": 4278585,
+        "name": "Collin Gillespie"
+      },
+      "points": 10.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 14.0,
+      "field_goal_percentage": 57.1,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-15T21:00:00.000+00:00",
+        "id": 401909986
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 4278585,
+        "name": "Collin Gillespie"
+      },
+      "points": 26.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 10.0,
+      "three_pointers_made": 5.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 38.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-13T02:00:00.000+00:00",
+        "id": 401909979
+      },
+      "minutes": 27.0,
+      "player": {
+        "id": 4278585,
+        "name": "Collin Gillespie"
+      },
+      "points": 13.0,
+      "rebounds": 2.0,
+      "steals": 2.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 9.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 8.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 44.4,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-11T02:00:00.000+00:00",
+        "id": 401909962
+      },
+      "minutes": 22.0,
+      "player": {
+        "id": 4278585,
+        "name": "Collin Gillespie"
+      },
+      "points": 12.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 9.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-10T02:00:00.000+00:00",
+        "id": 401909958
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4278585,
+        "name": "Collin Gillespie"
+      },
+      "points": 6.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-08T02:00:00.000+00:00",
+        "id": 401909943
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 4278585,
+        "name": "Collin Gillespie"
+      },
+      "points": 7.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 22.2,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-06T02:00:00.000+00:00",
+        "id": 401909936
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4278585,
+        "name": "Collin Gillespie"
+      },
+      "points": 6.0,
+      "rebounds": 2.0,
+      "steals": 3.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 20.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-05T02:00:00.000+00:00",
+        "id": 401909932
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 4278585,
+        "name": "Collin Gillespie"
+      },
+      "points": 2.0,
+      "rebounds": 3.0,
+      "steals": 2.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 12.5,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T03:00:00.000+00:00",
+        "id": 401909919
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4278585,
+        "name": "Collin Gillespie"
+      },
+      "points": 3.0,
+      "rebounds": 1.0,
+      "steals": 2.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 10.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 54.5,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-31T02:00:00.000+00:00",
+        "id": 401909286
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 4278585,
+        "name": "Collin Gillespie"
+      },
+      "points": 16.0,
+      "rebounds": 3.0,
+      "steals": 4.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-27T00:00:00.000+00:00",
+        "id": 401909873
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 4278585,
+        "name": "Collin Gillespie"
+      },
+      "points": 9.0,
+      "rebounds": 1.0,
+      "steals": 2.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 9.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 57.1,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-25T02:00:00.000+00:00",
+        "id": 401909860
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 4278585,
+        "name": "Collin Gillespie"
+      },
+      "points": 11.0,
+      "rebounds": 4.0,
+      "steals": 2.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909841
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 4278585,
+        "name": "Collin Gillespie"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 4.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T03:00:00.000+00:00",
+        "id": 401910018
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 4278402,
+        "name": "Jordan Goodwin"
+      },
+      "points": 2.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 71.4,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-17T02:00:00.000+00:00",
+        "id": 401910001
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 4278402,
+        "name": "Jordan Goodwin"
+      },
+      "points": 11.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 30.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 9.0,
+      "free_throws_made": 7.0,
+      "game": {
+        "date": "2026-11-15T21:00:00.000+00:00",
+        "id": 401909986
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 4278402,
+        "name": "Jordan Goodwin"
+      },
+      "points": 14.0,
+      "rebounds": 7.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 18.2,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-13T02:00:00.000+00:00",
+        "id": 401909979
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4278402,
+        "name": "Jordan Goodwin"
+      },
+      "points": 6.0,
+      "rebounds": 5.0,
+      "steals": 2.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 85.7,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-11T02:00:00.000+00:00",
+        "id": 401909962
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 4278402,
+        "name": "Jordan Goodwin"
+      },
+      "points": 18.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 6.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T03:00:00.000+00:00",
+        "id": 401909919
+      },
+      "minutes": 10.0,
+      "player": {
+        "id": 4278402,
+        "name": "Jordan Goodwin"
+      },
+      "points": 4.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-31T02:00:00.000+00:00",
+        "id": 401909286
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 4278402,
+        "name": "Jordan Goodwin"
+      },
+      "points": 11.0,
+      "rebounds": 5.0,
+      "steals": 2.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 44.4,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-27T00:00:00.000+00:00",
+        "id": 401909873
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 4278402,
+        "name": "Jordan Goodwin"
+      },
+      "points": 12.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-25T02:00:00.000+00:00",
+        "id": 401909860
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 4278402,
+        "name": "Jordan Goodwin"
+      },
+      "points": 9.0,
+      "rebounds": 2.0,
+      "steals": 3.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909841
+      },
+      "minutes": 22.0,
+      "player": {
+        "id": 4278402,
+        "name": "Jordan Goodwin"
+      },
+      "points": 3.0,
+      "rebounds": 4.0,
+      "steals": 2.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 7.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 14.0,
+      "field_goal_percentage": 42.9,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-19T03:00:00.000+00:00",
+        "id": 401910018
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 4437244,
+        "name": "Jalen Green"
+      },
+      "points": 18.0,
+      "rebounds": 7.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-17T02:00:00.000+00:00",
+        "id": 401910001
+      },
+      "minutes": 27.0,
+      "player": {
+        "id": 4437244,
+        "name": "Jalen Green"
+      },
+      "points": 16.0,
+      "rebounds": 5.0,
+      "steals": 3.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 36.4,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-15T21:00:00.000+00:00",
+        "id": 401909986
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 4437244,
+        "name": "Jalen Green"
+      },
+      "points": 9.0,
+      "rebounds": 2.0,
+      "steals": 2.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-13T02:00:00.000+00:00",
+        "id": 401909979
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 4437244,
+        "name": "Jalen Green"
+      },
+      "points": 12.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 71.4,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-11T02:00:00.000+00:00",
+        "id": 401909962
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 4437244,
+        "name": "Jalen Green"
+      },
+      "points": 13.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-10T02:00:00.000+00:00",
+        "id": 401909958
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4437244,
+        "name": "Jalen Green"
+      },
+      "points": 6.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 14.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-08T02:00:00.000+00:00",
+        "id": 401909943
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 4437244,
+        "name": "Jalen Green"
+      },
+      "points": 16.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 42.9,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-06T02:00:00.000+00:00",
+        "id": 401909936
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4437244,
+        "name": "Jalen Green"
+      },
+      "points": 6.0,
+      "rebounds": 0.0,
+      "steals": 2.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 17.0,
+      "field_goal_percentage": 35.3,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 8.0,
+      "free_throws_made": 8.0,
+      "game": {
+        "date": "2026-11-05T02:00:00.000+00:00",
+        "id": 401909932
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 4437244,
+        "name": "Jalen Green"
+      },
+      "points": 22.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 8.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 14.0,
+      "field_goal_percentage": 35.7,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-03T03:00:00.000+00:00",
+        "id": 401909919
+      },
+      "minutes": 36.0,
+      "player": {
+        "id": 4437244,
+        "name": "Jalen Green"
+      },
+      "points": 11.0,
+      "rebounds": 8.0,
+      "steals": 2.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 16.7,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-31T02:00:00.000+00:00",
+        "id": 401909286
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 4437244,
+        "name": "Jalen Green"
+      },
+      "points": 2.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 61.5,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-27T00:00:00.000+00:00",
+        "id": 401909873
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 4437244,
+        "name": "Jalen Green"
+      },
+      "points": 20.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-25T02:00:00.000+00:00",
+        "id": 401909860
+      },
+      "minutes": 26.0,
+      "player": {
+        "id": 4437244,
+        "name": "Jalen Green"
+      },
+      "points": 12.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909841
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 4437244,
+        "name": "Jalen Green"
+      },
+      "points": 10.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 75.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-19T03:00:00.000+00:00",
+        "id": 401910018
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 4601023,
+        "name": "Oso Ighodaro"
+      },
+      "points": 7.0,
+      "rebounds": 4.0,
+      "steals": 2.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 60.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 8.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-17T02:00:00.000+00:00",
+        "id": 401910001
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 4601023,
+        "name": "Oso Ighodaro"
+      },
+      "points": 8.0,
+      "rebounds": 11.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-15T21:00:00.000+00:00",
+        "id": 401909986
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 4601023,
+        "name": "Oso Ighodaro"
+      },
+      "points": 4.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 7.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-13T02:00:00.000+00:00",
+        "id": 401909979
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 4601023,
+        "name": "Oso Ighodaro"
+      },
+      "points": 2.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 37.5,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-11T02:00:00.000+00:00",
+        "id": 401909962
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 4601023,
+        "name": "Oso Ighodaro"
+      },
+      "points": 6.0,
+      "rebounds": 7.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-10T02:00:00.000+00:00",
+        "id": 401909958
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 4601023,
+        "name": "Oso Ighodaro"
+      },
+      "points": 7.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-08T02:00:00.000+00:00",
+        "id": 401909943
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 4601023,
+        "name": "Oso Ighodaro"
+      },
+      "points": 4.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-06T02:00:00.000+00:00",
+        "id": 401909936
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4601023,
+        "name": "Oso Ighodaro"
+      },
+      "points": 2.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 7.0,
+      "blocks": 3.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-05T02:00:00.000+00:00",
+        "id": 401909932
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 4601023,
+        "name": "Oso Ighodaro"
+      },
+      "points": 9.0,
+      "rebounds": 7.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-03T03:00:00.000+00:00",
+        "id": 401909919
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4601023,
+        "name": "Oso Ighodaro"
+      },
+      "points": 14.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-31T02:00:00.000+00:00",
+        "id": 401909286
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 4601023,
+        "name": "Oso Ighodaro"
+      },
+      "points": 2.0,
+      "rebounds": 9.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 57.1,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909841
+      },
+      "minutes": 15.0,
+      "player": {
+        "id": 4601023,
+        "name": "Oso Ighodaro"
+      },
+      "points": 8.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T03:00:00.000+00:00",
+        "id": 401910018
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 3913174,
+        "name": "Luke Kennard"
+      },
+      "points": 3.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-17T02:00:00.000+00:00",
+        "id": 401910001
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 3913174,
+        "name": "Luke Kennard"
+      },
+      "points": 12.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 14.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-15T21:00:00.000+00:00",
+        "id": 401909986
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 3913174,
+        "name": "Luke Kennard"
+      },
+      "points": 18.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 9.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 44.4,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-13T02:00:00.000+00:00",
+        "id": 401909979
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 3913174,
+        "name": "Luke Kennard"
+      },
+      "points": 8.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 71.4,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-11T02:00:00.000+00:00",
+        "id": 401909962
+      },
+      "minutes": 22.0,
+      "player": {
+        "id": 3913174,
+        "name": "Luke Kennard"
+      },
+      "points": 14.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-10T02:00:00.000+00:00",
+        "id": 401909958
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 3913174,
+        "name": "Luke Kennard"
+      },
+      "points": 3.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 57.1,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-08T02:00:00.000+00:00",
+        "id": 401909943
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 3913174,
+        "name": "Luke Kennard"
+      },
+      "points": 11.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-06T02:00:00.000+00:00",
+        "id": 401909936
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 3913174,
+        "name": "Luke Kennard"
+      },
+      "points": 12.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-05T02:00:00.000+00:00",
+        "id": 401909932
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 3913174,
+        "name": "Luke Kennard"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T03:00:00.000+00:00",
+        "id": 401909919
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 3913174,
+        "name": "Luke Kennard"
+      },
+      "points": 6.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-10-31T02:00:00.000+00:00",
+        "id": 401909286
+      },
+      "minutes": 12.0,
+      "player": {
+        "id": 3913174,
+        "name": "Luke Kennard"
+      },
+      "points": 9.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 60.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-27T00:00:00.000+00:00",
+        "id": 401909873
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 3913174,
+        "name": "Luke Kennard"
+      },
+      "points": 9.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-25T02:00:00.000+00:00",
+        "id": 401909860
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 3913174,
+        "name": "Luke Kennard"
+      },
+      "points": 11.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 80.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-19T03:00:00.000+00:00",
+        "id": 401910018
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 5203685,
+        "name": "Khaman Maluach"
+      },
+      "points": 10.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-17T02:00:00.000+00:00",
+        "id": 401910001
+      },
+      "minutes": 11.0,
+      "player": {
+        "id": 5203685,
+        "name": "Khaman Maluach"
+      },
+      "points": 4.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 75.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-15T21:00:00.000+00:00",
+        "id": 401909986
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 5203685,
+        "name": "Khaman Maluach"
+      },
+      "points": 7.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-13T02:00:00.000+00:00",
+        "id": 401909979
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 5203685,
+        "name": "Khaman Maluach"
+      },
+      "points": 4.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 80.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-11T02:00:00.000+00:00",
+        "id": 401909962
+      },
+      "minutes": 22.0,
+      "player": {
+        "id": 5203685,
+        "name": "Khaman Maluach"
+      },
+      "points": 11.0,
+      "rebounds": 7.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-10T02:00:00.000+00:00",
+        "id": 401909958
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 5203685,
+        "name": "Khaman Maluach"
+      },
+      "points": 11.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 75.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-08T02:00:00.000+00:00",
+        "id": 401909943
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 5203685,
+        "name": "Khaman Maluach"
+      },
+      "points": 8.0,
+      "rebounds": 10.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-06T02:00:00.000+00:00",
+        "id": 401909936
+      },
+      "minutes": 22.0,
+      "player": {
+        "id": 5203685,
+        "name": "Khaman Maluach"
+      },
+      "points": 8.0,
+      "rebounds": 6.0,
+      "steals": 2.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 42.9,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-05T02:00:00.000+00:00",
+        "id": 401909932
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 5203685,
+        "name": "Khaman Maluach"
+      },
+      "points": 6.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-03T03:00:00.000+00:00",
+        "id": 401909919
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 5203685,
+        "name": "Khaman Maluach"
+      },
+      "points": 5.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-31T02:00:00.000+00:00",
+        "id": 401909286
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 5203685,
+        "name": "Khaman Maluach"
+      },
+      "points": 9.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-27T00:00:00.000+00:00",
+        "id": 401909873
+      },
+      "minutes": 26.0,
+      "player": {
+        "id": 5203685,
+        "name": "Khaman Maluach"
+      },
+      "points": 12.0,
+      "rebounds": 7.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-10-25T02:00:00.000+00:00",
+        "id": 401909860
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 5203685,
+        "name": "Khaman Maluach"
+      },
+      "points": 9.0,
+      "rebounds": 9.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909841
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 5203685,
+        "name": "Khaman Maluach"
+      },
+      "points": 2.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T03:00:00.000+00:00",
+        "id": 401910018
+      },
+      "minutes": 4.0,
+      "player": {
+        "id": 5041953,
+        "name": "Koa Peat"
+      },
+      "points": 2.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-17T02:00:00.000+00:00",
+        "id": 401910001
+      },
+      "minutes": 1.0,
+      "player": {
+        "id": 5041953,
+        "name": "Koa Peat"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 71.4,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-15T21:00:00.000+00:00",
+        "id": 401909986
+      },
+      "minutes": 8.0,
+      "player": {
+        "id": 5041953,
+        "name": "Koa Peat"
+      },
+      "points": 10.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-11T02:00:00.000+00:00",
+        "id": 401909962
+      },
+      "minutes": 6.0,
+      "player": {
+        "id": 5041953,
+        "name": "Koa Peat"
+      },
+      "points": 5.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-10T02:00:00.000+00:00",
+        "id": 401909958
+      },
+      "minutes": 6.0,
+      "player": {
+        "id": 5041953,
+        "name": "Koa Peat"
+      },
+      "points": 4.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-06T02:00:00.000+00:00",
+        "id": 401909936
+      },
+      "minutes": 2.0,
+      "player": {
+        "id": 5041953,
+        "name": "Koa Peat"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-05T02:00:00.000+00:00",
+        "id": 401909932
+      },
+      "minutes": 3.0,
+      "player": {
+        "id": 5041953,
+        "name": "Koa Peat"
+      },
+      "points": 2.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-27T00:00:00.000+00:00",
+        "id": 401909873
+      },
+      "minutes": 3.0,
+      "player": {
+        "id": 5041953,
+        "name": "Koa Peat"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909841
+      },
+      "minutes": 7.0,
+      "player": {
+        "id": 5041953,
+        "name": "Koa Peat"
+      },
+      "points": 4.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-10T02:00:00.000+00:00",
+        "id": 401909958
+      },
+      "minutes": 6.0,
+      "player": {
+        "id": 4066268,
+        "name": "Duop Reath"
+      },
+      "points": 2.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-06T02:00:00.000+00:00",
+        "id": 401909936
+      },
+      "minutes": 2.0,
+      "player": {
+        "id": 4066268,
+        "name": "Duop Reath"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 75.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-05T02:00:00.000+00:00",
+        "id": 401909932
+      },
+      "minutes": 7.0,
+      "player": {
+        "id": 4066268,
+        "name": "Duop Reath"
+      },
+      "points": 7.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-27T00:00:00.000+00:00",
+        "id": 401909873
+      },
+      "minutes": 7.0,
+      "player": {
+        "id": 4066268,
+        "name": "Duop Reath"
+      },
+      "points": 5.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-25T02:00:00.000+00:00",
+        "id": 401909860
+      },
+      "minutes": 3.0,
+      "player": {
+        "id": 4066268,
+        "name": "Duop Reath"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909841
+      },
+      "minutes": 9.0,
+      "player": {
+        "id": 4066268,
+        "name": "Duop Reath"
+      },
+      "points": 5.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-10T02:00:00.000+00:00",
+        "id": 401909958
+      },
+      "minutes": 6.0,
+      "player": {
+        "id": 4592714,
+        "name": "Pat Spencer"
+      },
+      "points": 2.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-06T02:00:00.000+00:00",
+        "id": 401909936
+      },
+      "minutes": 2.0,
+      "player": {
+        "id": 4592714,
+        "name": "Pat Spencer"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-05T02:00:00.000+00:00",
+        "id": 401909932
+      },
+      "minutes": 3.0,
+      "player": {
+        "id": 4592714,
+        "name": "Pat Spencer"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909841
+      },
+      "minutes": 7.0,
+      "player": {
+        "id": 4592714,
+        "name": "Pat Spencer"
+      },
+      "points": 3.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 21,
+        "name": "Phoenix Suns"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    }
+  ],
+  "results": 164
+}

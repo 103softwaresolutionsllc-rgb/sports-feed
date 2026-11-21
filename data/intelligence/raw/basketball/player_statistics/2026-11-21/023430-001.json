@@ -1,0 +1,5612 @@
+{
+  "errors": [],
+  "get": "players/statistics",
+  "parameters": {
+    "season": "2026-2027",
+    "source": "espn-fallback",
+    "team": "Golden State Warriors"
+  },
+  "response": [
+    {
+      "assists": 1.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 85.7,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-20T01:00:00.000+00:00",
+        "id": 401910019
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 4397886,
+        "name": "Charles Bassey"
+      },
+      "points": 16.0,
+      "rebounds": 13.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 62.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T01:00:00.000+00:00",
+        "id": 401910016
+      },
+      "minutes": 22.0,
+      "player": {
+        "id": 4397886,
+        "name": "Charles Bassey"
+      },
+      "points": 10.0,
+      "rebounds": 8.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-17T01:00:00.000+00:00",
+        "id": 401910000
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 4397886,
+        "name": "Charles Bassey"
+      },
+      "points": 4.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 71.4,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-14T02:30:00.000+00:00",
+        "id": 401909302
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 4397886,
+        "name": "Charles Bassey"
+      },
+      "points": 11.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 75.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-12T02:30:00.000+00:00",
+        "id": 401909974
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 4397886,
+        "name": "Charles Bassey"
+      },
+      "points": 7.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 75.0,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-10T03:00:00.000+00:00",
+        "id": 401909959
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 4397886,
+        "name": "Charles Bassey"
+      },
+      "points": 12.0,
+      "rebounds": 10.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-08T01:30:00.000+00:00",
+        "id": 401909942
+      },
+      "minutes": 11.0,
+      "player": {
+        "id": 4397886,
+        "name": "Charles Bassey"
+      },
+      "points": 8.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 3.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 75.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-06T03:00:00.000+00:00",
+        "id": 401909937
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 4397886,
+        "name": "Charles Bassey"
+      },
+      "points": 8.0,
+      "rebounds": 7.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 70.0,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-03T03:00:00.000+00:00",
+        "id": 401909919
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 4397886,
+        "name": "Charles Bassey"
+      },
+      "points": 19.0,
+      "rebounds": 8.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-02T01:30:00.000+00:00",
+        "id": 401909905
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 4397886,
+        "name": "Charles Bassey"
+      },
+      "points": 6.0,
+      "rebounds": 10.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-31T02:00:00.000+00:00",
+        "id": 401909285
+      },
+      "minutes": 9.0,
+      "player": {
+        "id": 4397886,
+        "name": "Charles Bassey"
+      },
+      "points": 6.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909888
+      },
+      "minutes": 2.0,
+      "player": {
+        "id": 4397886,
+        "name": "Charles Bassey"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-27T02:00:00.000+00:00",
+        "id": 401909876
+      },
+      "minutes": 2.0,
+      "player": {
+        "id": 4397886,
+        "name": "Charles Bassey"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-25T02:00:00.000+00:00",
+        "id": 401909860
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 4397886,
+        "name": "Charles Bassey"
+      },
+      "points": 10.0,
+      "rebounds": 7.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-20T01:00:00.000+00:00",
+        "id": 401910019
+      },
+      "minutes": 12.0,
+      "player": {
+        "id": 4433149,
+        "name": "LJ Cryer"
+      },
+      "points": 9.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 37.5,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T01:00:00.000+00:00",
+        "id": 401910016
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 4433149,
+        "name": "LJ Cryer"
+      },
+      "points": 9.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 20.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-17T01:00:00.000+00:00",
+        "id": 401910000
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4433149,
+        "name": "LJ Cryer"
+      },
+      "points": 7.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 17.0,
+      "field_goal_percentage": 41.2,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-14T02:30:00.000+00:00",
+        "id": 401909302
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4433149,
+        "name": "LJ Cryer"
+      },
+      "points": 20.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 11.0,
+      "three_pointers_made": 6.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 44.4,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-12T02:30:00.000+00:00",
+        "id": 401909974
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 4433149,
+        "name": "LJ Cryer"
+      },
+      "points": 13.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 44.4,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-10T03:00:00.000+00:00",
+        "id": 401909959
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 4433149,
+        "name": "LJ Cryer"
+      },
+      "points": 10.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-06T03:00:00.000+00:00",
+        "id": 401909937
+      },
+      "minutes": 1.0,
+      "player": {
+        "id": 4433149,
+        "name": "LJ Cryer"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T03:00:00.000+00:00",
+        "id": 401909919
+      },
+      "minutes": 1.0,
+      "player": {
+        "id": 4433149,
+        "name": "LJ Cryer"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-02T01:30:00.000+00:00",
+        "id": 401909905
+      },
+      "minutes": 2.0,
+      "player": {
+        "id": 4433149,
+        "name": "LJ Cryer"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-31T02:00:00.000+00:00",
+        "id": 401909285
+      },
+      "minutes": 0.0,
+      "player": {
+        "id": 4433149,
+        "name": "LJ Cryer"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-27T02:00:00.000+00:00",
+        "id": 401909876
+      },
+      "minutes": 3.0,
+      "player": {
+        "id": 4433149,
+        "name": "LJ Cryer"
+      },
+      "points": 6.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 20.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-25T02:00:00.000+00:00",
+        "id": 401909860
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 4433149,
+        "name": "LJ Cryer"
+      },
+      "points": 3.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909092
+      },
+      "minutes": 9.0,
+      "player": {
+        "id": 4433149,
+        "name": "LJ Cryer"
+      },
+      "points": 9.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-12T02:30:00.000+00:00",
+        "id": 401909974
+      },
+      "minutes": 6.0,
+      "player": {
+        "id": 3975,
+        "name": "Stephen Curry"
+      },
+      "points": 3.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 60.0,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 9.0,
+      "free_throws_made": 9.0,
+      "game": {
+        "date": "2026-11-10T03:00:00.000+00:00",
+        "id": 401909959
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 3975,
+        "name": "Stephen Curry"
+      },
+      "points": 25.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 19.0,
+      "field_goal_percentage": 68.4,
+      "field_goals_made": 13.0,
+      "free_throw_attempts": 10.0,
+      "free_throws_made": 10.0,
+      "game": {
+        "date": "2026-11-08T01:30:00.000+00:00",
+        "id": 401909942
+      },
+      "minutes": 36.0,
+      "player": {
+        "id": 3975,
+        "name": "Stephen Curry"
+      },
+      "points": 41.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 10.0,
+      "three_pointers_made": 5.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 19.0,
+      "field_goal_percentage": 47.4,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-06T03:00:00.000+00:00",
+        "id": 401909937
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 3975,
+        "name": "Stephen Curry"
+      },
+      "points": 29.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 12.0,
+      "three_pointers_made": 6.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 7.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 21.0,
+      "field_goal_percentage": 42.9,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 12.0,
+      "free_throws_made": 11.0,
+      "game": {
+        "date": "2026-11-03T03:00:00.000+00:00",
+        "id": 401909919
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 3975,
+        "name": "Stephen Curry"
+      },
+      "points": 34.0,
+      "rebounds": 6.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 13.0,
+      "three_pointers_made": 5.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 23.0,
+      "field_goal_percentage": 47.8,
+      "field_goals_made": 11.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-31T02:00:00.000+00:00",
+        "id": 401909285
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 3975,
+        "name": "Stephen Curry"
+      },
+      "points": 31.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 14.0,
+      "three_pointers_made": 8.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 27.0,
+      "field_goal_percentage": 40.7,
+      "field_goals_made": 11.0,
+      "free_throw_attempts": 16.0,
+      "free_throws_made": 16.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909888
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 3975,
+        "name": "Stephen Curry"
+      },
+      "points": 44.0,
+      "rebounds": 8.0,
+      "steals": 2.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 16.0,
+      "three_pointers_made": 6.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-10-27T02:00:00.000+00:00",
+        "id": 401909876
+      },
+      "minutes": 27.0,
+      "player": {
+        "id": 3975,
+        "name": "Stephen Curry"
+      },
+      "points": 24.0,
+      "rebounds": 3.0,
+      "steals": 2.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 11.0,
+      "free_throws_made": 11.0,
+      "game": {
+        "date": "2026-10-24T02:00:00.000+00:00",
+        "id": 401909850
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 3975,
+        "name": "Stephen Curry"
+      },
+      "points": 24.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 10.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 46.7,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 7.0,
+      "free_throws_made": 7.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909092
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 3975,
+        "name": "Stephen Curry"
+      },
+      "points": 23.0,
+      "rebounds": 2.0,
+      "steals": 2.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T01:00:00.000+00:00",
+        "id": 401910016
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 6589,
+        "name": "Draymond Green"
+      },
+      "points": 3.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-17T01:00:00.000+00:00",
+        "id": 401910000
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 6589,
+        "name": "Draymond Green"
+      },
+      "points": 2.0,
+      "rebounds": 8.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-14T02:30:00.000+00:00",
+        "id": 401909302
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 6589,
+        "name": "Draymond Green"
+      },
+      "points": 4.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 7.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 60.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-12T02:30:00.000+00:00",
+        "id": 401909974
+      },
+      "minutes": 27.0,
+      "player": {
+        "id": 6589,
+        "name": "Draymond Green"
+      },
+      "points": 7.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-10T03:00:00.000+00:00",
+        "id": 401909959
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 6589,
+        "name": "Draymond Green"
+      },
+      "points": 2.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 13.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 20.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-08T01:30:00.000+00:00",
+        "id": 401909942
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 6589,
+        "name": "Draymond Green"
+      },
+      "points": 2.0,
+      "rebounds": 6.0,
+      "steals": 2.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 11.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-06T03:00:00.000+00:00",
+        "id": 401909937
+      },
+      "minutes": 27.0,
+      "player": {
+        "id": 6589,
+        "name": "Draymond Green"
+      },
+      "points": 2.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-03T03:00:00.000+00:00",
+        "id": 401909919
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 6589,
+        "name": "Draymond Green"
+      },
+      "points": 4.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 9.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-31T02:00:00.000+00:00",
+        "id": 401909285
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 6589,
+        "name": "Draymond Green"
+      },
+      "points": 2.0,
+      "rebounds": 4.0,
+      "steals": 3.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909888
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 6589,
+        "name": "Draymond Green"
+      },
+      "points": 3.0,
+      "rebounds": 9.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 7.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-27T02:00:00.000+00:00",
+        "id": 401909876
+      },
+      "minutes": 27.0,
+      "player": {
+        "id": 6589,
+        "name": "Draymond Green"
+      },
+      "points": 3.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 5.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-24T02:00:00.000+00:00",
+        "id": 401909850
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 6589,
+        "name": "Draymond Green"
+      },
+      "points": 5.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 5.0
+    },
+    {
+      "assists": 8.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909092
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 6589,
+        "name": "Draymond Green"
+      },
+      "points": 2.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 20.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-20T01:00:00.000+00:00",
+        "id": 401910019
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 3213,
+        "name": "Al Horford"
+      },
+      "points": 3.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 3.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-17T01:00:00.000+00:00",
+        "id": 401910000
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 3213,
+        "name": "Al Horford"
+      },
+      "points": 0.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-14T02:30:00.000+00:00",
+        "id": 401909302
+      },
+      "minutes": 10.0,
+      "player": {
+        "id": 3213,
+        "name": "Al Horford"
+      },
+      "points": 0.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 14.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-12T02:30:00.000+00:00",
+        "id": 401909974
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 3213,
+        "name": "Al Horford"
+      },
+      "points": 2.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 3.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-10T03:00:00.000+00:00",
+        "id": 401909959
+      },
+      "minutes": 15.0,
+      "player": {
+        "id": 3213,
+        "name": "Al Horford"
+      },
+      "points": 5.0,
+      "rebounds": 2.0,
+      "steals": 2.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-08T01:30:00.000+00:00",
+        "id": 401909942
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 3213,
+        "name": "Al Horford"
+      },
+      "points": 2.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-06T03:00:00.000+00:00",
+        "id": 401909937
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 3213,
+        "name": "Al Horford"
+      },
+      "points": 8.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 42.9,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-02T01:30:00.000+00:00",
+        "id": 401909905
+      },
+      "minutes": 22.0,
+      "player": {
+        "id": 3213,
+        "name": "Al Horford"
+      },
+      "points": 9.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 16.7,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-31T02:00:00.000+00:00",
+        "id": 401909285
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 3213,
+        "name": "Al Horford"
+      },
+      "points": 3.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909888
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 3213,
+        "name": "Al Horford"
+      },
+      "points": 4.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 80.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-27T02:00:00.000+00:00",
+        "id": 401909876
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 3213,
+        "name": "Al Horford"
+      },
+      "points": 11.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-24T02:00:00.000+00:00",
+        "id": 401909850
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 3213,
+        "name": "Al Horford"
+      },
+      "points": 3.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909092
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 3213,
+        "name": "Al Horford"
+      },
+      "points": 0.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-20T01:00:00.000+00:00",
+        "id": 401910019
+      },
+      "minutes": 4.0,
+      "player": {
+        "id": 4703396,
+        "name": "Graham Ike"
+      },
+      "points": 5.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 3.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-19T01:00:00.000+00:00",
+        "id": 401910016
+      },
+      "minutes": 15.0,
+      "player": {
+        "id": 4703396,
+        "name": "Graham Ike"
+      },
+      "points": 2.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-17T01:00:00.000+00:00",
+        "id": 401910000
+      },
+      "minutes": 8.0,
+      "player": {
+        "id": 4703396,
+        "name": "Graham Ike"
+      },
+      "points": 3.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 28.6,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-14T02:30:00.000+00:00",
+        "id": 401909302
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 4703396,
+        "name": "Graham Ike"
+      },
+      "points": 5.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-12T02:30:00.000+00:00",
+        "id": 401909974
+      },
+      "minutes": 4.0,
+      "player": {
+        "id": 4703396,
+        "name": "Graham Ike"
+      },
+      "points": 4.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-10T03:00:00.000+00:00",
+        "id": 401909959
+      },
+      "minutes": 12.0,
+      "player": {
+        "id": 4703396,
+        "name": "Graham Ike"
+      },
+      "points": 4.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-06T03:00:00.000+00:00",
+        "id": 401909937
+      },
+      "minutes": 1.0,
+      "player": {
+        "id": 4703396,
+        "name": "Graham Ike"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T03:00:00.000+00:00",
+        "id": 401909919
+      },
+      "minutes": 7.0,
+      "player": {
+        "id": 4703396,
+        "name": "Graham Ike"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-02T01:30:00.000+00:00",
+        "id": 401909905
+      },
+      "minutes": 6.0,
+      "player": {
+        "id": 4703396,
+        "name": "Graham Ike"
+      },
+      "points": 2.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-27T02:00:00.000+00:00",
+        "id": 401909876
+      },
+      "minutes": 3.0,
+      "player": {
+        "id": 4703396,
+        "name": "Graham Ike"
+      },
+      "points": 3.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 38.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-25T02:00:00.000+00:00",
+        "id": 401909860
+      },
+      "minutes": 26.0,
+      "player": {
+        "id": 4703396,
+        "name": "Graham Ike"
+      },
+      "points": 12.0,
+      "rebounds": 10.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 57.1,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-24T02:00:00.000+00:00",
+        "id": 401909850
+      },
+      "minutes": 12.0,
+      "player": {
+        "id": 4703396,
+        "name": "Graham Ike"
+      },
+      "points": 10.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909092
+      },
+      "minutes": 12.0,
+      "player": {
+        "id": 4703396,
+        "name": "Graham Ike"
+      },
+      "points": 8.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 7.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 27.3,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-20T01:00:00.000+00:00",
+        "id": 401910019
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 5175737,
+        "name": "Yaxel Lendeborg"
+      },
+      "points": 11.0,
+      "rebounds": 8.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 18.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-19T01:00:00.000+00:00",
+        "id": 401910016
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 5175737,
+        "name": "Yaxel Lendeborg"
+      },
+      "points": 13.0,
+      "rebounds": 5.0,
+      "steals": 2.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 23.0,
+      "field_goal_percentage": 39.1,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 8.0,
+      "free_throws_made": 8.0,
+      "game": {
+        "date": "2026-11-17T01:00:00.000+00:00",
+        "id": 401910000
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 5175737,
+        "name": "Yaxel Lendeborg"
+      },
+      "points": 28.0,
+      "rebounds": 8.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 9.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 7.7,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-14T02:30:00.000+00:00",
+        "id": 401909302
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 5175737,
+        "name": "Yaxel Lendeborg"
+      },
+      "points": 3.0,
+      "rebounds": 7.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 19.0,
+      "field_goal_percentage": 47.4,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 8.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-12T02:30:00.000+00:00",
+        "id": 401909974
+      },
+      "minutes": 36.0,
+      "player": {
+        "id": 5175737,
+        "name": "Yaxel Lendeborg"
+      },
+      "points": 25.0,
+      "rebounds": 10.0,
+      "steals": 2.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 80.0,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-10T03:00:00.000+00:00",
+        "id": 401909959
+      },
+      "minutes": 27.0,
+      "player": {
+        "id": 5175737,
+        "name": "Yaxel Lendeborg"
+      },
+      "points": 23.0,
+      "rebounds": 7.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 3.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 60.0,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-08T01:30:00.000+00:00",
+        "id": 401909942
+      },
+      "minutes": 37.0,
+      "player": {
+        "id": 5175737,
+        "name": "Yaxel Lendeborg"
+      },
+      "points": 23.0,
+      "rebounds": 8.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 6.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 14.0,
+      "field_goal_percentage": 42.9,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-06T03:00:00.000+00:00",
+        "id": 401909937
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 5175737,
+        "name": "Yaxel Lendeborg"
+      },
+      "points": 17.0,
+      "rebounds": 8.0,
+      "steals": 3.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 30.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 9.0,
+      "free_throws_made": 8.0,
+      "game": {
+        "date": "2026-11-03T03:00:00.000+00:00",
+        "id": 401909919
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 5175737,
+        "name": "Yaxel Lendeborg"
+      },
+      "points": 16.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 19.0,
+      "field_goal_percentage": 68.4,
+      "field_goals_made": 13.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-02T01:30:00.000+00:00",
+        "id": 401909905
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 5175737,
+        "name": "Yaxel Lendeborg"
+      },
+      "points": 37.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 11.0,
+      "three_pointers_made": 6.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-31T02:00:00.000+00:00",
+        "id": 401909285
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 5175737,
+        "name": "Yaxel Lendeborg"
+      },
+      "points": 6.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 5.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 20.0,
+      "field_goal_percentage": 55.0,
+      "field_goals_made": 11.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909888
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 5175737,
+        "name": "Yaxel Lendeborg"
+      },
+      "points": 26.0,
+      "rebounds": 9.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 7.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 19.0,
+      "field_goal_percentage": 47.4,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 13.0,
+      "free_throws_made": 12.0,
+      "game": {
+        "date": "2026-10-27T02:00:00.000+00:00",
+        "id": 401909876
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 5175737,
+        "name": "Yaxel Lendeborg"
+      },
+      "points": 31.0,
+      "rebounds": 12.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 19.0,
+      "field_goal_percentage": 47.4,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-25T02:00:00.000+00:00",
+        "id": 401909860
+      },
+      "minutes": 36.0,
+      "player": {
+        "id": 5175737,
+        "name": "Yaxel Lendeborg"
+      },
+      "points": 26.0,
+      "rebounds": 9.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 11.0,
+      "three_pointers_made": 6.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 36.4,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 12.0,
+      "free_throws_made": 9.0,
+      "game": {
+        "date": "2026-10-24T02:00:00.000+00:00",
+        "id": 401909850
+      },
+      "minutes": 37.0,
+      "player": {
+        "id": 5175737,
+        "name": "Yaxel Lendeborg"
+      },
+      "points": 18.0,
+      "rebounds": 13.0,
+      "steals": 3.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 6.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 45.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909092
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 5175737,
+        "name": "Yaxel Lendeborg"
+      },
+      "points": 12.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-20T01:00:00.000+00:00",
+        "id": 401910019
+      },
+      "minutes": 4.0,
+      "player": {
+        "id": 4897449,
+        "name": "Malevy Leons"
+      },
+      "points": 0.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-19T01:00:00.000+00:00",
+        "id": 401910016
+      },
+      "minutes": 7.0,
+      "player": {
+        "id": 4897449,
+        "name": "Malevy Leons"
+      },
+      "points": 2.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-17T01:00:00.000+00:00",
+        "id": 401910000
+      },
+      "minutes": 6.0,
+      "player": {
+        "id": 4897449,
+        "name": "Malevy Leons"
+      },
+      "points": 2.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-14T02:30:00.000+00:00",
+        "id": 401909302
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 4897449,
+        "name": "Malevy Leons"
+      },
+      "points": 5.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-12T02:30:00.000+00:00",
+        "id": 401909974
+      },
+      "minutes": 4.0,
+      "player": {
+        "id": 4897449,
+        "name": "Malevy Leons"
+      },
+      "points": 0.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-10T03:00:00.000+00:00",
+        "id": 401909959
+      },
+      "minutes": 12.0,
+      "player": {
+        "id": 4897449,
+        "name": "Malevy Leons"
+      },
+      "points": 0.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-06T03:00:00.000+00:00",
+        "id": 401909937
+      },
+      "minutes": 1.0,
+      "player": {
+        "id": 4897449,
+        "name": "Malevy Leons"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-27T02:00:00.000+00:00",
+        "id": 401909876
+      },
+      "minutes": 3.0,
+      "player": {
+        "id": 4897449,
+        "name": "Malevy Leons"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-25T02:00:00.000+00:00",
+        "id": 401909860
+      },
+      "minutes": 4.0,
+      "player": {
+        "id": 4897449,
+        "name": "Malevy Leons"
+      },
+      "points": 2.0,
+      "rebounds": 0.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909092
+      },
+      "minutes": 9.0,
+      "player": {
+        "id": 4897449,
+        "name": "Malevy Leons"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 30.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-20T01:00:00.000+00:00",
+        "id": 401910019
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 4066436,
+        "name": "De'Anthony Melton"
+      },
+      "points": 9.0,
+      "rebounds": 1.0,
+      "steals": 2.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T01:00:00.000+00:00",
+        "id": 401910016
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 4066436,
+        "name": "De'Anthony Melton"
+      },
+      "points": 0.0,
+      "rebounds": 2.0,
+      "steals": 3.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 42.9,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-17T01:00:00.000+00:00",
+        "id": 401910000
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 4066436,
+        "name": "De'Anthony Melton"
+      },
+      "points": 8.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 27.3,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-14T02:30:00.000+00:00",
+        "id": 401909302
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 4066436,
+        "name": "De'Anthony Melton"
+      },
+      "points": 8.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 42.9,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-12T02:30:00.000+00:00",
+        "id": 401909974
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 4066436,
+        "name": "De'Anthony Melton"
+      },
+      "points": 11.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 45.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-10T03:00:00.000+00:00",
+        "id": 401909959
+      },
+      "minutes": 26.0,
+      "player": {
+        "id": 4066436,
+        "name": "De'Anthony Melton"
+      },
+      "points": 16.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 20.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-08T01:30:00.000+00:00",
+        "id": 401909942
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 4066436,
+        "name": "De'Anthony Melton"
+      },
+      "points": 4.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 20.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-06T03:00:00.000+00:00",
+        "id": 401909937
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 4066436,
+        "name": "De'Anthony Melton"
+      },
+      "points": 5.0,
+      "rebounds": 6.0,
+      "steals": 3.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 11.1,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T03:00:00.000+00:00",
+        "id": 401909919
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 4066436,
+        "name": "De'Anthony Melton"
+      },
+      "points": 2.0,
+      "rebounds": 7.0,
+      "steals": 2.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-02T01:30:00.000+00:00",
+        "id": 401909905
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 4066436,
+        "name": "De'Anthony Melton"
+      },
+      "points": 21.0,
+      "rebounds": 6.0,
+      "steals": 2.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 6.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-31T02:00:00.000+00:00",
+        "id": 401909285
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 4066436,
+        "name": "De'Anthony Melton"
+      },
+      "points": 16.0,
+      "rebounds": 5.0,
+      "steals": 2.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 28.6,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909888
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 4066436,
+        "name": "De'Anthony Melton"
+      },
+      "points": 8.0,
+      "rebounds": 6.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 16.7,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-27T02:00:00.000+00:00",
+        "id": 401909876
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 4066436,
+        "name": "De'Anthony Melton"
+      },
+      "points": 3.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 61.5,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-10-25T02:00:00.000+00:00",
+        "id": 401909860
+      },
+      "minutes": 27.0,
+      "player": {
+        "id": 4066436,
+        "name": "De'Anthony Melton"
+      },
+      "points": 25.0,
+      "rebounds": 5.0,
+      "steals": 3.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-24T02:00:00.000+00:00",
+        "id": 401909850
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 4066436,
+        "name": "De'Anthony Melton"
+      },
+      "points": 10.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909092
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 4066436,
+        "name": "De'Anthony Melton"
+      },
+      "points": 0.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-20T01:00:00.000+00:00",
+        "id": 401910019
+      },
+      "minutes": 15.0,
+      "player": {
+        "id": 2990969,
+        "name": "Georges Niang"
+      },
+      "points": 5.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 36.4,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-19T01:00:00.000+00:00",
+        "id": 401910016
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 2990969,
+        "name": "Georges Niang"
+      },
+      "points": 11.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-17T01:00:00.000+00:00",
+        "id": 401910000
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 2990969,
+        "name": "Georges Niang"
+      },
+      "points": 0.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-14T02:30:00.000+00:00",
+        "id": 401909302
+      },
+      "minutes": 15.0,
+      "player": {
+        "id": 2990969,
+        "name": "Georges Niang"
+      },
+      "points": 5.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 14.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-12T02:30:00.000+00:00",
+        "id": 401909974
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 2990969,
+        "name": "Georges Niang"
+      },
+      "points": 5.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 57.1,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-10T03:00:00.000+00:00",
+        "id": 401909959
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 2990969,
+        "name": "Georges Niang"
+      },
+      "points": 9.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-08T01:30:00.000+00:00",
+        "id": 401909942
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 2990969,
+        "name": "Georges Niang"
+      },
+      "points": 11.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 62.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-06T03:00:00.000+00:00",
+        "id": 401909937
+      },
+      "minutes": 22.0,
+      "player": {
+        "id": 2990969,
+        "name": "Georges Niang"
+      },
+      "points": 13.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 83.3,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-03T03:00:00.000+00:00",
+        "id": 401909919
+      },
+      "minutes": 22.0,
+      "player": {
+        "id": 2990969,
+        "name": "Georges Niang"
+      },
+      "points": 13.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 14.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-02T01:30:00.000+00:00",
+        "id": 401909905
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 2990969,
+        "name": "Georges Niang"
+      },
+      "points": 3.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 80.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-31T02:00:00.000+00:00",
+        "id": 401909285
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 2990969,
+        "name": "Georges Niang"
+      },
+      "points": 11.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909888
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 2990969,
+        "name": "Georges Niang"
+      },
+      "points": 7.0,
+      "rebounds": 3.0,
+      "steals": 2.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 42.9,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-27T02:00:00.000+00:00",
+        "id": 401909876
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 2990969,
+        "name": "Georges Niang"
+      },
+      "points": 9.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 22.2,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-25T02:00:00.000+00:00",
+        "id": 401909860
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 2990969,
+        "name": "Georges Niang"
+      },
+      "points": 4.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-24T02:00:00.000+00:00",
+        "id": 401909850
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 2990969,
+        "name": "Georges Niang"
+      },
+      "points": 4.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 37.5,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909092
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 2990969,
+        "name": "Georges Niang"
+      },
+      "points": 7.0,
+      "rebounds": 2.0,
+      "steals": 2.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-20T01:00:00.000+00:00",
+        "id": 401910019
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 3134903,
+        "name": "Gary Payton II"
+      },
+      "points": 2.0,
+      "rebounds": 1.0,
+      "steals": 3.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 75.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T01:00:00.000+00:00",
+        "id": 401910016
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 3134903,
+        "name": "Gary Payton II"
+      },
+      "points": 8.0,
+      "rebounds": 8.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-17T01:00:00.000+00:00",
+        "id": 401910000
+      },
+      "minutes": 8.0,
+      "player": {
+        "id": 3134903,
+        "name": "Gary Payton II"
+      },
+      "points": 2.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-14T02:30:00.000+00:00",
+        "id": 401909302
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 3134903,
+        "name": "Gary Payton II"
+      },
+      "points": 2.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-08T01:30:00.000+00:00",
+        "id": 401909942
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 3134903,
+        "name": "Gary Payton II"
+      },
+      "points": 4.0,
+      "rebounds": 0.0,
+      "steals": 2.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-06T03:00:00.000+00:00",
+        "id": 401909937
+      },
+      "minutes": 10.0,
+      "player": {
+        "id": 3134903,
+        "name": "Gary Payton II"
+      },
+      "points": 9.0,
+      "rebounds": 0.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T03:00:00.000+00:00",
+        "id": 401909919
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 3134903,
+        "name": "Gary Payton II"
+      },
+      "points": 2.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-02T01:30:00.000+00:00",
+        "id": 401909905
+      },
+      "minutes": 15.0,
+      "player": {
+        "id": 3134903,
+        "name": "Gary Payton II"
+      },
+      "points": 5.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 20.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-31T02:00:00.000+00:00",
+        "id": 401909285
+      },
+      "minutes": 8.0,
+      "player": {
+        "id": 3134903,
+        "name": "Gary Payton II"
+      },
+      "points": 2.0,
+      "rebounds": 4.0,
+      "steals": 2.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909888
+      },
+      "minutes": 10.0,
+      "player": {
+        "id": 3134903,
+        "name": "Gary Payton II"
+      },
+      "points": 2.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 42.9,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-27T02:00:00.000+00:00",
+        "id": 401909876
+      },
+      "minutes": 12.0,
+      "player": {
+        "id": 3134903,
+        "name": "Gary Payton II"
+      },
+      "points": 7.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-25T02:00:00.000+00:00",
+        "id": 401909860
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 3134903,
+        "name": "Gary Payton II"
+      },
+      "points": 2.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-24T02:00:00.000+00:00",
+        "id": 401909850
+      },
+      "minutes": 11.0,
+      "player": {
+        "id": 3134903,
+        "name": "Gary Payton II"
+      },
+      "points": 7.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 55.6,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909092
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 3134903,
+        "name": "Gary Payton II"
+      },
+      "points": 10.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 41.7,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-20T01:00:00.000+00:00",
+        "id": 401910019
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 4709138,
+        "name": "Brandin Podziemski"
+      },
+      "points": 15.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 38.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T01:00:00.000+00:00",
+        "id": 401910016
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 4709138,
+        "name": "Brandin Podziemski"
+      },
+      "points": 10.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 37.5,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 7.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-11-17T01:00:00.000+00:00",
+        "id": 401910000
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 4709138,
+        "name": "Brandin Podziemski"
+      },
+      "points": 15.0,
+      "rebounds": 6.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 5.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 20.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-14T02:30:00.000+00:00",
+        "id": 401909302
+      },
+      "minutes": 22.0,
+      "player": {
+        "id": 4709138,
+        "name": "Brandin Podziemski"
+      },
+      "points": 8.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 46.7,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-12T02:30:00.000+00:00",
+        "id": 401909974
+      },
+      "minutes": 37.0,
+      "player": {
+        "id": 4709138,
+        "name": "Brandin Podziemski"
+      },
+      "points": 22.0,
+      "rebounds": 6.0,
+      "steals": 2.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 11.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 19.0,
+      "field_goal_percentage": 52.6,
+      "field_goals_made": 10.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-10T03:00:00.000+00:00",
+        "id": 401909959
+      },
+      "minutes": 26.0,
+      "player": {
+        "id": 4709138,
+        "name": "Brandin Podziemski"
+      },
+      "points": 25.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 11.0,
+      "three_pointers_made": 5.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 71.4,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-08T01:30:00.000+00:00",
+        "id": 401909942
+      },
+      "minutes": 39.0,
+      "player": {
+        "id": 4709138,
+        "name": "Brandin Podziemski"
+      },
+      "points": 15.0,
+      "rebounds": 7.0,
+      "steals": 2.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 37.5,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-06T03:00:00.000+00:00",
+        "id": 401909937
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 4709138,
+        "name": "Brandin Podziemski"
+      },
+      "points": 9.0,
+      "rebounds": 6.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 46.7,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-03T03:00:00.000+00:00",
+        "id": 401909919
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 4709138,
+        "name": "Brandin Podziemski"
+      },
+      "points": 20.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 8.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 14.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-02T01:30:00.000+00:00",
+        "id": 401909905
+      },
+      "minutes": 37.0,
+      "player": {
+        "id": 4709138,
+        "name": "Brandin Podziemski"
+      },
+      "points": 17.0,
+      "rebounds": 8.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 46.7,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-31T02:00:00.000+00:00",
+        "id": 401909285
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 4709138,
+        "name": "Brandin Podziemski"
+      },
+      "points": 21.0,
+      "rebounds": 5.0,
+      "steals": 2.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 9.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 7.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909888
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 4709138,
+        "name": "Brandin Podziemski"
+      },
+      "points": 8.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 14.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-27T02:00:00.000+00:00",
+        "id": 401909876
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 4709138,
+        "name": "Brandin Podziemski"
+      },
+      "points": 18.0,
+      "rebounds": 7.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 17.0,
+      "field_goal_percentage": 41.2,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-24T02:00:00.000+00:00",
+        "id": 401909850
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 4709138,
+        "name": "Brandin Podziemski"
+      },
+      "points": 18.0,
+      "rebounds": 2.0,
+      "steals": 3.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 62.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-20T01:00:00.000+00:00",
+        "id": 401910019
+      },
+      "minutes": 27.0,
+      "player": {
+        "id": 4897262,
+        "name": "Will Richard"
+      },
+      "points": 15.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 69.2,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-19T01:00:00.000+00:00",
+        "id": 401910016
+      },
+      "minutes": 27.0,
+      "player": {
+        "id": 4897262,
+        "name": "Will Richard"
+      },
+      "points": 20.0,
+      "rebounds": 0.0,
+      "steals": 4.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 36.4,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-17T01:00:00.000+00:00",
+        "id": 401910000
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 4897262,
+        "name": "Will Richard"
+      },
+      "points": 11.0,
+      "rebounds": 3.0,
+      "steals": 2.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-14T02:30:00.000+00:00",
+        "id": 401909302
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 4897262,
+        "name": "Will Richard"
+      },
+      "points": 7.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-12T02:30:00.000+00:00",
+        "id": 401909974
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 4897262,
+        "name": "Will Richard"
+      },
+      "points": 9.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-08T01:30:00.000+00:00",
+        "id": 401909942
+      },
+      "minutes": 12.0,
+      "player": {
+        "id": 4897262,
+        "name": "Will Richard"
+      },
+      "points": 4.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-06T03:00:00.000+00:00",
+        "id": 401909937
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 4897262,
+        "name": "Will Richard"
+      },
+      "points": 10.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 28.6,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T03:00:00.000+00:00",
+        "id": 401909919
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 4897262,
+        "name": "Will Richard"
+      },
+      "points": 6.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-02T01:30:00.000+00:00",
+        "id": 401909905
+      },
+      "minutes": 22.0,
+      "player": {
+        "id": 4897262,
+        "name": "Will Richard"
+      },
+      "points": 3.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-31T02:00:00.000+00:00",
+        "id": 401909285
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 4897262,
+        "name": "Will Richard"
+      },
+      "points": 3.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909888
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 4897262,
+        "name": "Will Richard"
+      },
+      "points": 6.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-27T02:00:00.000+00:00",
+        "id": 401909876
+      },
+      "minutes": 3.0,
+      "player": {
+        "id": 4897262,
+        "name": "Will Richard"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 44.4,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-25T02:00:00.000+00:00",
+        "id": 401909860
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 4897262,
+        "name": "Will Richard"
+      },
+      "points": 11.0,
+      "rebounds": 0.0,
+      "steals": 2.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-24T02:00:00.000+00:00",
+        "id": 401909850
+      },
+      "minutes": 3.0,
+      "player": {
+        "id": 4897262,
+        "name": "Will Richard"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 80.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909092
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 4897262,
+        "name": "Will Richard"
+      },
+      "points": 8.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-20T01:00:00.000+00:00",
+        "id": 401910019
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 4997536,
+        "name": "Gui Santos"
+      },
+      "points": 8.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-19T01:00:00.000+00:00",
+        "id": 401910016
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 4997536,
+        "name": "Gui Santos"
+      },
+      "points": 6.0,
+      "rebounds": 6.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 8.0,
+      "free_throws_made": 7.0,
+      "game": {
+        "date": "2026-11-17T01:00:00.000+00:00",
+        "id": 401910000
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 4997536,
+        "name": "Gui Santos"
+      },
+      "points": 12.0,
+      "rebounds": 7.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 37.5,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-14T02:30:00.000+00:00",
+        "id": 401909302
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 4997536,
+        "name": "Gui Santos"
+      },
+      "points": 7.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-12T02:30:00.000+00:00",
+        "id": 401909974
+      },
+      "minutes": 12.0,
+      "player": {
+        "id": 4997536,
+        "name": "Gui Santos"
+      },
+      "points": 0.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-10T03:00:00.000+00:00",
+        "id": 401909959
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 4997536,
+        "name": "Gui Santos"
+      },
+      "points": 3.0,
+      "rebounds": 7.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-08T01:30:00.000+00:00",
+        "id": 401909942
+      },
+      "minutes": 12.0,
+      "player": {
+        "id": 4997536,
+        "name": "Gui Santos"
+      },
+      "points": 3.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-02T01:30:00.000+00:00",
+        "id": 401909905
+      },
+      "minutes": 9.0,
+      "player": {
+        "id": 4997536,
+        "name": "Gui Santos"
+      },
+      "points": 4.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-31T02:00:00.000+00:00",
+        "id": 401909285
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 4997536,
+        "name": "Gui Santos"
+      },
+      "points": 2.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 83.3,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-27T02:00:00.000+00:00",
+        "id": 401909876
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 4997536,
+        "name": "Gui Santos"
+      },
+      "points": 13.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 8.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-10-25T02:00:00.000+00:00",
+        "id": 401909860
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 4997536,
+        "name": "Gui Santos"
+      },
+      "points": 7.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-24T02:00:00.000+00:00",
+        "id": 401909850
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 4997536,
+        "name": "Gui Santos"
+      },
+      "points": 5.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909092
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 4997536,
+        "name": "Gui Santos"
+      },
+      "points": 12.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-10T03:00:00.000+00:00",
+        "id": 401909959
+      },
+      "minutes": 2.0,
+      "player": {
+        "id": 4397040,
+        "name": "Brandon Williams"
+      },
+      "points": 4.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 42.9,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-08T01:30:00.000+00:00",
+        "id": 401909942
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 4397040,
+        "name": "Brandon Williams"
+      },
+      "points": 9.0,
+      "rebounds": 0.0,
+      "steals": 2.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 57.1,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-06T03:00:00.000+00:00",
+        "id": 401909937
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 4397040,
+        "name": "Brandon Williams"
+      },
+      "points": 10.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 63.6,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-02T01:30:00.000+00:00",
+        "id": 401909905
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 4397040,
+        "name": "Brandon Williams"
+      },
+      "points": 17.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-10-31T02:00:00.000+00:00",
+        "id": 401909285
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 4397040,
+        "name": "Brandon Williams"
+      },
+      "points": 9.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 36.4,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909888
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 4397040,
+        "name": "Brandon Williams"
+      },
+      "points": 11.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-27T02:00:00.000+00:00",
+        "id": 401909876
+      },
+      "minutes": 15.0,
+      "player": {
+        "id": 4397040,
+        "name": "Brandon Williams"
+      },
+      "points": 6.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 11.0,
+      "free_throws_made": 8.0,
+      "game": {
+        "date": "2026-10-25T02:00:00.000+00:00",
+        "id": 401909860
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4397040,
+        "name": "Brandon Williams"
+      },
+      "points": 20.0,
+      "rebounds": 3.0,
+      "steals": 2.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 20.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-24T02:00:00.000+00:00",
+        "id": 401909850
+      },
+      "minutes": 9.0,
+      "player": {
+        "id": 4397040,
+        "name": "Brandon Williams"
+      },
+      "points": 4.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 7.0,
+      "free_throws_made": 7.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909092
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 4397040,
+        "name": "Brandon Williams"
+      },
+      "points": 14.0,
+      "rebounds": 4.0,
+      "steals": 3.0,
+      "team": {
+        "id": 9,
+        "name": "Golden State Warriors"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    }
+  ],
+  "results": 200
+}

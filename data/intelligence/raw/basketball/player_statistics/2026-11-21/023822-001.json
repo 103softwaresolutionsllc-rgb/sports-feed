@@ -1,0 +1,4520 @@
+{
+  "errors": [],
+  "get": "players/statistics",
+  "parameters": {
+    "season": "2026-2027",
+    "source": "espn-fallback",
+    "team": "Philadelphia 76ers"
+  },
+  "response": [
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-05T00:00:00.000+00:00",
+        "id": 401909922
+      },
+      "minutes": 15.0,
+      "player": {
+        "id": 5105637,
+        "name": "Adem Bona"
+      },
+      "points": 5.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909912
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 5105637,
+        "name": "Adem Bona"
+      },
+      "points": 3.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-31T22:00:00.000+00:00",
+        "id": 401909897
+      },
+      "minutes": 22.0,
+      "player": {
+        "id": 5105637,
+        "name": "Adem Bona"
+      },
+      "points": 2.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-30T23:30:00.000+00:00",
+        "id": 401909280
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 5105637,
+        "name": "Adem Bona"
+      },
+      "points": 0.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-28T23:00:00.000+00:00",
+        "id": 401909884
+      },
+      "minutes": 4.0,
+      "player": {
+        "id": 5105637,
+        "name": "Adem Bona"
+      },
+      "points": 1.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 3.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 60.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-25T23:30:00.000+00:00",
+        "id": 401909866
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 5105637,
+        "name": "Adem Bona"
+      },
+      "points": 6.0,
+      "rebounds": 13.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-24T23:30:00.000+00:00",
+        "id": 401909855
+      },
+      "minutes": 10.0,
+      "player": {
+        "id": 5105637,
+        "name": "Adem Bona"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-22T23:00:00.000+00:00",
+        "id": 401909093
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 5105637,
+        "name": "Adem Bona"
+      },
+      "points": 2.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-20T23:00:00.000+00:00",
+        "id": 401909089
+      },
+      "minutes": 10.0,
+      "player": {
+        "id": 5105637,
+        "name": "Adem Bona"
+      },
+      "points": 0.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 19.0,
+      "field_goal_percentage": 47.4,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 13.0,
+      "free_throws_made": 10.0,
+      "game": {
+        "date": "2026-11-17T00:30:00.000+00:00",
+        "id": 401909997
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 3917376,
+        "name": "Jaylen Brown"
+      },
+      "points": 31.0,
+      "rebounds": 13.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 18.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 12.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401909985
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 3917376,
+        "name": "Jaylen Brown"
+      },
+      "points": 31.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 5.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 53.3,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-13T00:00:00.000+00:00",
+        "id": 401909976
+      },
+      "minutes": 36.0,
+      "player": {
+        "id": 3917376,
+        "name": "Jaylen Brown"
+      },
+      "points": 18.0,
+      "rebounds": 6.0,
+      "steals": 2.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 5.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 44.4,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-11T01:00:00.000+00:00",
+        "id": 401909961
+      },
+      "minutes": 26.0,
+      "player": {
+        "id": 3917376,
+        "name": "Jaylen Brown"
+      },
+      "points": 13.0,
+      "rebounds": 5.0,
+      "steals": 2.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 22.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 11.0,
+      "free_throw_attempts": 8.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-08T20:30:00.000+00:00",
+        "id": 401909945
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 3917376,
+        "name": "Jaylen Brown"
+      },
+      "points": 29.0,
+      "rebounds": 7.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 19.0,
+      "field_goal_percentage": 47.4,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-07T00:30:00.000+00:00",
+        "id": 401909289
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 3917376,
+        "name": "Jaylen Brown"
+      },
+      "points": 20.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 9.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 19.0,
+      "field_goal_percentage": 57.9,
+      "field_goals_made": 11.0,
+      "free_throw_attempts": 7.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-05T00:00:00.000+00:00",
+        "id": 401909922
+      },
+      "minutes": 37.0,
+      "player": {
+        "id": 3917376,
+        "name": "Jaylen Brown"
+      },
+      "points": 30.0,
+      "rebounds": 7.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 60.0,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909912
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 3917376,
+        "name": "Jaylen Brown"
+      },
+      "points": 25.0,
+      "rebounds": 11.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 7.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-10-31T22:00:00.000+00:00",
+        "id": 401909897
+      },
+      "minutes": 38.0,
+      "player": {
+        "id": 3917376,
+        "name": "Jaylen Brown"
+      },
+      "points": 16.0,
+      "rebounds": 4.0,
+      "steals": 2.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 53.8,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-10-28T23:00:00.000+00:00",
+        "id": 401909884
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 3917376,
+        "name": "Jaylen Brown"
+      },
+      "points": 20.0,
+      "rebounds": 10.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 5.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 20.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 8.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-10-25T23:30:00.000+00:00",
+        "id": 401909866
+      },
+      "minutes": 40.0,
+      "player": {
+        "id": 3917376,
+        "name": "Jaylen Brown"
+      },
+      "points": 16.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 19.0,
+      "field_goal_percentage": 47.4,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-10-24T23:30:00.000+00:00",
+        "id": 401909855
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 3917376,
+        "name": "Jaylen Brown"
+      },
+      "points": 27.0,
+      "rebounds": 3.0,
+      "steals": 3.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 20.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 10.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-22T23:00:00.000+00:00",
+        "id": 401909093
+      },
+      "minutes": 38.0,
+      "player": {
+        "id": 3917376,
+        "name": "Jaylen Brown"
+      },
+      "points": 21.0,
+      "rebounds": 8.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 14.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-20T23:00:00.000+00:00",
+        "id": 401909089
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 3917376,
+        "name": "Jaylen Brown"
+      },
+      "points": 19.0,
+      "rebounds": 8.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 60.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T00:00:00.000+00:00",
+        "id": 401910010
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 2581018,
+        "name": "Kentavious Caldwell-Pope"
+      },
+      "points": 8.0,
+      "rebounds": 8.0,
+      "steals": 2.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-17T00:30:00.000+00:00",
+        "id": 401909997
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 2581018,
+        "name": "Kentavious Caldwell-Pope"
+      },
+      "points": 0.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401909985
+      },
+      "minutes": 22.0,
+      "player": {
+        "id": 2581018,
+        "name": "Kentavious Caldwell-Pope"
+      },
+      "points": 9.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 57.1,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-13T00:00:00.000+00:00",
+        "id": 401909976
+      },
+      "minutes": 27.0,
+      "player": {
+        "id": 2581018,
+        "name": "Kentavious Caldwell-Pope"
+      },
+      "points": 11.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-11T01:00:00.000+00:00",
+        "id": 401909961
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 2581018,
+        "name": "Kentavious Caldwell-Pope"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-08T20:30:00.000+00:00",
+        "id": 401909945
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 2581018,
+        "name": "Kentavious Caldwell-Pope"
+      },
+      "points": 6.0,
+      "rebounds": 6.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-07T00:30:00.000+00:00",
+        "id": 401909289
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 2581018,
+        "name": "Kentavious Caldwell-Pope"
+      },
+      "points": 5.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-05T00:00:00.000+00:00",
+        "id": 401909922
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 2581018,
+        "name": "Kentavious Caldwell-Pope"
+      },
+      "points": 5.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909912
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 2581018,
+        "name": "Kentavious Caldwell-Pope"
+      },
+      "points": 3.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-31T22:00:00.000+00:00",
+        "id": 401909897
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 2581018,
+        "name": "Kentavious Caldwell-Pope"
+      },
+      "points": 3.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-30T23:30:00.000+00:00",
+        "id": 401909280
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 2581018,
+        "name": "Kentavious Caldwell-Pope"
+      },
+      "points": 5.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-28T23:00:00.000+00:00",
+        "id": 401909884
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 2581018,
+        "name": "Kentavious Caldwell-Pope"
+      },
+      "points": 4.0,
+      "rebounds": 2.0,
+      "steals": 2.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 37.5,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-25T23:30:00.000+00:00",
+        "id": 401909866
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 2581018,
+        "name": "Kentavious Caldwell-Pope"
+      },
+      "points": 7.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-24T23:30:00.000+00:00",
+        "id": 401909855
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 2581018,
+        "name": "Kentavious Caldwell-Pope"
+      },
+      "points": 12.0,
+      "rebounds": 2.0,
+      "steals": 3.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-22T23:00:00.000+00:00",
+        "id": 401909093
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 2581018,
+        "name": "Kentavious Caldwell-Pope"
+      },
+      "points": 3.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 37.5,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-20T23:00:00.000+00:00",
+        "id": 401909089
+      },
+      "minutes": 26.0,
+      "player": {
+        "id": 2581018,
+        "name": "Kentavious Caldwell-Pope"
+      },
+      "points": 10.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 53.3,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-19T00:00:00.000+00:00",
+        "id": 401910010
+      },
+      "minutes": 43.0,
+      "player": {
+        "id": 5124612,
+        "name": "VJ Edgecombe"
+      },
+      "points": 24.0,
+      "rebounds": 8.0,
+      "steals": 2.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 9.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-17T00:30:00.000+00:00",
+        "id": 401909997
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 5124612,
+        "name": "VJ Edgecombe"
+      },
+      "points": 14.0,
+      "rebounds": 9.0,
+      "steals": 2.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 45.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401909985
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 5124612,
+        "name": "VJ Edgecombe"
+      },
+      "points": 11.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 8.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 58.3,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-13T00:00:00.000+00:00",
+        "id": 401909976
+      },
+      "minutes": 36.0,
+      "player": {
+        "id": 5124612,
+        "name": "VJ Edgecombe"
+      },
+      "points": 15.0,
+      "rebounds": 8.0,
+      "steals": 3.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 36.4,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-11T01:00:00.000+00:00",
+        "id": 401909961
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 5124612,
+        "name": "VJ Edgecombe"
+      },
+      "points": 8.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-08T20:30:00.000+00:00",
+        "id": 401909945
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 5124612,
+        "name": "VJ Edgecombe"
+      },
+      "points": 13.0,
+      "rebounds": 6.0,
+      "steals": 3.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 61.5,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-07T00:30:00.000+00:00",
+        "id": 401909289
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 5124612,
+        "name": "VJ Edgecombe"
+      },
+      "points": 19.0,
+      "rebounds": 3.0,
+      "steals": 4.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 45.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-05T00:00:00.000+00:00",
+        "id": 401909922
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 5124612,
+        "name": "VJ Edgecombe"
+      },
+      "points": 11.0,
+      "rebounds": 6.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 75.0,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909912
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 5124612,
+        "name": "VJ Edgecombe"
+      },
+      "points": 21.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 30.8,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-31T22:00:00.000+00:00",
+        "id": 401909897
+      },
+      "minutes": 37.0,
+      "player": {
+        "id": 5124612,
+        "name": "VJ Edgecombe"
+      },
+      "points": 10.0,
+      "rebounds": 8.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 60.0,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-30T23:30:00.000+00:00",
+        "id": 401909280
+      },
+      "minutes": 36.0,
+      "player": {
+        "id": 5124612,
+        "name": "VJ Edgecombe"
+      },
+      "points": 13.0,
+      "rebounds": 8.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 30.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-28T23:00:00.000+00:00",
+        "id": 401909884
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 5124612,
+        "name": "VJ Edgecombe"
+      },
+      "points": 8.0,
+      "rebounds": 7.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 38.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-24T23:30:00.000+00:00",
+        "id": 401909855
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 5124612,
+        "name": "VJ Edgecombe"
+      },
+      "points": 17.0,
+      "rebounds": 13.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 10.0,
+      "three_pointers_made": 5.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 36.4,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-22T23:00:00.000+00:00",
+        "id": 401909093
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 5124612,
+        "name": "VJ Edgecombe"
+      },
+      "points": 11.0,
+      "rebounds": 7.0,
+      "steals": 3.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-20T23:00:00.000+00:00",
+        "id": 401909089
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 5124612,
+        "name": "VJ Edgecombe"
+      },
+      "points": 9.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T00:00:00.000+00:00",
+        "id": 401910010
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 4711297,
+        "name": "Justin Edwards"
+      },
+      "points": 2.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-13T00:00:00.000+00:00",
+        "id": 401909976
+      },
+      "minutes": 1.0,
+      "player": {
+        "id": 4711297,
+        "name": "Justin Edwards"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-11T01:00:00.000+00:00",
+        "id": 401909961
+      },
+      "minutes": 6.0,
+      "player": {
+        "id": 4711297,
+        "name": "Justin Edwards"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-07T00:30:00.000+00:00",
+        "id": 401909289
+      },
+      "minutes": 4.0,
+      "player": {
+        "id": 4711297,
+        "name": "Justin Edwards"
+      },
+      "points": 3.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909912
+      },
+      "minutes": 2.0,
+      "player": {
+        "id": 4711297,
+        "name": "Justin Edwards"
+      },
+      "points": 2.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-31T22:00:00.000+00:00",
+        "id": 401909897
+      },
+      "minutes": 2.0,
+      "player": {
+        "id": 4711297,
+        "name": "Justin Edwards"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-24T23:30:00.000+00:00",
+        "id": 401909855
+      },
+      "minutes": 1.0,
+      "player": {
+        "id": 4711297,
+        "name": "Justin Edwards"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 7.0,
+      "blocks": 3.0,
+      "field_goal_attempts": 18.0,
+      "field_goal_percentage": 38.9,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 14.0,
+      "free_throws_made": 12.0,
+      "game": {
+        "date": "2026-11-19T00:00:00.000+00:00",
+        "id": 401910010
+      },
+      "minutes": 36.0,
+      "player": {
+        "id": 3059318,
+        "name": "Joel Embiid"
+      },
+      "points": 26.0,
+      "rebounds": 6.0,
+      "steals": 2.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 22.0,
+      "field_goal_percentage": 59.1,
+      "field_goals_made": 13.0,
+      "free_throw_attempts": 10.0,
+      "free_throws_made": 9.0,
+      "game": {
+        "date": "2026-11-17T00:30:00.000+00:00",
+        "id": 401909997
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 3059318,
+        "name": "Joel Embiid"
+      },
+      "points": 37.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 17.0,
+      "field_goal_percentage": 41.2,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 7.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-11-13T00:00:00.000+00:00",
+        "id": 401909976
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 3059318,
+        "name": "Joel Embiid"
+      },
+      "points": 20.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 22.2,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 13.0,
+      "free_throws_made": 11.0,
+      "game": {
+        "date": "2026-11-11T01:00:00.000+00:00",
+        "id": 401909961
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 3059318,
+        "name": "Joel Embiid"
+      },
+      "points": 16.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 19.0,
+      "field_goal_percentage": 36.8,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-08T20:30:00.000+00:00",
+        "id": 401909945
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 3059318,
+        "name": "Joel Embiid"
+      },
+      "points": 18.0,
+      "rebounds": 10.0,
+      "steals": 2.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-11-07T00:30:00.000+00:00",
+        "id": 401909289
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 3059318,
+        "name": "Joel Embiid"
+      },
+      "points": 6.0,
+      "rebounds": 7.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 18.0,
+      "field_goal_percentage": 44.4,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 10.0,
+      "free_throws_made": 10.0,
+      "game": {
+        "date": "2026-11-05T00:00:00.000+00:00",
+        "id": 401909922
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 3059318,
+        "name": "Joel Embiid"
+      },
+      "points": 26.0,
+      "rebounds": 15.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 45.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909912
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 3059318,
+        "name": "Joel Embiid"
+      },
+      "points": 15.0,
+      "rebounds": 8.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 7.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-10-30T23:30:00.000+00:00",
+        "id": 401909280
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 3059318,
+        "name": "Joel Embiid"
+      },
+      "points": 10.0,
+      "rebounds": 7.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 17.0,
+      "field_goal_percentage": 52.9,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-28T23:00:00.000+00:00",
+        "id": 401909884
+      },
+      "minutes": 39.0,
+      "player": {
+        "id": 3059318,
+        "name": "Joel Embiid"
+      },
+      "points": 21.0,
+      "rebounds": 11.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 10.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 20.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 14.0,
+      "free_throws_made": 12.0,
+      "game": {
+        "date": "2026-10-24T23:30:00.000+00:00",
+        "id": 401909855
+      },
+      "minutes": 36.0,
+      "player": {
+        "id": 3059318,
+        "name": "Joel Embiid"
+      },
+      "points": 28.0,
+      "rebounds": 11.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 16.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 9.0,
+      "free_throws_made": 7.0,
+      "game": {
+        "date": "2026-10-22T23:00:00.000+00:00",
+        "id": 401909093
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 3059318,
+        "name": "Joel Embiid"
+      },
+      "points": 24.0,
+      "rebounds": 7.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 3.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 26.7,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-20T23:00:00.000+00:00",
+        "id": 401909089
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 3059318,
+        "name": "Joel Embiid"
+      },
+      "points": 13.0,
+      "rebounds": 11.0,
+      "steals": 2.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 3.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T00:00:00.000+00:00",
+        "id": 401910010
+      },
+      "minutes": 10.0,
+      "player": {
+        "id": 3904625,
+        "name": "Tacko Fall"
+      },
+      "points": 2.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401909985
+      },
+      "minutes": 5.0,
+      "player": {
+        "id": 3904625,
+        "name": "Tacko Fall"
+      },
+      "points": 0.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-13T00:00:00.000+00:00",
+        "id": 401909976
+      },
+      "minutes": 1.0,
+      "player": {
+        "id": 3904625,
+        "name": "Tacko Fall"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-07T00:30:00.000+00:00",
+        "id": 401909289
+      },
+      "minutes": 3.0,
+      "player": {
+        "id": 3904625,
+        "name": "Tacko Fall"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 16.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-19T00:00:00.000+00:00",
+        "id": 401910010
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 1966,
+        "name": "LeBron James"
+      },
+      "points": 22.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 11.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 62.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401909985
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 1966,
+        "name": "LeBron James"
+      },
+      "points": 15.0,
+      "rebounds": 7.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-11T01:00:00.000+00:00",
+        "id": 401909961
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 1966,
+        "name": "LeBron James"
+      },
+      "points": 11.0,
+      "rebounds": 8.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 16.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-08T20:30:00.000+00:00",
+        "id": 401909945
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 1966,
+        "name": "LeBron James"
+      },
+      "points": 22.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-07T00:30:00.000+00:00",
+        "id": 401909289
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 1966,
+        "name": "LeBron James"
+      },
+      "points": 8.0,
+      "rebounds": 7.0,
+      "steals": 2.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 6.0
+    },
+    {
+      "assists": 8.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-05T00:00:00.000+00:00",
+        "id": 401909922
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 1966,
+        "name": "LeBron James"
+      },
+      "points": 13.0,
+      "rebounds": 10.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 9.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 46.2,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909912
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 1966,
+        "name": "LeBron James"
+      },
+      "points": 15.0,
+      "rebounds": 7.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 8.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 53.3,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-30T23:30:00.000+00:00",
+        "id": 401909280
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 1966,
+        "name": "LeBron James"
+      },
+      "points": 20.0,
+      "rebounds": 9.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 10.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 41.7,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-28T23:00:00.000+00:00",
+        "id": 401909884
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 1966,
+        "name": "LeBron James"
+      },
+      "points": 13.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 53.3,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-25T23:30:00.000+00:00",
+        "id": 401909866
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 1966,
+        "name": "LeBron James"
+      },
+      "points": 18.0,
+      "rebounds": 2.0,
+      "steals": 2.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 14.0,
+      "field_goal_percentage": 35.7,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 7.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-10-22T23:00:00.000+00:00",
+        "id": 401909093
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 1966,
+        "name": "LeBron James"
+      },
+      "points": 17.0,
+      "rebounds": 10.0,
+      "steals": 3.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 5.0
+    },
+    {
+      "assists": 7.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 38.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-10-20T23:00:00.000+00:00",
+        "id": 401909089
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 1966,
+        "name": "LeBron James"
+      },
+      "points": 14.0,
+      "rebounds": 9.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T00:00:00.000+00:00",
+        "id": 401910010
+      },
+      "minutes": 6.0,
+      "player": {
+        "id": 4433144,
+        "name": "Caleb Love"
+      },
+      "points": 3.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-13T00:00:00.000+00:00",
+        "id": 401909976
+      },
+      "minutes": 1.0,
+      "player": {
+        "id": 4433144,
+        "name": "Caleb Love"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-24T23:30:00.000+00:00",
+        "id": 401909855
+      },
+      "minutes": 1.0,
+      "player": {
+        "id": 4433144,
+        "name": "Caleb Love"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 9.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 58.3,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-11-17T00:30:00.000+00:00",
+        "id": 401909997
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 4431678,
+        "name": "Tyrese Maxey"
+      },
+      "points": 24.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 19.0,
+      "field_goal_percentage": 47.4,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401909985
+      },
+      "minutes": 36.0,
+      "player": {
+        "id": 4431678,
+        "name": "Tyrese Maxey"
+      },
+      "points": 27.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 10.0,
+      "three_pointers_made": 5.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 8.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 61.5,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 12.0,
+      "free_throws_made": 10.0,
+      "game": {
+        "date": "2026-11-13T00:00:00.000+00:00",
+        "id": 401909976
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 4431678,
+        "name": "Tyrese Maxey"
+      },
+      "points": 27.0,
+      "rebounds": 2.0,
+      "steals": 2.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-11T01:00:00.000+00:00",
+        "id": 401909961
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 4431678,
+        "name": "Tyrese Maxey"
+      },
+      "points": 24.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 7.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 16.0,
+      "field_goal_percentage": 56.3,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-11-08T20:30:00.000+00:00",
+        "id": 401909945
+      },
+      "minutes": 36.0,
+      "player": {
+        "id": 4431678,
+        "name": "Tyrese Maxey"
+      },
+      "points": 27.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-07T00:30:00.000+00:00",
+        "id": 401909289
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 4431678,
+        "name": "Tyrese Maxey"
+      },
+      "points": 17.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 9.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 7.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 16.0,
+      "field_goal_percentage": 31.3,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-11-05T00:00:00.000+00:00",
+        "id": 401909922
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 4431678,
+        "name": "Tyrese Maxey"
+      },
+      "points": 19.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 11.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 10.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909912
+      },
+      "minutes": 36.0,
+      "player": {
+        "id": 4431678,
+        "name": "Tyrese Maxey"
+      },
+      "points": 26.0,
+      "rebounds": 4.0,
+      "steals": 2.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 23.0,
+      "field_goal_percentage": 56.5,
+      "field_goals_made": 13.0,
+      "free_throw_attempts": 9.0,
+      "free_throws_made": 8.0,
+      "game": {
+        "date": "2026-10-31T22:00:00.000+00:00",
+        "id": 401909897
+      },
+      "minutes": 38.0,
+      "player": {
+        "id": 4431678,
+        "name": "Tyrese Maxey"
+      },
+      "points": 38.0,
+      "rebounds": 4.0,
+      "steals": 2.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 9.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 19.0,
+      "field_goal_percentage": 52.6,
+      "field_goals_made": 10.0,
+      "free_throw_attempts": 7.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-10-30T23:30:00.000+00:00",
+        "id": 401909280
+      },
+      "minutes": 38.0,
+      "player": {
+        "id": 4431678,
+        "name": "Tyrese Maxey"
+      },
+      "points": 27.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 18.0,
+      "field_goal_percentage": 44.4,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 9.0,
+      "free_throws_made": 8.0,
+      "game": {
+        "date": "2026-10-28T23:00:00.000+00:00",
+        "id": 401909884
+      },
+      "minutes": 36.0,
+      "player": {
+        "id": 4431678,
+        "name": "Tyrese Maxey"
+      },
+      "points": 27.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 24.0,
+      "field_goal_percentage": 45.8,
+      "field_goals_made": 11.0,
+      "free_throw_attempts": 7.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-10-25T23:30:00.000+00:00",
+        "id": 401909866
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 4431678,
+        "name": "Tyrese Maxey"
+      },
+      "points": 29.0,
+      "rebounds": 5.0,
+      "steals": 3.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 22.0,
+      "field_goal_percentage": 40.9,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-10-24T23:30:00.000+00:00",
+        "id": 401909855
+      },
+      "minutes": 36.0,
+      "player": {
+        "id": 4431678,
+        "name": "Tyrese Maxey"
+      },
+      "points": 26.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 9.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 23.0,
+      "field_goal_percentage": 52.2,
+      "field_goals_made": 12.0,
+      "free_throw_attempts": 8.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-10-22T23:00:00.000+00:00",
+        "id": 401909093
+      },
+      "minutes": 42.0,
+      "player": {
+        "id": 4431678,
+        "name": "Tyrese Maxey"
+      },
+      "points": 32.0,
+      "rebounds": 3.0,
+      "steals": 2.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 3.0,
+      "field_goal_attempts": 19.0,
+      "field_goal_percentage": 47.4,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 9.0,
+      "free_throws_made": 8.0,
+      "game": {
+        "date": "2026-10-20T23:00:00.000+00:00",
+        "id": 401909089
+      },
+      "minutes": 40.0,
+      "player": {
+        "id": 4431678,
+        "name": "Tyrese Maxey"
+      },
+      "points": 28.0,
+      "rebounds": 4.0,
+      "steals": 3.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 9.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 80.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T00:00:00.000+00:00",
+        "id": 401910010
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 4873090,
+        "name": "Labaron Philon Jr."
+      },
+      "points": 10.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401909985
+      },
+      "minutes": 6.0,
+      "player": {
+        "id": 4873090,
+        "name": "Labaron Philon Jr."
+      },
+      "points": 3.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-13T00:00:00.000+00:00",
+        "id": 401909976
+      },
+      "minutes": 2.0,
+      "player": {
+        "id": 4873090,
+        "name": "Labaron Philon Jr."
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-11T01:00:00.000+00:00",
+        "id": 401909961
+      },
+      "minutes": 6.0,
+      "player": {
+        "id": 4873090,
+        "name": "Labaron Philon Jr."
+      },
+      "points": 2.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-07T00:30:00.000+00:00",
+        "id": 401909289
+      },
+      "minutes": 4.0,
+      "player": {
+        "id": 4873090,
+        "name": "Labaron Philon Jr."
+      },
+      "points": 3.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909912
+      },
+      "minutes": 2.0,
+      "player": {
+        "id": 4873090,
+        "name": "Labaron Philon Jr."
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-31T22:00:00.000+00:00",
+        "id": 401909897
+      },
+      "minutes": 10.0,
+      "player": {
+        "id": 4873090,
+        "name": "Labaron Philon Jr."
+      },
+      "points": 5.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-30T23:30:00.000+00:00",
+        "id": 401909280
+      },
+      "minutes": 6.0,
+      "player": {
+        "id": 4873090,
+        "name": "Labaron Philon Jr."
+      },
+      "points": 2.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-25T23:30:00.000+00:00",
+        "id": 401909866
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 4873090,
+        "name": "Labaron Philon Jr."
+      },
+      "points": 5.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-24T23:30:00.000+00:00",
+        "id": 401909855
+      },
+      "minutes": 4.0,
+      "player": {
+        "id": 4873090,
+        "name": "Labaron Philon Jr."
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-11T01:00:00.000+00:00",
+        "id": 401909961
+      },
+      "minutes": 6.0,
+      "player": {
+        "id": 5099752,
+        "name": "Rayan Rupert"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909912
+      },
+      "minutes": 2.0,
+      "player": {
+        "id": 5099752,
+        "name": "Rayan Rupert"
+      },
+      "points": 2.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 58.3,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-19T00:00:00.000+00:00",
+        "id": 401910010
+      },
+      "minutes": 38.0,
+      "player": {
+        "id": 4351851,
+        "name": "Anfernee Simons"
+      },
+      "points": 18.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-17T00:30:00.000+00:00",
+        "id": 401909997
+      },
+      "minutes": 26.0,
+      "player": {
+        "id": 4351851,
+        "name": "Anfernee Simons"
+      },
+      "points": 9.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 55.6,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401909985
+      },
+      "minutes": 15.0,
+      "player": {
+        "id": 4351851,
+        "name": "Anfernee Simons"
+      },
+      "points": 12.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-13T00:00:00.000+00:00",
+        "id": 401909976
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 4351851,
+        "name": "Anfernee Simons"
+      },
+      "points": 17.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 5.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 53.8,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-11T01:00:00.000+00:00",
+        "id": 401909961
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 4351851,
+        "name": "Anfernee Simons"
+      },
+      "points": 17.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 20.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-08T20:30:00.000+00:00",
+        "id": 401909945
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 4351851,
+        "name": "Anfernee Simons"
+      },
+      "points": 3.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-07T00:30:00.000+00:00",
+        "id": 401909289
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 4351851,
+        "name": "Anfernee Simons"
+      },
+      "points": 6.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-05T00:00:00.000+00:00",
+        "id": 401909922
+      },
+      "minutes": 10.0,
+      "player": {
+        "id": 4351851,
+        "name": "Anfernee Simons"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 18.2,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909912
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4351851,
+        "name": "Anfernee Simons"
+      },
+      "points": 6.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-31T22:00:00.000+00:00",
+        "id": 401909897
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 4351851,
+        "name": "Anfernee Simons"
+      },
+      "points": 19.0,
+      "rebounds": 0.0,
+      "steals": 3.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 9.0,
+      "three_pointers_made": 5.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 63.6,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-30T23:30:00.000+00:00",
+        "id": 401909280
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 4351851,
+        "name": "Anfernee Simons"
+      },
+      "points": 21.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 5.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 63.6,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-28T23:00:00.000+00:00",
+        "id": 401909884
+      },
+      "minutes": 27.0,
+      "player": {
+        "id": 4351851,
+        "name": "Anfernee Simons"
+      },
+      "points": 20.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 10.0,
+      "three_pointers_made": 6.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 20.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-25T23:30:00.000+00:00",
+        "id": 401909866
+      },
+      "minutes": 27.0,
+      "player": {
+        "id": 4351851,
+        "name": "Anfernee Simons"
+      },
+      "points": 5.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 14.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-24T23:30:00.000+00:00",
+        "id": 401909855
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 4351851,
+        "name": "Anfernee Simons"
+      },
+      "points": 4.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-22T23:00:00.000+00:00",
+        "id": 401909093
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 4351851,
+        "name": "Anfernee Simons"
+      },
+      "points": 2.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-20T23:00:00.000+00:00",
+        "id": 401909089
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 4351851,
+        "name": "Anfernee Simons"
+      },
+      "points": 13.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 42.9,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-17T00:30:00.000+00:00",
+        "id": 401909997
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 3912848,
+        "name": "Dean Wade"
+      },
+      "points": 8.0,
+      "rebounds": 11.0,
+      "steals": 2.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 80.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401909985
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 3912848,
+        "name": "Dean Wade"
+      },
+      "points": 12.0,
+      "rebounds": 7.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-13T00:00:00.000+00:00",
+        "id": 401909976
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 3912848,
+        "name": "Dean Wade"
+      },
+      "points": 6.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 60.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-11T01:00:00.000+00:00",
+        "id": 401909961
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 3912848,
+        "name": "Dean Wade"
+      },
+      "points": 8.0,
+      "rebounds": 9.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-08T20:30:00.000+00:00",
+        "id": 401909945
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 3912848,
+        "name": "Dean Wade"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-07T00:30:00.000+00:00",
+        "id": 401909289
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 3912848,
+        "name": "Dean Wade"
+      },
+      "points": 0.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-05T00:00:00.000+00:00",
+        "id": 401909922
+      },
+      "minutes": 22.0,
+      "player": {
+        "id": 3912848,
+        "name": "Dean Wade"
+      },
+      "points": 3.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 75.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909912
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 3912848,
+        "name": "Dean Wade"
+      },
+      "points": 8.0,
+      "rebounds": 2.0,
+      "steals": 2.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 10.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-31T22:00:00.000+00:00",
+        "id": 401909897
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 3912848,
+        "name": "Dean Wade"
+      },
+      "points": 4.0,
+      "rebounds": 5.0,
+      "steals": 2.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-30T23:30:00.000+00:00",
+        "id": 401909280
+      },
+      "minutes": 27.0,
+      "player": {
+        "id": 3912848,
+        "name": "Dean Wade"
+      },
+      "points": 0.0,
+      "rebounds": 2.0,
+      "steals": 3.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-28T23:00:00.000+00:00",
+        "id": 401909884
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 3912848,
+        "name": "Dean Wade"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-25T23:30:00.000+00:00",
+        "id": 401909866
+      },
+      "minutes": 37.0,
+      "player": {
+        "id": 3912848,
+        "name": "Dean Wade"
+      },
+      "points": 7.0,
+      "rebounds": 5.0,
+      "steals": 2.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-24T23:30:00.000+00:00",
+        "id": 401909855
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 3912848,
+        "name": "Dean Wade"
+      },
+      "points": 7.0,
+      "rebounds": 2.0,
+      "steals": 3.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-19T00:00:00.000+00:00",
+        "id": 401910010
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 4432446,
+        "name": "Jabari Walker"
+      },
+      "points": 6.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 71.4,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-17T00:30:00.000+00:00",
+        "id": 401909997
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 4432446,
+        "name": "Jabari Walker"
+      },
+      "points": 12.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-15T18:00:00.000+00:00",
+        "id": 401909985
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 4432446,
+        "name": "Jabari Walker"
+      },
+      "points": 11.0,
+      "rebounds": 7.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-13T00:00:00.000+00:00",
+        "id": 401909976
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 4432446,
+        "name": "Jabari Walker"
+      },
+      "points": 9.0,
+      "rebounds": 8.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-11T01:00:00.000+00:00",
+        "id": 401909961
+      },
+      "minutes": 15.0,
+      "player": {
+        "id": 4432446,
+        "name": "Jabari Walker"
+      },
+      "points": 2.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-08T20:30:00.000+00:00",
+        "id": 401909945
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 4432446,
+        "name": "Jabari Walker"
+      },
+      "points": 9.0,
+      "rebounds": 11.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 8.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-07T00:30:00.000+00:00",
+        "id": 401909289
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 4432446,
+        "name": "Jabari Walker"
+      },
+      "points": 8.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909912
+      },
+      "minutes": 2.0,
+      "player": {
+        "id": 4432446,
+        "name": "Jabari Walker"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 62.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-31T22:00:00.000+00:00",
+        "id": 401909897
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 4432446,
+        "name": "Jabari Walker"
+      },
+      "points": 12.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-24T23:30:00.000+00:00",
+        "id": 401909855
+      },
+      "minutes": 12.0,
+      "player": {
+        "id": 4432446,
+        "name": "Jabari Walker"
+      },
+      "points": 6.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-22T23:00:00.000+00:00",
+        "id": 401909093
+      },
+      "minutes": 4.0,
+      "player": {
+        "id": 4432446,
+        "name": "Jabari Walker"
+      },
+      "points": 2.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-20T23:00:00.000+00:00",
+        "id": 401909089
+      },
+      "minutes": 3.0,
+      "player": {
+        "id": 4432446,
+        "name": "Jabari Walker"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 20,
+        "name": "Philadelphia 76ers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    }
+  ],
+  "results": 161
+}

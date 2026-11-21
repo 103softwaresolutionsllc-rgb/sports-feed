@@ -1,0 +1,4772 @@
+{
+  "errors": [],
+  "get": "players/statistics",
+  "parameters": {
+    "season": "2026-2027",
+    "source": "espn-fallback",
+    "team": "New York Knicks"
+  },
+  "response": [
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-28T00:00:00.000+00:00",
+        "id": 401909878
+      },
+      "minutes": 2.0,
+      "player": {
+        "id": 4683730,
+        "name": "Jaden Akins"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-20T01:00:00.000+00:00",
+        "id": 401910021
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 4277869,
+        "name": "Jose Alvarado"
+      },
+      "points": 2.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-18T00:30:00.000+00:00",
+        "id": 401910002
+      },
+      "minutes": 7.0,
+      "player": {
+        "id": 4277869,
+        "name": "Jose Alvarado"
+      },
+      "points": 2.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-15T23:00:00.000+00:00",
+        "id": 401909990
+      },
+      "minutes": 2.0,
+      "player": {
+        "id": 4277869,
+        "name": "Jose Alvarado"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-11T00:30:00.000+00:00",
+        "id": 401909960
+      },
+      "minutes": 6.0,
+      "player": {
+        "id": 4277869,
+        "name": "Jose Alvarado"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909926
+      },
+      "minutes": 9.0,
+      "player": {
+        "id": 4277869,
+        "name": "Jose Alvarado"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909910
+      },
+      "minutes": 9.0,
+      "player": {
+        "id": 4277869,
+        "name": "Jose Alvarado"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-23T23:00:00.000+00:00",
+        "id": 401909095
+      },
+      "minutes": 11.0,
+      "player": {
+        "id": 4277869,
+        "name": "Jose Alvarado"
+      },
+      "points": 2.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 42.9,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-20T23:00:00.000+00:00",
+        "id": 401909089
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 4277869,
+        "name": "Jose Alvarado"
+      },
+      "points": 8.0,
+      "rebounds": 3.0,
+      "steals": 2.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-20T01:00:00.000+00:00",
+        "id": 401910021
+      },
+      "minutes": 36.0,
+      "player": {
+        "id": 3934719,
+        "name": "OG Anunoby"
+      },
+      "points": 15.0,
+      "rebounds": 7.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 45.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-18T00:30:00.000+00:00",
+        "id": 401910002
+      },
+      "minutes": 36.0,
+      "player": {
+        "id": 3934719,
+        "name": "OG Anunoby"
+      },
+      "points": 16.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 8.0,
+      "free_throws_made": 7.0,
+      "game": {
+        "date": "2026-11-15T23:00:00.000+00:00",
+        "id": 401909990
+      },
+      "minutes": 44.0,
+      "player": {
+        "id": 3934719,
+        "name": "OG Anunoby"
+      },
+      "points": 21.0,
+      "rebounds": 9.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 30.8,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-14T00:00:00.000+00:00",
+        "id": 401909296
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 3934719,
+        "name": "OG Anunoby"
+      },
+      "points": 11.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-11-12T00:00:00.000+00:00",
+        "id": 401909967
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 3934719,
+        "name": "OG Anunoby"
+      },
+      "points": 14.0,
+      "rebounds": 6.0,
+      "steals": 2.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-11T00:30:00.000+00:00",
+        "id": 401909960
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 3934719,
+        "name": "OG Anunoby"
+      },
+      "points": 19.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 5.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 30.8,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-08T01:00:00.000+00:00",
+        "id": 401909940
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 3934719,
+        "name": "OG Anunoby"
+      },
+      "points": 15.0,
+      "rebounds": 6.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 9.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 30.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 12.0,
+      "free_throws_made": 11.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909926
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 3934719,
+        "name": "OG Anunoby"
+      },
+      "points": 18.0,
+      "rebounds": 5.0,
+      "steals": 3.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 8.0,
+      "free_throws_made": 7.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909910
+      },
+      "minutes": 38.0,
+      "player": {
+        "id": 3934719,
+        "name": "OG Anunoby"
+      },
+      "points": 18.0,
+      "rebounds": 4.0,
+      "steals": 2.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-30T23:30:00.000+00:00",
+        "id": 401909280
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 3934719,
+        "name": "OG Anunoby"
+      },
+      "points": 9.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 16.0,
+      "field_goal_percentage": 43.8,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 8.0,
+      "free_throws_made": 7.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909886
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 3934719,
+        "name": "OG Anunoby"
+      },
+      "points": 23.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-28T00:00:00.000+00:00",
+        "id": 401909878
+      },
+      "minutes": 36.0,
+      "player": {
+        "id": 3934719,
+        "name": "OG Anunoby"
+      },
+      "points": 13.0,
+      "rebounds": 7.0,
+      "steals": 2.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 54.5,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 9.0,
+      "free_throws_made": 7.0,
+      "game": {
+        "date": "2026-10-25T23:00:00.000+00:00",
+        "id": 401909863
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 3934719,
+        "name": "OG Anunoby"
+      },
+      "points": 22.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 8.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 45.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 10.0,
+      "free_throws_made": 8.0,
+      "game": {
+        "date": "2026-10-23T23:00:00.000+00:00",
+        "id": 401909095
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 3934719,
+        "name": "OG Anunoby"
+      },
+      "points": 20.0,
+      "rebounds": 10.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-20T23:00:00.000+00:00",
+        "id": 401909089
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 3934719,
+        "name": "OG Anunoby"
+      },
+      "points": 10.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 9.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 42.9,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-20T01:00:00.000+00:00",
+        "id": 401910021
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 3147657,
+        "name": "Mikal Bridges"
+      },
+      "points": 8.0,
+      "rebounds": 3.0,
+      "steals": 2.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 63.6,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-18T00:30:00.000+00:00",
+        "id": 401910002
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 3147657,
+        "name": "Mikal Bridges"
+      },
+      "points": 17.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-15T23:00:00.000+00:00",
+        "id": 401909990
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 3147657,
+        "name": "Mikal Bridges"
+      },
+      "points": 5.0,
+      "rebounds": 7.0,
+      "steals": 2.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-14T00:00:00.000+00:00",
+        "id": 401909296
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 3147657,
+        "name": "Mikal Bridges"
+      },
+      "points": 18.0,
+      "rebounds": 3.0,
+      "steals": 2.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-12T00:00:00.000+00:00",
+        "id": 401909967
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 3147657,
+        "name": "Mikal Bridges"
+      },
+      "points": 2.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-11T00:30:00.000+00:00",
+        "id": 401909960
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 3147657,
+        "name": "Mikal Bridges"
+      },
+      "points": 4.0,
+      "rebounds": 5.0,
+      "steals": 3.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 30.8,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-08T01:00:00.000+00:00",
+        "id": 401909940
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 3147657,
+        "name": "Mikal Bridges"
+      },
+      "points": 9.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 60.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909926
+      },
+      "minutes": 22.0,
+      "player": {
+        "id": 3147657,
+        "name": "Mikal Bridges"
+      },
+      "points": 7.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 14.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909910
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 3147657,
+        "name": "Mikal Bridges"
+      },
+      "points": 6.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 62.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-30T23:30:00.000+00:00",
+        "id": 401909280
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 3147657,
+        "name": "Mikal Bridges"
+      },
+      "points": 12.0,
+      "rebounds": 5.0,
+      "steals": 3.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909886
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 3147657,
+        "name": "Mikal Bridges"
+      },
+      "points": 3.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-28T00:00:00.000+00:00",
+        "id": 401909878
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 3147657,
+        "name": "Mikal Bridges"
+      },
+      "points": 12.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 42.9,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-25T23:00:00.000+00:00",
+        "id": 401909863
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 3147657,
+        "name": "Mikal Bridges"
+      },
+      "points": 6.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-23T23:00:00.000+00:00",
+        "id": 401909095
+      },
+      "minutes": 22.0,
+      "player": {
+        "id": 3147657,
+        "name": "Mikal Bridges"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-20T23:00:00.000+00:00",
+        "id": 401909089
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 3147657,
+        "name": "Mikal Bridges"
+      },
+      "points": 4.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 7.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 20.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-20T01:00:00.000+00:00",
+        "id": 401910021
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 3934672,
+        "name": "Jalen Brunson"
+      },
+      "points": 21.0,
+      "rebounds": 2.0,
+      "steals": 2.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 22.0,
+      "field_goal_percentage": 45.5,
+      "field_goals_made": 10.0,
+      "free_throw_attempts": 7.0,
+      "free_throws_made": 7.0,
+      "game": {
+        "date": "2026-11-18T00:30:00.000+00:00",
+        "id": 401910002
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 3934672,
+        "name": "Jalen Brunson"
+      },
+      "points": 31.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 11.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 9.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 22.0,
+      "field_goal_percentage": 40.9,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 8.0,
+      "free_throws_made": 7.0,
+      "game": {
+        "date": "2026-11-15T23:00:00.000+00:00",
+        "id": 401909990
+      },
+      "minutes": 41.0,
+      "player": {
+        "id": 3934672,
+        "name": "Jalen Brunson"
+      },
+      "points": 28.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 11.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 22.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 11.0,
+      "free_throw_attempts": 8.0,
+      "free_throws_made": 7.0,
+      "game": {
+        "date": "2026-11-14T00:00:00.000+00:00",
+        "id": 401909296
+      },
+      "minutes": 36.0,
+      "player": {
+        "id": 3934672,
+        "name": "Jalen Brunson"
+      },
+      "points": 33.0,
+      "rebounds": 1.0,
+      "steals": 2.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 9.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 23.0,
+      "field_goal_percentage": 52.2,
+      "field_goals_made": 12.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-12T00:00:00.000+00:00",
+        "id": 401909967
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 3934672,
+        "name": "Jalen Brunson"
+      },
+      "points": 27.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 18.0,
+      "field_goal_percentage": 38.9,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 8.0,
+      "free_throws_made": 8.0,
+      "game": {
+        "date": "2026-11-11T00:30:00.000+00:00",
+        "id": 401909960
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 3934672,
+        "name": "Jalen Brunson"
+      },
+      "points": 23.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 9.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 25.0,
+      "field_goal_percentage": 48.0,
+      "field_goals_made": 12.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-08T01:00:00.000+00:00",
+        "id": 401909940
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 3934672,
+        "name": "Jalen Brunson"
+      },
+      "points": 31.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 17.0,
+      "field_goal_percentage": 58.8,
+      "field_goals_made": 10.0,
+      "free_throw_attempts": 9.0,
+      "free_throws_made": 8.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909926
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 3934672,
+        "name": "Jalen Brunson"
+      },
+      "points": 33.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 10.0,
+      "three_pointers_made": 5.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 16.0,
+      "field_goal_percentage": 37.5,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909910
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 3934672,
+        "name": "Jalen Brunson"
+      },
+      "points": 19.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 11.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 22.0,
+      "field_goal_percentage": 36.4,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-10-30T23:30:00.000+00:00",
+        "id": 401909280
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 3934672,
+        "name": "Jalen Brunson"
+      },
+      "points": 24.0,
+      "rebounds": 5.0,
+      "steals": 2.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 10.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 7.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 25.0,
+      "field_goal_percentage": 52.0,
+      "field_goals_made": 13.0,
+      "free_throw_attempts": 8.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909886
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 3934672,
+        "name": "Jalen Brunson"
+      },
+      "points": 38.0,
+      "rebounds": 1.0,
+      "steals": 2.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 10.0,
+      "three_pointers_made": 6.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 7.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 18.0,
+      "field_goal_percentage": 27.8,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 16.0,
+      "free_throws_made": 13.0,
+      "game": {
+        "date": "2026-10-28T00:00:00.000+00:00",
+        "id": 401909878
+      },
+      "minutes": 36.0,
+      "player": {
+        "id": 3934672,
+        "name": "Jalen Brunson"
+      },
+      "points": 23.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 28.0,
+      "field_goal_percentage": 42.9,
+      "field_goals_made": 12.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-25T23:00:00.000+00:00",
+        "id": 401909863
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 3934672,
+        "name": "Jalen Brunson"
+      },
+      "points": 28.0,
+      "rebounds": 3.0,
+      "steals": 2.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 17.0,
+      "field_goal_percentage": 41.2,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-23T23:00:00.000+00:00",
+        "id": 401909095
+      },
+      "minutes": 37.0,
+      "player": {
+        "id": 3934672,
+        "name": "Jalen Brunson"
+      },
+      "points": 19.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 19.0,
+      "field_goal_percentage": 31.6,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 8.0,
+      "free_throws_made": 8.0,
+      "game": {
+        "date": "2026-10-20T23:00:00.000+00:00",
+        "id": 401909089
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 3934672,
+        "name": "Jalen Brunson"
+      },
+      "points": 21.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-18T00:30:00.000+00:00",
+        "id": 401910002
+      },
+      "minutes": 8.0,
+      "player": {
+        "id": 2528426,
+        "name": "Jordan Clarkson"
+      },
+      "points": 3.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-15T23:00:00.000+00:00",
+        "id": 401909990
+      },
+      "minutes": 7.0,
+      "player": {
+        "id": 2528426,
+        "name": "Jordan Clarkson"
+      },
+      "points": 2.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-14T00:00:00.000+00:00",
+        "id": 401909296
+      },
+      "minutes": 9.0,
+      "player": {
+        "id": 2528426,
+        "name": "Jordan Clarkson"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 20.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-11T00:30:00.000+00:00",
+        "id": 401909960
+      },
+      "minutes": 11.0,
+      "player": {
+        "id": 2528426,
+        "name": "Jordan Clarkson"
+      },
+      "points": 2.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 80.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-08T01:00:00.000+00:00",
+        "id": 401909940
+      },
+      "minutes": 15.0,
+      "player": {
+        "id": 2528426,
+        "name": "Jordan Clarkson"
+      },
+      "points": 9.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 44.4,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909926
+      },
+      "minutes": 15.0,
+      "player": {
+        "id": 2528426,
+        "name": "Jordan Clarkson"
+      },
+      "points": 10.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 60.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909910
+      },
+      "minutes": 11.0,
+      "player": {
+        "id": 2528426,
+        "name": "Jordan Clarkson"
+      },
+      "points": 7.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-30T23:30:00.000+00:00",
+        "id": 401909280
+      },
+      "minutes": 9.0,
+      "player": {
+        "id": 2528426,
+        "name": "Jordan Clarkson"
+      },
+      "points": 4.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 63.6,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909886
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 2528426,
+        "name": "Jordan Clarkson"
+      },
+      "points": 18.0,
+      "rebounds": 3.0,
+      "steals": 2.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-25T23:00:00.000+00:00",
+        "id": 401909863
+      },
+      "minutes": 5.0,
+      "player": {
+        "id": 2528426,
+        "name": "Jordan Clarkson"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-23T23:00:00.000+00:00",
+        "id": 401909095
+      },
+      "minutes": 3.0,
+      "player": {
+        "id": 2528426,
+        "name": "Jordan Clarkson"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-20T23:00:00.000+00:00",
+        "id": 401909089
+      },
+      "minutes": 8.0,
+      "player": {
+        "id": 2528426,
+        "name": "Jordan Clarkson"
+      },
+      "points": 4.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-14T00:00:00.000+00:00",
+        "id": 401909296
+      },
+      "minutes": 1.0,
+      "player": {
+        "id": 5211983,
+        "name": "Pacome Dadiet"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 60.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-11T00:30:00.000+00:00",
+        "id": 401909960
+      },
+      "minutes": 6.0,
+      "player": {
+        "id": 5211983,
+        "name": "Pacome Dadiet"
+      },
+      "points": 8.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909926
+      },
+      "minutes": 9.0,
+      "player": {
+        "id": 5211983,
+        "name": "Pacome Dadiet"
+      },
+      "points": 4.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-28T00:00:00.000+00:00",
+        "id": 401909878
+      },
+      "minutes": 1.0,
+      "player": {
+        "id": 5211983,
+        "name": "Pacome Dadiet"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-12T00:00:00.000+00:00",
+        "id": 401909967
+      },
+      "minutes": 11.0,
+      "player": {
+        "id": 5289900,
+        "name": "Mohamed Diawara"
+      },
+      "points": 2.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-11T00:30:00.000+00:00",
+        "id": 401909960
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 5289900,
+        "name": "Mohamed Diawara"
+      },
+      "points": 5.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-08T01:00:00.000+00:00",
+        "id": 401909940
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 5289900,
+        "name": "Mohamed Diawara"
+      },
+      "points": 2.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909926
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 5289900,
+        "name": "Mohamed Diawara"
+      },
+      "points": 8.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909910
+      },
+      "minutes": 6.0,
+      "player": {
+        "id": 5289900,
+        "name": "Mohamed Diawara"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-28T00:00:00.000+00:00",
+        "id": 401909878
+      },
+      "minutes": 1.0,
+      "player": {
+        "id": 5289900,
+        "name": "Mohamed Diawara"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-20T01:00:00.000+00:00",
+        "id": 401910021
+      },
+      "minutes": 15.0,
+      "player": {
+        "id": 6585,
+        "name": "Andre Drummond"
+      },
+      "points": 4.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-18T00:30:00.000+00:00",
+        "id": 401910002
+      },
+      "minutes": 11.0,
+      "player": {
+        "id": 6585,
+        "name": "Andre Drummond"
+      },
+      "points": 2.0,
+      "rebounds": 8.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-15T23:00:00.000+00:00",
+        "id": 401909990
+      },
+      "minutes": 7.0,
+      "player": {
+        "id": 6585,
+        "name": "Andre Drummond"
+      },
+      "points": 2.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-14T00:00:00.000+00:00",
+        "id": 401909296
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 6585,
+        "name": "Andre Drummond"
+      },
+      "points": 0.0,
+      "rebounds": 6.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-12T00:00:00.000+00:00",
+        "id": 401909967
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 6585,
+        "name": "Andre Drummond"
+      },
+      "points": 0.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-11T00:30:00.000+00:00",
+        "id": 401909960
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 6585,
+        "name": "Andre Drummond"
+      },
+      "points": 2.0,
+      "rebounds": 14.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-08T01:00:00.000+00:00",
+        "id": 401909940
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 6585,
+        "name": "Andre Drummond"
+      },
+      "points": 0.0,
+      "rebounds": 8.0,
+      "steals": 2.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909926
+      },
+      "minutes": 12.0,
+      "player": {
+        "id": 6585,
+        "name": "Andre Drummond"
+      },
+      "points": 6.0,
+      "rebounds": 9.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909910
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 6585,
+        "name": "Andre Drummond"
+      },
+      "points": 4.0,
+      "rebounds": 9.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-30T23:30:00.000+00:00",
+        "id": 401909280
+      },
+      "minutes": 12.0,
+      "player": {
+        "id": 6585,
+        "name": "Andre Drummond"
+      },
+      "points": 3.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909886
+      },
+      "minutes": 15.0,
+      "player": {
+        "id": 6585,
+        "name": "Andre Drummond"
+      },
+      "points": 4.0,
+      "rebounds": 11.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 71.4,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-28T00:00:00.000+00:00",
+        "id": 401909878
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 6585,
+        "name": "Andre Drummond"
+      },
+      "points": 10.0,
+      "rebounds": 8.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-25T23:00:00.000+00:00",
+        "id": 401909863
+      },
+      "minutes": 7.0,
+      "player": {
+        "id": 6585,
+        "name": "Andre Drummond"
+      },
+      "points": 4.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-23T23:00:00.000+00:00",
+        "id": 401909095
+      },
+      "minutes": 7.0,
+      "player": {
+        "id": 6585,
+        "name": "Andre Drummond"
+      },
+      "points": 2.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 38.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-20T23:00:00.000+00:00",
+        "id": 401909089
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 6585,
+        "name": "Andre Drummond"
+      },
+      "points": 12.0,
+      "rebounds": 14.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 44.4,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-20T01:00:00.000+00:00",
+        "id": 401910021
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 3062679,
+        "name": "Josh Hart"
+      },
+      "points": 11.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-18T00:30:00.000+00:00",
+        "id": 401910002
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 3062679,
+        "name": "Josh Hart"
+      },
+      "points": 5.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-15T23:00:00.000+00:00",
+        "id": 401909990
+      },
+      "minutes": 26.0,
+      "player": {
+        "id": 3062679,
+        "name": "Josh Hart"
+      },
+      "points": 0.0,
+      "rebounds": 5.0,
+      "steals": 2.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-14T00:00:00.000+00:00",
+        "id": 401909296
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 3062679,
+        "name": "Josh Hart"
+      },
+      "points": 0.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 37.5,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-12T00:00:00.000+00:00",
+        "id": 401909967
+      },
+      "minutes": 26.0,
+      "player": {
+        "id": 3062679,
+        "name": "Josh Hart"
+      },
+      "points": 6.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 7.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909910
+      },
+      "minutes": 27.0,
+      "player": {
+        "id": 3062679,
+        "name": "Josh Hart"
+      },
+      "points": 8.0,
+      "rebounds": 6.0,
+      "steals": 3.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 22.2,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-30T23:30:00.000+00:00",
+        "id": 401909280
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 3062679,
+        "name": "Josh Hart"
+      },
+      "points": 7.0,
+      "rebounds": 6.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 16.7,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909886
+      },
+      "minutes": 36.0,
+      "player": {
+        "id": 3062679,
+        "name": "Josh Hart"
+      },
+      "points": 2.0,
+      "rebounds": 8.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-28T00:00:00.000+00:00",
+        "id": 401909878
+      },
+      "minutes": 27.0,
+      "player": {
+        "id": 3062679,
+        "name": "Josh Hart"
+      },
+      "points": 6.0,
+      "rebounds": 4.0,
+      "steals": 5.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 41.7,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-25T23:00:00.000+00:00",
+        "id": 401909863
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 3062679,
+        "name": "Josh Hart"
+      },
+      "points": 13.0,
+      "rebounds": 8.0,
+      "steals": 2.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 9.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-23T23:00:00.000+00:00",
+        "id": 401909095
+      },
+      "minutes": 36.0,
+      "player": {
+        "id": 3062679,
+        "name": "Josh Hart"
+      },
+      "points": 10.0,
+      "rebounds": 12.0,
+      "steals": 3.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-20T23:00:00.000+00:00",
+        "id": 401909089
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 3062679,
+        "name": "Josh Hart"
+      },
+      "points": 14.0,
+      "rebounds": 7.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-11T00:30:00.000+00:00",
+        "id": 401909960
+      },
+      "minutes": 8.0,
+      "player": {
+        "id": 4897943,
+        "name": "Dalton Knecht"
+      },
+      "points": 3.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-08T01:00:00.000+00:00",
+        "id": 401909940
+      },
+      "minutes": 5.0,
+      "player": {
+        "id": 4897943,
+        "name": "Dalton Knecht"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909926
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 4897943,
+        "name": "Dalton Knecht"
+      },
+      "points": 10.0,
+      "rebounds": 7.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-20T01:00:00.000+00:00",
+        "id": 401910021
+      },
+      "minutes": 12.0,
+      "player": {
+        "id": 4433225,
+        "name": "Tyler Kolek"
+      },
+      "points": 6.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-18T00:30:00.000+00:00",
+        "id": 401910002
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 4433225,
+        "name": "Tyler Kolek"
+      },
+      "points": 4.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 7.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-15T23:00:00.000+00:00",
+        "id": 401909990
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 4433225,
+        "name": "Tyler Kolek"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-14T00:00:00.000+00:00",
+        "id": 401909296
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 4433225,
+        "name": "Tyler Kolek"
+      },
+      "points": 5.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-12T00:00:00.000+00:00",
+        "id": 401909967
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 4433225,
+        "name": "Tyler Kolek"
+      },
+      "points": 4.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 83.3,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-11T00:30:00.000+00:00",
+        "id": 401909960
+      },
+      "minutes": 15.0,
+      "player": {
+        "id": 4433225,
+        "name": "Tyler Kolek"
+      },
+      "points": 12.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-08T01:00:00.000+00:00",
+        "id": 401909940
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 4433225,
+        "name": "Tyler Kolek"
+      },
+      "points": 0.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909926
+      },
+      "minutes": 11.0,
+      "player": {
+        "id": 4433225,
+        "name": "Tyler Kolek"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909910
+      },
+      "minutes": 5.0,
+      "player": {
+        "id": 4433225,
+        "name": "Tyler Kolek"
+      },
+      "points": 2.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-30T23:30:00.000+00:00",
+        "id": 401909280
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 4433225,
+        "name": "Tyler Kolek"
+      },
+      "points": 2.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 9.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 75.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909886
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 4433225,
+        "name": "Tyler Kolek"
+      },
+      "points": 9.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-28T00:00:00.000+00:00",
+        "id": 401909878
+      },
+      "minutes": 11.0,
+      "player": {
+        "id": 4433225,
+        "name": "Tyler Kolek"
+      },
+      "points": 2.0,
+      "rebounds": 1.0,
+      "steals": 2.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 9.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-25T23:00:00.000+00:00",
+        "id": 401909863
+      },
+      "minutes": 15.0,
+      "player": {
+        "id": 4433225,
+        "name": "Tyler Kolek"
+      },
+      "points": 0.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-20T01:00:00.000+00:00",
+        "id": 401910021
+      },
+      "minutes": 8.0,
+      "player": {
+        "id": 4431823,
+        "name": "Miles McBride"
+      },
+      "points": 3.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-18T00:30:00.000+00:00",
+        "id": 401910002
+      },
+      "minutes": 9.0,
+      "player": {
+        "id": 4431823,
+        "name": "Miles McBride"
+      },
+      "points": 3.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-15T23:00:00.000+00:00",
+        "id": 401909990
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 4431823,
+        "name": "Miles McBride"
+      },
+      "points": 3.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 37.5,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-14T00:00:00.000+00:00",
+        "id": 401909296
+      },
+      "minutes": 22.0,
+      "player": {
+        "id": 4431823,
+        "name": "Miles McBride"
+      },
+      "points": 9.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 53.8,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-12T00:00:00.000+00:00",
+        "id": 401909967
+      },
+      "minutes": 27.0,
+      "player": {
+        "id": 4431823,
+        "name": "Miles McBride"
+      },
+      "points": 19.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 10.0,
+      "three_pointers_made": 5.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-11T00:30:00.000+00:00",
+        "id": 401909960
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 4431823,
+        "name": "Miles McBride"
+      },
+      "points": 8.0,
+      "rebounds": 0.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-08T01:00:00.000+00:00",
+        "id": 401909940
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 4431823,
+        "name": "Miles McBride"
+      },
+      "points": 5.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909926
+      },
+      "minutes": 11.0,
+      "player": {
+        "id": 4431823,
+        "name": "Miles McBride"
+      },
+      "points": 7.0,
+      "rebounds": 1.0,
+      "steals": 2.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909910
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 4431823,
+        "name": "Miles McBride"
+      },
+      "points": 6.0,
+      "rebounds": 1.0,
+      "steals": 2.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-30T23:30:00.000+00:00",
+        "id": 401909280
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4431823,
+        "name": "Miles McBride"
+      },
+      "points": 10.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 11.1,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909886
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 4431823,
+        "name": "Miles McBride"
+      },
+      "points": 3.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-28T00:00:00.000+00:00",
+        "id": 401909878
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 4431823,
+        "name": "Miles McBride"
+      },
+      "points": 5.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-25T23:00:00.000+00:00",
+        "id": 401909863
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 4431823,
+        "name": "Miles McBride"
+      },
+      "points": 1.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-23T23:00:00.000+00:00",
+        "id": 401909095
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 4431823,
+        "name": "Miles McBride"
+      },
+      "points": 20.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 6.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 20.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-20T23:00:00.000+00:00",
+        "id": 401909089
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 4431823,
+        "name": "Miles McBride"
+      },
+      "points": 3.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 75.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-20T01:00:00.000+00:00",
+        "id": 401910021
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 3914044,
+        "name": "Landry Shamet"
+      },
+      "points": 10.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 57.1,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-18T00:30:00.000+00:00",
+        "id": 401910002
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 3914044,
+        "name": "Landry Shamet"
+      },
+      "points": 12.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-15T23:00:00.000+00:00",
+        "id": 401909990
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 3914044,
+        "name": "Landry Shamet"
+      },
+      "points": 23.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-14T00:00:00.000+00:00",
+        "id": 401909296
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 3914044,
+        "name": "Landry Shamet"
+      },
+      "points": 5.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 62.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-12T00:00:00.000+00:00",
+        "id": 401909967
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 3914044,
+        "name": "Landry Shamet"
+      },
+      "points": 12.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 57.1,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-11T00:30:00.000+00:00",
+        "id": 401909960
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 3914044,
+        "name": "Landry Shamet"
+      },
+      "points": 10.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 37.5,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-08T01:00:00.000+00:00",
+        "id": 401909940
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 3914044,
+        "name": "Landry Shamet"
+      },
+      "points": 9.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 42.9,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909926
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 3914044,
+        "name": "Landry Shamet"
+      },
+      "points": 7.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 75.0,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909910
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 3914044,
+        "name": "Landry Shamet"
+      },
+      "points": 22.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-30T23:30:00.000+00:00",
+        "id": 401909280
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 3914044,
+        "name": "Landry Shamet"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909886
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 3914044,
+        "name": "Landry Shamet"
+      },
+      "points": 14.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 37.5,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-10-28T00:00:00.000+00:00",
+        "id": 401909878
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 3914044,
+        "name": "Landry Shamet"
+      },
+      "points": 13.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-25T23:00:00.000+00:00",
+        "id": 401909863
+      },
+      "minutes": 22.0,
+      "player": {
+        "id": 3914044,
+        "name": "Landry Shamet"
+      },
+      "points": 6.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-23T23:00:00.000+00:00",
+        "id": 401909095
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 3914044,
+        "name": "Landry Shamet"
+      },
+      "points": 8.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 28.6,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-20T23:00:00.000+00:00",
+        "id": 401909089
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 3914044,
+        "name": "Landry Shamet"
+      },
+      "points": 5.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 3.0,
+      "field_goal_attempts": 20.0,
+      "field_goal_percentage": 45.0,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-20T01:00:00.000+00:00",
+        "id": 401910021
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 3136195,
+        "name": "Karl-Anthony Towns"
+      },
+      "points": 22.0,
+      "rebounds": 12.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 8.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 77.8,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-18T00:30:00.000+00:00",
+        "id": 401910002
+      },
+      "minutes": 36.0,
+      "player": {
+        "id": 3136195,
+        "name": "Karl-Anthony Towns"
+      },
+      "points": 16.0,
+      "rebounds": 16.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 21.0,
+      "field_goal_percentage": 47.6,
+      "field_goals_made": 10.0,
+      "free_throw_attempts": 7.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-15T23:00:00.000+00:00",
+        "id": 401909990
+      },
+      "minutes": 43.0,
+      "player": {
+        "id": 3136195,
+        "name": "Karl-Anthony Towns"
+      },
+      "points": 28.0,
+      "rebounds": 17.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 19.0,
+      "field_goal_percentage": 47.4,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-14T00:00:00.000+00:00",
+        "id": 401909296
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 3136195,
+        "name": "Karl-Anthony Towns"
+      },
+      "points": 23.0,
+      "rebounds": 15.0,
+      "steals": 3.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 8.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 63.6,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-12T00:00:00.000+00:00",
+        "id": 401909967
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 3136195,
+        "name": "Karl-Anthony Towns"
+      },
+      "points": 21.0,
+      "rebounds": 11.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 14.0,
+      "field_goal_percentage": 35.7,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 14.0,
+      "free_throws_made": 9.0,
+      "game": {
+        "date": "2026-11-11T00:30:00.000+00:00",
+        "id": 401909960
+      },
+      "minutes": 27.0,
+      "player": {
+        "id": 3136195,
+        "name": "Karl-Anthony Towns"
+      },
+      "points": 21.0,
+      "rebounds": 16.0,
+      "steals": 2.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 9.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 21.0,
+      "field_goal_percentage": 52.4,
+      "field_goals_made": 11.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-08T01:00:00.000+00:00",
+        "id": 401909940
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 3136195,
+        "name": "Karl-Anthony Towns"
+      },
+      "points": 29.0,
+      "rebounds": 13.0,
+      "steals": 2.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 7.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909926
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 3136195,
+        "name": "Karl-Anthony Towns"
+      },
+      "points": 17.0,
+      "rebounds": 12.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 36.4,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909910
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 3136195,
+        "name": "Karl-Anthony Towns"
+      },
+      "points": 11.0,
+      "rebounds": 16.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 53.3,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-30T23:30:00.000+00:00",
+        "id": 401909280
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 3136195,
+        "name": "Karl-Anthony Towns"
+      },
+      "points": 22.0,
+      "rebounds": 12.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 14.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909886
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 3136195,
+        "name": "Karl-Anthony Towns"
+      },
+      "points": 19.0,
+      "rebounds": 13.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 21.0,
+      "field_goal_percentage": 57.1,
+      "field_goals_made": 12.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-28T00:00:00.000+00:00",
+        "id": 401909878
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 3136195,
+        "name": "Karl-Anthony Towns"
+      },
+      "points": 27.0,
+      "rebounds": 20.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 7.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 53.3,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 7.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-10-25T23:00:00.000+00:00",
+        "id": 401909863
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 3136195,
+        "name": "Karl-Anthony Towns"
+      },
+      "points": 22.0,
+      "rebounds": 14.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 69.2,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-23T23:00:00.000+00:00",
+        "id": 401909095
+      },
+      "minutes": 37.0,
+      "player": {
+        "id": 3136195,
+        "name": "Karl-Anthony Towns"
+      },
+      "points": 22.0,
+      "rebounds": 10.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 7.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-10-20T23:00:00.000+00:00",
+        "id": 401909089
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 3136195,
+        "name": "Karl-Anthony Towns"
+      },
+      "points": 19.0,
+      "rebounds": 12.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-15T23:00:00.000+00:00",
+        "id": 401909990
+      },
+      "minutes": 3.0,
+      "player": {
+        "id": 4432808,
+        "name": "James Wiseman"
+      },
+      "points": 0.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-11T00:30:00.000+00:00",
+        "id": 401909960
+      },
+      "minutes": 5.0,
+      "player": {
+        "id": 4432808,
+        "name": "James Wiseman"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 3.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 80.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909926
+      },
+      "minutes": 10.0,
+      "player": {
+        "id": 4432808,
+        "name": "James Wiseman"
+      },
+      "points": 8.0,
+      "rebounds": 8.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-28T00:00:00.000+00:00",
+        "id": 401909878
+      },
+      "minutes": 1.0,
+      "player": {
+        "id": 4432808,
+        "name": "James Wiseman"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-25T23:00:00.000+00:00",
+        "id": 401909863
+      },
+      "minutes": 7.0,
+      "player": {
+        "id": 4432808,
+        "name": "James Wiseman"
+      },
+      "points": 0.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-23T23:00:00.000+00:00",
+        "id": 401909095
+      },
+      "minutes": 2.0,
+      "player": {
+        "id": 4432808,
+        "name": "James Wiseman"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New York Knicks"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    }
+  ],
+  "results": 170
+}

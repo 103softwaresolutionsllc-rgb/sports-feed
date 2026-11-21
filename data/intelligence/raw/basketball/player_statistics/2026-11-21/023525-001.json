@@ -1,0 +1,5024 @@
+{
+  "errors": [],
+  "get": "players/statistics",
+  "parameters": {
+    "season": "2026-2027",
+    "source": "espn-fallback",
+    "team": "Los Angeles Lakers"
+  },
+  "response": [
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T03:00:00.000+00:00",
+        "id": 401910017
+      },
+      "minutes": 2.0,
+      "player": {
+        "id": 5113969,
+        "name": "Cameron Carr"
+      },
+      "points": 5.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909971
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 5113969,
+        "name": "Cameron Carr"
+      },
+      "points": 0.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-10T00:00:00.000+00:00",
+        "id": 401909952
+      },
+      "minutes": 7.0,
+      "player": {
+        "id": 5113969,
+        "name": "Cameron Carr"
+      },
+      "points": 2.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-05T03:00:00.000+00:00",
+        "id": 401909934
+      },
+      "minutes": 1.0,
+      "player": {
+        "id": 5113969,
+        "name": "Cameron Carr"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T03:00:00.000+00:00",
+        "id": 401909921
+      },
+      "minutes": 1.0,
+      "player": {
+        "id": 5113969,
+        "name": "Cameron Carr"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-02T02:00:00.000+00:00",
+        "id": 401909906
+      },
+      "minutes": 1.0,
+      "player": {
+        "id": 5113969,
+        "name": "Cameron Carr"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T03:00:00.000+00:00",
+        "id": 401910017
+      },
+      "minutes": 2.0,
+      "player": {
+        "id": 5105817,
+        "name": "Carson Cooper"
+      },
+      "points": 2.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-18T04:00:00.000+00:00",
+        "id": 401910005
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 5105817,
+        "name": "Carson Cooper"
+      },
+      "points": 3.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-01T00:00:00.000+00:00",
+        "id": 401909899
+      },
+      "minutes": 3.0,
+      "player": {
+        "id": 5105817,
+        "name": "Carson Cooper"
+      },
+      "points": 1.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 7.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 28.0,
+      "field_goal_percentage": 35.7,
+      "field_goals_made": 10.0,
+      "free_throw_attempts": 7.0,
+      "free_throws_made": 7.0,
+      "game": {
+        "date": "2026-11-19T03:00:00.000+00:00",
+        "id": 401910017
+      },
+      "minutes": 37.0,
+      "player": {
+        "id": 3945274,
+        "name": "Luka Doncic"
+      },
+      "points": 29.0,
+      "rebounds": 5.0,
+      "steals": 2.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 12.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 9.0
+    },
+    {
+      "assists": 7.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 34.0,
+      "field_goal_percentage": 38.2,
+      "field_goals_made": 13.0,
+      "free_throw_attempts": 7.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-18T04:00:00.000+00:00",
+        "id": 401910005
+      },
+      "minutes": 42.0,
+      "player": {
+        "id": 3945274,
+        "name": "Luka Doncic"
+      },
+      "points": 36.0,
+      "rebounds": 7.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 16.0,
+      "three_pointers_made": 5.0,
+      "turnovers": 5.0
+    },
+    {
+      "assists": 9.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 28.0,
+      "field_goal_percentage": 46.4,
+      "field_goals_made": 13.0,
+      "free_throw_attempts": 14.0,
+      "free_throws_made": 12.0,
+      "game": {
+        "date": "2026-11-15T21:00:00.000+00:00",
+        "id": 401909986
+      },
+      "minutes": 36.0,
+      "player": {
+        "id": 3945274,
+        "name": "Luka Doncic"
+      },
+      "points": 43.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 13.0,
+      "three_pointers_made": 5.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 25.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 10.0,
+      "free_throw_attempts": 10.0,
+      "free_throws_made": 7.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909971
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 3945274,
+        "name": "Luka Doncic"
+      },
+      "points": 32.0,
+      "rebounds": 5.0,
+      "steals": 2.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 12.0,
+      "three_pointers_made": 5.0,
+      "turnovers": 5.0
+    },
+    {
+      "assists": 10.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 22.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 11.0,
+      "free_throw_attempts": 7.0,
+      "free_throws_made": 7.0,
+      "game": {
+        "date": "2026-11-10T00:00:00.000+00:00",
+        "id": 401909952
+      },
+      "minutes": 39.0,
+      "player": {
+        "id": 3945274,
+        "name": "Luka Doncic"
+      },
+      "points": 32.0,
+      "rebounds": 8.0,
+      "steals": 5.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 11.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 6.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 33.0,
+      "field_goal_percentage": 51.5,
+      "field_goals_made": 17.0,
+      "free_throw_attempts": 18.0,
+      "free_throws_made": 14.0,
+      "game": {
+        "date": "2026-11-07T03:00:00.000+00:00",
+        "id": 401909294
+      },
+      "minutes": 38.0,
+      "player": {
+        "id": 3945274,
+        "name": "Luka Doncic"
+      },
+      "points": 53.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 15.0,
+      "three_pointers_made": 5.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 7.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 23.0,
+      "field_goal_percentage": 47.8,
+      "field_goals_made": 11.0,
+      "free_throw_attempts": 13.0,
+      "free_throws_made": 12.0,
+      "game": {
+        "date": "2026-11-05T03:00:00.000+00:00",
+        "id": 401909934
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 3945274,
+        "name": "Luka Doncic"
+      },
+      "points": 40.0,
+      "rebounds": 9.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 13.0,
+      "three_pointers_made": 6.0,
+      "turnovers": 6.0
+    },
+    {
+      "assists": 13.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 24.0,
+      "field_goal_percentage": 58.3,
+      "field_goals_made": 14.0,
+      "free_throw_attempts": 10.0,
+      "free_throws_made": 8.0,
+      "game": {
+        "date": "2026-11-03T03:00:00.000+00:00",
+        "id": 401909921
+      },
+      "minutes": 36.0,
+      "player": {
+        "id": 3945274,
+        "name": "Luka Doncic"
+      },
+      "points": 42.0,
+      "rebounds": 7.0,
+      "steals": 2.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 15.0,
+      "three_pointers_made": 6.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 23.0,
+      "field_goal_percentage": 52.2,
+      "field_goals_made": 12.0,
+      "free_throw_attempts": 13.0,
+      "free_throws_made": 13.0,
+      "game": {
+        "date": "2026-11-02T02:00:00.000+00:00",
+        "id": 401909906
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 3945274,
+        "name": "Luka Doncic"
+      },
+      "points": 45.0,
+      "rebounds": 15.0,
+      "steals": 5.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 12.0,
+      "three_pointers_made": 8.0,
+      "turnovers": 7.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 27.0,
+      "field_goal_percentage": 44.4,
+      "field_goals_made": 12.0,
+      "free_throw_attempts": 8.0,
+      "free_throws_made": 7.0,
+      "game": {
+        "date": "2026-10-31T02:00:00.000+00:00",
+        "id": 401909285
+      },
+      "minutes": 37.0,
+      "player": {
+        "id": 3945274,
+        "name": "Luka Doncic"
+      },
+      "points": 37.0,
+      "rebounds": 7.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 16.0,
+      "three_pointers_made": 6.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 9.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 22.0,
+      "field_goal_percentage": 54.5,
+      "field_goals_made": 12.0,
+      "free_throw_attempts": 13.0,
+      "free_throws_made": 11.0,
+      "game": {
+        "date": "2026-10-28T03:00:00.000+00:00",
+        "id": 401909880
+      },
+      "minutes": 37.0,
+      "player": {
+        "id": 3945274,
+        "name": "Luka Doncic"
+      },
+      "points": 41.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 15.0,
+      "three_pointers_made": 6.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 10.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 30.0,
+      "field_goal_percentage": 56.7,
+      "field_goals_made": 17.0,
+      "free_throw_attempts": 11.0,
+      "free_throws_made": 10.0,
+      "game": {
+        "date": "2026-10-25T21:00:00.000+00:00",
+        "id": 401909861
+      },
+      "minutes": 38.0,
+      "player": {
+        "id": 3945274,
+        "name": "Luka Doncic"
+      },
+      "points": 52.0,
+      "rebounds": 8.0,
+      "steals": 2.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 18.0,
+      "three_pointers_made": 8.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 7.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 21.0,
+      "field_goal_percentage": 38.1,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 7.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-10-24T02:00:00.000+00:00",
+        "id": 401909851
+      },
+      "minutes": 37.0,
+      "player": {
+        "id": 3945274,
+        "name": "Luka Doncic"
+      },
+      "points": 23.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 11.0
+    },
+    {
+      "assists": 7.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 18.0,
+      "field_goal_percentage": 38.9,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 9.0,
+      "free_throws_made": 9.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909092
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 3945274,
+        "name": "Luka Doncic"
+      },
+      "points": 28.0,
+      "rebounds": 8.0,
+      "steals": 3.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 12.0,
+      "three_pointers_made": 5.0,
+      "turnovers": 6.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 20.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T03:00:00.000+00:00",
+        "id": 401910017
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 4397014,
+        "name": "Quentin Grimes"
+      },
+      "points": 20.0,
+      "rebounds": 7.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 10.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 24.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 16.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-18T04:00:00.000+00:00",
+        "id": 401910005
+      },
+      "minutes": 42.0,
+      "player": {
+        "id": 4397014,
+        "name": "Quentin Grimes"
+      },
+      "points": 47.0,
+      "rebounds": 6.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 14.0,
+      "three_pointers_made": 10.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 70.0,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-15T21:00:00.000+00:00",
+        "id": 401909986
+      },
+      "minutes": 37.0,
+      "player": {
+        "id": 4397014,
+        "name": "Quentin Grimes"
+      },
+      "points": 22.0,
+      "rebounds": 6.0,
+      "steals": 2.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 5.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-08T23:00:00.000+00:00",
+        "id": 401909946
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 4397014,
+        "name": "Quentin Grimes"
+      },
+      "points": 12.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-07T03:00:00.000+00:00",
+        "id": 401909294
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 4397014,
+        "name": "Quentin Grimes"
+      },
+      "points": 2.0,
+      "rebounds": 0.0,
+      "steals": 2.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-05T03:00:00.000+00:00",
+        "id": 401909934
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 4397014,
+        "name": "Quentin Grimes"
+      },
+      "points": 6.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-03T03:00:00.000+00:00",
+        "id": 401909921
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 4397014,
+        "name": "Quentin Grimes"
+      },
+      "points": 7.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-02T02:00:00.000+00:00",
+        "id": 401909906
+      },
+      "minutes": 26.0,
+      "player": {
+        "id": 4397014,
+        "name": "Quentin Grimes"
+      },
+      "points": 7.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-31T02:00:00.000+00:00",
+        "id": 401909285
+      },
+      "minutes": 26.0,
+      "player": {
+        "id": 4397014,
+        "name": "Quentin Grimes"
+      },
+      "points": 3.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 46.7,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 11.0,
+      "free_throws_made": 9.0,
+      "game": {
+        "date": "2026-10-29T02:30:00.000+00:00",
+        "id": 401909892
+      },
+      "minutes": 38.0,
+      "player": {
+        "id": 4397014,
+        "name": "Quentin Grimes"
+      },
+      "points": 23.0,
+      "rebounds": 3.0,
+      "steals": 4.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-28T03:00:00.000+00:00",
+        "id": 401909880
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 4397014,
+        "name": "Quentin Grimes"
+      },
+      "points": 2.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-25T21:00:00.000+00:00",
+        "id": 401909861
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 4397014,
+        "name": "Quentin Grimes"
+      },
+      "points": 3.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-10-24T02:00:00.000+00:00",
+        "id": 401909851
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 4397014,
+        "name": "Quentin Grimes"
+      },
+      "points": 13.0,
+      "rebounds": 8.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 57.1,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909092
+      },
+      "minutes": 27.0,
+      "player": {
+        "id": 4397014,
+        "name": "Quentin Grimes"
+      },
+      "points": 10.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T03:00:00.000+00:00",
+        "id": 401910017
+      },
+      "minutes": 2.0,
+      "player": {
+        "id": 4868423,
+        "name": "Jaden Hardy"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909971
+      },
+      "minutes": 4.0,
+      "player": {
+        "id": 4868423,
+        "name": "Jaden Hardy"
+      },
+      "points": 3.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-05T03:00:00.000+00:00",
+        "id": 401909934
+      },
+      "minutes": 1.0,
+      "player": {
+        "id": 4868423,
+        "name": "Jaden Hardy"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-03T03:00:00.000+00:00",
+        "id": 401909921
+      },
+      "minutes": 1.0,
+      "player": {
+        "id": 4868423,
+        "name": "Jaden Hardy"
+      },
+      "points": 2.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-02T02:00:00.000+00:00",
+        "id": 401909906
+      },
+      "minutes": 1.0,
+      "player": {
+        "id": 4868423,
+        "name": "Jaden Hardy"
+      },
+      "points": 1.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-31T02:00:00.000+00:00",
+        "id": 401909285
+      },
+      "minutes": 1.0,
+      "player": {
+        "id": 4868423,
+        "name": "Jaden Hardy"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-29T02:30:00.000+00:00",
+        "id": 401909892
+      },
+      "minutes": 9.0,
+      "player": {
+        "id": 4868423,
+        "name": "Jaden Hardy"
+      },
+      "points": 2.0,
+      "rebounds": 0.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909092
+      },
+      "minutes": 7.0,
+      "player": {
+        "id": 4868423,
+        "name": "Jaden Hardy"
+      },
+      "points": 3.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T03:00:00.000+00:00",
+        "id": 401910017
+      },
+      "minutes": 2.0,
+      "player": {
+        "id": 4683774,
+        "name": "Bronny James"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909971
+      },
+      "minutes": 4.0,
+      "player": {
+        "id": 4683774,
+        "name": "Bronny James"
+      },
+      "points": 4.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-05T03:00:00.000+00:00",
+        "id": 401909934
+      },
+      "minutes": 1.0,
+      "player": {
+        "id": 4683774,
+        "name": "Bronny James"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T03:00:00.000+00:00",
+        "id": 401909921
+      },
+      "minutes": 1.0,
+      "player": {
+        "id": 4683774,
+        "name": "Bronny James"
+      },
+      "points": 2.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-02T02:00:00.000+00:00",
+        "id": 401909906
+      },
+      "minutes": 2.0,
+      "player": {
+        "id": 4683774,
+        "name": "Bronny James"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-31T02:00:00.000+00:00",
+        "id": 401909285
+      },
+      "minutes": 1.0,
+      "player": {
+        "id": 4683774,
+        "name": "Bronny James"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909092
+      },
+      "minutes": 7.0,
+      "player": {
+        "id": 4683774,
+        "name": "Bronny James"
+      },
+      "points": 2.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 42.9,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 10.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-19T03:00:00.000+00:00",
+        "id": 401910017
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 4433136,
+        "name": "Walker Kessler"
+      },
+      "points": 10.0,
+      "rebounds": 11.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 80.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-11-15T21:00:00.000+00:00",
+        "id": 401909986
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 4433136,
+        "name": "Walker Kessler"
+      },
+      "points": 14.0,
+      "rebounds": 12.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909971
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 4433136,
+        "name": "Walker Kessler"
+      },
+      "points": 10.0,
+      "rebounds": 11.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-10T00:00:00.000+00:00",
+        "id": 401909952
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 4433136,
+        "name": "Walker Kessler"
+      },
+      "points": 21.0,
+      "rebounds": 10.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 3.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-08T23:00:00.000+00:00",
+        "id": 401909946
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 4433136,
+        "name": "Walker Kessler"
+      },
+      "points": 12.0,
+      "rebounds": 16.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 70.0,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-07T03:00:00.000+00:00",
+        "id": 401909294
+      },
+      "minutes": 37.0,
+      "player": {
+        "id": 4433136,
+        "name": "Walker Kessler"
+      },
+      "points": 16.0,
+      "rebounds": 12.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 4.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 75.0,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-05T03:00:00.000+00:00",
+        "id": 401909934
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 4433136,
+        "name": "Walker Kessler"
+      },
+      "points": 15.0,
+      "rebounds": 8.0,
+      "steals": 3.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 53.8,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-03T03:00:00.000+00:00",
+        "id": 401909921
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 4433136,
+        "name": "Walker Kessler"
+      },
+      "points": 15.0,
+      "rebounds": 15.0,
+      "steals": 2.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 3.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-02T02:00:00.000+00:00",
+        "id": 401909906
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 4433136,
+        "name": "Walker Kessler"
+      },
+      "points": 16.0,
+      "rebounds": 15.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 5.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 57.1,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-31T02:00:00.000+00:00",
+        "id": 401909285
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 4433136,
+        "name": "Walker Kessler"
+      },
+      "points": 10.0,
+      "rebounds": 13.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 57.1,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-29T02:30:00.000+00:00",
+        "id": 401909892
+      },
+      "minutes": 26.0,
+      "player": {
+        "id": 4433136,
+        "name": "Walker Kessler"
+      },
+      "points": 11.0,
+      "rebounds": 9.0,
+      "steals": 2.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-28T03:00:00.000+00:00",
+        "id": 401909880
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 4433136,
+        "name": "Walker Kessler"
+      },
+      "points": 13.0,
+      "rebounds": 8.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-25T21:00:00.000+00:00",
+        "id": 401909861
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 4433136,
+        "name": "Walker Kessler"
+      },
+      "points": 2.0,
+      "rebounds": 7.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 6.0,
+      "field_goal_attempts": 14.0,
+      "field_goal_percentage": 71.4,
+      "field_goals_made": 10.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-24T02:00:00.000+00:00",
+        "id": 401909851
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 4433136,
+        "name": "Walker Kessler"
+      },
+      "points": 22.0,
+      "rebounds": 8.0,
+      "steals": 3.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 12.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909092
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 4433136,
+        "name": "Walker Kessler"
+      },
+      "points": 26.0,
+      "rebounds": 9.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T03:00:00.000+00:00",
+        "id": 401910017
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 4592691,
+        "name": "Jake LaRavia"
+      },
+      "points": 4.0,
+      "rebounds": 6.0,
+      "steals": 3.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-18T04:00:00.000+00:00",
+        "id": 401910005
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 4592691,
+        "name": "Jake LaRavia"
+      },
+      "points": 4.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 3.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-15T21:00:00.000+00:00",
+        "id": 401909986
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 4592691,
+        "name": "Jake LaRavia"
+      },
+      "points": 12.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909971
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 4592691,
+        "name": "Jake LaRavia"
+      },
+      "points": 0.0,
+      "rebounds": 9.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-10T00:00:00.000+00:00",
+        "id": 401909952
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 4592691,
+        "name": "Jake LaRavia"
+      },
+      "points": 4.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-08T23:00:00.000+00:00",
+        "id": 401909946
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 4592691,
+        "name": "Jake LaRavia"
+      },
+      "points": 5.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-07T03:00:00.000+00:00",
+        "id": 401909294
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 4592691,
+        "name": "Jake LaRavia"
+      },
+      "points": 7.0,
+      "rebounds": 8.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-05T03:00:00.000+00:00",
+        "id": 401909934
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 4592691,
+        "name": "Jake LaRavia"
+      },
+      "points": 9.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 75.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T03:00:00.000+00:00",
+        "id": 401909921
+      },
+      "minutes": 26.0,
+      "player": {
+        "id": 4592691,
+        "name": "Jake LaRavia"
+      },
+      "points": 7.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-02T02:00:00.000+00:00",
+        "id": 401909906
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 4592691,
+        "name": "Jake LaRavia"
+      },
+      "points": 8.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 42.9,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-31T02:00:00.000+00:00",
+        "id": 401909285
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 4592691,
+        "name": "Jake LaRavia"
+      },
+      "points": 10.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-29T02:30:00.000+00:00",
+        "id": 401909892
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 4592691,
+        "name": "Jake LaRavia"
+      },
+      "points": 2.0,
+      "rebounds": 10.0,
+      "steals": 3.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-28T03:00:00.000+00:00",
+        "id": 401909880
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 4592691,
+        "name": "Jake LaRavia"
+      },
+      "points": 5.0,
+      "rebounds": 1.0,
+      "steals": 3.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-25T21:00:00.000+00:00",
+        "id": 401909861
+      },
+      "minutes": 15.0,
+      "player": {
+        "id": 4592691,
+        "name": "Jake LaRavia"
+      },
+      "points": 0.0,
+      "rebounds": 4.0,
+      "steals": 2.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 80.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909092
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 4592691,
+        "name": "Jake LaRavia"
+      },
+      "points": 10.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-18T04:00:00.000+00:00",
+        "id": 401910005
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 3155535,
+        "name": "Kevon Looney"
+      },
+      "points": 4.0,
+      "rebounds": 8.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909971
+      },
+      "minutes": 4.0,
+      "player": {
+        "id": 3155535,
+        "name": "Kevon Looney"
+      },
+      "points": 0.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-28T03:00:00.000+00:00",
+        "id": 401909880
+      },
+      "minutes": 5.0,
+      "player": {
+        "id": 3155535,
+        "name": "Kevon Looney"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-25T21:00:00.000+00:00",
+        "id": 401909861
+      },
+      "minutes": 5.0,
+      "player": {
+        "id": 3155535,
+        "name": "Kevon Looney"
+      },
+      "points": 2.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-24T02:00:00.000+00:00",
+        "id": 401909851
+      },
+      "minutes": 5.0,
+      "player": {
+        "id": 3155535,
+        "name": "Kevon Looney"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 60.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909092
+      },
+      "minutes": 15.0,
+      "player": {
+        "id": 3155535,
+        "name": "Kevon Looney"
+      },
+      "points": 6.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 10.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-19T03:00:00.000+00:00",
+        "id": 401910017
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 4278580,
+        "name": "Sandro Mamukelashvili"
+      },
+      "points": 6.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 12.5,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-18T04:00:00.000+00:00",
+        "id": 401910005
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 4278580,
+        "name": "Sandro Mamukelashvili"
+      },
+      "points": 3.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-15T21:00:00.000+00:00",
+        "id": 401909986
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 4278580,
+        "name": "Sandro Mamukelashvili"
+      },
+      "points": 4.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 60.0,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909971
+      },
+      "minutes": 26.0,
+      "player": {
+        "id": 4278580,
+        "name": "Sandro Mamukelashvili"
+      },
+      "points": 23.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 5.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 53.8,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-10T00:00:00.000+00:00",
+        "id": 401909952
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 4278580,
+        "name": "Sandro Mamukelashvili"
+      },
+      "points": 23.0,
+      "rebounds": 8.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 5.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 60.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-08T23:00:00.000+00:00",
+        "id": 401909946
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 4278580,
+        "name": "Sandro Mamukelashvili"
+      },
+      "points": 7.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-07T03:00:00.000+00:00",
+        "id": 401909294
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 4278580,
+        "name": "Sandro Mamukelashvili"
+      },
+      "points": 7.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-05T03:00:00.000+00:00",
+        "id": 401909934
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 4278580,
+        "name": "Sandro Mamukelashvili"
+      },
+      "points": 2.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-03T03:00:00.000+00:00",
+        "id": 401909921
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 4278580,
+        "name": "Sandro Mamukelashvili"
+      },
+      "points": 13.0,
+      "rebounds": 3.0,
+      "steals": 2.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 57.1,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-02T02:00:00.000+00:00",
+        "id": 401909906
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4278580,
+        "name": "Sandro Mamukelashvili"
+      },
+      "points": 11.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-31T02:00:00.000+00:00",
+        "id": 401909285
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 4278580,
+        "name": "Sandro Mamukelashvili"
+      },
+      "points": 4.0,
+      "rebounds": 7.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-29T02:30:00.000+00:00",
+        "id": 401909892
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 4278580,
+        "name": "Sandro Mamukelashvili"
+      },
+      "points": 13.0,
+      "rebounds": 8.0,
+      "steals": 2.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-28T03:00:00.000+00:00",
+        "id": 401909880
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4278580,
+        "name": "Sandro Mamukelashvili"
+      },
+      "points": 17.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-10-25T21:00:00.000+00:00",
+        "id": 401909861
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 4278580,
+        "name": "Sandro Mamukelashvili"
+      },
+      "points": 9.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 75.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-24T02:00:00.000+00:00",
+        "id": 401909851
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4278580,
+        "name": "Sandro Mamukelashvili"
+      },
+      "points": 7.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909092
+      },
+      "minutes": 22.0,
+      "player": {
+        "id": 4278580,
+        "name": "Sandro Mamukelashvili"
+      },
+      "points": 5.0,
+      "rebounds": 4.0,
+      "steals": 2.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-31T02:00:00.000+00:00",
+        "id": 401909285
+      },
+      "minutes": 1.0,
+      "player": {
+        "id": 4702972,
+        "name": "Chris Manon"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909092
+      },
+      "minutes": 6.0,
+      "player": {
+        "id": 4702972,
+        "name": "Chris Manon"
+      },
+      "points": 2.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 60.0,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909971
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 4066457,
+        "name": "Austin Reaves"
+      },
+      "points": 18.0,
+      "rebounds": 3.0,
+      "steals": 3.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 27.0,
+      "field_goal_percentage": 51.9,
+      "field_goals_made": 14.0,
+      "free_throw_attempts": 11.0,
+      "free_throws_made": 11.0,
+      "game": {
+        "date": "2026-11-08T23:00:00.000+00:00",
+        "id": 401909946
+      },
+      "minutes": 37.0,
+      "player": {
+        "id": 4066457,
+        "name": "Austin Reaves"
+      },
+      "points": 43.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 22.0,
+      "field_goal_percentage": 36.4,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 8.0,
+      "free_throws_made": 8.0,
+      "game": {
+        "date": "2026-11-07T03:00:00.000+00:00",
+        "id": 401909294
+      },
+      "minutes": 38.0,
+      "player": {
+        "id": 4066457,
+        "name": "Austin Reaves"
+      },
+      "points": 25.0,
+      "rebounds": 3.0,
+      "steals": 4.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 46.7,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-11-05T03:00:00.000+00:00",
+        "id": 401909934
+      },
+      "minutes": 37.0,
+      "player": {
+        "id": 4066457,
+        "name": "Austin Reaves"
+      },
+      "points": 21.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 10.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-03T03:00:00.000+00:00",
+        "id": 401909921
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 4066457,
+        "name": "Austin Reaves"
+      },
+      "points": 27.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 5.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 16.0,
+      "field_goal_percentage": 37.5,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-02T02:00:00.000+00:00",
+        "id": 401909906
+      },
+      "minutes": 39.0,
+      "player": {
+        "id": 4066457,
+        "name": "Austin Reaves"
+      },
+      "points": 19.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 19.0,
+      "field_goal_percentage": 47.4,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-31T02:00:00.000+00:00",
+        "id": 401909285
+      },
+      "minutes": 37.0,
+      "player": {
+        "id": 4066457,
+        "name": "Austin Reaves"
+      },
+      "points": 21.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 8.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 16.0,
+      "field_goal_percentage": 37.5,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-29T02:30:00.000+00:00",
+        "id": 401909892
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 4066457,
+        "name": "Austin Reaves"
+      },
+      "points": 16.0,
+      "rebounds": 6.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 8.0
+    },
+    {
+      "assists": 7.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 61.5,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 7.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-10-28T03:00:00.000+00:00",
+        "id": 401909880
+      },
+      "minutes": 39.0,
+      "player": {
+        "id": 4066457,
+        "name": "Austin Reaves"
+      },
+      "points": 26.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 58.3,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 13.0,
+      "free_throws_made": 11.0,
+      "game": {
+        "date": "2026-10-25T21:00:00.000+00:00",
+        "id": 401909861
+      },
+      "minutes": 36.0,
+      "player": {
+        "id": 4066457,
+        "name": "Austin Reaves"
+      },
+      "points": 29.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 9.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 76.9,
+      "field_goals_made": 10.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-10-24T02:00:00.000+00:00",
+        "id": 401909851
+      },
+      "minutes": 38.0,
+      "player": {
+        "id": 4066457,
+        "name": "Austin Reaves"
+      },
+      "points": 28.0,
+      "rebounds": 2.0,
+      "steals": 2.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 6.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 54.5,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 10.0,
+      "free_throws_made": 10.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909092
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 4066457,
+        "name": "Austin Reaves"
+      },
+      "points": 23.0,
+      "rebounds": 4.0,
+      "steals": 2.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-19T03:00:00.000+00:00",
+        "id": 401910017
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 4277811,
+        "name": "Collin Sexton"
+      },
+      "points": 12.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-18T04:00:00.000+00:00",
+        "id": 401910005
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 4277811,
+        "name": "Collin Sexton"
+      },
+      "points": 10.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 54.5,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-15T21:00:00.000+00:00",
+        "id": 401909986
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4277811,
+        "name": "Collin Sexton"
+      },
+      "points": 16.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909971
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 4277811,
+        "name": "Collin Sexton"
+      },
+      "points": 10.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 54.5,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-10T00:00:00.000+00:00",
+        "id": 401909952
+      },
+      "minutes": 27.0,
+      "player": {
+        "id": 4277811,
+        "name": "Collin Sexton"
+      },
+      "points": 18.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 8.0,
+      "free_throws_made": 7.0,
+      "game": {
+        "date": "2026-11-08T23:00:00.000+00:00",
+        "id": 401909946
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4277811,
+        "name": "Collin Sexton"
+      },
+      "points": 17.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-07T03:00:00.000+00:00",
+        "id": 401909294
+      },
+      "minutes": 11.0,
+      "player": {
+        "id": 4277811,
+        "name": "Collin Sexton"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 28.6,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-05T03:00:00.000+00:00",
+        "id": 401909934
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 4277811,
+        "name": "Collin Sexton"
+      },
+      "points": 10.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 75.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T03:00:00.000+00:00",
+        "id": 401909921
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 4277811,
+        "name": "Collin Sexton"
+      },
+      "points": 6.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 60.0,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-02T02:00:00.000+00:00",
+        "id": 401909906
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 4277811,
+        "name": "Collin Sexton"
+      },
+      "points": 14.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-31T02:00:00.000+00:00",
+        "id": 401909285
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 4277811,
+        "name": "Collin Sexton"
+      },
+      "points": 0.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 54.5,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 8.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-10-29T02:30:00.000+00:00",
+        "id": 401909892
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 4277811,
+        "name": "Collin Sexton"
+      },
+      "points": 21.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 36.4,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-28T03:00:00.000+00:00",
+        "id": 401909880
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 4277811,
+        "name": "Collin Sexton"
+      },
+      "points": 9.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 45.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-25T21:00:00.000+00:00",
+        "id": 401909861
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 4277811,
+        "name": "Collin Sexton"
+      },
+      "points": 13.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-24T02:00:00.000+00:00",
+        "id": 401909851
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 4277811,
+        "name": "Collin Sexton"
+      },
+      "points": 5.0,
+      "rebounds": 1.0,
+      "steals": 3.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T03:00:00.000+00:00",
+        "id": 401910017
+      },
+      "minutes": 6.0,
+      "player": {
+        "id": 5060631,
+        "name": "Adou Thiero"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-18T04:00:00.000+00:00",
+        "id": 401910005
+      },
+      "minutes": 6.0,
+      "player": {
+        "id": 5060631,
+        "name": "Adou Thiero"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909971
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 5060631,
+        "name": "Adou Thiero"
+      },
+      "points": 2.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-10T00:00:00.000+00:00",
+        "id": 401909952
+      },
+      "minutes": 7.0,
+      "player": {
+        "id": 5060631,
+        "name": "Adou Thiero"
+      },
+      "points": 2.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-08T23:00:00.000+00:00",
+        "id": 401909946
+      },
+      "minutes": 8.0,
+      "player": {
+        "id": 5060631,
+        "name": "Adou Thiero"
+      },
+      "points": 2.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-07T03:00:00.000+00:00",
+        "id": 401909294
+      },
+      "minutes": 7.0,
+      "player": {
+        "id": 5060631,
+        "name": "Adou Thiero"
+      },
+      "points": 4.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T03:00:00.000+00:00",
+        "id": 401910017
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 3907498,
+        "name": "Matisse Thybulle"
+      },
+      "points": 2.0,
+      "rebounds": 1.0,
+      "steals": 4.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-18T04:00:00.000+00:00",
+        "id": 401910005
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 3907498,
+        "name": "Matisse Thybulle"
+      },
+      "points": 7.0,
+      "rebounds": 5.0,
+      "steals": 3.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 44.4,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-15T21:00:00.000+00:00",
+        "id": 401909986
+      },
+      "minutes": 26.0,
+      "player": {
+        "id": 3907498,
+        "name": "Matisse Thybulle"
+      },
+      "points": 12.0,
+      "rebounds": 8.0,
+      "steals": 3.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909971
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 3907498,
+        "name": "Matisse Thybulle"
+      },
+      "points": 8.0,
+      "rebounds": 5.0,
+      "steals": 3.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-10T00:00:00.000+00:00",
+        "id": 401909952
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 3907498,
+        "name": "Matisse Thybulle"
+      },
+      "points": 6.0,
+      "rebounds": 0.0,
+      "steals": 3.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-08T23:00:00.000+00:00",
+        "id": 401909946
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 3907498,
+        "name": "Matisse Thybulle"
+      },
+      "points": 4.0,
+      "rebounds": 2.0,
+      "steals": 4.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-07T03:00:00.000+00:00",
+        "id": 401909294
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 3907498,
+        "name": "Matisse Thybulle"
+      },
+      "points": 2.0,
+      "rebounds": 2.0,
+      "steals": 3.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 20.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-05T03:00:00.000+00:00",
+        "id": 401909934
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 3907498,
+        "name": "Matisse Thybulle"
+      },
+      "points": 3.0,
+      "rebounds": 1.0,
+      "steals": 2.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T03:00:00.000+00:00",
+        "id": 401909921
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 3907498,
+        "name": "Matisse Thybulle"
+      },
+      "points": 6.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-02T02:00:00.000+00:00",
+        "id": 401909906
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 3907498,
+        "name": "Matisse Thybulle"
+      },
+      "points": 6.0,
+      "rebounds": 2.0,
+      "steals": 2.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-10-31T02:00:00.000+00:00",
+        "id": 401909285
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 3907498,
+        "name": "Matisse Thybulle"
+      },
+      "points": 10.0,
+      "rebounds": 3.0,
+      "steals": 3.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 83.3,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-29T02:30:00.000+00:00",
+        "id": 401909892
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 3907498,
+        "name": "Matisse Thybulle"
+      },
+      "points": 15.0,
+      "rebounds": 1.0,
+      "steals": 2.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-28T03:00:00.000+00:00",
+        "id": 401909880
+      },
+      "minutes": 22.0,
+      "player": {
+        "id": 3907498,
+        "name": "Matisse Thybulle"
+      },
+      "points": 5.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-25T21:00:00.000+00:00",
+        "id": 401909861
+      },
+      "minutes": 26.0,
+      "player": {
+        "id": 3907498,
+        "name": "Matisse Thybulle"
+      },
+      "points": 11.0,
+      "rebounds": 1.0,
+      "steals": 3.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 62.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-24T02:00:00.000+00:00",
+        "id": 401909851
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 3907498,
+        "name": "Matisse Thybulle"
+      },
+      "points": 13.0,
+      "rebounds": 1.0,
+      "steals": 2.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909092
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 3907498,
+        "name": "Matisse Thybulle"
+      },
+      "points": 3.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T03:00:00.000+00:00",
+        "id": 401910017
+      },
+      "minutes": 12.0,
+      "player": {
+        "id": 4278077,
+        "name": "Jarred Vanderbilt"
+      },
+      "points": 0.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-18T04:00:00.000+00:00",
+        "id": 401910005
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 4278077,
+        "name": "Jarred Vanderbilt"
+      },
+      "points": 4.0,
+      "rebounds": 7.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-15T21:00:00.000+00:00",
+        "id": 401909986
+      },
+      "minutes": 12.0,
+      "player": {
+        "id": 4278077,
+        "name": "Jarred Vanderbilt"
+      },
+      "points": 2.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909971
+      },
+      "minutes": 9.0,
+      "player": {
+        "id": 4278077,
+        "name": "Jarred Vanderbilt"
+      },
+      "points": 4.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-10T00:00:00.000+00:00",
+        "id": 401909952
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 4278077,
+        "name": "Jarred Vanderbilt"
+      },
+      "points": 4.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-08T23:00:00.000+00:00",
+        "id": 401909946
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 4278077,
+        "name": "Jarred Vanderbilt"
+      },
+      "points": 2.0,
+      "rebounds": 10.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-05T03:00:00.000+00:00",
+        "id": 401909934
+      },
+      "minutes": 7.0,
+      "player": {
+        "id": 4278077,
+        "name": "Jarred Vanderbilt"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T03:00:00.000+00:00",
+        "id": 401909921
+      },
+      "minutes": 6.0,
+      "player": {
+        "id": 4278077,
+        "name": "Jarred Vanderbilt"
+      },
+      "points": 2.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-02T02:00:00.000+00:00",
+        "id": 401909906
+      },
+      "minutes": 12.0,
+      "player": {
+        "id": 4278077,
+        "name": "Jarred Vanderbilt"
+      },
+      "points": 4.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-31T02:00:00.000+00:00",
+        "id": 401909285
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 4278077,
+        "name": "Jarred Vanderbilt"
+      },
+      "points": 0.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-29T02:30:00.000+00:00",
+        "id": 401909892
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 4278077,
+        "name": "Jarred Vanderbilt"
+      },
+      "points": 0.0,
+      "rebounds": 7.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-19T03:00:00.000+00:00",
+        "id": 401910017
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 4433137,
+        "name": "Ziaire Williams"
+      },
+      "points": 7.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-18T04:00:00.000+00:00",
+        "id": 401910005
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4433137,
+        "name": "Ziaire Williams"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-15T21:00:00.000+00:00",
+        "id": 401909986
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 4433137,
+        "name": "Ziaire Williams"
+      },
+      "points": 6.0,
+      "rebounds": 2.0,
+      "steals": 2.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 80.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909971
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 4433137,
+        "name": "Ziaire Williams"
+      },
+      "points": 9.0,
+      "rebounds": 1.0,
+      "steals": 2.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-10T00:00:00.000+00:00",
+        "id": 401909952
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 4433137,
+        "name": "Ziaire Williams"
+      },
+      "points": 12.0,
+      "rebounds": 2.0,
+      "steals": 2.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 60.0,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-08T23:00:00.000+00:00",
+        "id": 401909946
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 4433137,
+        "name": "Ziaire Williams"
+      },
+      "points": 17.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 60.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-07T03:00:00.000+00:00",
+        "id": 401909294
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 4433137,
+        "name": "Ziaire Williams"
+      },
+      "points": 8.0,
+      "rebounds": 3.0,
+      "steals": 2.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 42.9,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-05T03:00:00.000+00:00",
+        "id": 401909934
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 4433137,
+        "name": "Ziaire Williams"
+      },
+      "points": 10.0,
+      "rebounds": 4.0,
+      "steals": 2.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T03:00:00.000+00:00",
+        "id": 401909921
+      },
+      "minutes": 15.0,
+      "player": {
+        "id": 4433137,
+        "name": "Ziaire Williams"
+      },
+      "points": 9.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 80.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-28T03:00:00.000+00:00",
+        "id": 401909880
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 4433137,
+        "name": "Ziaire Williams"
+      },
+      "points": 11.0,
+      "rebounds": 2.0,
+      "steals": 2.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-25T21:00:00.000+00:00",
+        "id": 401909861
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 4433137,
+        "name": "Ziaire Williams"
+      },
+      "points": 11.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 71.4,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-24T02:00:00.000+00:00",
+        "id": 401909851
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 4433137,
+        "name": "Ziaire Williams"
+      },
+      "points": 14.0,
+      "rebounds": 5.0,
+      "steals": 2.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 57.1,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-22T02:00:00.000+00:00",
+        "id": 401909092
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4433137,
+        "name": "Ziaire Williams"
+      },
+      "points": 9.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Los Angeles Lakers"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    }
+  ],
+  "results": 179
+}

@@ -1,0 +1,4940 @@
+{
+  "errors": [],
+  "get": "players/statistics",
+  "parameters": {
+    "season": "2026-2027",
+    "source": "espn-fallback",
+    "team": "New Orleans Pelicans"
+  },
+  "response": [
+    {
+      "assists": 6.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 23.1,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-19T01:00:00.000+00:00",
+        "id": 401910013
+      },
+      "minutes": 42.0,
+      "player": {
+        "id": 4397136,
+        "name": "Saddiq Bey"
+      },
+      "points": 10.0,
+      "rebounds": 8.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 53.3,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-17T01:00:00.000+00:00",
+        "id": 401910000
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 4397136,
+        "name": "Saddiq Bey"
+      },
+      "points": 23.0,
+      "rebounds": 6.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 5.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 26.7,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-11-15T00:00:00.000+00:00",
+        "id": 401909980
+      },
+      "minutes": 41.0,
+      "player": {
+        "id": 4397136,
+        "name": "Saddiq Bey"
+      },
+      "points": 16.0,
+      "rebounds": 6.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 20.0,
+      "field_goal_percentage": 55.0,
+      "field_goals_made": 11.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-14T01:00:00.000+00:00",
+        "id": 401909300
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 4397136,
+        "name": "Saddiq Bey"
+      },
+      "points": 30.0,
+      "rebounds": 10.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 9.0,
+      "three_pointers_made": 6.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 45.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909972
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 4397136,
+        "name": "Saddiq Bey"
+      },
+      "points": 15.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-10T03:00:00.000+00:00",
+        "id": 401909959
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4397136,
+        "name": "Saddiq Bey"
+      },
+      "points": 9.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-11-09T02:00:00.000+00:00",
+        "id": 401909950
+      },
+      "minutes": 26.0,
+      "player": {
+        "id": 4397136,
+        "name": "Saddiq Bey"
+      },
+      "points": 13.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 38.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-07T01:00:00.000+00:00",
+        "id": 401909293
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 4397136,
+        "name": "Saddiq Bey"
+      },
+      "points": 17.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 14.0,
+      "field_goal_percentage": 64.3,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-05T01:00:00.000+00:00",
+        "id": 401909928
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 4397136,
+        "name": "Saddiq Bey"
+      },
+      "points": 22.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 16.0,
+      "field_goal_percentage": 43.8,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-03T01:00:00.000+00:00",
+        "id": 401909914
+      },
+      "minutes": 36.0,
+      "player": {
+        "id": 4397136,
+        "name": "Saddiq Bey"
+      },
+      "points": 18.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 69.2,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 7.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-10-31T23:00:00.000+00:00",
+        "id": 401909898
+      },
+      "minutes": 26.0,
+      "player": {
+        "id": 4397136,
+        "name": "Saddiq Bey"
+      },
+      "points": 25.0,
+      "rebounds": 6.0,
+      "steals": 4.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 42.9,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-30T00:00:00.000+00:00",
+        "id": 401909894
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4397136,
+        "name": "Saddiq Bey"
+      },
+      "points": 10.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 30.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909889
+      },
+      "minutes": 26.0,
+      "player": {
+        "id": 4397136,
+        "name": "Saddiq Bey"
+      },
+      "points": 9.0,
+      "rebounds": 0.0,
+      "steals": 2.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 8.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-10-25T01:00:00.000+00:00",
+        "id": 401909859
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 4397136,
+        "name": "Saddiq Bey"
+      },
+      "points": 14.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-24T01:30:00.000+00:00",
+        "id": 401909849
+      },
+      "minutes": 22.0,
+      "player": {
+        "id": 4397136,
+        "name": "Saddiq Bey"
+      },
+      "points": 20.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 44.4,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-22T00:00:00.000+00:00",
+        "id": 401909839
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4397136,
+        "name": "Saddiq Bey"
+      },
+      "points": 13.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-17T01:00:00.000+00:00",
+        "id": 401910000
+      },
+      "minutes": 5.0,
+      "player": {
+        "id": 4712862,
+        "name": "Malik Dia"
+      },
+      "points": 2.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-14T01:00:00.000+00:00",
+        "id": 401909300
+      },
+      "minutes": 4.0,
+      "player": {
+        "id": 4712862,
+        "name": "Malik Dia"
+      },
+      "points": 2.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-19T01:00:00.000+00:00",
+        "id": 401910013
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 5144091,
+        "name": "Jeremiah Fears"
+      },
+      "points": 16.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 10.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 46.2,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 7.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-11-17T01:00:00.000+00:00",
+        "id": 401910000
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 5144091,
+        "name": "Jeremiah Fears"
+      },
+      "points": 19.0,
+      "rebounds": 10.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 7.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-15T00:00:00.000+00:00",
+        "id": 401909980
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 5144091,
+        "name": "Jeremiah Fears"
+      },
+      "points": 13.0,
+      "rebounds": 4.0,
+      "steals": 2.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 7.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-11-14T01:00:00.000+00:00",
+        "id": 401909300
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 5144091,
+        "name": "Jeremiah Fears"
+      },
+      "points": 18.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909972
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 5144091,
+        "name": "Jeremiah Fears"
+      },
+      "points": 14.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 8.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-10T03:00:00.000+00:00",
+        "id": 401909959
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 5144091,
+        "name": "Jeremiah Fears"
+      },
+      "points": 11.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 6.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 14.0,
+      "field_goal_percentage": 71.4,
+      "field_goals_made": 10.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-09T02:00:00.000+00:00",
+        "id": 401909950
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 5144091,
+        "name": "Jeremiah Fears"
+      },
+      "points": 25.0,
+      "rebounds": 6.0,
+      "steals": 2.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 16.0,
+      "field_goal_percentage": 56.3,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 7.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-11-07T01:00:00.000+00:00",
+        "id": 401909293
+      },
+      "minutes": 36.0,
+      "player": {
+        "id": 5144091,
+        "name": "Jeremiah Fears"
+      },
+      "points": 24.0,
+      "rebounds": 5.0,
+      "steals": 2.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 16.0,
+      "field_goal_percentage": 37.5,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-11-05T01:00:00.000+00:00",
+        "id": 401909928
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 5144091,
+        "name": "Jeremiah Fears"
+      },
+      "points": 19.0,
+      "rebounds": 6.0,
+      "steals": 2.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 7.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 17.0,
+      "field_goal_percentage": 29.4,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-03T01:00:00.000+00:00",
+        "id": 401909914
+      },
+      "minutes": 38.0,
+      "player": {
+        "id": 5144091,
+        "name": "Jeremiah Fears"
+      },
+      "points": 12.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 7.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 75.0,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-31T23:00:00.000+00:00",
+        "id": 401909898
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 5144091,
+        "name": "Jeremiah Fears"
+      },
+      "points": 20.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 13.0,
+      "blocks": 4.0,
+      "field_goal_attempts": 16.0,
+      "field_goal_percentage": 56.3,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-30T00:00:00.000+00:00",
+        "id": 401909894
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 5144091,
+        "name": "Jeremiah Fears"
+      },
+      "points": 22.0,
+      "rebounds": 8.0,
+      "steals": 2.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 14.0,
+      "field_goal_percentage": 35.7,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909889
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 5144091,
+        "name": "Jeremiah Fears"
+      },
+      "points": 11.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-25T01:00:00.000+00:00",
+        "id": 401909859
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 5144091,
+        "name": "Jeremiah Fears"
+      },
+      "points": 10.0,
+      "rebounds": 6.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-24T01:30:00.000+00:00",
+        "id": 401909849
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 5144091,
+        "name": "Jeremiah Fears"
+      },
+      "points": 7.0,
+      "rebounds": 0.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 20.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-22T00:00:00.000+00:00",
+        "id": 401909839
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 5144091,
+        "name": "Jeremiah Fears"
+      },
+      "points": 8.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-17T01:00:00.000+00:00",
+        "id": 401910000
+      },
+      "minutes": 6.0,
+      "player": {
+        "id": 5170947,
+        "name": "AJ Johnson"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-14T01:00:00.000+00:00",
+        "id": 401909300
+      },
+      "minutes": 4.0,
+      "player": {
+        "id": 5170947,
+        "name": "AJ Johnson"
+      },
+      "points": 1.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909972
+      },
+      "minutes": 7.0,
+      "player": {
+        "id": 5170947,
+        "name": "AJ Johnson"
+      },
+      "points": 2.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-10T03:00:00.000+00:00",
+        "id": 401909959
+      },
+      "minutes": 12.0,
+      "player": {
+        "id": 5170947,
+        "name": "AJ Johnson"
+      },
+      "points": 2.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-09T02:00:00.000+00:00",
+        "id": 401909950
+      },
+      "minutes": 3.0,
+      "player": {
+        "id": 5170947,
+        "name": "AJ Johnson"
+      },
+      "points": 2.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-31T23:00:00.000+00:00",
+        "id": 401909898
+      },
+      "minutes": 3.0,
+      "player": {
+        "id": 5170947,
+        "name": "AJ Johnson"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 42.9,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T01:00:00.000+00:00",
+        "id": 401910013
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 4277813,
+        "name": "Herbert Jones"
+      },
+      "points": 9.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 27.3,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-17T01:00:00.000+00:00",
+        "id": 401910000
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4277813,
+        "name": "Herbert Jones"
+      },
+      "points": 8.0,
+      "rebounds": 2.0,
+      "steals": 3.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 37.5,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-15T00:00:00.000+00:00",
+        "id": 401909980
+      },
+      "minutes": 27.0,
+      "player": {
+        "id": 4277813,
+        "name": "Herbert Jones"
+      },
+      "points": 10.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 36.4,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-14T01:00:00.000+00:00",
+        "id": 401909300
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 4277813,
+        "name": "Herbert Jones"
+      },
+      "points": 8.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 16.7,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909972
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 4277813,
+        "name": "Herbert Jones"
+      },
+      "points": 2.0,
+      "rebounds": 2.0,
+      "steals": 3.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 44.4,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-10T03:00:00.000+00:00",
+        "id": 401909959
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4277813,
+        "name": "Herbert Jones"
+      },
+      "points": 10.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-09T02:00:00.000+00:00",
+        "id": 401909950
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 4277813,
+        "name": "Herbert Jones"
+      },
+      "points": 4.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-07T01:00:00.000+00:00",
+        "id": 401909293
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 4277813,
+        "name": "Herbert Jones"
+      },
+      "points": 0.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 14.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-05T01:00:00.000+00:00",
+        "id": 401909928
+      },
+      "minutes": 37.0,
+      "player": {
+        "id": 4277813,
+        "name": "Herbert Jones"
+      },
+      "points": 2.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 37.5,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T01:00:00.000+00:00",
+        "id": 401909914
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 4277813,
+        "name": "Herbert Jones"
+      },
+      "points": 9.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-31T23:00:00.000+00:00",
+        "id": 401909898
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 4277813,
+        "name": "Herbert Jones"
+      },
+      "points": 11.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 58.3,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-30T00:00:00.000+00:00",
+        "id": 401909894
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 4277813,
+        "name": "Herbert Jones"
+      },
+      "points": 16.0,
+      "rebounds": 4.0,
+      "steals": 2.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 20.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909889
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 4277813,
+        "name": "Herbert Jones"
+      },
+      "points": 4.0,
+      "rebounds": 2.0,
+      "steals": 2.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-25T01:00:00.000+00:00",
+        "id": 401909859
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 4277813,
+        "name": "Herbert Jones"
+      },
+      "points": 2.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-24T01:30:00.000+00:00",
+        "id": 401909849
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 4277813,
+        "name": "Herbert Jones"
+      },
+      "points": 3.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-22T00:00:00.000+00:00",
+        "id": 401909839
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 4277813,
+        "name": "Herbert Jones"
+      },
+      "points": 5.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-19T01:00:00.000+00:00",
+        "id": 401910013
+      },
+      "minutes": 10.0,
+      "player": {
+        "id": 3442,
+        "name": "DeAndre Jordan"
+      },
+      "points": 8.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-14T01:00:00.000+00:00",
+        "id": 401909300
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 3442,
+        "name": "DeAndre Jordan"
+      },
+      "points": 6.0,
+      "rebounds": 8.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909972
+      },
+      "minutes": 11.0,
+      "player": {
+        "id": 3442,
+        "name": "DeAndre Jordan"
+      },
+      "points": 0.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909889
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 3442,
+        "name": "DeAndre Jordan"
+      },
+      "points": 3.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-25T01:00:00.000+00:00",
+        "id": 401909859
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 3442,
+        "name": "DeAndre Jordan"
+      },
+      "points": 9.0,
+      "rebounds": 9.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-14T01:00:00.000+00:00",
+        "id": 401909300
+      },
+      "minutes": 10.0,
+      "player": {
+        "id": 4683634,
+        "name": "Bennedict Mathurin"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 11.1,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-10T03:00:00.000+00:00",
+        "id": 401909959
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4683634,
+        "name": "Bennedict Mathurin"
+      },
+      "points": 6.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-09T02:00:00.000+00:00",
+        "id": 401909950
+      },
+      "minutes": 9.0,
+      "player": {
+        "id": 4683634,
+        "name": "Bennedict Mathurin"
+      },
+      "points": 6.0,
+      "rebounds": 0.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-07T01:00:00.000+00:00",
+        "id": 401909293
+      },
+      "minutes": 7.0,
+      "player": {
+        "id": 4683634,
+        "name": "Bennedict Mathurin"
+      },
+      "points": 2.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 16.7,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-05T01:00:00.000+00:00",
+        "id": 401909928
+      },
+      "minutes": 15.0,
+      "player": {
+        "id": 4683634,
+        "name": "Bennedict Mathurin"
+      },
+      "points": 2.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T01:00:00.000+00:00",
+        "id": 401909914
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 4683634,
+        "name": "Bennedict Mathurin"
+      },
+      "points": 4.0,
+      "rebounds": 0.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-31T23:00:00.000+00:00",
+        "id": 401909898
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 4683634,
+        "name": "Bennedict Mathurin"
+      },
+      "points": 7.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-30T00:00:00.000+00:00",
+        "id": 401909894
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 4683634,
+        "name": "Bennedict Mathurin"
+      },
+      "points": 10.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909889
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 4683634,
+        "name": "Bennedict Mathurin"
+      },
+      "points": 5.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 44.4,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-25T01:00:00.000+00:00",
+        "id": 401909859
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 4683634,
+        "name": "Bennedict Mathurin"
+      },
+      "points": 9.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-24T01:30:00.000+00:00",
+        "id": 401909849
+      },
+      "minutes": 15.0,
+      "player": {
+        "id": 4683634,
+        "name": "Bennedict Mathurin"
+      },
+      "points": 4.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 42.9,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-10-22T00:00:00.000+00:00",
+        "id": 401909839
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 4683634,
+        "name": "Bennedict Mathurin"
+      },
+      "points": 11.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T01:00:00.000+00:00",
+        "id": 401910013
+      },
+      "minutes": 10.0,
+      "player": {
+        "id": 4997538,
+        "name": "Karlo Matkovic"
+      },
+      "points": 0.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 16.7,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-17T01:00:00.000+00:00",
+        "id": 401910000
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 4997538,
+        "name": "Karlo Matkovic"
+      },
+      "points": 3.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-15T00:00:00.000+00:00",
+        "id": 401909980
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 4997538,
+        "name": "Karlo Matkovic"
+      },
+      "points": 5.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-14T01:00:00.000+00:00",
+        "id": 401909300
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 4997538,
+        "name": "Karlo Matkovic"
+      },
+      "points": 1.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909972
+      },
+      "minutes": 22.0,
+      "player": {
+        "id": 4997538,
+        "name": "Karlo Matkovic"
+      },
+      "points": 4.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-10T03:00:00.000+00:00",
+        "id": 401909959
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 4997538,
+        "name": "Karlo Matkovic"
+      },
+      "points": 4.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-09T02:00:00.000+00:00",
+        "id": 401909950
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 4997538,
+        "name": "Karlo Matkovic"
+      },
+      "points": 3.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 53.8,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-07T01:00:00.000+00:00",
+        "id": 401909293
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 4997538,
+        "name": "Karlo Matkovic"
+      },
+      "points": 18.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-05T01:00:00.000+00:00",
+        "id": 401909928
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 4997538,
+        "name": "Karlo Matkovic"
+      },
+      "points": 5.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 69.2,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-03T01:00:00.000+00:00",
+        "id": 401909914
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 4997538,
+        "name": "Karlo Matkovic"
+      },
+      "points": 25.0,
+      "rebounds": 6.0,
+      "steals": 2.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 5.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 75.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-31T23:00:00.000+00:00",
+        "id": 401909898
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 4997538,
+        "name": "Karlo Matkovic"
+      },
+      "points": 8.0,
+      "rebounds": 10.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 57.1,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-30T00:00:00.000+00:00",
+        "id": 401909894
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 4997538,
+        "name": "Karlo Matkovic"
+      },
+      "points": 12.0,
+      "rebounds": 4.0,
+      "steals": 3.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909889
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 4997538,
+        "name": "Karlo Matkovic"
+      },
+      "points": 5.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-25T01:00:00.000+00:00",
+        "id": 401909859
+      },
+      "minutes": 8.0,
+      "player": {
+        "id": 4997538,
+        "name": "Karlo Matkovic"
+      },
+      "points": 3.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-24T01:30:00.000+00:00",
+        "id": 401909849
+      },
+      "minutes": 9.0,
+      "player": {
+        "id": 4997538,
+        "name": "Karlo Matkovic"
+      },
+      "points": 7.0,
+      "rebounds": 4.0,
+      "steals": 2.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 8.0,
+      "free_throws_made": 8.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909972
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 4576086,
+        "name": "Bryce McGowens"
+      },
+      "points": 11.0,
+      "rebounds": 1.0,
+      "steals": 2.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 37.5,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-10T03:00:00.000+00:00",
+        "id": 401909959
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 4576086,
+        "name": "Bryce McGowens"
+      },
+      "points": 8.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-09T02:00:00.000+00:00",
+        "id": 401909950
+      },
+      "minutes": 3.0,
+      "player": {
+        "id": 4576086,
+        "name": "Bryce McGowens"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T01:00:00.000+00:00",
+        "id": 401909914
+      },
+      "minutes": 6.0,
+      "player": {
+        "id": 4576086,
+        "name": "Bryce McGowens"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-31T23:00:00.000+00:00",
+        "id": 401909898
+      },
+      "minutes": 15.0,
+      "player": {
+        "id": 4576086,
+        "name": "Bryce McGowens"
+      },
+      "points": 3.0,
+      "rebounds": 0.0,
+      "steals": 2.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-30T00:00:00.000+00:00",
+        "id": 401909894
+      },
+      "minutes": 6.0,
+      "player": {
+        "id": 4576086,
+        "name": "Bryce McGowens"
+      },
+      "points": 4.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909889
+      },
+      "minutes": 3.0,
+      "player": {
+        "id": 4576086,
+        "name": "Bryce McGowens"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T01:00:00.000+00:00",
+        "id": 401910013
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 5061589,
+        "name": "Yves Missi"
+      },
+      "points": 4.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 42.9,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-17T01:00:00.000+00:00",
+        "id": 401910000
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 5061589,
+        "name": "Yves Missi"
+      },
+      "points": 6.0,
+      "rebounds": 14.0,
+      "steals": 3.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 4.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-15T00:00:00.000+00:00",
+        "id": 401909980
+      },
+      "minutes": 22.0,
+      "player": {
+        "id": 5061589,
+        "name": "Yves Missi"
+      },
+      "points": 3.0,
+      "rebounds": 8.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-24T01:30:00.000+00:00",
+        "id": 401909849
+      },
+      "minutes": 9.0,
+      "player": {
+        "id": 5061589,
+        "name": "Yves Missi"
+      },
+      "points": 6.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 3.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 83.3,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-22T00:00:00.000+00:00",
+        "id": 401909839
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 5061589,
+        "name": "Yves Missi"
+      },
+      "points": 13.0,
+      "rebounds": 14.0,
+      "steals": 2.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 17.0,
+      "field_goal_percentage": 52.9,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-09T02:00:00.000+00:00",
+        "id": 401909950
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 4397688,
+        "name": "Trey Murphy III"
+      },
+      "points": 26.0,
+      "rebounds": 7.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 9.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 42.9,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-07T01:00:00.000+00:00",
+        "id": 401909293
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 4397688,
+        "name": "Trey Murphy III"
+      },
+      "points": 10.0,
+      "rebounds": 4.0,
+      "steals": 2.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 45.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-03T01:00:00.000+00:00",
+        "id": 401909914
+      },
+      "minutes": 40.0,
+      "player": {
+        "id": 4397688,
+        "name": "Trey Murphy III"
+      },
+      "points": 18.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-10-31T23:00:00.000+00:00",
+        "id": 401909898
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 4397688,
+        "name": "Trey Murphy III"
+      },
+      "points": 15.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 8.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-10-30T00:00:00.000+00:00",
+        "id": 401909894
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 4397688,
+        "name": "Trey Murphy III"
+      },
+      "points": 19.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 28.6,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909889
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 4397688,
+        "name": "Trey Murphy III"
+      },
+      "points": 6.0,
+      "rebounds": 1.0,
+      "steals": 2.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 17.0,
+      "field_goal_percentage": 58.8,
+      "field_goals_made": 10.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-25T01:00:00.000+00:00",
+        "id": 401909859
+      },
+      "minutes": 37.0,
+      "player": {
+        "id": 4397688,
+        "name": "Trey Murphy III"
+      },
+      "points": 26.0,
+      "rebounds": 6.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 44.4,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-24T01:30:00.000+00:00",
+        "id": 401909849
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 4397688,
+        "name": "Trey Murphy III"
+      },
+      "points": 9.0,
+      "rebounds": 6.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 36.4,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-22T00:00:00.000+00:00",
+        "id": 401909839
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 4397688,
+        "name": "Trey Murphy III"
+      },
+      "points": 11.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909972
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 3907497,
+        "name": "Dejounte Murray"
+      },
+      "points": 5.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-10T03:00:00.000+00:00",
+        "id": 401909959
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 3907497,
+        "name": "Dejounte Murray"
+      },
+      "points": 12.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 16.7,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-09T02:00:00.000+00:00",
+        "id": 401909950
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 3907497,
+        "name": "Dejounte Murray"
+      },
+      "points": 6.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 27.3,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-07T01:00:00.000+00:00",
+        "id": 401909293
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 3907497,
+        "name": "Dejounte Murray"
+      },
+      "points": 7.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 57.1,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 11.0,
+      "free_throws_made": 11.0,
+      "game": {
+        "date": "2026-11-05T01:00:00.000+00:00",
+        "id": 401909928
+      },
+      "minutes": 45.0,
+      "player": {
+        "id": 3907497,
+        "name": "Dejounte Murray"
+      },
+      "points": 20.0,
+      "rebounds": 8.0,
+      "steals": 4.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 36.4,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909889
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 3907497,
+        "name": "Dejounte Murray"
+      },
+      "points": 10.0,
+      "rebounds": 8.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 18.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-25T01:00:00.000+00:00",
+        "id": 401909859
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 3907497,
+        "name": "Dejounte Murray"
+      },
+      "points": 22.0,
+      "rebounds": 6.0,
+      "steals": 2.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 46.7,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-24T01:30:00.000+00:00",
+        "id": 401909849
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 3907497,
+        "name": "Dejounte Murray"
+      },
+      "points": 16.0,
+      "rebounds": 6.0,
+      "steals": 3.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 7.0,
+      "blocks": 3.0,
+      "field_goal_attempts": 18.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-22T00:00:00.000+00:00",
+        "id": 401909839
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 3907497,
+        "name": "Dejounte Murray"
+      },
+      "points": 23.0,
+      "rebounds": 3.0,
+      "steals": 2.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T01:00:00.000+00:00",
+        "id": 401910013
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 4703115,
+        "name": "Jaron Pierre Jr."
+      },
+      "points": 7.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-17T01:00:00.000+00:00",
+        "id": 401910000
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 4703115,
+        "name": "Jaron Pierre Jr."
+      },
+      "points": 10.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 45.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-15T00:00:00.000+00:00",
+        "id": 401909980
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 4703115,
+        "name": "Jaron Pierre Jr."
+      },
+      "points": 13.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-14T01:00:00.000+00:00",
+        "id": 401909300
+      },
+      "minutes": 4.0,
+      "player": {
+        "id": 4703115,
+        "name": "Jaron Pierre Jr."
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 16.7,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909972
+      },
+      "minutes": 7.0,
+      "player": {
+        "id": 4703115,
+        "name": "Jaron Pierre Jr."
+      },
+      "points": 4.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 45.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 9.0,
+      "free_throws_made": 9.0,
+      "game": {
+        "date": "2026-11-19T01:00:00.000+00:00",
+        "id": 401910013
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 4277956,
+        "name": "Jordan Poole"
+      },
+      "points": 22.0,
+      "rebounds": 1.0,
+      "steals": 2.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 37.5,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-17T01:00:00.000+00:00",
+        "id": 401910000
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 4277956,
+        "name": "Jordan Poole"
+      },
+      "points": 11.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 42.9,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 7.0,
+      "free_throws_made": 7.0,
+      "game": {
+        "date": "2026-11-15T00:00:00.000+00:00",
+        "id": 401909980
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4277956,
+        "name": "Jordan Poole"
+      },
+      "points": 14.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 14.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 10.0,
+      "free_throws_made": 10.0,
+      "game": {
+        "date": "2026-11-14T01:00:00.000+00:00",
+        "id": 401909300
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 4277956,
+        "name": "Jordan Poole"
+      },
+      "points": 13.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 62.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909972
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 4277956,
+        "name": "Jordan Poole"
+      },
+      "points": 14.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 20.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-10T03:00:00.000+00:00",
+        "id": 401909959
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 4277956,
+        "name": "Jordan Poole"
+      },
+      "points": 7.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909889
+      },
+      "minutes": 7.0,
+      "player": {
+        "id": 4277956,
+        "name": "Jordan Poole"
+      },
+      "points": 2.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 7.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-25T01:00:00.000+00:00",
+        "id": 401909859
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 4277956,
+        "name": "Jordan Poole"
+      },
+      "points": 6.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 12.5,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 10.0,
+      "free_throws_made": 9.0,
+      "game": {
+        "date": "2026-10-24T01:30:00.000+00:00",
+        "id": 401909849
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 4277956,
+        "name": "Jordan Poole"
+      },
+      "points": 12.0,
+      "rebounds": 2.0,
+      "steals": 3.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-10-22T00:00:00.000+00:00",
+        "id": 401909839
+      },
+      "minutes": 15.0,
+      "player": {
+        "id": 4277956,
+        "name": "Jordan Poole"
+      },
+      "points": 4.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-19T01:00:00.000+00:00",
+        "id": 401910013
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 4869780,
+        "name": "Derik Queen"
+      },
+      "points": 9.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-17T01:00:00.000+00:00",
+        "id": 401910000
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 4869780,
+        "name": "Derik Queen"
+      },
+      "points": 17.0,
+      "rebounds": 10.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-15T00:00:00.000+00:00",
+        "id": 401909980
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 4869780,
+        "name": "Derik Queen"
+      },
+      "points": 10.0,
+      "rebounds": 5.0,
+      "steals": 2.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-14T01:00:00.000+00:00",
+        "id": 401909300
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 4869780,
+        "name": "Derik Queen"
+      },
+      "points": 10.0,
+      "rebounds": 6.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 5.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909972
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 4869780,
+        "name": "Derik Queen"
+      },
+      "points": 9.0,
+      "rebounds": 0.0,
+      "steals": 2.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 3.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 10.0,
+      "free_throws_made": 8.0,
+      "game": {
+        "date": "2026-11-10T03:00:00.000+00:00",
+        "id": 401909959
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 4869780,
+        "name": "Derik Queen"
+      },
+      "points": 16.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 20.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-11-09T02:00:00.000+00:00",
+        "id": 401909950
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 4869780,
+        "name": "Derik Queen"
+      },
+      "points": 8.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-07T01:00:00.000+00:00",
+        "id": 401909293
+      },
+      "minutes": 10.0,
+      "player": {
+        "id": 4869780,
+        "name": "Derik Queen"
+      },
+      "points": 6.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 21.0,
+      "field_goal_percentage": 38.1,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-05T01:00:00.000+00:00",
+        "id": 401909928
+      },
+      "minutes": 27.0,
+      "player": {
+        "id": 4869780,
+        "name": "Derik Queen"
+      },
+      "points": 20.0,
+      "rebounds": 9.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 53.8,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-03T01:00:00.000+00:00",
+        "id": 401909914
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4869780,
+        "name": "Derik Queen"
+      },
+      "points": 20.0,
+      "rebounds": 7.0,
+      "steals": 2.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-31T23:00:00.000+00:00",
+        "id": 401909898
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 4869780,
+        "name": "Derik Queen"
+      },
+      "points": 8.0,
+      "rebounds": 8.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 57.1,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-30T00:00:00.000+00:00",
+        "id": 401909894
+      },
+      "minutes": 22.0,
+      "player": {
+        "id": 4869780,
+        "name": "Derik Queen"
+      },
+      "points": 9.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 7.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909889
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 4869780,
+        "name": "Derik Queen"
+      },
+      "points": 11.0,
+      "rebounds": 12.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 5.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 60.0,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-10-25T01:00:00.000+00:00",
+        "id": 401909859
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 4869780,
+        "name": "Derik Queen"
+      },
+      "points": 17.0,
+      "rebounds": 8.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 44.4,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-24T01:30:00.000+00:00",
+        "id": 401909849
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 4869780,
+        "name": "Derik Queen"
+      },
+      "points": 12.0,
+      "rebounds": 7.0,
+      "steals": 2.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-10-22T00:00:00.000+00:00",
+        "id": 401909839
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 4869780,
+        "name": "Derik Queen"
+      },
+      "points": 10.0,
+      "rebounds": 10.0,
+      "steals": 2.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-17T01:00:00.000+00:00",
+        "id": 401910000
+      },
+      "minutes": 5.0,
+      "player": {
+        "id": 4683742,
+        "name": "Julian Reese"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-14T01:00:00.000+00:00",
+        "id": 401909300
+      },
+      "minutes": 4.0,
+      "player": {
+        "id": 4683742,
+        "name": "Julian Reese"
+      },
+      "points": 0.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909972
+      },
+      "minutes": 7.0,
+      "player": {
+        "id": 4683742,
+        "name": "Julian Reese"
+      },
+      "points": 2.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-10T03:00:00.000+00:00",
+        "id": 401909959
+      },
+      "minutes": 9.0,
+      "player": {
+        "id": 4683742,
+        "name": "Julian Reese"
+      },
+      "points": 2.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-09T02:00:00.000+00:00",
+        "id": 401909950
+      },
+      "minutes": 3.0,
+      "player": {
+        "id": 4683742,
+        "name": "Julian Reese"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-31T23:00:00.000+00:00",
+        "id": 401909898
+      },
+      "minutes": 3.0,
+      "player": {
+        "id": 4683742,
+        "name": "Julian Reese"
+      },
+      "points": 2.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-09T02:00:00.000+00:00",
+        "id": 401909950
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 4431675,
+        "name": "Trendon Watford"
+      },
+      "points": 5.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 57.1,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-07T01:00:00.000+00:00",
+        "id": 401909293
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 4431675,
+        "name": "Trendon Watford"
+      },
+      "points": 12.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-05T01:00:00.000+00:00",
+        "id": 401909928
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 4431675,
+        "name": "Trendon Watford"
+      },
+      "points": 7.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-03T01:00:00.000+00:00",
+        "id": 401909914
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 4431675,
+        "name": "Trendon Watford"
+      },
+      "points": 4.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-31T23:00:00.000+00:00",
+        "id": 401909898
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 4431675,
+        "name": "Trendon Watford"
+      },
+      "points": 7.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-10-30T00:00:00.000+00:00",
+        "id": 401909894
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 4431675,
+        "name": "Trendon Watford"
+      },
+      "points": 8.0,
+      "rebounds": 1.0,
+      "steals": 3.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 14.0,
+      "field_goal_percentage": 64.3,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 9.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-11-19T01:00:00.000+00:00",
+        "id": 401910013
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 4395628,
+        "name": "Zion Williamson"
+      },
+      "points": 24.0,
+      "rebounds": 7.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 46.2,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-17T01:00:00.000+00:00",
+        "id": 401910000
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 4395628,
+        "name": "Zion Williamson"
+      },
+      "points": 16.0,
+      "rebounds": 6.0,
+      "steals": 2.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 16.0,
+      "field_goal_percentage": 56.3,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 8.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-15T00:00:00.000+00:00",
+        "id": 401909980
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 4395628,
+        "name": "Zion Williamson"
+      },
+      "points": 24.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 46.7,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 8.0,
+      "free_throws_made": 8.0,
+      "game": {
+        "date": "2026-11-14T01:00:00.000+00:00",
+        "id": 401909300
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 4395628,
+        "name": "Zion Williamson"
+      },
+      "points": 22.0,
+      "rebounds": 5.0,
+      "steals": 3.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 14.0,
+      "field_goal_percentage": 57.1,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 14.0,
+      "free_throws_made": 12.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909972
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 4395628,
+        "name": "Zion Williamson"
+      },
+      "points": 29.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 9.0,
+      "free_throws_made": 7.0,
+      "game": {
+        "date": "2026-11-09T02:00:00.000+00:00",
+        "id": 401909950
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 4395628,
+        "name": "Zion Williamson"
+      },
+      "points": 25.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-07T01:00:00.000+00:00",
+        "id": 401909293
+      },
+      "minutes": 36.0,
+      "player": {
+        "id": 4395628,
+        "name": "Zion Williamson"
+      },
+      "points": 13.0,
+      "rebounds": 8.0,
+      "steals": 2.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 14.0,
+      "field_goal_percentage": 42.9,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 13.0,
+      "free_throws_made": 11.0,
+      "game": {
+        "date": "2026-11-05T01:00:00.000+00:00",
+        "id": 401909928
+      },
+      "minutes": 38.0,
+      "player": {
+        "id": 4395628,
+        "name": "Zion Williamson"
+      },
+      "points": 23.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 60.0,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 9.0,
+      "free_throws_made": 7.0,
+      "game": {
+        "date": "2026-11-03T01:00:00.000+00:00",
+        "id": 401909914
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 4395628,
+        "name": "Zion Williamson"
+      },
+      "points": 25.0,
+      "rebounds": 11.0,
+      "steals": 0.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 62.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 8.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-10-31T23:00:00.000+00:00",
+        "id": 401909898
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 4395628,
+        "name": "Zion Williamson"
+      },
+      "points": 15.0,
+      "rebounds": 6.0,
+      "steals": 3.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 83.3,
+      "field_goals_made": 10.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-30T00:00:00.000+00:00",
+        "id": 401909894
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 4395628,
+        "name": "Zion Williamson"
+      },
+      "points": 22.0,
+      "rebounds": 6.0,
+      "steals": 5.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 14.0,
+      "field_goal_percentage": 71.4,
+      "field_goals_made": 10.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909889
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 4395628,
+        "name": "Zion Williamson"
+      },
+      "points": 25.0,
+      "rebounds": 5.0,
+      "steals": 3.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 63.6,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-25T01:00:00.000+00:00",
+        "id": 401909859
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 4395628,
+        "name": "Zion Williamson"
+      },
+      "points": 17.0,
+      "rebounds": 1.0,
+      "steals": 2.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 8.0,
+      "free_throws_made": 7.0,
+      "game": {
+        "date": "2026-10-24T01:30:00.000+00:00",
+        "id": 401909849
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 4395628,
+        "name": "Zion Williamson"
+      },
+      "points": 23.0,
+      "rebounds": 5.0,
+      "steals": 3.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 16.0,
+      "field_goal_percentage": 43.8,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-10-22T00:00:00.000+00:00",
+        "id": 401909839
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 4395628,
+        "name": "Zion Williamson"
+      },
+      "points": 22.0,
+      "rebounds": 3.0,
+      "steals": 3.0,
+      "team": {
+        "id": 3,
+        "name": "New Orleans Pelicans"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 3.0
+    }
+  ],
+  "results": 176
+}

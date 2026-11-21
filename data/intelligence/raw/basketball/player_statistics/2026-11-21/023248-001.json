@@ -1,0 +1,4772 @@
+{
+  "errors": [],
+  "get": "players/statistics",
+  "parameters": {
+    "season": "2026-2027",
+    "source": "espn-fallback",
+    "team": "Chicago Bulls"
+  },
+  "response": [
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909912
+      },
+      "minutes": 2.0,
+      "player": {
+        "id": 5105555,
+        "name": "Tobe Awaka"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-30T23:30:00.000+00:00",
+        "id": 401909278
+      },
+      "minutes": 12.0,
+      "player": {
+        "id": 5105555,
+        "name": "Tobe Awaka"
+      },
+      "points": 2.0,
+      "rebounds": 7.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-26T23:30:00.000+00:00",
+        "id": 401909870
+      },
+      "minutes": 12.0,
+      "player": {
+        "id": 5105555,
+        "name": "Tobe Awaka"
+      },
+      "points": 4.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-21T23:30:00.000+00:00",
+        "id": 401909837
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 5105555,
+        "name": "Tobe Awaka"
+      },
+      "points": 2.0,
+      "rebounds": 7.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 16.0,
+      "field_goal_percentage": 56.3,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-19T00:30:00.000+00:00",
+        "id": 401910011
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 4711294,
+        "name": "Matas Buzelis"
+      },
+      "points": 25.0,
+      "rebounds": 5.0,
+      "steals": 2.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 9.0,
+      "three_pointers_made": 5.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 14.0,
+      "field_goal_percentage": 57.1,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-17T00:00:00.000+00:00",
+        "id": 401909995
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 4711294,
+        "name": "Matas Buzelis"
+      },
+      "points": 23.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 55.6,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-11-15T01:00:00.000+00:00",
+        "id": 401909984
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 4711294,
+        "name": "Matas Buzelis"
+      },
+      "points": 18.0,
+      "rebounds": 9.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 3.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 37.5,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-14T01:00:00.000+00:00",
+        "id": 401909299
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 4711294,
+        "name": "Matas Buzelis"
+      },
+      "points": 11.0,
+      "rebounds": 6.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 41.7,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909969
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 4711294,
+        "name": "Matas Buzelis"
+      },
+      "points": 13.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 6.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 60.0,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-08T20:30:00.000+00:00",
+        "id": 401909945
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 4711294,
+        "name": "Matas Buzelis"
+      },
+      "points": 19.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 45.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909926
+      },
+      "minutes": 26.0,
+      "player": {
+        "id": 4711294,
+        "name": "Matas Buzelis"
+      },
+      "points": 12.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909912
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 4711294,
+        "name": "Matas Buzelis"
+      },
+      "points": 4.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 5.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 45.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-30T23:30:00.000+00:00",
+        "id": 401909278
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 4711294,
+        "name": "Matas Buzelis"
+      },
+      "points": 14.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 38.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909886
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 4711294,
+        "name": "Matas Buzelis"
+      },
+      "points": 17.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-26T23:30:00.000+00:00",
+        "id": 401909870
+      },
+      "minutes": 22.0,
+      "player": {
+        "id": 4711294,
+        "name": "Matas Buzelis"
+      },
+      "points": 11.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 53.8,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-10-25T00:00:00.000+00:00",
+        "id": 401909857
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 4711294,
+        "name": "Matas Buzelis"
+      },
+      "points": 21.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 22.2,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-23T20:00:00.000+00:00",
+        "id": 401909848
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 4711294,
+        "name": "Matas Buzelis"
+      },
+      "points": 7.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 16.0,
+      "free_throws_made": 13.0,
+      "game": {
+        "date": "2026-10-21T23:30:00.000+00:00",
+        "id": 401909837
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 4711294,
+        "name": "Matas Buzelis"
+      },
+      "points": 17.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 85.7,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-19T00:30:00.000+00:00",
+        "id": 401910011
+      },
+      "minutes": 22.0,
+      "player": {
+        "id": 4278067,
+        "name": "Nic Claxton"
+      },
+      "points": 14.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-17T00:00:00.000+00:00",
+        "id": 401909995
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 4278067,
+        "name": "Nic Claxton"
+      },
+      "points": 8.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-14T01:00:00.000+00:00",
+        "id": 401909299
+      },
+      "minutes": 22.0,
+      "player": {
+        "id": 4278067,
+        "name": "Nic Claxton"
+      },
+      "points": 2.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 83.3,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 9.0,
+      "free_throws_made": 7.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909969
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 4278067,
+        "name": "Nic Claxton"
+      },
+      "points": 17.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-08T20:30:00.000+00:00",
+        "id": 401909945
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 4278067,
+        "name": "Nic Claxton"
+      },
+      "points": 4.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T00:30:00.000+00:00",
+        "id": 401910011
+      },
+      "minutes": 11.0,
+      "player": {
+        "id": 4066650,
+        "name": "Zach Collins"
+      },
+      "points": 3.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 36.4,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-15T01:00:00.000+00:00",
+        "id": 401909984
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 4066650,
+        "name": "Zach Collins"
+      },
+      "points": 8.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909969
+      },
+      "minutes": 3.0,
+      "player": {
+        "id": 4066650,
+        "name": "Zach Collins"
+      },
+      "points": 2.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909926
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 4066650,
+        "name": "Zach Collins"
+      },
+      "points": 3.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909912
+      },
+      "minutes": 10.0,
+      "player": {
+        "id": 4066650,
+        "name": "Zach Collins"
+      },
+      "points": 2.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-30T23:30:00.000+00:00",
+        "id": 401909278
+      },
+      "minutes": 2.0,
+      "player": {
+        "id": 4066650,
+        "name": "Zach Collins"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 20.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-26T23:30:00.000+00:00",
+        "id": 401909870
+      },
+      "minutes": 6.0,
+      "player": {
+        "id": 4066650,
+        "name": "Zach Collins"
+      },
+      "points": 2.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-25T00:00:00.000+00:00",
+        "id": 401909857
+      },
+      "minutes": 11.0,
+      "player": {
+        "id": 4066650,
+        "name": "Zach Collins"
+      },
+      "points": 2.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-21T23:30:00.000+00:00",
+        "id": 401909837
+      },
+      "minutes": 9.0,
+      "player": {
+        "id": 4066650,
+        "name": "Zach Collins"
+      },
+      "points": 0.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-19T00:30:00.000+00:00",
+        "id": 401910011
+      },
+      "minutes": 15.0,
+      "player": {
+        "id": 5242496,
+        "name": "Noa Essengue"
+      },
+      "points": 5.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-17T00:00:00.000+00:00",
+        "id": 401909995
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 5242496,
+        "name": "Noa Essengue"
+      },
+      "points": 1.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-15T01:00:00.000+00:00",
+        "id": 401909984
+      },
+      "minutes": 7.0,
+      "player": {
+        "id": 5242496,
+        "name": "Noa Essengue"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-14T01:00:00.000+00:00",
+        "id": 401909299
+      },
+      "minutes": 8.0,
+      "player": {
+        "id": 5242496,
+        "name": "Noa Essengue"
+      },
+      "points": 5.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 60.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909969
+      },
+      "minutes": 11.0,
+      "player": {
+        "id": 5242496,
+        "name": "Noa Essengue"
+      },
+      "points": 8.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 42.9,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-08T20:30:00.000+00:00",
+        "id": 401909945
+      },
+      "minutes": 15.0,
+      "player": {
+        "id": 5242496,
+        "name": "Noa Essengue"
+      },
+      "points": 10.0,
+      "rebounds": 7.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909926
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 5242496,
+        "name": "Noa Essengue"
+      },
+      "points": 6.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 42.9,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909912
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 5242496,
+        "name": "Noa Essengue"
+      },
+      "points": 8.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 42.9,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-30T23:30:00.000+00:00",
+        "id": 401909278
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 5242496,
+        "name": "Noa Essengue"
+      },
+      "points": 10.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909886
+      },
+      "minutes": 10.0,
+      "player": {
+        "id": 5242496,
+        "name": "Noa Essengue"
+      },
+      "points": 3.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-26T23:30:00.000+00:00",
+        "id": 401909870
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 5242496,
+        "name": "Noa Essengue"
+      },
+      "points": 0.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-23T20:00:00.000+00:00",
+        "id": 401909848
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 5242496,
+        "name": "Noa Essengue"
+      },
+      "points": 4.0,
+      "rebounds": 1.0,
+      "steals": 3.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-21T23:30:00.000+00:00",
+        "id": 401909837
+      },
+      "minutes": 10.0,
+      "player": {
+        "id": 5242496,
+        "name": "Noa Essengue"
+      },
+      "points": 1.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 9.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-19T00:30:00.000+00:00",
+        "id": 401910011
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 4871145,
+        "name": "Josh Giddey"
+      },
+      "points": 18.0,
+      "rebounds": 14.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 8.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 20.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-17T00:00:00.000+00:00",
+        "id": 401909995
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4871145,
+        "name": "Josh Giddey"
+      },
+      "points": 4.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 6.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 30.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-15T01:00:00.000+00:00",
+        "id": 401909984
+      },
+      "minutes": 26.0,
+      "player": {
+        "id": 4871145,
+        "name": "Josh Giddey"
+      },
+      "points": 8.0,
+      "rebounds": 8.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 14.0,
+      "blocks": 3.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-14T01:00:00.000+00:00",
+        "id": 401909299
+      },
+      "minutes": 39.0,
+      "player": {
+        "id": 4871145,
+        "name": "Josh Giddey"
+      },
+      "points": 15.0,
+      "rebounds": 10.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 7.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 44.4,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909969
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 4871145,
+        "name": "Josh Giddey"
+      },
+      "points": 9.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 7.0
+    },
+    {
+      "assists": 15.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 58.3,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-08T20:30:00.000+00:00",
+        "id": 401909945
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 4871145,
+        "name": "Josh Giddey"
+      },
+      "points": 19.0,
+      "rebounds": 7.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 5.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 57.1,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909926
+      },
+      "minutes": 27.0,
+      "player": {
+        "id": 4871145,
+        "name": "Josh Giddey"
+      },
+      "points": 10.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 10.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909912
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 4871145,
+        "name": "Josh Giddey"
+      },
+      "points": 13.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-30T23:30:00.000+00:00",
+        "id": 401909278
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 4871145,
+        "name": "Josh Giddey"
+      },
+      "points": 13.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 11.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 44.4,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909886
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 4871145,
+        "name": "Josh Giddey"
+      },
+      "points": 10.0,
+      "rebounds": 8.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 57.1,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-26T23:30:00.000+00:00",
+        "id": 401909870
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4871145,
+        "name": "Josh Giddey"
+      },
+      "points": 11.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 10.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 42.9,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-25T00:00:00.000+00:00",
+        "id": 401909857
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 4871145,
+        "name": "Josh Giddey"
+      },
+      "points": 9.0,
+      "rebounds": 8.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 9.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-23T20:00:00.000+00:00",
+        "id": 401909848
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 4871145,
+        "name": "Josh Giddey"
+      },
+      "points": 6.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 10.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-21T23:30:00.000+00:00",
+        "id": 401909837
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4871145,
+        "name": "Josh Giddey"
+      },
+      "points": 2.0,
+      "rebounds": 7.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 5.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-17T00:00:00.000+00:00",
+        "id": 401909995
+      },
+      "minutes": 4.0,
+      "player": {
+        "id": 4683750,
+        "name": "Jordan Hawkins"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 37.5,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909969
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4683750,
+        "name": "Jordan Hawkins"
+      },
+      "points": 7.0,
+      "rebounds": 4.0,
+      "steals": 2.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 57.1,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-08T20:30:00.000+00:00",
+        "id": 401909945
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 4683750,
+        "name": "Jordan Hawkins"
+      },
+      "points": 9.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909926
+      },
+      "minutes": 7.0,
+      "player": {
+        "id": 4683750,
+        "name": "Jordan Hawkins"
+      },
+      "points": 2.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909912
+      },
+      "minutes": 2.0,
+      "player": {
+        "id": 4683750,
+        "name": "Jordan Hawkins"
+      },
+      "points": 2.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-30T23:30:00.000+00:00",
+        "id": 401909278
+      },
+      "minutes": 6.0,
+      "player": {
+        "id": 4683750,
+        "name": "Jordan Hawkins"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-26T23:30:00.000+00:00",
+        "id": 401909870
+      },
+      "minutes": 7.0,
+      "player": {
+        "id": 4683750,
+        "name": "Jordan Hawkins"
+      },
+      "points": 4.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T00:30:00.000+00:00",
+        "id": 401910011
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 2990984,
+        "name": "Buddy Hield"
+      },
+      "points": 11.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-17T00:00:00.000+00:00",
+        "id": 401909995
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 2990984,
+        "name": "Buddy Hield"
+      },
+      "points": 6.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 60.0,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-15T01:00:00.000+00:00",
+        "id": 401909984
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 2990984,
+        "name": "Buddy Hield"
+      },
+      "points": 16.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-14T01:00:00.000+00:00",
+        "id": 401909299
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 2990984,
+        "name": "Buddy Hield"
+      },
+      "points": 12.0,
+      "rebounds": 3.0,
+      "steals": 2.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 60.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909926
+      },
+      "minutes": 8.0,
+      "player": {
+        "id": 2990984,
+        "name": "Buddy Hield"
+      },
+      "points": 7.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909912
+      },
+      "minutes": 12.0,
+      "player": {
+        "id": 2990984,
+        "name": "Buddy Hield"
+      },
+      "points": 6.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-30T23:30:00.000+00:00",
+        "id": 401909278
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 2990984,
+        "name": "Buddy Hield"
+      },
+      "points": 5.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909886
+      },
+      "minutes": 9.0,
+      "player": {
+        "id": 2990984,
+        "name": "Buddy Hield"
+      },
+      "points": 2.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-26T23:30:00.000+00:00",
+        "id": 401909870
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 2990984,
+        "name": "Buddy Hield"
+      },
+      "points": 3.0,
+      "rebounds": 0.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 57.1,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-25T00:00:00.000+00:00",
+        "id": 401909857
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 2990984,
+        "name": "Buddy Hield"
+      },
+      "points": 9.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 83.3,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-23T20:00:00.000+00:00",
+        "id": 401909848
+      },
+      "minutes": 15.0,
+      "player": {
+        "id": 2990984,
+        "name": "Buddy Hield"
+      },
+      "points": 13.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-21T23:30:00.000+00:00",
+        "id": 401909837
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 2990984,
+        "name": "Buddy Hield"
+      },
+      "points": 0.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 83.3,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T00:30:00.000+00:00",
+        "id": 401910011
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 4395626,
+        "name": "Tre Jones"
+      },
+      "points": 10.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 54.5,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-17T00:00:00.000+00:00",
+        "id": 401909995
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 4395626,
+        "name": "Tre Jones"
+      },
+      "points": 16.0,
+      "rebounds": 2.0,
+      "steals": 4.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 77.8,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-15T01:00:00.000+00:00",
+        "id": 401909984
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4395626,
+        "name": "Tre Jones"
+      },
+      "points": 16.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 28.6,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-14T01:00:00.000+00:00",
+        "id": 401909299
+      },
+      "minutes": 15.0,
+      "player": {
+        "id": 4395626,
+        "name": "Tre Jones"
+      },
+      "points": 4.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 45.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909969
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 4395626,
+        "name": "Tre Jones"
+      },
+      "points": 13.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 37.5,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-08T20:30:00.000+00:00",
+        "id": 401909945
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 4395626,
+        "name": "Tre Jones"
+      },
+      "points": 6.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 62.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909926
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 4395626,
+        "name": "Tre Jones"
+      },
+      "points": 14.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 75.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909912
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 4395626,
+        "name": "Tre Jones"
+      },
+      "points": 8.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-10-30T23:30:00.000+00:00",
+        "id": 401909278
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 4395626,
+        "name": "Tre Jones"
+      },
+      "points": 12.0,
+      "rebounds": 4.0,
+      "steals": 4.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909886
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 4395626,
+        "name": "Tre Jones"
+      },
+      "points": 11.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 8.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-10-26T23:30:00.000+00:00",
+        "id": 401909870
+      },
+      "minutes": 15.0,
+      "player": {
+        "id": 4395626,
+        "name": "Tre Jones"
+      },
+      "points": 8.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 42.9,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-25T00:00:00.000+00:00",
+        "id": 401909857
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 4395626,
+        "name": "Tre Jones"
+      },
+      "points": 10.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 8.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 37.5,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-10-23T20:00:00.000+00:00",
+        "id": 401909848
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4395626,
+        "name": "Tre Jones"
+      },
+      "points": 11.0,
+      "rebounds": 3.0,
+      "steals": 2.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 62.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-21T23:30:00.000+00:00",
+        "id": 401909837
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 4395626,
+        "name": "Tre Jones"
+      },
+      "points": 13.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T00:30:00.000+00:00",
+        "id": 401910011
+      },
+      "minutes": 7.0,
+      "player": {
+        "id": 5044385,
+        "name": "Leonard Miller"
+      },
+      "points": 4.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-17T00:00:00.000+00:00",
+        "id": 401909995
+      },
+      "minutes": 1.0,
+      "player": {
+        "id": 5044385,
+        "name": "Leonard Miller"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-15T01:00:00.000+00:00",
+        "id": 401909984
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 5044385,
+        "name": "Leonard Miller"
+      },
+      "points": 4.0,
+      "rebounds": 3.0,
+      "steals": 3.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909969
+      },
+      "minutes": 2.0,
+      "player": {
+        "id": 5044385,
+        "name": "Leonard Miller"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909926
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 5044385,
+        "name": "Leonard Miller"
+      },
+      "points": 4.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909912
+      },
+      "minutes": 9.0,
+      "player": {
+        "id": 5044385,
+        "name": "Leonard Miller"
+      },
+      "points": 2.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 20.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-30T23:30:00.000+00:00",
+        "id": 401909278
+      },
+      "minutes": 11.0,
+      "player": {
+        "id": 5044385,
+        "name": "Leonard Miller"
+      },
+      "points": 2.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909886
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 5044385,
+        "name": "Leonard Miller"
+      },
+      "points": 10.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 57.1,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-26T23:30:00.000+00:00",
+        "id": 401909870
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 5044385,
+        "name": "Leonard Miller"
+      },
+      "points": 9.0,
+      "rebounds": 9.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 37.5,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-25T00:00:00.000+00:00",
+        "id": 401909857
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 5044385,
+        "name": "Leonard Miller"
+      },
+      "points": 7.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 63.6,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-23T20:00:00.000+00:00",
+        "id": 401909848
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 5044385,
+        "name": "Leonard Miller"
+      },
+      "points": 19.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 22.2,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-21T23:30:00.000+00:00",
+        "id": 401909837
+      },
+      "minutes": 26.0,
+      "player": {
+        "id": 5044385,
+        "name": "Leonard Miller"
+      },
+      "points": 4.0,
+      "rebounds": 6.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 5.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 57.1,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T00:30:00.000+00:00",
+        "id": 401910011
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 4432822,
+        "name": "Isaac Okoro"
+      },
+      "points": 12.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 41.7,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-17T00:00:00.000+00:00",
+        "id": 401909995
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 4432822,
+        "name": "Isaac Okoro"
+      },
+      "points": 13.0,
+      "rebounds": 6.0,
+      "steals": 4.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-15T01:00:00.000+00:00",
+        "id": 401909984
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 4432822,
+        "name": "Isaac Okoro"
+      },
+      "points": 9.0,
+      "rebounds": 7.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-14T01:00:00.000+00:00",
+        "id": 401909299
+      },
+      "minutes": 41.0,
+      "player": {
+        "id": 4432822,
+        "name": "Isaac Okoro"
+      },
+      "points": 15.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909969
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 4432822,
+        "name": "Isaac Okoro"
+      },
+      "points": 0.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 80.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-08T20:30:00.000+00:00",
+        "id": 401909945
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 4432822,
+        "name": "Isaac Okoro"
+      },
+      "points": 12.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909926
+      },
+      "minutes": 15.0,
+      "player": {
+        "id": 4432822,
+        "name": "Isaac Okoro"
+      },
+      "points": 6.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909912
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 4432822,
+        "name": "Isaac Okoro"
+      },
+      "points": 4.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-30T23:30:00.000+00:00",
+        "id": 401909278
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 4432822,
+        "name": "Isaac Okoro"
+      },
+      "points": 6.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909886
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 4432822,
+        "name": "Isaac Okoro"
+      },
+      "points": 7.0,
+      "rebounds": 0.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-26T23:30:00.000+00:00",
+        "id": 401909870
+      },
+      "minutes": 11.0,
+      "player": {
+        "id": 4432822,
+        "name": "Isaac Okoro"
+      },
+      "points": 1.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-25T00:00:00.000+00:00",
+        "id": 401909857
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 4432822,
+        "name": "Isaac Okoro"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 57.1,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-23T20:00:00.000+00:00",
+        "id": 401909848
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 4432822,
+        "name": "Isaac Okoro"
+      },
+      "points": 12.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-10-21T23:30:00.000+00:00",
+        "id": 401909837
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 4432822,
+        "name": "Isaac Okoro"
+      },
+      "points": 4.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 16.0,
+      "field_goal_percentage": 37.5,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T00:30:00.000+00:00",
+        "id": 401910011
+      },
+      "minutes": 26.0,
+      "player": {
+        "id": 2595516,
+        "name": "Norman Powell"
+      },
+      "points": 17.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 9.0,
+      "three_pointers_made": 5.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 18.0,
+      "field_goal_percentage": 55.6,
+      "field_goals_made": 10.0,
+      "free_throw_attempts": 11.0,
+      "free_throws_made": 7.0,
+      "game": {
+        "date": "2026-11-17T00:00:00.000+00:00",
+        "id": 401909995
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 2595516,
+        "name": "Norman Powell"
+      },
+      "points": 27.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 19.0,
+      "field_goal_percentage": 52.6,
+      "field_goals_made": 10.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-15T01:00:00.000+00:00",
+        "id": 401909984
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 2595516,
+        "name": "Norman Powell"
+      },
+      "points": 24.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 19.0,
+      "field_goal_percentage": 63.2,
+      "field_goals_made": 12.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-14T01:00:00.000+00:00",
+        "id": 401909299
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 2595516,
+        "name": "Norman Powell"
+      },
+      "points": 33.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 7.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909926
+      },
+      "minutes": 22.0,
+      "player": {
+        "id": 2595516,
+        "name": "Norman Powell"
+      },
+      "points": 12.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 38.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 11.0,
+      "free_throws_made": 7.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909912
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 2595516,
+        "name": "Norman Powell"
+      },
+      "points": 18.0,
+      "rebounds": 3.0,
+      "steals": 2.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 36.4,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 8.0,
+      "free_throws_made": 7.0,
+      "game": {
+        "date": "2026-10-30T23:30:00.000+00:00",
+        "id": 401909278
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 2595516,
+        "name": "Norman Powell"
+      },
+      "points": 16.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 10.0,
+      "free_throw_attempts": 9.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909886
+      },
+      "minutes": 37.0,
+      "player": {
+        "id": 2595516,
+        "name": "Norman Powell"
+      },
+      "points": 30.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 9.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 45.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 7.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-10-26T23:30:00.000+00:00",
+        "id": 401909870
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 2595516,
+        "name": "Norman Powell"
+      },
+      "points": 20.0,
+      "rebounds": 1.0,
+      "steals": 4.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 7.0,
+      "free_throws_made": 7.0,
+      "game": {
+        "date": "2026-10-25T00:00:00.000+00:00",
+        "id": 401909857
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 2595516,
+        "name": "Norman Powell"
+      },
+      "points": 18.0,
+      "rebounds": 2.0,
+      "steals": 4.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 20.0,
+      "field_goal_percentage": 35.0,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 9.0,
+      "free_throws_made": 9.0,
+      "game": {
+        "date": "2026-10-23T20:00:00.000+00:00",
+        "id": 401909848
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 2595516,
+        "name": "Norman Powell"
+      },
+      "points": 25.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 12.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 11.0,
+      "free_throws_made": 7.0,
+      "game": {
+        "date": "2026-10-21T23:30:00.000+00:00",
+        "id": 401909837
+      },
+      "minutes": 22.0,
+      "player": {
+        "id": 2595516,
+        "name": "Norman Powell"
+      },
+      "points": 15.0,
+      "rebounds": 5.0,
+      "steals": 2.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909969
+      },
+      "minutes": 2.0,
+      "player": {
+        "id": 4898010,
+        "name": "Jaylin Sellers"
+      },
+      "points": 3.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909926
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 4898010,
+        "name": "Jaylin Sellers"
+      },
+      "points": 14.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909912
+      },
+      "minutes": 2.0,
+      "player": {
+        "id": 4898010,
+        "name": "Jaylin Sellers"
+      },
+      "points": 3.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-30T23:30:00.000+00:00",
+        "id": 401909278
+      },
+      "minutes": 3.0,
+      "player": {
+        "id": 4898010,
+        "name": "Jaylin Sellers"
+      },
+      "points": 3.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-26T23:30:00.000+00:00",
+        "id": 401909870
+      },
+      "minutes": 12.0,
+      "player": {
+        "id": 4898010,
+        "name": "Jaylin Sellers"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-21T23:30:00.000+00:00",
+        "id": 401909837
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 4898010,
+        "name": "Jaylin Sellers"
+      },
+      "points": 3.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 54.5,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T00:30:00.000+00:00",
+        "id": 401910011
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 4397189,
+        "name": "Jalen Smith"
+      },
+      "points": 14.0,
+      "rebounds": 6.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-17T00:00:00.000+00:00",
+        "id": 401909995
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 4397189,
+        "name": "Jalen Smith"
+      },
+      "points": 17.0,
+      "rebounds": 11.0,
+      "steals": 2.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-14T01:00:00.000+00:00",
+        "id": 401909299
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 4397189,
+        "name": "Jalen Smith"
+      },
+      "points": 15.0,
+      "rebounds": 12.0,
+      "steals": 3.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 88.9,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909969
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 4397189,
+        "name": "Jalen Smith"
+      },
+      "points": 23.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 5.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 4.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 63.6,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-08T20:30:00.000+00:00",
+        "id": 401909945
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 4397189,
+        "name": "Jalen Smith"
+      },
+      "points": 17.0,
+      "rebounds": 8.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909926
+      },
+      "minutes": 7.0,
+      "player": {
+        "id": 4397189,
+        "name": "Jalen Smith"
+      },
+      "points": 3.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 60.0,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909912
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 4397189,
+        "name": "Jalen Smith"
+      },
+      "points": 13.0,
+      "rebounds": 7.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-30T23:30:00.000+00:00",
+        "id": 401909278
+      },
+      "minutes": 27.0,
+      "player": {
+        "id": 4397189,
+        "name": "Jalen Smith"
+      },
+      "points": 5.0,
+      "rebounds": 12.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 3.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 58.3,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909886
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 4397189,
+        "name": "Jalen Smith"
+      },
+      "points": 17.0,
+      "rebounds": 11.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-26T23:30:00.000+00:00",
+        "id": 401909870
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 4397189,
+        "name": "Jalen Smith"
+      },
+      "points": 7.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 45.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-25T00:00:00.000+00:00",
+        "id": 401909857
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4397189,
+        "name": "Jalen Smith"
+      },
+      "points": 14.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 60.0,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-23T20:00:00.000+00:00",
+        "id": 401909848
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4397189,
+        "name": "Jalen Smith"
+      },
+      "points": 14.0,
+      "rebounds": 13.0,
+      "steals": 3.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-10-21T23:30:00.000+00:00",
+        "id": 401909837
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 4397189,
+        "name": "Jalen Smith"
+      },
+      "points": 15.0,
+      "rebounds": 8.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-19T00:30:00.000+00:00",
+        "id": 401910011
+      },
+      "minutes": 6.0,
+      "player": {
+        "id": 4848625,
+        "name": "Dailyn Swain"
+      },
+      "points": 2.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-17T00:00:00.000+00:00",
+        "id": 401909995
+      },
+      "minutes": 2.0,
+      "player": {
+        "id": 4848625,
+        "name": "Dailyn Swain"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909926
+      },
+      "minutes": 7.0,
+      "player": {
+        "id": 4848625,
+        "name": "Dailyn Swain"
+      },
+      "points": 3.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-26T23:30:00.000+00:00",
+        "id": 401909870
+      },
+      "minutes": 12.0,
+      "player": {
+        "id": 4848625,
+        "name": "Dailyn Swain"
+      },
+      "points": 2.0,
+      "rebounds": 2.0,
+      "steals": 2.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-19T00:30:00.000+00:00",
+        "id": 401910011
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 4431687,
+        "name": "Patrick Williams"
+      },
+      "points": 2.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-17T00:00:00.000+00:00",
+        "id": 401909995
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 4431687,
+        "name": "Patrick Williams"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 55.6,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-15T01:00:00.000+00:00",
+        "id": 401909984
+      },
+      "minutes": 26.0,
+      "player": {
+        "id": 4431687,
+        "name": "Patrick Williams"
+      },
+      "points": 14.0,
+      "rebounds": 5.0,
+      "steals": 2.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 57.1,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-14T01:00:00.000+00:00",
+        "id": 401909299
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4431687,
+        "name": "Patrick Williams"
+      },
+      "points": 13.0,
+      "rebounds": 4.0,
+      "steals": 2.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909969
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 4431687,
+        "name": "Patrick Williams"
+      },
+      "points": 9.0,
+      "rebounds": 7.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 42.9,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-08T20:30:00.000+00:00",
+        "id": 401909945
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 4431687,
+        "name": "Patrick Williams"
+      },
+      "points": 7.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 16.7,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909926
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 4431687,
+        "name": "Patrick Williams"
+      },
+      "points": 4.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 71.4,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-12T01:00:00.000+00:00",
+        "id": 401909969
+      },
+      "minutes": 15.0,
+      "player": {
+        "id": 5095151,
+        "name": "Caleb Wilson"
+      },
+      "points": 15.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 18.0,
+      "field_goal_percentage": 38.9,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-08T20:30:00.000+00:00",
+        "id": 401909945
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 5095151,
+        "name": "Caleb Wilson"
+      },
+      "points": 18.0,
+      "rebounds": 5.0,
+      "steals": 2.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 16.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909926
+      },
+      "minutes": 22.0,
+      "player": {
+        "id": 5095151,
+        "name": "Caleb Wilson"
+      },
+      "points": 5.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 17.0,
+      "field_goal_percentage": 52.9,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909912
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 5095151,
+        "name": "Caleb Wilson"
+      },
+      "points": 24.0,
+      "rebounds": 7.0,
+      "steals": 4.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 9.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 16.0,
+      "field_goal_percentage": 43.8,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-30T23:30:00.000+00:00",
+        "id": 401909278
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 5095151,
+        "name": "Caleb Wilson"
+      },
+      "points": 23.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 11.0,
+      "three_pointers_made": 6.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 18.0,
+      "field_goal_percentage": 38.9,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-29T00:00:00.000+00:00",
+        "id": 401909886
+      },
+      "minutes": 38.0,
+      "player": {
+        "id": 5095151,
+        "name": "Caleb Wilson"
+      },
+      "points": 20.0,
+      "rebounds": 6.0,
+      "steals": 2.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 46.7,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-26T23:30:00.000+00:00",
+        "id": 401909870
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 5095151,
+        "name": "Caleb Wilson"
+      },
+      "points": 17.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 24.0,
+      "field_goal_percentage": 41.7,
+      "field_goals_made": 10.0,
+      "free_throw_attempts": 11.0,
+      "free_throws_made": 9.0,
+      "game": {
+        "date": "2026-10-25T00:00:00.000+00:00",
+        "id": 401909857
+      },
+      "minutes": 38.0,
+      "player": {
+        "id": 5095151,
+        "name": "Caleb Wilson"
+      },
+      "points": 30.0,
+      "rebounds": 14.0,
+      "steals": 2.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 9.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 14.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-10-23T20:00:00.000+00:00",
+        "id": 401909848
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 5095151,
+        "name": "Caleb Wilson"
+      },
+      "points": 21.0,
+      "rebounds": 6.0,
+      "steals": 1.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 21.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-21T23:30:00.000+00:00",
+        "id": 401909837
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 5095151,
+        "name": "Caleb Wilson"
+      },
+      "points": 16.0,
+      "rebounds": 4.0,
+      "steals": 3.0,
+      "team": {
+        "id": 4,
+        "name": "Chicago Bulls"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 9.0
+    }
+  ],
+  "results": 170
+}

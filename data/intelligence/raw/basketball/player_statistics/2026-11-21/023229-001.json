@@ -1,0 +1,4604 @@
+{
+  "errors": [],
+  "get": "players/statistics",
+  "parameters": {
+    "season": "2026-2027",
+    "source": "espn-fallback",
+    "team": "Charlotte Hornets"
+  },
+  "response": [
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 30.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-15T21:30:00.000+00:00",
+        "id": 401909987
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 3135045,
+        "name": "Grayson Allen"
+      },
+      "points": 12.0,
+      "rebounds": 5.0,
+      "steals": 2.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 45.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-13T02:00:00.000+00:00",
+        "id": 401909979
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 3135045,
+        "name": "Grayson Allen"
+      },
+      "points": 14.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 14.0,
+      "field_goal_percentage": 57.1,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-10T00:00:00.000+00:00",
+        "id": 401909953
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 3135045,
+        "name": "Grayson Allen"
+      },
+      "points": 27.0,
+      "rebounds": 4.0,
+      "steals": 2.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 12.0,
+      "three_pointers_made": 6.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-07T00:00:00.000+00:00",
+        "id": 401909288
+      },
+      "minutes": 22.0,
+      "player": {
+        "id": 3135045,
+        "name": "Grayson Allen"
+      },
+      "points": 0.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 54.5,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909925
+      },
+      "minutes": 27.0,
+      "player": {
+        "id": 3135045,
+        "name": "Grayson Allen"
+      },
+      "points": 22.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 5.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 42.9,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909908
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 3135045,
+        "name": "Grayson Allen"
+      },
+      "points": 11.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 75.0,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-31T22:00:00.000+00:00",
+        "id": 401909897
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 3135045,
+        "name": "Grayson Allen"
+      },
+      "points": 27.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 10.0,
+      "three_pointers_made": 7.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 20.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-30T23:00:00.000+00:00",
+        "id": 401909277
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 3135045,
+        "name": "Grayson Allen"
+      },
+      "points": 5.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-28T23:00:00.000+00:00",
+        "id": 401909883
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 3135045,
+        "name": "Grayson Allen"
+      },
+      "points": 9.0,
+      "rebounds": 5.0,
+      "steals": 2.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 5.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 37.5,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 7.0,
+      "free_throws_made": 7.0,
+      "game": {
+        "date": "2026-10-26T23:00:00.000+00:00",
+        "id": 401909868
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 3135045,
+        "name": "Grayson Allen"
+      },
+      "points": 15.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-10-24T22:00:00.000+00:00",
+        "id": 401909853
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 3135045,
+        "name": "Grayson Allen"
+      },
+      "points": 20.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 10.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 37.5,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-23T23:00:00.000+00:00",
+        "id": 401909843
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 3135045,
+        "name": "Grayson Allen"
+      },
+      "points": 11.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-10-21T23:30:00.000+00:00",
+        "id": 401909836
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 3135045,
+        "name": "Grayson Allen"
+      },
+      "points": 21.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 5.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-21T00:00:00.000+00:00",
+        "id": 401909305
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 5060701,
+        "name": "Christian Anderson"
+      },
+      "points": 4.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 28.6,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-18T04:00:00.000+00:00",
+        "id": 401910005
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 5060701,
+        "name": "Christian Anderson"
+      },
+      "points": 5.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-15T21:30:00.000+00:00",
+        "id": 401909987
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 5060701,
+        "name": "Christian Anderson"
+      },
+      "points": 16.0,
+      "rebounds": 3.0,
+      "steals": 2.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 44.4,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-13T02:00:00.000+00:00",
+        "id": 401909979
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 5060701,
+        "name": "Christian Anderson"
+      },
+      "points": 13.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 60.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-10T00:00:00.000+00:00",
+        "id": 401909953
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 5060701,
+        "name": "Christian Anderson"
+      },
+      "points": 9.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 20.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-07T00:00:00.000+00:00",
+        "id": 401909288
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 5060701,
+        "name": "Christian Anderson"
+      },
+      "points": 4.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 60.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909908
+      },
+      "minutes": 9.0,
+      "player": {
+        "id": 5060701,
+        "name": "Christian Anderson"
+      },
+      "points": 8.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-31T22:00:00.000+00:00",
+        "id": 401909897
+      },
+      "minutes": 8.0,
+      "player": {
+        "id": 5060701,
+        "name": "Christian Anderson"
+      },
+      "points": 2.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-30T23:00:00.000+00:00",
+        "id": 401909277
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 5060701,
+        "name": "Christian Anderson"
+      },
+      "points": 4.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-28T23:00:00.000+00:00",
+        "id": 401909883
+      },
+      "minutes": 9.0,
+      "player": {
+        "id": 5060701,
+        "name": "Christian Anderson"
+      },
+      "points": 2.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-26T23:00:00.000+00:00",
+        "id": 401909868
+      },
+      "minutes": 11.0,
+      "player": {
+        "id": 5060701,
+        "name": "Christian Anderson"
+      },
+      "points": 3.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-24T22:00:00.000+00:00",
+        "id": 401909853
+      },
+      "minutes": 3.0,
+      "player": {
+        "id": 5060701,
+        "name": "Christian Anderson"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 20.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-23T23:00:00.000+00:00",
+        "id": 401909843
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 5060701,
+        "name": "Christian Anderson"
+      },
+      "points": 2.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-21T23:30:00.000+00:00",
+        "id": 401909836
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 5060701,
+        "name": "Christian Anderson"
+      },
+      "points": 0.0,
+      "rebounds": 2.0,
+      "steals": 2.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 75.0,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-21T00:00:00.000+00:00",
+        "id": 401909305
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 4433249,
+        "name": "Moussa Diabate"
+      },
+      "points": 21.0,
+      "rebounds": 15.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-18T04:00:00.000+00:00",
+        "id": 401910005
+      },
+      "minutes": 38.0,
+      "player": {
+        "id": 4433249,
+        "name": "Moussa Diabate"
+      },
+      "points": 5.0,
+      "rebounds": 16.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 3.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 55.6,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-15T21:30:00.000+00:00",
+        "id": 401909987
+      },
+      "minutes": 26.0,
+      "player": {
+        "id": 4433249,
+        "name": "Moussa Diabate"
+      },
+      "points": 12.0,
+      "rebounds": 12.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 42.9,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-13T02:00:00.000+00:00",
+        "id": 401909979
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 4433249,
+        "name": "Moussa Diabate"
+      },
+      "points": 7.0,
+      "rebounds": 13.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909925
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 4433249,
+        "name": "Moussa Diabate"
+      },
+      "points": 7.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909908
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4433249,
+        "name": "Moussa Diabate"
+      },
+      "points": 7.0,
+      "rebounds": 9.0,
+      "steals": 3.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-31T22:00:00.000+00:00",
+        "id": 401909897
+      },
+      "minutes": 28.0,
+      "player": {
+        "id": 4433249,
+        "name": "Moussa Diabate"
+      },
+      "points": 10.0,
+      "rebounds": 8.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 45.5,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-30T23:00:00.000+00:00",
+        "id": 401909277
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 4433249,
+        "name": "Moussa Diabate"
+      },
+      "points": 10.0,
+      "rebounds": 12.0,
+      "steals": 2.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 75.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-28T23:00:00.000+00:00",
+        "id": 401909883
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 4433249,
+        "name": "Moussa Diabate"
+      },
+      "points": 9.0,
+      "rebounds": 9.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 5.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 3.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-26T23:00:00.000+00:00",
+        "id": 401909868
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 4433249,
+        "name": "Moussa Diabate"
+      },
+      "points": 11.0,
+      "rebounds": 17.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-24T22:00:00.000+00:00",
+        "id": 401909853
+      },
+      "minutes": 22.0,
+      "player": {
+        "id": 4433249,
+        "name": "Moussa Diabate"
+      },
+      "points": 4.0,
+      "rebounds": 5.0,
+      "steals": 2.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-23T23:00:00.000+00:00",
+        "id": 401909843
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 4433249,
+        "name": "Moussa Diabate"
+      },
+      "points": 5.0,
+      "rebounds": 8.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 63.6,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-21T23:30:00.000+00:00",
+        "id": 401909836
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 4433249,
+        "name": "Moussa Diabate"
+      },
+      "points": 17.0,
+      "rebounds": 8.0,
+      "steals": 5.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-30T23:00:00.000+00:00",
+        "id": 401909277
+      },
+      "minutes": 2.0,
+      "player": {
+        "id": 4701225,
+        "name": "PJ Hall"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-23T23:00:00.000+00:00",
+        "id": 401909843
+      },
+      "minutes": 10.0,
+      "player": {
+        "id": 4701225,
+        "name": "PJ Hall"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-21T00:00:00.000+00:00",
+        "id": 401909305
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 4602025,
+        "name": "Sion James"
+      },
+      "points": 9.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-18T04:00:00.000+00:00",
+        "id": 401910005
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 4602025,
+        "name": "Sion James"
+      },
+      "points": 3.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 16.7,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-15T21:30:00.000+00:00",
+        "id": 401909987
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 4602025,
+        "name": "Sion James"
+      },
+      "points": 3.0,
+      "rebounds": 8.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 20.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-13T02:00:00.000+00:00",
+        "id": 401909979
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 4602025,
+        "name": "Sion James"
+      },
+      "points": 3.0,
+      "rebounds": 8.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 5.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 44.4,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-10T00:00:00.000+00:00",
+        "id": 401909953
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 4602025,
+        "name": "Sion James"
+      },
+      "points": 11.0,
+      "rebounds": 4.0,
+      "steals": 2.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-07T00:00:00.000+00:00",
+        "id": 401909288
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 4602025,
+        "name": "Sion James"
+      },
+      "points": 11.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 42.9,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909925
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 4602025,
+        "name": "Sion James"
+      },
+      "points": 10.0,
+      "rebounds": 2.0,
+      "steals": 3.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909908
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 4602025,
+        "name": "Sion James"
+      },
+      "points": 11.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-31T22:00:00.000+00:00",
+        "id": 401909897
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 4602025,
+        "name": "Sion James"
+      },
+      "points": 4.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 20.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-30T23:00:00.000+00:00",
+        "id": 401909277
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 4602025,
+        "name": "Sion James"
+      },
+      "points": 6.0,
+      "rebounds": 5.0,
+      "steals": 2.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 16.7,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-28T23:00:00.000+00:00",
+        "id": 401909883
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 4602025,
+        "name": "Sion James"
+      },
+      "points": 5.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-26T23:00:00.000+00:00",
+        "id": 401909868
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 4602025,
+        "name": "Sion James"
+      },
+      "points": 5.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-24T22:00:00.000+00:00",
+        "id": 401909853
+      },
+      "minutes": 26.0,
+      "player": {
+        "id": 4602025,
+        "name": "Sion James"
+      },
+      "points": 0.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 14.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-23T23:00:00.000+00:00",
+        "id": 401909843
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4602025,
+        "name": "Sion James"
+      },
+      "points": 3.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 14.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-21T23:30:00.000+00:00",
+        "id": 401909836
+      },
+      "minutes": 27.0,
+      "player": {
+        "id": 4602025,
+        "name": "Sion James"
+      },
+      "points": 3.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-21T00:00:00.000+00:00",
+        "id": 401909305
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 4576060,
+        "name": "Ryan Kalkbrenner"
+      },
+      "points": 6.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-18T04:00:00.000+00:00",
+        "id": 401910005
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 4576060,
+        "name": "Ryan Kalkbrenner"
+      },
+      "points": 6.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-15T21:30:00.000+00:00",
+        "id": 401909987
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 4576060,
+        "name": "Ryan Kalkbrenner"
+      },
+      "points": 5.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-13T02:00:00.000+00:00",
+        "id": 401909979
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 4576060,
+        "name": "Ryan Kalkbrenner"
+      },
+      "points": 2.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 3.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 57.1,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-10T00:00:00.000+00:00",
+        "id": 401909953
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 4576060,
+        "name": "Ryan Kalkbrenner"
+      },
+      "points": 8.0,
+      "rebounds": 15.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-07T00:00:00.000+00:00",
+        "id": 401909288
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 4576060,
+        "name": "Ryan Kalkbrenner"
+      },
+      "points": 4.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909925
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 4576060,
+        "name": "Ryan Kalkbrenner"
+      },
+      "points": 6.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909908
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 4576060,
+        "name": "Ryan Kalkbrenner"
+      },
+      "points": 4.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-31T22:00:00.000+00:00",
+        "id": 401909897
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 4576060,
+        "name": "Ryan Kalkbrenner"
+      },
+      "points": 6.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-30T23:00:00.000+00:00",
+        "id": 401909277
+      },
+      "minutes": 15.0,
+      "player": {
+        "id": 4576060,
+        "name": "Ryan Kalkbrenner"
+      },
+      "points": 2.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-28T23:00:00.000+00:00",
+        "id": 401909883
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 4576060,
+        "name": "Ryan Kalkbrenner"
+      },
+      "points": 1.0,
+      "rebounds": 1.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 75.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-26T23:00:00.000+00:00",
+        "id": 401909868
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 4576060,
+        "name": "Ryan Kalkbrenner"
+      },
+      "points": 6.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-24T22:00:00.000+00:00",
+        "id": 401909853
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 4576060,
+        "name": "Ryan Kalkbrenner"
+      },
+      "points": 6.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 75.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-23T23:00:00.000+00:00",
+        "id": 401909843
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 4576060,
+        "name": "Ryan Kalkbrenner"
+      },
+      "points": 6.0,
+      "rebounds": 7.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-21T23:30:00.000+00:00",
+        "id": 401909836
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 4576060,
+        "name": "Ryan Kalkbrenner"
+      },
+      "points": 4.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909925
+      },
+      "minutes": 6.0,
+      "player": {
+        "id": 5061575,
+        "name": "Kon Knueppel"
+      },
+      "points": 3.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-21T00:00:00.000+00:00",
+        "id": 401909305
+      },
+      "minutes": 7.0,
+      "player": {
+        "id": 5239590,
+        "name": "Liam McNeeley"
+      },
+      "points": 2.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-18T04:00:00.000+00:00",
+        "id": 401910005
+      },
+      "minutes": 0.0,
+      "player": {
+        "id": 5239590,
+        "name": "Liam McNeeley"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-15T21:30:00.000+00:00",
+        "id": 401909987
+      },
+      "minutes": 2.0,
+      "player": {
+        "id": 5239590,
+        "name": "Liam McNeeley"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-10T00:00:00.000+00:00",
+        "id": 401909953
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 5239590,
+        "name": "Liam McNeeley"
+      },
+      "points": 8.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 27.3,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-07T00:00:00.000+00:00",
+        "id": 401909288
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 5239590,
+        "name": "Liam McNeeley"
+      },
+      "points": 8.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 20.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909908
+      },
+      "minutes": 9.0,
+      "player": {
+        "id": 5239590,
+        "name": "Liam McNeeley"
+      },
+      "points": 3.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-30T23:00:00.000+00:00",
+        "id": 401909277
+      },
+      "minutes": 3.0,
+      "player": {
+        "id": 5239590,
+        "name": "Liam McNeeley"
+      },
+      "points": 0.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-10-23T23:00:00.000+00:00",
+        "id": 401909843
+      },
+      "minutes": 12.0,
+      "player": {
+        "id": 5239590,
+        "name": "Liam McNeeley"
+      },
+      "points": 4.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-21T23:30:00.000+00:00",
+        "id": 401909836
+      },
+      "minutes": 3.0,
+      "player": {
+        "id": 5239590,
+        "name": "Liam McNeeley"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 18.0,
+      "field_goal_percentage": 38.9,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-21T00:00:00.000+00:00",
+        "id": 401909305
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 4433287,
+        "name": "Brandon Miller"
+      },
+      "points": 19.0,
+      "rebounds": 8.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 13.0,
+      "three_pointers_made": 5.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 19.0,
+      "field_goal_percentage": 52.6,
+      "field_goals_made": 10.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-18T04:00:00.000+00:00",
+        "id": 401910005
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 4433287,
+        "name": "Brandon Miller"
+      },
+      "points": 28.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 12.0,
+      "three_pointers_made": 5.0,
+      "turnovers": 5.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 10.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-15T21:30:00.000+00:00",
+        "id": 401909987
+      },
+      "minutes": 24.0,
+      "player": {
+        "id": 4433287,
+        "name": "Brandon Miller"
+      },
+      "points": 5.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 30.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-07T00:00:00.000+00:00",
+        "id": 401909288
+      },
+      "minutes": 14.0,
+      "player": {
+        "id": 4433287,
+        "name": "Brandon Miller"
+      },
+      "points": 8.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 13.3,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909925
+      },
+      "minutes": 26.0,
+      "player": {
+        "id": 4433287,
+        "name": "Brandon Miller"
+      },
+      "points": 10.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 10.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 18.0,
+      "field_goal_percentage": 38.9,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909908
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 4433287,
+        "name": "Brandon Miller"
+      },
+      "points": 17.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 11.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 20.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-31T22:00:00.000+00:00",
+        "id": 401909897
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 4433287,
+        "name": "Brandon Miller"
+      },
+      "points": 24.0,
+      "rebounds": 5.0,
+      "steals": 2.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 12.0,
+      "three_pointers_made": 5.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 24.0,
+      "field_goal_percentage": 29.2,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-30T23:00:00.000+00:00",
+        "id": 401909277
+      },
+      "minutes": 37.0,
+      "player": {
+        "id": 4433287,
+        "name": "Brandon Miller"
+      },
+      "points": 19.0,
+      "rebounds": 7.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 13.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 26.0,
+      "field_goal_percentage": 46.2,
+      "field_goals_made": 12.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-10-28T23:00:00.000+00:00",
+        "id": 401909883
+      },
+      "minutes": 38.0,
+      "player": {
+        "id": 4433287,
+        "name": "Brandon Miller"
+      },
+      "points": 31.0,
+      "rebounds": 12.0,
+      "steals": 2.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 10.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 28.0,
+      "field_goal_percentage": 53.6,
+      "field_goals_made": 15.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-10-26T23:00:00.000+00:00",
+        "id": 401909868
+      },
+      "minutes": 36.0,
+      "player": {
+        "id": 4433287,
+        "name": "Brandon Miller"
+      },
+      "points": 39.0,
+      "rebounds": 6.0,
+      "steals": 3.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 10.0,
+      "three_pointers_made": 5.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 29.0,
+      "field_goal_percentage": 34.5,
+      "field_goals_made": 10.0,
+      "free_throw_attempts": 12.0,
+      "free_throws_made": 11.0,
+      "game": {
+        "date": "2026-10-24T22:00:00.000+00:00",
+        "id": 401909853
+      },
+      "minutes": 36.0,
+      "player": {
+        "id": 4433287,
+        "name": "Brandon Miller"
+      },
+      "points": 34.0,
+      "rebounds": 8.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 10.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 5.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 14.0,
+      "field_goal_percentage": 14.3,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-23T23:00:00.000+00:00",
+        "id": 401909843
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 4433287,
+        "name": "Brandon Miller"
+      },
+      "points": 6.0,
+      "rebounds": 2.0,
+      "steals": 2.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 11.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 21.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-21T23:30:00.000+00:00",
+        "id": 401909836
+      },
+      "minutes": 36.0,
+      "player": {
+        "id": 4433287,
+        "name": "Brandon Miller"
+      },
+      "points": 18.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 14.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-21T00:00:00.000+00:00",
+        "id": 401909305
+      },
+      "minutes": 21.0,
+      "player": {
+        "id": 2583632,
+        "name": "Royce O'Neale"
+      },
+      "points": 9.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 44.4,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-18T04:00:00.000+00:00",
+        "id": 401910005
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 2583632,
+        "name": "Royce O'Neale"
+      },
+      "points": 13.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 9.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-15T21:30:00.000+00:00",
+        "id": 401909987
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 2583632,
+        "name": "Royce O'Neale"
+      },
+      "points": 3.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-13T02:00:00.000+00:00",
+        "id": 401909979
+      },
+      "minutes": 22.0,
+      "player": {
+        "id": 2583632,
+        "name": "Royce O'Neale"
+      },
+      "points": 7.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-10T00:00:00.000+00:00",
+        "id": 401909953
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 2583632,
+        "name": "Royce O'Neale"
+      },
+      "points": 10.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-07T00:00:00.000+00:00",
+        "id": 401909288
+      },
+      "minutes": 26.0,
+      "player": {
+        "id": 2583632,
+        "name": "Royce O'Neale"
+      },
+      "points": 7.0,
+      "rebounds": 4.0,
+      "steals": 2.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909925
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 2583632,
+        "name": "Royce O'Neale"
+      },
+      "points": 0.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909908
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 2583632,
+        "name": "Royce O'Neale"
+      },
+      "points": 2.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 75.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-31T22:00:00.000+00:00",
+        "id": 401909897
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 2583632,
+        "name": "Royce O'Neale"
+      },
+      "points": 8.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 22.2,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-10-30T23:00:00.000+00:00",
+        "id": 401909277
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 2583632,
+        "name": "Royce O'Neale"
+      },
+      "points": 7.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 9.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 37.5,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-28T23:00:00.000+00:00",
+        "id": 401909883
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 2583632,
+        "name": "Royce O'Neale"
+      },
+      "points": 9.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-26T23:00:00.000+00:00",
+        "id": 401909868
+      },
+      "minutes": 7.0,
+      "player": {
+        "id": 2583632,
+        "name": "Royce O'Neale"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-24T22:00:00.000+00:00",
+        "id": 401909853
+      },
+      "minutes": 11.0,
+      "player": {
+        "id": 2583632,
+        "name": "Royce O'Neale"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-23T23:00:00.000+00:00",
+        "id": 401909843
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 2583632,
+        "name": "Royce O'Neale"
+      },
+      "points": 6.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-21T23:30:00.000+00:00",
+        "id": 401909836
+      },
+      "minutes": 17.0,
+      "player": {
+        "id": 2583632,
+        "name": "Royce O'Neale"
+      },
+      "points": 8.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 19.0,
+      "field_goal_percentage": 21.1,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-21T00:00:00.000+00:00",
+        "id": 401909305
+      },
+      "minutes": 39.0,
+      "player": {
+        "id": 4396971,
+        "name": "Naz Reid"
+      },
+      "points": 12.0,
+      "rebounds": 10.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 10.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 18.0,
+      "field_goal_percentage": 44.4,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-18T04:00:00.000+00:00",
+        "id": 401910005
+      },
+      "minutes": 42.0,
+      "player": {
+        "id": 4396971,
+        "name": "Naz Reid"
+      },
+      "points": 23.0,
+      "rebounds": 11.0,
+      "steals": 2.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 10.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 20.0,
+      "field_goal_percentage": 35.0,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-15T21:30:00.000+00:00",
+        "id": 401909987
+      },
+      "minutes": 27.0,
+      "player": {
+        "id": 4396971,
+        "name": "Naz Reid"
+      },
+      "points": 17.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 11.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 18.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-13T02:00:00.000+00:00",
+        "id": 401909979
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 4396971,
+        "name": "Naz Reid"
+      },
+      "points": 16.0,
+      "rebounds": 8.0,
+      "steals": 2.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 26.0,
+      "field_goal_percentage": 38.5,
+      "field_goals_made": 10.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-10T00:00:00.000+00:00",
+        "id": 401909953
+      },
+      "minutes": 32.0,
+      "player": {
+        "id": 4396971,
+        "name": "Naz Reid"
+      },
+      "points": 25.0,
+      "rebounds": 13.0,
+      "steals": 2.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 9.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 17.0,
+      "field_goal_percentage": 35.3,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-07T00:00:00.000+00:00",
+        "id": 401909288
+      },
+      "minutes": 26.0,
+      "player": {
+        "id": 4396971,
+        "name": "Naz Reid"
+      },
+      "points": 14.0,
+      "rebounds": 6.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 18.0,
+      "field_goal_percentage": 61.1,
+      "field_goals_made": 11.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909925
+      },
+      "minutes": 36.0,
+      "player": {
+        "id": 4396971,
+        "name": "Naz Reid"
+      },
+      "points": 28.0,
+      "rebounds": 9.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 36.4,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909908
+      },
+      "minutes": 27.0,
+      "player": {
+        "id": 4396971,
+        "name": "Naz Reid"
+      },
+      "points": 13.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-10-31T22:00:00.000+00:00",
+        "id": 401909897
+      },
+      "minutes": 36.0,
+      "player": {
+        "id": 4396971,
+        "name": "Naz Reid"
+      },
+      "points": 14.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 17.0,
+      "field_goal_percentage": 29.4,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-30T23:00:00.000+00:00",
+        "id": 401909277
+      },
+      "minutes": 31.0,
+      "player": {
+        "id": 4396971,
+        "name": "Naz Reid"
+      },
+      "points": 12.0,
+      "rebounds": 11.0,
+      "steals": 3.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-28T23:00:00.000+00:00",
+        "id": 401909883
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 4396971,
+        "name": "Naz Reid"
+      },
+      "points": 7.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 1.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 22.0,
+      "field_goal_percentage": 36.4,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-26T23:00:00.000+00:00",
+        "id": 401909868
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 4396971,
+        "name": "Naz Reid"
+      },
+      "points": 18.0,
+      "rebounds": 12.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 16.0,
+      "field_goal_percentage": 56.3,
+      "field_goals_made": 9.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-24T22:00:00.000+00:00",
+        "id": 401909853
+      },
+      "minutes": 37.0,
+      "player": {
+        "id": 4396971,
+        "name": "Naz Reid"
+      },
+      "points": 23.0,
+      "rebounds": 9.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 5.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 16.0,
+      "field_goal_percentage": 43.8,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-23T23:00:00.000+00:00",
+        "id": 401909843
+      },
+      "minutes": 25.0,
+      "player": {
+        "id": 4396971,
+        "name": "Naz Reid"
+      },
+      "points": 17.0,
+      "rebounds": 6.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 7.0
+    },
+    {
+      "assists": 7.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 19.0,
+      "field_goal_percentage": 42.1,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-21T23:30:00.000+00:00",
+        "id": 401909836
+      },
+      "minutes": 33.0,
+      "player": {
+        "id": 4396971,
+        "name": "Naz Reid"
+      },
+      "points": 20.0,
+      "rebounds": 11.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 10.0,
+      "three_pointers_made": 4.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-21T00:00:00.000+00:00",
+        "id": 401909305
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 5211176,
+        "name": "Tidjane Salaun"
+      },
+      "points": 4.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-18T04:00:00.000+00:00",
+        "id": 401910005
+      },
+      "minutes": 5.0,
+      "player": {
+        "id": 5211176,
+        "name": "Tidjane Salaun"
+      },
+      "points": 0.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 0.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-15T21:30:00.000+00:00",
+        "id": 401909987
+      },
+      "minutes": 5.0,
+      "player": {
+        "id": 5211176,
+        "name": "Tidjane Salaun"
+      },
+      "points": 0.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-13T02:00:00.000+00:00",
+        "id": 401909979
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 5211176,
+        "name": "Tidjane Salaun"
+      },
+      "points": 2.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 66.7,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-10T00:00:00.000+00:00",
+        "id": 401909953
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 5211176,
+        "name": "Tidjane Salaun"
+      },
+      "points": 14.0,
+      "rebounds": 3.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 27.3,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-07T00:00:00.000+00:00",
+        "id": 401909288
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 5211176,
+        "name": "Tidjane Salaun"
+      },
+      "points": 13.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 8.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 75.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909925
+      },
+      "minutes": 10.0,
+      "player": {
+        "id": 5211176,
+        "name": "Tidjane Salaun"
+      },
+      "points": 9.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 2.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909908
+      },
+      "minutes": 19.0,
+      "player": {
+        "id": 5211176,
+        "name": "Tidjane Salaun"
+      },
+      "points": 1.0,
+      "rebounds": 7.0,
+      "steals": 2.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-31T22:00:00.000+00:00",
+        "id": 401909897
+      },
+      "minutes": 12.0,
+      "player": {
+        "id": 5211176,
+        "name": "Tidjane Salaun"
+      },
+      "points": 5.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-30T23:00:00.000+00:00",
+        "id": 401909277
+      },
+      "minutes": 9.0,
+      "player": {
+        "id": 5211176,
+        "name": "Tidjane Salaun"
+      },
+      "points": 6.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 100.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-28T23:00:00.000+00:00",
+        "id": 401909883
+      },
+      "minutes": 12.0,
+      "player": {
+        "id": 5211176,
+        "name": "Tidjane Salaun"
+      },
+      "points": 2.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 6.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-26T23:00:00.000+00:00",
+        "id": 401909868
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 5211176,
+        "name": "Tidjane Salaun"
+      },
+      "points": 5.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-24T22:00:00.000+00:00",
+        "id": 401909853
+      },
+      "minutes": 10.0,
+      "player": {
+        "id": 5211176,
+        "name": "Tidjane Salaun"
+      },
+      "points": 3.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 55.6,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-23T23:00:00.000+00:00",
+        "id": 401909843
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 5211176,
+        "name": "Tidjane Salaun"
+      },
+      "points": 11.0,
+      "rebounds": 5.0,
+      "steals": 2.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 20.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909925
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 3032979,
+        "name": "Dennis Schroder"
+      },
+      "points": 5.0,
+      "rebounds": 5.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 4.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909908
+      },
+      "minutes": 23.0,
+      "player": {
+        "id": 3032979,
+        "name": "Dennis Schroder"
+      },
+      "points": 5.0,
+      "rebounds": 2.0,
+      "steals": 2.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 5.0
+    },
+    {
+      "assists": 7.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 11.0,
+      "field_goal_percentage": 9.1,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-31T22:00:00.000+00:00",
+        "id": 401909897
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 3032979,
+        "name": "Dennis Schroder"
+      },
+      "points": 4.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 8.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 7.0,
+      "field_goal_percentage": 28.6,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-10-30T23:00:00.000+00:00",
+        "id": 401909277
+      },
+      "minutes": 29.0,
+      "player": {
+        "id": 3032979,
+        "name": "Dennis Schroder"
+      },
+      "points": 8.0,
+      "rebounds": 2.0,
+      "steals": 3.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 10.0,
+      "field_goal_percentage": 60.0,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-28T23:00:00.000+00:00",
+        "id": 401909883
+      },
+      "minutes": 34.0,
+      "player": {
+        "id": 3032979,
+        "name": "Dennis Schroder"
+      },
+      "points": 14.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 5.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 15.0,
+      "field_goal_percentage": 26.7,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-26T23:00:00.000+00:00",
+        "id": 401909868
+      },
+      "minutes": 36.0,
+      "player": {
+        "id": 3032979,
+        "name": "Dennis Schroder"
+      },
+      "points": 8.0,
+      "rebounds": 2.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 5.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 18.0,
+      "field_goal_percentage": 44.4,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 6.0,
+      "free_throws_made": 6.0,
+      "game": {
+        "date": "2026-10-24T22:00:00.000+00:00",
+        "id": 401909853
+      },
+      "minutes": 38.0,
+      "player": {
+        "id": 3032979,
+        "name": "Dennis Schroder"
+      },
+      "points": 25.0,
+      "rebounds": 6.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 20.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 2.0,
+      "free_throws_made": 2.0,
+      "game": {
+        "date": "2026-10-23T23:00:00.000+00:00",
+        "id": 401909843
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 3032979,
+        "name": "Dennis Schroder"
+      },
+      "points": 4.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 2.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 6.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 53.8,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-10-21T23:30:00.000+00:00",
+        "id": 401909836
+      },
+      "minutes": 35.0,
+      "player": {
+        "id": 3032979,
+        "name": "Dennis Schroder"
+      },
+      "points": 19.0,
+      "rebounds": 4.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 3.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 3.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-10T00:00:00.000+00:00",
+        "id": 401909953
+      },
+      "minutes": 13.0,
+      "player": {
+        "id": 5281370,
+        "name": "Hannes Steinbach"
+      },
+      "points": 2.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 3.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 40.0,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-07T00:00:00.000+00:00",
+        "id": 401909288
+      },
+      "minutes": 27.0,
+      "player": {
+        "id": 5281370,
+        "name": "Hannes Steinbach"
+      },
+      "points": 4.0,
+      "rebounds": 11.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 2.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909908
+      },
+      "minutes": 9.0,
+      "player": {
+        "id": 5281370,
+        "name": "Hannes Steinbach"
+      },
+      "points": 2.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 1.0,
+      "field_goal_percentage": 0.0,
+      "field_goals_made": 0.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-30T23:00:00.000+00:00",
+        "id": 401909277
+      },
+      "minutes": 2.0,
+      "player": {
+        "id": 5281370,
+        "name": "Hannes Steinbach"
+      },
+      "points": 0.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 60.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-10-23T23:00:00.000+00:00",
+        "id": 401909843
+      },
+      "minutes": 12.0,
+      "player": {
+        "id": 5281370,
+        "name": "Hannes Steinbach"
+      },
+      "points": 6.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 0.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 9.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 17.0,
+      "field_goal_percentage": 29.4,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 1.0,
+      "free_throws_made": 1.0,
+      "game": {
+        "date": "2026-11-21T00:00:00.000+00:00",
+        "id": 401909305
+      },
+      "minutes": 26.0,
+      "player": {
+        "id": 4395651,
+        "name": "Coby White"
+      },
+      "points": 11.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 4.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 6.0,
+      "free_throw_attempts": 7.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-18T04:00:00.000+00:00",
+        "id": 401910005
+      },
+      "minutes": 26.0,
+      "player": {
+        "id": 4395651,
+        "name": "Coby White"
+      },
+      "points": 19.0,
+      "rebounds": 3.0,
+      "steals": 3.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 13.0,
+      "field_goal_percentage": 53.8,
+      "field_goals_made": 7.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 5.0,
+      "game": {
+        "date": "2026-11-15T21:30:00.000+00:00",
+        "id": 401909987
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 4395651,
+        "name": "Coby White"
+      },
+      "points": 21.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 16.0,
+      "field_goal_percentage": 50.0,
+      "field_goals_made": 8.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-13T02:00:00.000+00:00",
+        "id": 401909979
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 4395651,
+        "name": "Coby White"
+      },
+      "points": 21.0,
+      "rebounds": 3.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 4.0
+    },
+    {
+      "assists": 9.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 12.0,
+      "field_goal_percentage": 25.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 5.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-10T00:00:00.000+00:00",
+        "id": 401909953
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 4395651,
+        "name": "Coby White"
+      },
+      "points": 10.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 8.0,
+      "field_goal_percentage": 12.5,
+      "field_goals_made": 1.0,
+      "free_throw_attempts": 4.0,
+      "free_throws_made": 4.0,
+      "game": {
+        "date": "2026-11-07T00:00:00.000+00:00",
+        "id": 401909288
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 4395651,
+        "name": "Coby White"
+      },
+      "points": 7.0,
+      "rebounds": 1.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 6.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 2.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 22.2,
+      "field_goals_made": 2.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-05T00:30:00.000+00:00",
+        "id": 401909925
+      },
+      "minutes": 18.0,
+      "player": {
+        "id": 4395651,
+        "name": "Coby White"
+      },
+      "points": 4.0,
+      "rebounds": 5.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 0.0,
+      "turnovers": 2.0
+    },
+    {
+      "assists": 3.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 33.3,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-03T00:30:00.000+00:00",
+        "id": 401909908
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 4395651,
+        "name": "Coby White"
+      },
+      "points": 7.0,
+      "rebounds": 0.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 5.0,
+      "three_pointers_made": 1.0,
+      "turnovers": 3.0
+    },
+    {
+      "assists": 0.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 14.0,
+      "field_goal_percentage": 35.7,
+      "field_goals_made": 5.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-18T04:00:00.000+00:00",
+        "id": 401910005
+      },
+      "minutes": 30.0,
+      "player": {
+        "id": 4066218,
+        "name": "Grant Williams"
+      },
+      "points": 12.0,
+      "rebounds": 4.0,
+      "steals": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 9.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 0.0,
+      "field_goal_attempts": 9.0,
+      "field_goal_percentage": 44.4,
+      "field_goals_made": 4.0,
+      "free_throw_attempts": 0.0,
+      "free_throws_made": 0.0,
+      "game": {
+        "date": "2026-11-15T21:30:00.000+00:00",
+        "id": 401909987
+      },
+      "minutes": 20.0,
+      "player": {
+        "id": 4066218,
+        "name": "Grant Williams"
+      },
+      "points": 11.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 7.0,
+      "three_pointers_made": 3.0,
+      "turnovers": 1.0
+    },
+    {
+      "assists": 1.0,
+      "blocks": 1.0,
+      "field_goal_attempts": 5.0,
+      "field_goal_percentage": 60.0,
+      "field_goals_made": 3.0,
+      "free_throw_attempts": 3.0,
+      "free_throws_made": 3.0,
+      "game": {
+        "date": "2026-11-13T02:00:00.000+00:00",
+        "id": 401909979
+      },
+      "minutes": 16.0,
+      "player": {
+        "id": 4066218,
+        "name": "Grant Williams"
+      },
+      "points": 11.0,
+      "rebounds": 2.0,
+      "steals": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Charlotte Hornets"
+      },
+      "three_point_attempts": 4.0,
+      "three_pointers_made": 2.0,
+      "turnovers": 0.0
+    }
+  ],
+  "results": 164
+}

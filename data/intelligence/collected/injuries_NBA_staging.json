@@ -1,8 +1,8 @@
 {
  "kind": "collected-injuries-staging",
  "league": "NBA",
- "generated_at": "2026-11-21T17:04:03.789401+00:00",
- "report_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_11_45AM.pdf",
+ "generated_at": "2026-11-21T20:04:10.006346+00:00",
+ "report_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_02_45PM.pdf",
  "staged": [
   {
    "player_name": "Tarik Biberovic",
@@ -18,13 +18,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_11_45AM.pdf",
-    "fetched_at": "2026-11-21T17:04:03.789401+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_02_45PM.pdf",
+    "fetched_at": "2026-11-21T20:04:10.006346+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-21T15:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-21T16:45:00+00:00"
+    "report_timestamp": "2026-11-21T19:45:00+00:00"
    },
    "player_id": null,
    "staging_reason": "no_registry_match"
@@ -43,13 +43,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_11_45AM.pdf",
-    "fetched_at": "2026-11-21T17:04:03.789401+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_02_45PM.pdf",
+    "fetched_at": "2026-11-21T20:04:10.006346+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-21T15:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-21T16:45:00+00:00"
+    "report_timestamp": "2026-11-21T19:45:00+00:00"
    },
    "player_id": null,
    "staging_reason": "no_registry_match"
@@ -68,13 +68,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_11_45AM.pdf",
-    "fetched_at": "2026-11-21T17:04:03.789401+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_02_45PM.pdf",
+    "fetched_at": "2026-11-21T20:04:10.006346+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-21T15:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-21T16:45:00+00:00"
+    "report_timestamp": "2026-11-21T19:45:00+00:00"
    },
    "player_id": null,
    "staging_reason": "no_registry_match"

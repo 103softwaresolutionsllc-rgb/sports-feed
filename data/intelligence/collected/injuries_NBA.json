@@ -3,20 +3,20 @@
  "league": "NBA",
  "classification": "Historical",
  "collected": true,
- "generated_at": "2026-11-21T17:04:03.789401+00:00",
+ "generated_at": "2026-11-21T20:04:10.006346+00:00",
  "report": {
   "source_name": "NBA official injury report",
-  "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_11_45AM.pdf",
-  "report_timestamp": "2026-11-21T16:45:00+00:00",
-  "fetched_at": "2026-11-21T17:04:03.789401+00:00",
-  "raw_landing": "/home/hatch/workspace/sports-feed-data-wt/data/intelligence/raw/collected/nba_injury_report/2026-11-21/Injury-Report_2026-11-21_11_45AM.pdf"
+  "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_02_45PM.pdf",
+  "report_timestamp": "2026-11-21T19:45:00+00:00",
+  "fetched_at": "2026-11-21T20:04:10.006346+00:00",
+  "raw_landing": "/home/hatch/workspace/sports-feed-data-wt/data/intelligence/raw/collected/nba_injury_report/2026-11-21/Injury-Report_2026-11-21_02_45PM.pdf"
  },
  "records": [],
  "counts": {
-  "rows_parsed": 52,
+  "rows_parsed": 60,
   "published": 0,
   "staged_unkeyed": 3,
-  "expired_at_publish": 49,
+  "expired_at_publish": 57,
   "dropped_no_status": 0
  }
 }

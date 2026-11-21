@@ -6,7 +6,7 @@
   "name": "intelligence-engine-fair-line",
   "version": "1.1"
  },
- "generated_at": "2026-11-21T06:43:43.766948+00:00",
+ "generated_at": "2026-11-21T09:52:31.907217+00:00",
  "data_as_of": "2026-11-21",
  "source": "espn-fallback",
  "window": "L10",
@@ -345838,6 +345838,11 @@
  "gate": {
   "status": "active",
   "rule": "withhold when an established player's current-season record is implausibly thin, and withhold everything when the store is stale",
+  "thresholds": {
+   "prior_min": 40,
+   "current_max": 3,
+   "stale_days": 2
+  },
   "withheld_players": 36
  },
  "withheld": [

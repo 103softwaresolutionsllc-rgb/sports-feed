@@ -104,6 +104,8 @@ SINGLE_STAT_NAMES = {
         "receivingYards": "receiving_yards",
         "receivingTouchdowns": "receiving_touchdowns",
         "targets": "targets",
+        "receivingTargets": "targets",
+        "longReception": "longest_reception",
         "longRushing": "longest_rush",
         "longReceiving": "longest_reception",
     },

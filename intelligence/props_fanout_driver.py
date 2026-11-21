@@ -27,7 +27,8 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from intelligence_harvest import RawLanding, urllib_transport  # noqa: E402
+from intelligence_harvest import (  # noqa: E402
+    ESPN_NAME_ALIASES, RawLanding, urllib_transport)
 from intelligence_espn_players import run_espn_fanout  # noqa: E402
 from player_game_logs import GameLogStore  # noqa: E402
 from player_props_harvest import SPORT_TO_LEAGUE  # noqa: E402
@@ -55,15 +56,26 @@ def main(argv: list[str] | None = None) -> int:
     teams_doc = json.loads(
         (data_root / "normalized" / sport
          / f"teams_{season}.json").read_text())
-    team_names = [t["team"] for t in teams_doc["teams"]]
+    # Canonicalize through the same alias map the fan-out's team-id
+    # lookup uses: a teams file carrying ESPN's raw spelling
+    # ("LA Clippers") would otherwise miss its id lookup and silently
+    # fetch zero athletes — exactly what bit the 2025-2026 run.
+    team_names = [ESPN_NAME_ALIASES.get(t["team"], t["team"])
+                  for t in teams_doc["teams"]]
     skip = {s.strip() for s in args.skip.split(",") if s.strip()}
 
     registry = (PlayerRegistry.load(registry_path)
                 if registry_path.exists() else PlayerRegistry.empty())
     log_store = (GameLogStore.load(log_path)
                  if log_path.exists() else GameLogStore.empty(league))
-    covered = list((log_store.document.get("coverage") or {})
-                   .get("teams_covered") or [])
+    # "Covered" is per-season: a team counts only if the store already
+    # holds games for it in THIS season (a prior season's coverage must
+    # never skip a new season's run).
+    covered = sorted({
+        g.get("team")
+        for p in (log_store.document.get("players") or {}).values()
+        for g in p.get("games", [])
+        if g.get("season") == season and g.get("team")})
     landing = RawLanding(data_root)
 
     totals = {"players_registered": 0, "players_updated": 0,
@@ -89,9 +101,14 @@ def main(argv: list[str] | None = None) -> int:
               f"registered_total={totals['players_registered']} "
               f"games_total={totals['games_added']}", flush=True)
 
+    seasons_present = sorted({
+        g.get("season")
+        for p in (log_store.document.get("players") or {}).values()
+        for g in p.get("games", []) if g.get("season")})
     log_store.set_coverage({
         "sport": sport,
         "season": season,
+        "seasons": seasons_present,
         "teams_covered": [t for t in team_names if t in covered],
         "teams_total": len(team_names),
         "as_of": datetime.now(timezone.utc).strftime("%Y-%m-%d"),

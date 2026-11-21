@@ -1,0 +1,3899 @@
+{
+  "errors": [],
+  "get": "players/statistics",
+  "parameters": {
+    "season": "2025",
+    "source": "espn-fallback",
+    "team": "Tampa Bay Buccaneers"
+  },
+  "response": [
+    {
+      "game": {
+        "date": "2026-01-03T21:30:00.000+00:00",
+        "id": 401772969
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372505,
+        "name": "Payne Durham"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-28T18:00:00.000+00:00",
+        "id": 401772916
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372505,
+        "name": "Payne Durham"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772912
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372505,
+        "name": "Payne Durham"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-12T01:15:00.000+00:00",
+        "id": 401772948
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372505,
+        "name": "Payne Durham"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772792
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372505,
+        "name": "Payne Durham"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772895
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372505,
+        "name": "Payne Durham"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 11.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-24T01:20:00.000+00:00",
+        "id": 401772929
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372505,
+        "name": "Payne Durham"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T18:00:00.000+00:00",
+        "id": 401772776
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372505,
+        "name": "Payne Durham"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772772
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372505,
+        "name": "Payne Durham"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T20:05:00.000+00:00",
+        "id": 401772869
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372505,
+        "name": "Payne Durham"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-20T23:00:00.000+00:00",
+        "id": 401772816
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372505,
+        "name": "Payne Durham"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T20:25:00.000+00:00",
+        "id": 401772749
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372505,
+        "name": "Payne Durham"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T20:05:00.000+00:00",
+        "id": 401772746
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372505,
+        "name": "Payne Durham"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T17:00:00.000+00:00",
+        "id": 401772845
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372505,
+        "name": "Payne Durham"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772840
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372505,
+        "name": "Payne Durham"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-15T23:00:00.000+00:00",
+        "id": 401772715
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372505,
+        "name": "Payne Durham"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T17:00:00.000+00:00",
+        "id": 401772830
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372505,
+        "name": "Payne Durham"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-03T21:30:00.000+00:00",
+        "id": 401772969
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4567750,
+        "name": "Emeka Egbuka"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-28T18:00:00.000+00:00",
+        "id": 401772916
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4567750,
+        "name": "Emeka Egbuka"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 20.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772912
+      },
+      "longest_reception": 40.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4567750,
+        "name": "Emeka Egbuka"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 40.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-12T01:15:00.000+00:00",
+        "id": 401772948
+      },
+      "longest_reception": 23.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4567750,
+        "name": "Emeka Egbuka"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 64.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772792
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4567750,
+        "name": "Emeka Egbuka"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 15.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772895
+      },
+      "longest_reception": 23.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4567750,
+        "name": "Emeka Egbuka"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 42.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-24T01:20:00.000+00:00",
+        "id": 401772929
+      },
+      "longest_reception": 32.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4567750,
+        "name": "Emeka Egbuka"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 32.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T18:00:00.000+00:00",
+        "id": 401772776
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4567750,
+        "name": "Emeka Egbuka"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 40.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772772
+      },
+      "longest_reception": 31.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4567750,
+        "name": "Emeka Egbuka"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 115.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 13.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T20:05:00.000+00:00",
+        "id": 401772869
+      },
+      "longest_reception": 24.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4567750,
+        "name": "Emeka Egbuka"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 35.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-20T23:00:00.000+00:00",
+        "id": 401772816
+      },
+      "longest_reception": 30.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4567750,
+        "name": "Emeka Egbuka"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 58.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 12.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T20:25:00.000+00:00",
+        "id": 401772749
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4567750,
+        "name": "Emeka Egbuka"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 24.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T20:05:00.000+00:00",
+        "id": 401772746
+      },
+      "longest_reception": 57.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4567750,
+        "name": "Emeka Egbuka"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 163.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T17:00:00.000+00:00",
+        "id": 401772845
+      },
+      "longest_reception": 77.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4567750,
+        "name": "Emeka Egbuka"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 101.0,
+      "receptions": 4.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 10.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772840
+      },
+      "longest_reception": 30.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4567750,
+        "name": "Emeka Egbuka"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 85.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-15T23:00:00.000+00:00",
+        "id": 401772715
+      },
+      "longest_reception": 15.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4567750,
+        "name": "Emeka Egbuka"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 29.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T17:00:00.000+00:00",
+        "id": 401772830
+      },
+      "longest_reception": 30.0,
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4567750,
+        "name": "Emeka Egbuka"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 67.0,
+      "receptions": 4.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 9.0,
+      "targets": 6.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-05T01:20:00.000+00:00",
+        "id": 401772960
+      },
+      "longest_reception": 15.0,
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4371733,
+        "name": "Kenny Gainwell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 64.0,
+      "receptions": 8.0,
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 10.0,
+      "targets": 9.0,
+      "team": {
+        "id": 23,
+        "name": "Pittsburgh Steelers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-28T18:00:00.000+00:00",
+        "id": 401772807
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 15.0,
+      "player": {
+        "id": 4371733,
+        "name": "Kenny Gainwell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 12.0,
+      "receptions": 3.0,
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 26.0,
+      "targets": 4.0,
+      "team": {
+        "id": 23,
+        "name": "Pittsburgh Steelers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T21:25:00.000+00:00",
+        "id": 401772806
+      },
+      "longest_reception": 45.0,
+      "longest_rush": 18.0,
+      "player": {
+        "id": 4371733,
+        "name": "Kenny Gainwell"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 78.0,
+      "receptions": 5.0,
+      "rushing_attempts": 9.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 50.0,
+      "targets": 7.0,
+      "team": {
+        "id": 23,
+        "name": "Pittsburgh Steelers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-16T01:15:00.000+00:00",
+        "id": 401772823
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 38.0,
+      "player": {
+        "id": 4371733,
+        "name": "Kenny Gainwell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 46.0,
+      "receptions": 7.0,
+      "rushing_attempts": 13.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 80.0,
+      "targets": 7.0,
+      "team": {
+        "id": 23,
+        "name": "Pittsburgh Steelers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772791
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4371733,
+        "name": "Kenny Gainwell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 27.0,
+      "receptions": 6.0,
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 15.0,
+      "targets": 7.0,
+      "team": {
+        "id": 23,
+        "name": "Pittsburgh Steelers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T21:25:00.000+00:00",
+        "id": 401772789
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 11.0,
+      "player": {
+        "id": 4371733,
+        "name": "Kenny Gainwell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 25.0,
+      "receptions": 2.0,
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 20.0,
+      "targets": 3.0,
+      "team": {
+        "id": 23,
+        "name": "Pittsburgh Steelers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-23T18:00:00.000+00:00",
+        "id": 401772780
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 55.0,
+      "player": {
+        "id": 4371733,
+        "name": "Kenny Gainwell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 30.0,
+      "receptions": 6.0,
+      "rushing_attempts": 10.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 92.0,
+      "targets": 6.0,
+      "team": {
+        "id": 23,
+        "name": "Pittsburgh Steelers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T18:00:00.000+00:00",
+        "id": 401772774
+      },
+      "longest_reception": 28.0,
+      "longest_rush": 12.0,
+      "player": {
+        "id": 4371733,
+        "name": "Kenny Gainwell"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 81.0,
+      "receptions": 7.0,
+      "rushing_attempts": 9.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 24.0,
+      "targets": 8.0,
+      "team": {
+        "id": 23,
+        "name": "Pittsburgh Steelers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-10T01:20:00.000+00:00",
+        "id": 401772927
+      },
+      "longest_reception": 2.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4371733,
+        "name": "Kenny Gainwell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 23,
+        "name": "Pittsburgh Steelers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T18:00:00.000+00:00",
+        "id": 401772766
+      },
+      "longest_reception": 16.0,
+      "longest_rush": 5.0,
+      "player": {
+        "id": 4371733,
+        "name": "Kenny Gainwell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 35.0,
+      "receptions": 4.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -1.0,
+      "targets": 5.0,
+      "team": {
+        "id": 23,
+        "name": "Pittsburgh Steelers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-27T00:20:00.000+00:00",
+        "id": 401772925
+      },
+      "longest_reception": 3.0,
+      "longest_rush": 14.0,
+      "player": {
+        "id": 4371733,
+        "name": "Kenny Gainwell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 2.0,
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 31.0,
+      "targets": 2.0,
+      "team": {
+        "id": 23,
+        "name": "Pittsburgh Steelers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-17T00:15:00.000+00:00",
+        "id": 401772941
+      },
+      "longest_reception": 4.0,
+      "longest_rush": 11.0,
+      "player": {
+        "id": 4371733,
+        "name": "Kenny Gainwell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 1.0,
+      "receptions": 2.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 14.0,
+      "targets": 2.0,
+      "team": {
+        "id": 23,
+        "name": "Pittsburgh Steelers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T17:00:00.000+00:00",
+        "id": 401772748
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 10.0,
+      "player": {
+        "id": 4371733,
+        "name": "Kenny Gainwell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 14.0,
+      "receptions": 6.0,
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 22.0,
+      "targets": 6.0,
+      "team": {
+        "id": 23,
+        "name": "Pittsburgh Steelers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T13:30:00.000+00:00",
+        "id": 401772632
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 15.0,
+      "player": {
+        "id": 4371733,
+        "name": "Kenny Gainwell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 35.0,
+      "receptions": 6.0,
+      "rushing_attempts": 19.0,
+      "rushing_touchdowns": 2.0,
+      "rushing_yards": 99.0,
+      "targets": 6.0,
+      "team": {
+        "id": 23,
+        "name": "Pittsburgh Steelers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772732
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 13.0,
+      "player": {
+        "id": 4371733,
+        "name": "Kenny Gainwell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 10.0,
+      "receptions": 1.0,
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 16.0,
+      "targets": 1.0,
+      "team": {
+        "id": 23,
+        "name": "Pittsburgh Steelers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-14T17:00:00.000+00:00",
+        "id": 401772836
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 13.0,
+      "player": {
+        "id": 4371733,
+        "name": "Kenny Gainwell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 16.0,
+      "receptions": 3.0,
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 20.0,
+      "targets": 5.0,
+      "team": {
+        "id": 23,
+        "name": "Pittsburgh Steelers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T17:00:00.000+00:00",
+        "id": 401772721
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4371733,
+        "name": "Kenny Gainwell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 3.0,
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 19.0,
+      "targets": 4.0,
+      "team": {
+        "id": 23,
+        "name": "Pittsburgh Steelers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-03T21:30:00.000+00:00",
+        "id": 401772969
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3116165,
+        "name": "Chris Godwin Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-28T18:00:00.000+00:00",
+        "id": 401772916
+      },
+      "longest_reception": 59.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3116165,
+        "name": "Chris Godwin Jr."
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 108.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772912
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3116165,
+        "name": "Chris Godwin Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 30.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-12T01:15:00.000+00:00",
+        "id": 401772948
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3116165,
+        "name": "Chris Godwin Jr."
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 20.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772792
+      },
+      "longest_reception": 21.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3116165,
+        "name": "Chris Godwin Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 55.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772895
+      },
+      "longest_reception": 31.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3116165,
+        "name": "Chris Godwin Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 78.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-24T01:20:00.000+00:00",
+        "id": 401772929
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3116165,
+        "name": "Chris Godwin Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T20:05:00.000+00:00",
+        "id": 401772746
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3116165,
+        "name": "Chris Godwin Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 26.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T17:00:00.000+00:00",
+        "id": 401772845
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3116165,
+        "name": "Chris Godwin Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 26.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 10.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-03T21:30:00.000+00:00",
+        "id": 401772969
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4596448,
+        "name": "Bucky Irving"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 13.0,
+      "receptions": 1.0,
+      "rushing_attempts": 26.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 85.0,
+      "targets": 2.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-28T18:00:00.000+00:00",
+        "id": 401772916
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 12.0,
+      "player": {
+        "id": 4596448,
+        "name": "Bucky Irving"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 14.0,
+      "receptions": 5.0,
+      "rushing_attempts": 9.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 19.0,
+      "targets": 6.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772912
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 12.0,
+      "player": {
+        "id": 4596448,
+        "name": "Bucky Irving"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 19.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 71.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-12T01:15:00.000+00:00",
+        "id": 401772948
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 16.0,
+      "player": {
+        "id": 4596448,
+        "name": "Bucky Irving"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 11.0,
+      "receptions": 1.0,
+      "rushing_attempts": 16.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 60.0,
+      "targets": 3.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772792
+      },
+      "longest_reception": 24.0,
+      "longest_rush": 32.0,
+      "player": {
+        "id": 4596448,
+        "name": "Bucky Irving"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 26.0,
+      "receptions": 2.0,
+      "rushing_attempts": 15.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 55.0,
+      "targets": 3.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772895
+      },
+      "longest_reception": 20.0,
+      "longest_rush": 13.0,
+      "player": {
+        "id": 4596448,
+        "name": "Bucky Irving"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 20.0,
+      "receptions": 2.0,
+      "rushing_attempts": 17.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 61.0,
+      "targets": 2.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T17:00:00.000+00:00",
+        "id": 401772845
+      },
+      "longest_reception": 72.0,
+      "longest_rush": 15.0,
+      "player": {
+        "id": 4596448,
+        "name": "Bucky Irving"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 102.0,
+      "receptions": 5.0,
+      "rushing_attempts": 15.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 63.0,
+      "targets": 5.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772840
+      },
+      "longest_reception": 25.0,
+      "longest_rush": 16.0,
+      "player": {
+        "id": 4596448,
+        "name": "Bucky Irving"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 33.0,
+      "receptions": 4.0,
+      "rushing_attempts": 25.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 66.0,
+      "targets": 4.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-15T23:00:00.000+00:00",
+        "id": 401772715
+      },
+      "longest_reception": 22.0,
+      "longest_rush": 10.0,
+      "player": {
+        "id": 4596448,
+        "name": "Bucky Irving"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 50.0,
+      "receptions": 6.0,
+      "rushing_attempts": 17.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 71.0,
+      "targets": 6.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T17:00:00.000+00:00",
+        "id": 401772830
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4596448,
+        "name": "Bucky Irving"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 8.0,
+      "receptions": 4.0,
+      "rushing_attempts": 14.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 37.0,
+      "targets": 4.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-03T21:30:00.000+00:00",
+        "id": 401772969
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5097554,
+        "name": "Kameron Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-28T18:00:00.000+00:00",
+        "id": 401772916
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5097554,
+        "name": "Kameron Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772912
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5097554,
+        "name": "Kameron Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-12T01:15:00.000+00:00",
+        "id": 401772948
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5097554,
+        "name": "Kameron Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772792
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5097554,
+        "name": "Kameron Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772895
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5097554,
+        "name": "Kameron Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-24T01:20:00.000+00:00",
+        "id": 401772929
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5097554,
+        "name": "Kameron Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T18:00:00.000+00:00",
+        "id": 401772776
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5097554,
+        "name": "Kameron Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772772
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 11.0,
+      "player": {
+        "id": 5097554,
+        "name": "Kameron Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 11.0,
+      "targets": 1.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T20:05:00.000+00:00",
+        "id": 401772869
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5097554,
+        "name": "Kameron Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-20T23:00:00.000+00:00",
+        "id": 401772816
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5097554,
+        "name": "Kameron Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T20:25:00.000+00:00",
+        "id": 401772749
+      },
+      "longest_reception": 34.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5097554,
+        "name": "Kameron Johnson"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 64.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T20:05:00.000+00:00",
+        "id": 401772746
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 2.0,
+      "player": {
+        "id": 5097554,
+        "name": "Kameron Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 2.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T17:00:00.000+00:00",
+        "id": 401772845
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5097554,
+        "name": "Kameron Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772840
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5097554,
+        "name": "Kameron Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-15T23:00:00.000+00:00",
+        "id": 401772715
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5097554,
+        "name": "Kameron Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T17:00:00.000+00:00",
+        "id": 401772830
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5097554,
+        "name": "Kameron Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-03T21:30:00.000+00:00",
+        "id": 401772969
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 5.0,
+      "player": {
+        "id": 4608810,
+        "name": "Tez Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 17.0,
+      "receptions": 1.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 5.0,
+      "targets": 1.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-28T18:00:00.000+00:00",
+        "id": 401772916
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4608810,
+        "name": "Tez Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 19.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772912
+      },
+      "longest_reception": -1.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4608810,
+        "name": "Tez Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": -1.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-12T01:15:00.000+00:00",
+        "id": 401772948
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4608810,
+        "name": "Tez Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772792
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4608810,
+        "name": "Tez Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772895
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4608810,
+        "name": "Tez Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-24T01:20:00.000+00:00",
+        "id": 401772929
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4608810,
+        "name": "Tez Johnson"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 21.0,
+      "receptions": 3.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 12.0,
+      "targets": 4.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T18:00:00.000+00:00",
+        "id": 401772776
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4608810,
+        "name": "Tez Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 1.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772772
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4608810,
+        "name": "Tez Johnson"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 42.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T20:05:00.000+00:00",
+        "id": 401772869
+      },
+      "longest_reception": 16.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4608810,
+        "name": "Tez Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 43.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-20T23:00:00.000+00:00",
+        "id": 401772816
+      },
+      "longest_reception": 22.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4608810,
+        "name": "Tez Johnson"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 58.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T20:25:00.000+00:00",
+        "id": 401772749
+      },
+      "longest_reception": 45.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4608810,
+        "name": "Tez Johnson"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 45.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T20:05:00.000+00:00",
+        "id": 401772746
+      },
+      "longest_reception": 27.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4608810,
+        "name": "Tez Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 59.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T17:00:00.000+00:00",
+        "id": 401772845
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 5.0,
+      "player": {
+        "id": 4608810,
+        "name": "Tez Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 5.0,
+      "targets": 1.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772840
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4608810,
+        "name": "Tez Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T17:00:00.000+00:00",
+        "id": 401772830
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4608810,
+        "name": "Tez Johnson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772840
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4034779,
+        "name": "Ko Kieft"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-15T23:00:00.000+00:00",
+        "id": 401772715
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4034779,
+        "name": "Ko Kieft"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T17:00:00.000+00:00",
+        "id": 401772830
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4034779,
+        "name": "Ko Kieft"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "completions": 16.0,
+      "game": {
+        "date": "2026-01-03T21:30:00.000+00:00",
+        "id": 401772969
+      },
+      "longest_rush": 11.0,
+      "passing_attempts": 22.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 203.0,
+      "player": {
+        "id": 3052587,
+        "name": "Baker Mayfield"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 31.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "completions": 33.0,
+      "game": {
+        "date": "2025-12-28T18:00:00.000+00:00",
+        "id": 401772916
+      },
+      "longest_rush": 11.0,
+      "passing_attempts": 44.0,
+      "passing_interceptions": 2.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 346.0,
+      "player": {
+        "id": 3052587,
+        "name": "Baker Mayfield"
+      },
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 16.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "completions": 18.0,
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772912
+      },
+      "longest_rush": 26.0,
+      "passing_attempts": 26.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 145.0,
+      "player": {
+        "id": 3052587,
+        "name": "Baker Mayfield"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 49.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "completions": 19.0,
+      "game": {
+        "date": "2025-12-12T01:15:00.000+00:00",
+        "id": 401772948
+      },
+      "longest_rush": 1.0,
+      "passing_attempts": 34.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 277.0,
+      "player": {
+        "id": 3052587,
+        "name": "Baker Mayfield"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "completions": 14.0,
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772792
+      },
+      "longest_rush": 16.0,
+      "passing_attempts": 30.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 122.0,
+      "player": {
+        "id": 3052587,
+        "name": "Baker Mayfield"
+      },
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 42.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "completions": 18.0,
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772895
+      },
+      "longest_rush": 21.0,
+      "passing_attempts": 28.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 194.0,
+      "player": {
+        "id": 3052587,
+        "name": "Baker Mayfield"
+      },
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 27.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "completions": 9.0,
+      "game": {
+        "date": "2025-11-24T01:20:00.000+00:00",
+        "id": 401772929
+      },
+      "longest_rush": 9.0,
+      "passing_attempts": 19.0,
+      "passing_interceptions": 2.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 41.0,
+      "player": {
+        "id": 3052587,
+        "name": "Baker Mayfield"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 19.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "completions": 16.0,
+      "game": {
+        "date": "2025-11-16T18:00:00.000+00:00",
+        "id": 401772776
+      },
+      "longest_rush": 13.0,
+      "passing_attempts": 28.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 173.0,
+      "player": {
+        "id": 3052587,
+        "name": "Baker Mayfield"
+      },
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 39.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "completions": 28.0,
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772772
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 43.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 3.0,
+      "passing_yards": 273.0,
+      "player": {
+        "id": 3052587,
+        "name": "Baker Mayfield"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "completions": 15.0,
+      "game": {
+        "date": "2025-10-26T20:05:00.000+00:00",
+        "id": 401772869
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 24.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 152.0,
+      "player": {
+        "id": 3052587,
+        "name": "Baker Mayfield"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "completions": 28.0,
+      "game": {
+        "date": "2025-10-20T23:00:00.000+00:00",
+        "id": 401772816
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 50.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 228.0,
+      "player": {
+        "id": 3052587,
+        "name": "Baker Mayfield"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "completions": 17.0,
+      "game": {
+        "date": "2025-10-12T20:25:00.000+00:00",
+        "id": 401772749
+      },
+      "longest_rush": 15.0,
+      "passing_attempts": 23.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 256.0,
+      "player": {
+        "id": 3052587,
+        "name": "Baker Mayfield"
+      },
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 14.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "completions": 29.0,
+      "game": {
+        "date": "2025-10-05T20:05:00.000+00:00",
+        "id": 401772746
+      },
+      "longest_rush": 8.0,
+      "passing_attempts": 33.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 379.0,
+      "player": {
+        "id": 3052587,
+        "name": "Baker Mayfield"
+      },
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 15.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "completions": 22.0,
+      "game": {
+        "date": "2025-09-28T17:00:00.000+00:00",
+        "id": 401772845
+      },
+      "longest_rush": 7.0,
+      "passing_attempts": 40.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 289.0,
+      "player": {
+        "id": 3052587,
+        "name": "Baker Mayfield"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 13.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "completions": 19.0,
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772840
+      },
+      "longest_rush": 33.0,
+      "passing_attempts": 29.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 233.0,
+      "player": {
+        "id": 3052587,
+        "name": "Baker Mayfield"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 44.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "completions": 25.0,
+      "game": {
+        "date": "2025-09-15T23:00:00.000+00:00",
+        "id": 401772715
+      },
+      "longest_rush": 16.0,
+      "passing_attempts": 38.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 215.0,
+      "player": {
+        "id": 3052587,
+        "name": "Baker Mayfield"
+      },
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 33.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "completions": 17.0,
+      "game": {
+        "date": "2025-09-07T17:00:00.000+00:00",
+        "id": 401772830
+      },
+      "longest_rush": 20.0,
+      "passing_attempts": 32.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 3.0,
+      "passing_yards": 167.0,
+      "player": {
+        "id": 3052587,
+        "name": "Baker Mayfield"
+      },
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 39.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-03T21:30:00.000+00:00",
+        "id": 401772969
+      },
+      "longest_reception": 22.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4243331,
+        "name": "Cade Otton"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 94.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-28T18:00:00.000+00:00",
+        "id": 401772916
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4243331,
+        "name": "Cade Otton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 33.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772912
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4243331,
+        "name": "Cade Otton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 15.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772792
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4243331,
+        "name": "Cade Otton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 19.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772895
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4243331,
+        "name": "Cade Otton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-24T01:20:00.000+00:00",
+        "id": 401772929
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4243331,
+        "name": "Cade Otton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 21.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T18:00:00.000+00:00",
+        "id": 401772776
+      },
+      "longest_reception": 19.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4243331,
+        "name": "Cade Otton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 28.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772772
+      },
+      "longest_reception": 16.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4243331,
+        "name": "Cade Otton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 82.0,
+      "receptions": 9.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 12.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T20:05:00.000+00:00",
+        "id": 401772869
+      },
+      "longest_reception": 21.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4243331,
+        "name": "Cade Otton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 40.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-20T23:00:00.000+00:00",
+        "id": 401772816
+      },
+      "longest_reception": 20.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4243331,
+        "name": "Cade Otton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 65.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T20:25:00.000+00:00",
+        "id": 401772749
+      },
+      "longest_reception": 23.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4243331,
+        "name": "Cade Otton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 51.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T20:05:00.000+00:00",
+        "id": 401772746
+      },
+      "longest_reception": 27.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4243331,
+        "name": "Cade Otton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 81.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T17:00:00.000+00:00",
+        "id": 401772845
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4243331,
+        "name": "Cade Otton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772840
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4243331,
+        "name": "Cade Otton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-15T23:00:00.000+00:00",
+        "id": 401772715
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4243331,
+        "name": "Cade Otton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 25.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T17:00:00.000+00:00",
+        "id": 401772830
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4243331,
+        "name": "Cade Otton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-03T21:30:00.000+00:00",
+        "id": 401772969
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 3.0,
+      "player": {
+        "id": 4430871,
+        "name": "Sean Tucker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -4.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-28T18:00:00.000+00:00",
+        "id": 401772916
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4430871,
+        "name": "Sean Tucker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 8.0,
+      "targets": 1.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772912
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 3.0,
+      "player": {
+        "id": 4430871,
+        "name": "Sean Tucker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 3.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-12T01:15:00.000+00:00",
+        "id": 401772948
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4430871,
+        "name": "Sean Tucker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 7.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772792
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 13.0,
+      "player": {
+        "id": 4430871,
+        "name": "Sean Tucker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 29.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772895
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 2.0,
+      "player": {
+        "id": 4430871,
+        "name": "Sean Tucker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-24T01:20:00.000+00:00",
+        "id": 401772929
+      },
+      "longest_reception": 4.0,
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4430871,
+        "name": "Sean Tucker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 12.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 42.0,
+      "targets": 2.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T18:00:00.000+00:00",
+        "id": 401772776
+      },
+      "longest_reception": 28.0,
+      "longest_rush": 43.0,
+      "player": {
+        "id": 4430871,
+        "name": "Sean Tucker"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 34.0,
+      "receptions": 2.0,
+      "rushing_attempts": 19.0,
+      "rushing_touchdowns": 2.0,
+      "rushing_yards": 106.0,
+      "targets": 2.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772772
+      },
+      "longest_reception": -2.0,
+      "longest_rush": 18.0,
+      "player": {
+        "id": 4430871,
+        "name": "Sean Tucker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": -2.0,
+      "receptions": 1.0,
+      "rushing_attempts": 9.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 53.0,
+      "targets": 2.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T20:05:00.000+00:00",
+        "id": 401772869
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 15.0,
+      "player": {
+        "id": 4430871,
+        "name": "Sean Tucker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 12.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 42.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-20T23:00:00.000+00:00",
+        "id": 401772816
+      },
+      "longest_reception": 2.0,
+      "longest_rush": 4.0,
+      "player": {
+        "id": 4430871,
+        "name": "Sean Tucker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 2.0,
+      "receptions": 1.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 4.0,
+      "targets": 1.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T20:25:00.000+00:00",
+        "id": 401772749
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4430871,
+        "name": "Sean Tucker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 25.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T20:05:00.000+00:00",
+        "id": 401772746
+      },
+      "longest_reception": 3.0,
+      "longest_rush": 3.0,
+      "player": {
+        "id": 4430871,
+        "name": "Sean Tucker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": -4.0,
+      "receptions": 3.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 3.0,
+      "targets": 3.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T17:00:00.000+00:00",
+        "id": 401772845
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430871,
+        "name": "Sean Tucker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772840
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430871,
+        "name": "Sean Tucker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-15T23:00:00.000+00:00",
+        "id": 401772715
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430871,
+        "name": "Sean Tucker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T17:00:00.000+00:00",
+        "id": 401772830
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 2.0,
+      "player": {
+        "id": 4430871,
+        "name": "Sean Tucker"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 2.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772772
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4568024,
+        "name": "Josh Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T20:05:00.000+00:00",
+        "id": 401772869
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 4.0,
+      "player": {
+        "id": 4568024,
+        "name": "Josh Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 11.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T20:05:00.000+00:00",
+        "id": 401772746
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4568024,
+        "name": "Josh Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-03T21:30:00.000+00:00",
+        "id": 401772969
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430834,
+        "name": "Jalen McMillan"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 11.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-28T18:00:00.000+00:00",
+        "id": 401772916
+      },
+      "longest_reception": 33.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430834,
+        "name": "Jalen McMillan"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 114.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772912
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 1.0,
+      "player": {
+        "id": 4430834,
+        "name": "Jalen McMillan"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 15.0,
+      "receptions": 2.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "targets": 3.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-12T01:15:00.000+00:00",
+        "id": 401772948
+      },
+      "longest_reception": 19.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430834,
+        "name": "Jalen McMillan"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 38.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T21:25:00.000+00:00",
+        "id": 401772958
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4596545,
+        "name": "CJ Dippre"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 17,
+        "name": "New England Patriots"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-28T18:00:00.000+00:00",
+        "id": 401772808
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4596545,
+        "name": "CJ Dippre"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 17,
+        "name": "New England Patriots"
+      }
+    },
+    {
+      "completions": 11.0,
+      "game": {
+        "date": "2025-10-12T17:00:00.000+00:00",
+        "id": 401772855
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 19.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 72.0,
+      "player": {
+        "id": 2972515,
+        "name": "Cooper Rush"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 33,
+        "name": "Baltimore Ravens"
+      }
+    },
+    {
+      "completions": 14.0,
+      "game": {
+        "date": "2025-10-05T17:00:00.000+00:00",
+        "id": 401772743
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 20.0,
+      "passing_interceptions": 3.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 179.0,
+      "player": {
+        "id": 2972515,
+        "name": "Cooper Rush"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 33,
+        "name": "Baltimore Ravens"
+      }
+    },
+    {
+      "completions": 9.0,
+      "game": {
+        "date": "2025-09-28T20:25:00.000+00:00",
+        "id": 401772741
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 13.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 52.0,
+      "player": {
+        "id": 2972515,
+        "name": "Cooper Rush"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 33,
+        "name": "Baltimore Ravens"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2025-09-14T17:00:00.000+00:00",
+        "id": 401772726
+      },
+      "longest_rush": -1.0,
+      "passing_attempts": 0.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 2972515,
+        "name": "Cooper Rush"
+      },
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -4.0,
+      "team": {
+        "id": 33,
+        "name": "Baltimore Ravens"
+      }
+    }
+  ],
+  "results": 169
+}

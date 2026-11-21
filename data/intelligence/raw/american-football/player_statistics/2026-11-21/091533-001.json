@@ -1,0 +1,4543 @@
+{
+  "errors": [],
+  "get": "players/statistics",
+  "parameters": {
+    "season": "2025",
+    "source": "espn-fallback",
+    "team": "New York Jets"
+  },
+  "response": [
+    {
+      "game": {
+        "date": "2025-09-29T23:15:00.000+00:00",
+        "id": 401772813
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 15.0,
+      "player": {
+        "id": 4685247,
+        "name": "Braelon Allen"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 26.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772840
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4685247,
+        "name": "Braelon Allen"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 17.0,
+      "receptions": 2.0,
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 30.0,
+      "targets": 2.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-14T17:00:00.000+00:00",
+        "id": 401772727
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4685247,
+        "name": "Braelon Allen"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 11.0,
+      "targets": 1.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T17:00:00.000+00:00",
+        "id": 401772721
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4685247,
+        "name": "Braelon Allen"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 9.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T21:25:00.000+00:00",
+        "id": 401772967
+      },
+      "longest_reception": 2.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3125107,
+        "name": "Andrew Beck"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 2.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-28T18:00:00.000+00:00",
+        "id": 401772808
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3125107,
+        "name": "Andrew Beck"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772801
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3125107,
+        "name": "Andrew Beck"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T18:00:00.000+00:00",
+        "id": 401772797
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 5.0,
+      "player": {
+        "id": 3125107,
+        "name": "Andrew Beck"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 5.0,
+      "targets": 1.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772790
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3125107,
+        "name": "Andrew Beck"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 17.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772893
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3125107,
+        "name": "Andrew Beck"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-23T18:00:00.000+00:00",
+        "id": 401772782
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3125107,
+        "name": "Andrew Beck"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 10.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-14T01:15:00.000+00:00",
+        "id": 401772945
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3125107,
+        "name": "Andrew Beck"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772769
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3125107,
+        "name": "Andrew Beck"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T17:00:00.000+00:00",
+        "id": 401772758
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3125107,
+        "name": "Andrew Beck"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-19T17:00:00.000+00:00",
+        "id": 401772860
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3125107,
+        "name": "Andrew Beck"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T13:30:00.000+00:00",
+        "id": 401772634
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3125107,
+        "name": "Andrew Beck"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T17:00:00.000+00:00",
+        "id": 401772850
+      },
+      "longest_reception": 1.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3125107,
+        "name": "Andrew Beck"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 1.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-29T23:15:00.000+00:00",
+        "id": 401772813
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3125107,
+        "name": "Andrew Beck"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772840
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3125107,
+        "name": "Andrew Beck"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-14T17:00:00.000+00:00",
+        "id": 401772727
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3125107,
+        "name": "Andrew Beck"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T17:00:00.000+00:00",
+        "id": 401772721
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3125107,
+        "name": "Andrew Beck"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-28T18:00:00.000+00:00",
+        "id": 401772808
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 12.0,
+      "player": {
+        "id": 4695404,
+        "name": "Isaiah Davis"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 11.0,
+      "targets": 1.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772801
+      },
+      "longest_reception": 25.0,
+      "longest_rush": 5.0,
+      "player": {
+        "id": 4695404,
+        "name": "Isaiah Davis"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 52.0,
+      "receptions": 4.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 8.0,
+      "targets": 4.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T18:00:00.000+00:00",
+        "id": 401772797
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 24.0,
+      "player": {
+        "id": 4695404,
+        "name": "Isaiah Davis"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 9.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 58.0,
+      "targets": 1.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772790
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 19.0,
+      "player": {
+        "id": 4695404,
+        "name": "Isaiah Davis"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 22.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772893
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4695404,
+        "name": "Isaiah Davis"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-23T18:00:00.000+00:00",
+        "id": 401772782
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 2.0,
+      "player": {
+        "id": 4695404,
+        "name": "Isaiah Davis"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 7.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-14T01:15:00.000+00:00",
+        "id": 401772945
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 7.0,
+      "player": {
+        "id": 4695404,
+        "name": "Isaiah Davis"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 11.0,
+      "targets": 1.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772769
+      },
+      "longest_reception": 1.0,
+      "longest_rush": 10.0,
+      "player": {
+        "id": 4695404,
+        "name": "Isaiah Davis"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 1.0,
+      "receptions": 1.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 10.0,
+      "targets": 1.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T17:00:00.000+00:00",
+        "id": 401772758
+      },
+      "longest_reception": 26.0,
+      "longest_rush": 50.0,
+      "player": {
+        "id": 4695404,
+        "name": "Isaiah Davis"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 44.0,
+      "receptions": 5.0,
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 65.0,
+      "targets": 5.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-19T17:00:00.000+00:00",
+        "id": 401772860
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 5.0,
+      "player": {
+        "id": 4695404,
+        "name": "Isaiah Davis"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 22.0,
+      "receptions": 2.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 10.0,
+      "targets": 4.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T13:30:00.000+00:00",
+        "id": 401772634
+      },
+      "longest_reception": -1.0,
+      "longest_rush": 2.0,
+      "player": {
+        "id": 4695404,
+        "name": "Isaiah Davis"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": -1.0,
+      "receptions": 1.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 2.0,
+      "targets": 1.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T17:00:00.000+00:00",
+        "id": 401772850
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 5.0,
+      "player": {
+        "id": 4695404,
+        "name": "Isaiah Davis"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 28.0,
+      "receptions": 3.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 5.0,
+      "targets": 4.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-29T23:15:00.000+00:00",
+        "id": 401772813
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4695404,
+        "name": "Isaiah Davis"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 18.0,
+      "receptions": 2.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 9.0,
+      "targets": 2.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772840
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4695404,
+        "name": "Isaiah Davis"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-14T17:00:00.000+00:00",
+        "id": 401772727
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4695404,
+        "name": "Isaiah Davis"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T17:00:00.000+00:00",
+        "id": 401772721
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 15.0,
+      "player": {
+        "id": 4695404,
+        "name": "Isaiah Davis"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 18.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-28T18:00:00.000+00:00",
+        "id": 401772808
+      },
+      "longest_reception": 21.0,
+      "longest_rush": 59.0,
+      "player": {
+        "id": 4427366,
+        "name": "Breece Hall"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 18.0,
+      "receptions": 2.0,
+      "rushing_attempts": 14.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 111.0,
+      "targets": 3.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772801
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 7.0,
+      "player": {
+        "id": 4427366,
+        "name": "Breece Hall"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 2.0,
+      "rushing_attempts": 16.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 54.0,
+      "targets": 3.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T18:00:00.000+00:00",
+        "id": 401772797
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 13.0,
+      "player": {
+        "id": 4427366,
+        "name": "Breece Hall"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 14.0,
+      "receptions": 2.0,
+      "rushing_attempts": 12.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 23.0,
+      "targets": 2.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772790
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 11.0,
+      "player": {
+        "id": 4427366,
+        "name": "Breece Hall"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 14.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 43.0,
+      "targets": 1.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772893
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4427366,
+        "name": "Breece Hall"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 2.0,
+      "rushing_attempts": 19.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 68.0,
+      "targets": 2.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-23T18:00:00.000+00:00",
+        "id": 401772782
+      },
+      "longest_reception": 40.0,
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4427366,
+        "name": "Breece Hall"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 75.0,
+      "receptions": 4.0,
+      "rushing_attempts": 16.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 44.0,
+      "targets": 4.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-14T01:15:00.000+00:00",
+        "id": 401772945
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 11.0,
+      "player": {
+        "id": 4427366,
+        "name": "Breece Hall"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 2.0,
+      "rushing_attempts": 14.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 58.0,
+      "targets": 2.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772769
+      },
+      "longest_reception": 42.0,
+      "longest_rush": 30.0,
+      "player": {
+        "id": 4427366,
+        "name": "Breece Hall"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 42.0,
+      "receptions": 1.0,
+      "rushing_attempts": 21.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 83.0,
+      "targets": 1.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T17:00:00.000+00:00",
+        "id": 401772758
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 35.0,
+      "player": {
+        "id": 4427366,
+        "name": "Breece Hall"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 14.0,
+      "receptions": 2.0,
+      "rushing_attempts": 18.0,
+      "rushing_touchdowns": 2.0,
+      "rushing_yards": 133.0,
+      "targets": 3.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-19T17:00:00.000+00:00",
+        "id": 401772860
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4427366,
+        "name": "Breece Hall"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 14.0,
+      "receptions": 2.0,
+      "rushing_attempts": 11.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 38.0,
+      "targets": 3.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T13:30:00.000+00:00",
+        "id": 401772634
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4427366,
+        "name": "Breece Hall"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 22.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 59.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T17:00:00.000+00:00",
+        "id": 401772850
+      },
+      "longest_reception": 16.0,
+      "longest_rush": 22.0,
+      "player": {
+        "id": 4427366,
+        "name": "Breece Hall"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 42.0,
+      "receptions": 4.0,
+      "rushing_attempts": 14.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 113.0,
+      "targets": 5.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-29T23:15:00.000+00:00",
+        "id": 401772813
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 23.0,
+      "player": {
+        "id": 4427366,
+        "name": "Breece Hall"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 30.0,
+      "receptions": 5.0,
+      "rushing_attempts": 14.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 81.0,
+      "targets": 6.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772840
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 17.0,
+      "player": {
+        "id": 4427366,
+        "name": "Breece Hall"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 31.0,
+      "receptions": 4.0,
+      "rushing_attempts": 9.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 21.0,
+      "targets": 6.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-14T17:00:00.000+00:00",
+        "id": 401772727
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 12.0,
+      "player": {
+        "id": 4427366,
+        "name": "Breece Hall"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 2.0,
+      "rushing_attempts": 10.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 29.0,
+      "targets": 3.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T17:00:00.000+00:00",
+        "id": 401772721
+      },
+      "longest_reception": 33.0,
+      "longest_rush": 18.0,
+      "player": {
+        "id": 4427366,
+        "name": "Breece Hall"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 38.0,
+      "receptions": 2.0,
+      "rushing_attempts": 19.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 107.0,
+      "targets": 4.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T21:25:00.000+00:00",
+        "id": 401772967
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4597500,
+        "name": "Adonai Mitchell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-28T18:00:00.000+00:00",
+        "id": 401772808
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4597500,
+        "name": "Adonai Mitchell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 22.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772801
+      },
+      "longest_reception": 26.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4597500,
+        "name": "Adonai Mitchell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 43.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T18:00:00.000+00:00",
+        "id": 401772797
+      },
+      "longest_reception": 21.0,
+      "longest_rush": -4.0,
+      "player": {
+        "id": 4597500,
+        "name": "Adonai Mitchell"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 58.0,
+      "receptions": 6.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -4.0,
+      "targets": 9.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772790
+      },
+      "longest_reception": 24.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4597500,
+        "name": "Adonai Mitchell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 24.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772893
+      },
+      "longest_reception": 52.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4597500,
+        "name": "Adonai Mitchell"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 102.0,
+      "receptions": 8.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 12.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-23T18:00:00.000+00:00",
+        "id": 401772782
+      },
+      "longest_reception": 26.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4597500,
+        "name": "Adonai Mitchell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 42.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-14T01:15:00.000+00:00",
+        "id": 401772945
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4597500,
+        "name": "Adonai Mitchell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 10.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T18:00:00.000+00:00",
+        "id": 401772766
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4597500,
+        "name": "Adonai Mitchell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 11,
+        "name": "Indianapolis Colts"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T20:25:00.000+00:00",
+        "id": 401772761
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4597500,
+        "name": "Adonai Mitchell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 11,
+        "name": "Indianapolis Colts"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-19T20:05:00.000+00:00",
+        "id": 401772756
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4597500,
+        "name": "Adonai Mitchell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 11,
+        "name": "Indianapolis Colts"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T17:00:00.000+00:00",
+        "id": 401772851
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4597500,
+        "name": "Adonai Mitchell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 11,
+        "name": "Indianapolis Colts"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T20:05:00.000+00:00",
+        "id": 401772849
+      },
+      "longest_reception": 75.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4597500,
+        "name": "Adonai Mitchell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 96.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 11,
+        "name": "Indianapolis Colts"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772733
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4597500,
+        "name": "Adonai Mitchell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 11,
+        "name": "Indianapolis Colts"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-14T20:05:00.000+00:00",
+        "id": 401772729
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4597500,
+        "name": "Adonai Mitchell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 20.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 11,
+        "name": "Indianapolis Colts"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T17:00:00.000+00:00",
+        "id": 401772719
+      },
+      "longest_reception": 18.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4597500,
+        "name": "Adonai Mitchell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 21.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 11,
+        "name": "Indianapolis Colts"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T21:25:00.000+00:00",
+        "id": 401772967
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4035537,
+        "name": "Kene Nwangwu"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 18.0,
+      "targets": 1.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-28T18:00:00.000+00:00",
+        "id": 401772808
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 16.0,
+      "player": {
+        "id": 4035537,
+        "name": "Kene Nwangwu"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 31.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772801
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4035537,
+        "name": "Kene Nwangwu"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T18:00:00.000+00:00",
+        "id": 401772797
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4035537,
+        "name": "Kene Nwangwu"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772790
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4035537,
+        "name": "Kene Nwangwu"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772893
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4035537,
+        "name": "Kene Nwangwu"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-23T18:00:00.000+00:00",
+        "id": 401772782
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4035537,
+        "name": "Kene Nwangwu"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-14T01:15:00.000+00:00",
+        "id": 401772945
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4035537,
+        "name": "Kene Nwangwu"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772769
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4035537,
+        "name": "Kene Nwangwu"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-19T17:00:00.000+00:00",
+        "id": 401772860
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4035537,
+        "name": "Kene Nwangwu"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T13:30:00.000+00:00",
+        "id": 401772634
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4035537,
+        "name": "Kene Nwangwu"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T17:00:00.000+00:00",
+        "id": 401772721
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4035537,
+        "name": "Kene Nwangwu"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T21:25:00.000+00:00",
+        "id": 401772967
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361372,
+        "name": "Jeremy Ruckert"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-28T18:00:00.000+00:00",
+        "id": 401772808
+      },
+      "longest_reception": 2.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361372,
+        "name": "Jeremy Ruckert"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 2.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772801
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361372,
+        "name": "Jeremy Ruckert"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 14.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T18:00:00.000+00:00",
+        "id": 401772797
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361372,
+        "name": "Jeremy Ruckert"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 13.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772790
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361372,
+        "name": "Jeremy Ruckert"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 19.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772893
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361372,
+        "name": "Jeremy Ruckert"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 12.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-23T18:00:00.000+00:00",
+        "id": 401772782
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361372,
+        "name": "Jeremy Ruckert"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-14T01:15:00.000+00:00",
+        "id": 401772945
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361372,
+        "name": "Jeremy Ruckert"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 23.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772769
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361372,
+        "name": "Jeremy Ruckert"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T17:00:00.000+00:00",
+        "id": 401772758
+      },
+      "longest_reception": 24.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361372,
+        "name": "Jeremy Ruckert"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 24.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-19T17:00:00.000+00:00",
+        "id": 401772860
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361372,
+        "name": "Jeremy Ruckert"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T13:30:00.000+00:00",
+        "id": 401772634
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361372,
+        "name": "Jeremy Ruckert"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T17:00:00.000+00:00",
+        "id": 401772850
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361372,
+        "name": "Jeremy Ruckert"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 28.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-29T23:15:00.000+00:00",
+        "id": 401772813
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361372,
+        "name": "Jeremy Ruckert"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 23.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772840
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361372,
+        "name": "Jeremy Ruckert"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-14T17:00:00.000+00:00",
+        "id": 401772727
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361372,
+        "name": "Jeremy Ruckert"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T17:00:00.000+00:00",
+        "id": 401772721
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361372,
+        "name": "Jeremy Ruckert"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 16.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772792
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2976592,
+        "name": "Sterling Shepard"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772895
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2976592,
+        "name": "Sterling Shepard"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-24T01:20:00.000+00:00",
+        "id": 401772929
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2976592,
+        "name": "Sterling Shepard"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 12.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T18:00:00.000+00:00",
+        "id": 401772776
+      },
+      "longest_reception": 24.0,
+      "longest_rush": 7.0,
+      "player": {
+        "id": 2976592,
+        "name": "Sterling Shepard"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 54.0,
+      "receptions": 4.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 7.0,
+      "targets": 5.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772772
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 11.0,
+      "player": {
+        "id": 2976592,
+        "name": "Sterling Shepard"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 20.0,
+      "receptions": 3.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 11.0,
+      "targets": 4.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T20:05:00.000+00:00",
+        "id": 401772869
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2976592,
+        "name": "Sterling Shepard"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-20T23:00:00.000+00:00",
+        "id": 401772816
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2976592,
+        "name": "Sterling Shepard"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 25.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T20:25:00.000+00:00",
+        "id": 401772749
+      },
+      "longest_reception": 36.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2976592,
+        "name": "Sterling Shepard"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 51.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T20:05:00.000+00:00",
+        "id": 401772746
+      },
+      "longest_reception": 11.0,
+      "longest_rush": -5.0,
+      "player": {
+        "id": 2976592,
+        "name": "Sterling Shepard"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 24.0,
+      "receptions": 4.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -5.0,
+      "targets": 5.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T17:00:00.000+00:00",
+        "id": 401772845
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 6.0,
+      "player": {
+        "id": 2976592,
+        "name": "Sterling Shepard"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 14.0,
+      "receptions": 2.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 6.0,
+      "targets": 4.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772840
+      },
+      "longest_reception": 24.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2976592,
+        "name": "Sterling Shepard"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 80.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-15T23:00:00.000+00:00",
+        "id": 401772715
+      },
+      "longest_reception": 15.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2976592,
+        "name": "Sterling Shepard"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 34.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T17:00:00.000+00:00",
+        "id": 401772830
+      },
+      "longest_reception": 19.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2976592,
+        "name": "Sterling Shepard"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 39.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "completions": 20.0,
+      "game": {
+        "date": "2025-12-28T21:05:00.000+00:00",
+        "id": 401772950
+      },
+      "longest_rush": 1.0,
+      "passing_attempts": 28.0,
+      "passing_interceptions": 2.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 176.0,
+      "player": {
+        "id": 15864,
+        "name": "Geno Smith"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "completions": 16.0,
+      "game": {
+        "date": "2025-12-21T21:25:00.000+00:00",
+        "id": 401772805
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 23.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 201.0,
+      "player": {
+        "id": 15864,
+        "name": "Geno Smith"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "completions": 13.0,
+      "game": {
+        "date": "2025-12-07T21:05:00.000+00:00",
+        "id": 401772794
+      },
+      "longest_rush": 4.0,
+      "passing_attempts": 21.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 116.0,
+      "player": {
+        "id": 15864,
+        "name": "Geno Smith"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 4.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "completions": 18.0,
+      "game": {
+        "date": "2025-11-30T21:25:00.000+00:00",
+        "id": 401772788
+      },
+      "longest_rush": -1.0,
+      "passing_attempts": 23.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 165.0,
+      "player": {
+        "id": 15864,
+        "name": "Geno Smith"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -6.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "completions": 30.0,
+      "game": {
+        "date": "2025-11-23T21:05:00.000+00:00",
+        "id": 401772784
+      },
+      "longest_rush": 9.0,
+      "passing_attempts": 44.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 285.0,
+      "player": {
+        "id": 15864,
+        "name": "Geno Smith"
+      },
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 8.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "completions": 27.0,
+      "game": {
+        "date": "2025-11-18T01:15:00.000+00:00",
+        "id": 401772819
+      },
+      "longest_rush": 7.0,
+      "passing_attempts": 42.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 238.0,
+      "player": {
+        "id": 15864,
+        "name": "Geno Smith"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 14.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "completions": 16.0,
+      "game": {
+        "date": "2025-11-07T01:15:00.000+00:00",
+        "id": 401772944
+      },
+      "longest_rush": 6.0,
+      "passing_attempts": 26.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 143.0,
+      "player": {
+        "id": 15864,
+        "name": "Geno Smith"
+      },
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 7.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "completions": 29.0,
+      "game": {
+        "date": "2025-11-02T21:05:00.000+00:00",
+        "id": 401772873
+      },
+      "longest_rush": 4.0,
+      "passing_attempts": 39.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 4.0,
+      "passing_yards": 284.0,
+      "player": {
+        "id": 15864,
+        "name": "Geno Smith"
+      },
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 9.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "completions": 10.0,
+      "game": {
+        "date": "2025-10-19T17:00:00.000+00:00",
+        "id": 401772753
+      },
+      "longest_rush": 1.0,
+      "passing_attempts": 16.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 67.0,
+      "player": {
+        "id": 15864,
+        "name": "Geno Smith"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "completions": 17.0,
+      "game": {
+        "date": "2025-10-12T20:05:00.000+00:00",
+        "id": 401772859
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 23.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 174.0,
+      "player": {
+        "id": 15864,
+        "name": "Geno Smith"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -3.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "completions": 25.0,
+      "game": {
+        "date": "2025-10-05T17:00:00.000+00:00",
+        "id": 401772851
+      },
+      "longest_rush": 5.0,
+      "passing_attempts": 36.0,
+      "passing_interceptions": 2.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 228.0,
+      "player": {
+        "id": 15864,
+        "name": "Geno Smith"
+      },
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 8.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "completions": 14.0,
+      "game": {
+        "date": "2025-09-28T20:25:00.000+00:00",
+        "id": 401772742
+      },
+      "longest_rush": 20.0,
+      "passing_attempts": 21.0,
+      "passing_interceptions": 3.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 117.0,
+      "player": {
+        "id": 15864,
+        "name": "Geno Smith"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 31.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "completions": 19.0,
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772841
+      },
+      "longest_rush": 3.0,
+      "passing_attempts": 29.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 3.0,
+      "passing_yards": 289.0,
+      "player": {
+        "id": 15864,
+        "name": "Geno Smith"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 5.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "completions": 24.0,
+      "game": {
+        "date": "2025-09-16T02:00:00.000+00:00",
+        "id": 401772811
+      },
+      "longest_rush": 15.0,
+      "passing_attempts": 43.0,
+      "passing_interceptions": 3.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 180.0,
+      "player": {
+        "id": 15864,
+        "name": "Geno Smith"
+      },
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 20.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "completions": 24.0,
+      "game": {
+        "date": "2025-09-07T17:00:00.000+00:00",
+        "id": 401772720
+      },
+      "longest_rush": 11.0,
+      "passing_attempts": 34.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 362.0,
+      "player": {
+        "id": 15864,
+        "name": "Geno Smith"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 10.0,
+      "team": {
+        "id": 13,
+        "name": "Las Vegas Raiders"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772790
+      },
+      "longest_reception": 15.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4808766,
+        "name": "Mason Taylor"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 51.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772893
+      },
+      "longest_reception": 15.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4808766,
+        "name": "Mason Taylor"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 21.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-23T18:00:00.000+00:00",
+        "id": 401772782
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4808766,
+        "name": "Mason Taylor"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 21.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-14T01:15:00.000+00:00",
+        "id": 401772945
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4808766,
+        "name": "Mason Taylor"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 30.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772769
+      },
+      "longest_reception": 4.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4808766,
+        "name": "Mason Taylor"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T17:00:00.000+00:00",
+        "id": 401772758
+      },
+      "longest_reception": 15.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4808766,
+        "name": "Mason Taylor"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 34.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-19T17:00:00.000+00:00",
+        "id": 401772860
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4808766,
+        "name": "Mason Taylor"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 31.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T13:30:00.000+00:00",
+        "id": 401772634
+      },
+      "longest_reception": 2.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4808766,
+        "name": "Mason Taylor"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 2.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T17:00:00.000+00:00",
+        "id": 401772850
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4808766,
+        "name": "Mason Taylor"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 67.0,
+      "receptions": 9.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 12.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-29T23:15:00.000+00:00",
+        "id": 401772813
+      },
+      "longest_reception": 27.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4808766,
+        "name": "Mason Taylor"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 65.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772840
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4808766,
+        "name": "Mason Taylor"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 18.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-14T17:00:00.000+00:00",
+        "id": 401772727
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4808766,
+        "name": "Mason Taylor"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T17:00:00.000+00:00",
+        "id": 401772721
+      },
+      "longest_reception": 20.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4808766,
+        "name": "Mason Taylor"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 20.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T21:25:00.000+00:00",
+        "id": 401772967
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569371,
+        "name": "Isaiah Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 24.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-28T18:00:00.000+00:00",
+        "id": 401772808
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 5.0,
+      "player": {
+        "id": 4569371,
+        "name": "Isaiah Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 30.0,
+      "receptions": 4.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 5.0,
+      "targets": 5.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772801
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569371,
+        "name": "Isaiah Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 25.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T18:00:00.000+00:00",
+        "id": 401772797
+      },
+      "longest_reception": 25.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569371,
+        "name": "Isaiah Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 53.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772790
+      },
+      "longest_reception": 15.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569371,
+        "name": "Isaiah Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 24.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772893
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569371,
+        "name": "Isaiah Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-23T18:00:00.000+00:00",
+        "id": 401772782
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569371,
+        "name": "Isaiah Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-14T01:15:00.000+00:00",
+        "id": 401772945
+      },
+      "longest_reception": 2.0,
+      "longest_rush": 4.0,
+      "player": {
+        "id": 4569371,
+        "name": "Isaiah Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 2.0,
+      "receptions": 1.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 4.0,
+      "targets": 4.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772769
+      },
+      "longest_reception": 4.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569371,
+        "name": "Isaiah Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T17:00:00.000+00:00",
+        "id": 401772758
+      },
+      "longest_reception": 15.0,
+      "longest_rush": 25.0,
+      "player": {
+        "id": 4569371,
+        "name": "Isaiah Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 31.0,
+      "receptions": 3.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 25.0,
+      "targets": 4.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-19T17:00:00.000+00:00",
+        "id": 401772860
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569371,
+        "name": "Isaiah Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T13:30:00.000+00:00",
+        "id": 401772634
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569371,
+        "name": "Isaiah Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-29T23:15:00.000+00:00",
+        "id": 401772813
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569371,
+        "name": "Isaiah Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772840
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569371,
+        "name": "Isaiah Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-14T17:00:00.000+00:00",
+        "id": 401772727
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569371,
+        "name": "Isaiah Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772769
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569618,
+        "name": "Garrett Wilson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T13:30:00.000+00:00",
+        "id": 401772634
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569618,
+        "name": "Garrett Wilson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 13.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T17:00:00.000+00:00",
+        "id": 401772850
+      },
+      "longest_reception": 25.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569618,
+        "name": "Garrett Wilson"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 71.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 10.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-29T23:15:00.000+00:00",
+        "id": 401772813
+      },
+      "longest_reception": 23.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569618,
+        "name": "Garrett Wilson"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 82.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772840
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569618,
+        "name": "Garrett Wilson"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 84.0,
+      "receptions": 10.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 13.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-14T17:00:00.000+00:00",
+        "id": 401772727
+      },
+      "longest_reception": 18.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569618,
+        "name": "Garrett Wilson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 50.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T17:00:00.000+00:00",
+        "id": 401772721
+      },
+      "longest_reception": 33.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569618,
+        "name": "Garrett Wilson"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 95.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-28T18:00:00.000+00:00",
+        "id": 401772808
+      },
+      "longest_reception": 4.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241410,
+        "name": "Jelani Woods"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772801
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241410,
+        "name": "Jelani Woods"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T18:00:00.000+00:00",
+        "id": 401772797
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241410,
+        "name": "Jelani Woods"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T17:00:00.000+00:00",
+        "id": 401772758
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4241410,
+        "name": "Jelani Woods"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T18:00:00.000+00:00",
+        "id": 401772970
+      },
+      "longest_reception": 4.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3134353,
+        "name": "Tim Patrick"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Jacksonville Jaguars"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-28T18:00:00.000+00:00",
+        "id": 401772915
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3134353,
+        "name": "Tim Patrick"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Jacksonville Jaguars"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T21:05:00.000+00:00",
+        "id": 401772913
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3134353,
+        "name": "Tim Patrick"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 11.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Jacksonville Jaguars"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T18:00:00.000+00:00",
+        "id": 401772797
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3134353,
+        "name": "Tim Patrick"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Jacksonville Jaguars"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772793
+      },
+      "longest_reception": 37.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3134353,
+        "name": "Tim Patrick"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 78.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 30,
+        "name": "Jacksonville Jaguars"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772786
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3134353,
+        "name": "Tim Patrick"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 11.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Jacksonville Jaguars"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-23T21:05:00.000+00:00",
+        "id": 401772783
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3134353,
+        "name": "Tim Patrick"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 30,
+        "name": "Jacksonville Jaguars"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T18:00:00.000+00:00",
+        "id": 401772775
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3134353,
+        "name": "Tim Patrick"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 20.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 30,
+        "name": "Jacksonville Jaguars"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772770
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3134353,
+        "name": "Tim Patrick"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Jacksonville Jaguars"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-19T13:30:00.000+00:00",
+        "id": 401772635
+      },
+      "longest_reception": 22.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3134353,
+        "name": "Tim Patrick"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 22.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Jacksonville Jaguars"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T17:00:00.000+00:00",
+        "id": 401772857
+      },
+      "longest_reception": 26.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3134353,
+        "name": "Tim Patrick"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 26.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Jacksonville Jaguars"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-07T00:15:00.000+00:00",
+        "id": 401772814
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3134353,
+        "name": "Tim Patrick"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Jacksonville Jaguars"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T20:05:00.000+00:00",
+        "id": 401772848
+      },
+      "longest_reception": -1.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3134353,
+        "name": "Tim Patrick"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": -1.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Jacksonville Jaguars"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772734
+      },
+      "longest_reception": 16.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3134353,
+        "name": "Tim Patrick"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 16.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Jacksonville Jaguars"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-14T17:00:00.000+00:00",
+        "id": 401772725
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3134353,
+        "name": "Tim Patrick"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Jacksonville Jaguars"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T17:00:00.000+00:00",
+        "id": 401772828
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3134353,
+        "name": "Tim Patrick"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Jacksonville Jaguars"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T21:25:00.000+00:00",
+        "id": 401772967
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 2.0,
+      "player": {
+        "id": 4429105,
+        "name": "Arian Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 2.0,
+      "targets": 2.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-28T18:00:00.000+00:00",
+        "id": 401772808
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429105,
+        "name": "Arian Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772801
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429105,
+        "name": "Arian Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T18:00:00.000+00:00",
+        "id": 401772797
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429105,
+        "name": "Arian Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772790
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429105,
+        "name": "Arian Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-23T18:00:00.000+00:00",
+        "id": 401772782
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4429105,
+        "name": "Arian Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 8.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-14T01:15:00.000+00:00",
+        "id": 401772945
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429105,
+        "name": "Arian Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772769
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 13.0,
+      "player": {
+        "id": 4429105,
+        "name": "Arian Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 13.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T17:00:00.000+00:00",
+        "id": 401772758
+      },
+      "longest_reception": 23.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429105,
+        "name": "Arian Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 23.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-19T17:00:00.000+00:00",
+        "id": 401772860
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429105,
+        "name": "Arian Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T13:30:00.000+00:00",
+        "id": 401772634
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429105,
+        "name": "Arian Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T17:00:00.000+00:00",
+        "id": 401772850
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429105,
+        "name": "Arian Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 14.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-29T23:15:00.000+00:00",
+        "id": 401772813
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429105,
+        "name": "Arian Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772840
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429105,
+        "name": "Arian Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 2.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-14T17:00:00.000+00:00",
+        "id": 401772727
+      },
+      "longest_reception": 8.0,
+      "longest_rush": -10.0,
+      "player": {
+        "id": 4429105,
+        "name": "Arian Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -10.0,
+      "targets": 2.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T17:00:00.000+00:00",
+        "id": 401772721
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429105,
+        "name": "Arian Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    }
+  ],
+  "results": 197
+}

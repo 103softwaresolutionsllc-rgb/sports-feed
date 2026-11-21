@@ -1,0 +1,2726 @@
+{
+  "errors": [],
+  "get": "players/statistics",
+  "parameters": {
+    "season": "2026",
+    "source": "espn-fallback",
+    "team": "Arizona Cardinals"
+  },
+  "response": [
+    {
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873061
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 5.0,
+      "player": {
+        "id": 4373626,
+        "name": "Tyler Allgeier"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 14.0,
+      "targets": 1.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873048
+      },
+      "longest_reception": 3.0,
+      "longest_rush": 17.0,
+      "player": {
+        "id": 4373626,
+        "name": "Tyler Allgeier"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 2.0,
+      "rushing_attempts": 17.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 46.0,
+      "targets": 3.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873024
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 63.0,
+      "player": {
+        "id": 4373626,
+        "name": "Tyler Allgeier"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 44.0,
+      "receptions": 5.0,
+      "rushing_attempts": 11.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 147.0,
+      "targets": 5.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:05:00.000+00:00",
+        "id": 401873019
+      },
+      "longest_reception": 22.0,
+      "longest_rush": 7.0,
+      "player": {
+        "id": 4373626,
+        "name": "Tyler Allgeier"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 30.0,
+      "receptions": 3.0,
+      "rushing_attempts": 8.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 19.0,
+      "targets": 3.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:05:00.000+00:00",
+        "id": 401873004
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 7.0,
+      "player": {
+        "id": 4373626,
+        "name": "Tyler Allgeier"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 10.0,
+      "receptions": 1.0,
+      "rushing_attempts": 18.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 38.0,
+      "targets": 2.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T20:25:00.000+00:00",
+        "id": 401872991
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 3.0,
+      "player": {
+        "id": 4373626,
+        "name": "Tyler Allgeier"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 2.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 7.0,
+      "targets": 2.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872966
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 22.0,
+      "player": {
+        "id": 4373626,
+        "name": "Tyler Allgeier"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 2.0,
+      "rushing_attempts": 8.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 42.0,
+      "targets": 2.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T20:05:00.000+00:00",
+        "id": 401872958
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 2.0,
+      "player": {
+        "id": 4373626,
+        "name": "Tyler Allgeier"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 10.0,
+      "receptions": 4.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -1.0,
+      "targets": 4.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:25:00.000+00:00",
+        "id": 401872943
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 5.0,
+      "player": {
+        "id": 4373626,
+        "name": "Tyler Allgeier"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 2.0,
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 10.0,
+      "targets": 2.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872926
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 11.0,
+      "player": {
+        "id": 4373626,
+        "name": "Tyler Allgeier"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 2.0,
+      "rushing_attempts": 17.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 61.0,
+      "targets": 2.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "completions": 11.0,
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873061
+      },
+      "longest_rush": 1.0,
+      "passing_attempts": 18.0,
+      "passing_interceptions": 2.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 108.0,
+      "player": {
+        "id": 4430841,
+        "name": "Carson Beck"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873048
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4366910,
+        "name": "Shawn Bowman"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:05:00.000+00:00",
+        "id": 401873004
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4366910,
+        "name": "Shawn Bowman"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:05:00.000+00:00",
+        "id": 401873019
+      },
+      "longest_reception": 35.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4692835,
+        "name": "Jalen Brooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 35.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:05:00.000+00:00",
+        "id": 401873004
+      },
+      "longest_reception": 21.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4692835,
+        "name": "Jalen Brooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 30.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T20:25:00.000+00:00",
+        "id": 401872991
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4692835,
+        "name": "Jalen Brooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 16.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872966
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4692835,
+        "name": "Jalen Brooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T20:05:00.000+00:00",
+        "id": 401872958
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4692835,
+        "name": "Jalen Brooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:25:00.000+00:00",
+        "id": 401872943
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4692835,
+        "name": "Jalen Brooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872926
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4692835,
+        "name": "Jalen Brooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873061
+      },
+      "longest_reception": 31.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4039050,
+        "name": "Devin Duvernay"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 35.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873048
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4039050,
+        "name": "Devin Duvernay"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873024
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4039050,
+        "name": "Devin Duvernay"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 14.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:05:00.000+00:00",
+        "id": 401873019
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4039050,
+        "name": "Devin Duvernay"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:05:00.000+00:00",
+        "id": 401873004
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4039050,
+        "name": "Devin Duvernay"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T20:25:00.000+00:00",
+        "id": 401872991
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4039050,
+        "name": "Devin Duvernay"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872966
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4039050,
+        "name": "Devin Duvernay"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T20:05:00.000+00:00",
+        "id": 401872958
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4039050,
+        "name": "Devin Duvernay"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:25:00.000+00:00",
+        "id": 401872943
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4039050,
+        "name": "Devin Duvernay"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873061
+      },
+      "longest_reception": 21.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360739,
+        "name": "Simi Fehoko"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 21.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873048
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360739,
+        "name": "Simi Fehoko"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873024
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360739,
+        "name": "Simi Fehoko"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 17.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:05:00.000+00:00",
+        "id": 401873019
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360739,
+        "name": "Simi Fehoko"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:05:00.000+00:00",
+        "id": 401873004
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360739,
+        "name": "Simi Fehoko"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T20:25:00.000+00:00",
+        "id": 401872991
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360739,
+        "name": "Simi Fehoko"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872966
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360739,
+        "name": "Simi Fehoko"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T20:05:00.000+00:00",
+        "id": 401872958
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360739,
+        "name": "Simi Fehoko"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:25:00.000+00:00",
+        "id": 401872943
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360739,
+        "name": "Simi Fehoko"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873061
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426844,
+        "name": "Elijah Higgins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873048
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426844,
+        "name": "Elijah Higgins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 11.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873024
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426844,
+        "name": "Elijah Higgins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 10.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:05:00.000+00:00",
+        "id": 401873019
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426844,
+        "name": "Elijah Higgins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 17.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:05:00.000+00:00",
+        "id": 401873004
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426844,
+        "name": "Elijah Higgins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 28.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T20:25:00.000+00:00",
+        "id": 401872991
+      },
+      "longest_reception": 38.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426844,
+        "name": "Elijah Higgins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 57.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872966
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426844,
+        "name": "Elijah Higgins"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 19.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T20:05:00.000+00:00",
+        "id": 401872958
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426844,
+        "name": "Elijah Higgins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 20.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:25:00.000+00:00",
+        "id": 401872943
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426844,
+        "name": "Elijah Higgins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872926
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426844,
+        "name": "Elijah Higgins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873061
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569609,
+        "name": "Evan Hull"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873048
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569609,
+        "name": "Evan Hull"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:05:00.000+00:00",
+        "id": 401873019
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569609,
+        "name": "Evan Hull"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:05:00.000+00:00",
+        "id": 401873004
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4569609,
+        "name": "Evan Hull"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873061
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3059722,
+        "name": "Zay Jones"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873061
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4427728,
+        "name": "Bam Knight"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 19.0,
+      "targets": 2.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873024
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 4.0,
+      "player": {
+        "id": 4427728,
+        "name": "Bam Knight"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 10.0,
+      "receptions": 1.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 8.0,
+      "targets": 2.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:05:00.000+00:00",
+        "id": 401873019
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 29.0,
+      "player": {
+        "id": 4427728,
+        "name": "Bam Knight"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 15.0,
+      "receptions": 3.0,
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 48.0,
+      "targets": 5.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:05:00.000+00:00",
+        "id": 401873004
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 31.0,
+      "player": {
+        "id": 4427728,
+        "name": "Bam Knight"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 18.0,
+      "receptions": 2.0,
+      "rushing_attempts": 15.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 80.0,
+      "targets": 2.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T20:25:00.000+00:00",
+        "id": 401872991
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4427728,
+        "name": "Bam Knight"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 8.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872966
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4427728,
+        "name": "Bam Knight"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T20:05:00.000+00:00",
+        "id": 401872958
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4427728,
+        "name": "Bam Knight"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:25:00.000+00:00",
+        "id": 401872943
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 18.0,
+      "player": {
+        "id": 4427728,
+        "name": "Bam Knight"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 24.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872926
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4427728,
+        "name": "Bam Knight"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873061
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4239944,
+        "name": "Hunter Long"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872966
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4239944,
+        "name": "Hunter Long"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 10.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T20:05:00.000+00:00",
+        "id": 401872958
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4239944,
+        "name": "Hunter Long"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:25:00.000+00:00",
+        "id": 401872943
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4239944,
+        "name": "Hunter Long"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872926
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4239944,
+        "name": "Hunter Long"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873061
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361307,
+        "name": "Trey McBride"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 37.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873048
+      },
+      "longest_reception": 19.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361307,
+        "name": "Trey McBride"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 54.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873024
+      },
+      "longest_reception": 15.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361307,
+        "name": "Trey McBride"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 72.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:05:00.000+00:00",
+        "id": 401873019
+      },
+      "longest_reception": 27.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361307,
+        "name": "Trey McBride"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 111.0,
+      "receptions": 10.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 13.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:05:00.000+00:00",
+        "id": 401873004
+      },
+      "longest_reception": 26.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361307,
+        "name": "Trey McBride"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 53.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T20:25:00.000+00:00",
+        "id": 401872991
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361307,
+        "name": "Trey McBride"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 66.0,
+      "receptions": 9.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 10.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872966
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361307,
+        "name": "Trey McBride"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 31.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 12.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T20:05:00.000+00:00",
+        "id": 401872958
+      },
+      "longest_reception": 18.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361307,
+        "name": "Trey McBride"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 75.0,
+      "receptions": 9.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 11.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:25:00.000+00:00",
+        "id": 401872943
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361307,
+        "name": "Trey McBride"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 41.0,
+      "receptions": 8.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 10.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872926
+      },
+      "longest_reception": 27.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361307,
+        "name": "Trey McBride"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 95.0,
+      "receptions": 9.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 13.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873061
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4374045,
+        "name": "Teagan Quitoriano"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873048
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4374045,
+        "name": "Teagan Quitoriano"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873024
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4374045,
+        "name": "Teagan Quitoriano"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:05:00.000+00:00",
+        "id": 401873019
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4374045,
+        "name": "Teagan Quitoriano"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:05:00.000+00:00",
+        "id": 401873004
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4374045,
+        "name": "Teagan Quitoriano"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T20:25:00.000+00:00",
+        "id": 401872991
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4374045,
+        "name": "Teagan Quitoriano"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 15.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873061
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4869132,
+        "name": "Reggie Virgil"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873048
+      },
+      "longest_reception": 25.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4869132,
+        "name": "Reggie Virgil"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 25.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873024
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4869132,
+        "name": "Reggie Virgil"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:05:00.000+00:00",
+        "id": 401873019
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4869132,
+        "name": "Reggie Virgil"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:05:00.000+00:00",
+        "id": 401873004
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4869132,
+        "name": "Reggie Virgil"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T20:25:00.000+00:00",
+        "id": 401872991
+      },
+      "longest_reception": 16.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4869132,
+        "name": "Reggie Virgil"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 29.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-15T21:05:00.000+00:00",
+        "id": 401873061
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4699354,
+        "name": "Harrison Wallace III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873048
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4699354,
+        "name": "Harrison Wallace III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873024
+      },
+      "longest_reception": 29.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3045523,
+        "name": "Kendrick Bourne"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 29.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:05:00.000+00:00",
+        "id": 401873019
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3045523,
+        "name": "Kendrick Bourne"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:05:00.000+00:00",
+        "id": 401873004
+      },
+      "longest_reception": 15.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3045523,
+        "name": "Kendrick Bourne"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 47.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T20:25:00.000+00:00",
+        "id": 401872991
+      },
+      "longest_reception": 23.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3045523,
+        "name": "Kendrick Bourne"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 70.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872966
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3045523,
+        "name": "Kendrick Bourne"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T20:05:00.000+00:00",
+        "id": 401872958
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3045523,
+        "name": "Kendrick Bourne"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 22.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:25:00.000+00:00",
+        "id": 401872943
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3045523,
+        "name": "Kendrick Bourne"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 11.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872926
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3045523,
+        "name": "Kendrick Bourne"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 75.0,
+      "receptions": 8.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873024
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4870808,
+        "name": "Jeremiyah Love"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 9.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 23.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T20:25:00.000+00:00",
+        "id": 401872991
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4870808,
+        "name": "Jeremiyah Love"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 12.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 22.0,
+      "targets": 1.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872966
+      },
+      "longest_reception": -8.0,
+      "longest_rush": 16.0,
+      "player": {
+        "id": 4870808,
+        "name": "Jeremiyah Love"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": -8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 14.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 63.0,
+      "targets": 1.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T20:05:00.000+00:00",
+        "id": 401872958
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4870808,
+        "name": "Jeremiyah Love"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 19.0,
+      "receptions": 5.0,
+      "rushing_attempts": 21.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 90.0,
+      "targets": 5.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:25:00.000+00:00",
+        "id": 401872943
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4870808,
+        "name": "Jeremiyah Love"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 16.0,
+      "receptions": 3.0,
+      "rushing_attempts": 9.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 29.0,
+      "targets": 3.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872926
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 18.0,
+      "player": {
+        "id": 4870808,
+        "name": "Jeremiyah Love"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 2.0,
+      "rushing_attempts": 11.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 41.0,
+      "targets": 4.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "completions": 21.0,
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873048
+      },
+      "longest_rush": 4.0,
+      "passing_attempts": 30.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 166.0,
+      "player": {
+        "id": 4038524,
+        "name": "Gardner Minshew II"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 4.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "completions": 17.0,
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873024
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 23.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 3.0,
+      "passing_yards": 188.0,
+      "player": {
+        "id": 4038524,
+        "name": "Gardner Minshew II"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2026-10-25T20:05:00.000+00:00",
+        "id": 401873019
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 0.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 4038524,
+        "name": "Gardner Minshew II"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T21:25:00.000+00:00",
+        "id": 401873048
+      },
+      "longest_reception": 23.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360761,
+        "name": "Michael Wilson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 60.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873024
+      },
+      "longest_reception": 27.0,
+      "longest_rush": 17.0,
+      "player": {
+        "id": 4360761,
+        "name": "Michael Wilson"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 111.0,
+      "receptions": 8.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 17.0,
+      "targets": 15.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-25T20:05:00.000+00:00",
+        "id": 401873019
+      },
+      "longest_reception": 16.0,
+      "longest_rush": 7.0,
+      "player": {
+        "id": 4360761,
+        "name": "Michael Wilson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 55.0,
+      "receptions": 4.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 11.0,
+      "targets": 8.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-18T20:05:00.000+00:00",
+        "id": 401873004
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360761,
+        "name": "Michael Wilson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 32.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T20:25:00.000+00:00",
+        "id": 401872991
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360761,
+        "name": "Michael Wilson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 30.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T17:00:00.000+00:00",
+        "id": 401872966
+      },
+      "longest_reception": 24.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360761,
+        "name": "Michael Wilson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 95.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 13.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T20:05:00.000+00:00",
+        "id": 401872958
+      },
+      "longest_reception": 18.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360761,
+        "name": "Michael Wilson"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 89.0,
+      "receptions": 11.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 17.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:25:00.000+00:00",
+        "id": 401872943
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360761,
+        "name": "Michael Wilson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 18.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872926
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360761,
+        "name": "Michael Wilson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 56.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-01T18:00:00.000+00:00",
+        "id": 401873024
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4044144,
+        "name": "Kenny Yeboah"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    }
+  ],
+  "results": 118
+}

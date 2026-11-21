@@ -1,0 +1,5647 @@
+{
+  "errors": [],
+  "get": "players/statistics",
+  "parameters": {
+    "season": "2025",
+    "source": "espn-fallback",
+    "team": "San Francisco 49ers"
+  },
+  "response": [
+    {
+      "game": {
+        "date": "2026-01-04T21:25:00.000+00:00",
+        "id": 401772956
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 15818,
+        "name": "Keenan Allen"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 36.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 13.0,
+      "team": {
+        "id": 24,
+        "name": "Los Angeles Chargers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-27T21:30:00.000+00:00",
+        "id": 401772951
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 15818,
+        "name": "Keenan Allen"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 17.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 24,
+        "name": "Los Angeles Chargers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772910
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 15818,
+        "name": "Keenan Allen"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 44.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 24,
+        "name": "Los Angeles Chargers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T18:00:00.000+00:00",
+        "id": 401772798
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 15818,
+        "name": "Keenan Allen"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 36.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 24,
+        "name": "Los Angeles Chargers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-09T01:15:00.000+00:00",
+        "id": 401772822
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 15818,
+        "name": "Keenan Allen"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 22.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 24,
+        "name": "Los Angeles Chargers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T21:25:00.000+00:00",
+        "id": 401772788
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 15818,
+        "name": "Keenan Allen"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 30.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 24,
+        "name": "Los Angeles Chargers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T18:00:00.000+00:00",
+        "id": 401772775
+      },
+      "longest_reception": 30.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 15818,
+        "name": "Keenan Allen"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 53.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 24,
+        "name": "Los Angeles Chargers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-10T01:20:00.000+00:00",
+        "id": 401772927
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 15818,
+        "name": "Keenan Allen"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 19.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 24,
+        "name": "Los Angeles Chargers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T18:00:00.000+00:00",
+        "id": 401772764
+      },
+      "longest_reception": 31.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 15818,
+        "name": "Keenan Allen"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 41.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 24,
+        "name": "Los Angeles Chargers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-24T00:15:00.000+00:00",
+        "id": 401772942
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 15818,
+        "name": "Keenan Allen"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 44.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 24,
+        "name": "Los Angeles Chargers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-19T20:05:00.000+00:00",
+        "id": 401772756
+      },
+      "longest_reception": 30.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 15818,
+        "name": "Keenan Allen"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 119.0,
+      "receptions": 11.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 14.0,
+      "team": {
+        "id": 24,
+        "name": "Los Angeles Chargers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T17:00:00.000+00:00",
+        "id": 401772750
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 15818,
+        "name": "Keenan Allen"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 27.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 24,
+        "name": "Los Angeles Chargers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T20:25:00.000+00:00",
+        "id": 401772853
+      },
+      "longest_reception": 29.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 15818,
+        "name": "Keenan Allen"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 58.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 24,
+        "name": "Los Angeles Chargers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T17:00:00.000+00:00",
+        "id": 401772737
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 15818,
+        "name": "Keenan Allen"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 37.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 24,
+        "name": "Los Angeles Chargers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T20:05:00.000+00:00",
+        "id": 401772735
+      },
+      "longest_reception": 20.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 15818,
+        "name": "Keenan Allen"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 65.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 11.0,
+      "team": {
+        "id": 24,
+        "name": "Los Angeles Chargers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-16T02:00:00.000+00:00",
+        "id": 401772811
+      },
+      "longest_reception": 25.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 15818,
+        "name": "Keenan Allen"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 61.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 24,
+        "name": "Los Angeles Chargers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-06T00:00:00.000+00:00",
+        "id": 401772714
+      },
+      "longest_reception": 15.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 15818,
+        "name": "Keenan Allen"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 68.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 10.0,
+      "team": {
+        "id": 24,
+        "name": "Los Angeles Chargers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-28T21:25:00.000+00:00",
+        "id": 401772917
+      },
+      "longest_reception": 50.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16731,
+        "name": "Brandin Cooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 101.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772802
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16731,
+        "name": "Brandin Cooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T18:00:00.000+00:00",
+        "id": 401772795
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16731,
+        "name": "Brandin Cooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772902
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16731,
+        "name": "Brandin Cooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T21:25:00.000+00:00",
+        "id": 401772789
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16731,
+        "name": "Brandin Cooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 13.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 2,
+        "name": "Buffalo Bills"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772877
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16731,
+        "name": "Brandin Cooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T21:05:00.000+00:00",
+        "id": 401772874
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16731,
+        "name": "Brandin Cooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 16.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T20:05:00.000+00:00",
+        "id": 401772869
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16731,
+        "name": "Brandin Cooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 22.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-19T17:00:00.000+00:00",
+        "id": 401772861
+      },
+      "longest_reception": 3.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16731,
+        "name": "Brandin Cooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 3.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T17:00:00.000+00:00",
+        "id": 401772751
+      },
+      "longest_reception": 21.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16731,
+        "name": "Brandin Cooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 21.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T17:00:00.000+00:00",
+        "id": 401772744
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16731,
+        "name": "Brandin Cooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T17:00:00.000+00:00",
+        "id": 401772740
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16731,
+        "name": "Brandin Cooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 22.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T20:05:00.000+00:00",
+        "id": 401772736
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16731,
+        "name": "Brandin Cooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 24.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-14T17:00:00.000+00:00",
+        "id": 401772833
+      },
+      "longest_reception": 20.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16731,
+        "name": "Brandin Cooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 26.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T17:00:00.000+00:00",
+        "id": 401772718
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16731,
+        "name": "Brandin Cooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 26.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-03T21:30:00.000+00:00",
+        "id": 401772969
+      },
+      "longest_reception": 21.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16737,
+        "name": "Mike Evans"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 34.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-28T18:00:00.000+00:00",
+        "id": 401772916
+      },
+      "longest_reception": 16.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16737,
+        "name": "Mike Evans"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 31.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772912
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16737,
+        "name": "Mike Evans"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 31.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-12T01:15:00.000+00:00",
+        "id": 401772948
+      },
+      "longest_reception": 45.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16737,
+        "name": "Mike Evans"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 132.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 12.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-20T23:00:00.000+00:00",
+        "id": 401772816
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16737,
+        "name": "Mike Evans"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772840
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16737,
+        "name": "Mike Evans"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 33.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-15T23:00:00.000+00:00",
+        "id": 401772715
+      },
+      "longest_reception": 22.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16737,
+        "name": "Mike Evans"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 56.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 11.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T17:00:00.000+00:00",
+        "id": 401772830
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16737,
+        "name": "Mike Evans"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 51.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T01:00:00.000+00:00",
+        "id": 401772961
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4040612,
+        "name": "Luke Farrell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-29T01:20:00.000+00:00",
+        "id": 401772935
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4040612,
+        "name": "Luke Farrell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-23T01:15:00.000+00:00",
+        "id": 401772824
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4040612,
+        "name": "Luke Farrell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T21:25:00.000+00:00",
+        "id": 401772907
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4040612,
+        "name": "Luke Farrell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772785
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4040612,
+        "name": "Luke Farrell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-25T01:15:00.000+00:00",
+        "id": 401772820
+      },
+      "longest_reception": 3.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4040612,
+        "name": "Luke Farrell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 3.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T21:05:00.000+00:00",
+        "id": 401772885
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4040612,
+        "name": "Luke Farrell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T21:25:00.000+00:00",
+        "id": 401772879
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4040612,
+        "name": "Luke Farrell"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 15.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T18:00:00.000+00:00",
+        "id": 401772767
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4040612,
+        "name": "Luke Farrell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T17:00:00.000+00:00",
+        "id": 401772866
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4040612,
+        "name": "Luke Farrell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-20T00:20:00.000+00:00",
+        "id": 401772924
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4040612,
+        "name": "Luke Farrell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 11.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T20:25:00.000+00:00",
+        "id": 401772749
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4040612,
+        "name": "Luke Farrell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-03T00:15:00.000+00:00",
+        "id": 401772939
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4040612,
+        "name": "Luke Farrell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T20:05:00.000+00:00",
+        "id": 401772848
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4040612,
+        "name": "Luke Farrell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 20.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T20:25:00.000+00:00",
+        "id": 401772843
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4040612,
+        "name": "Luke Farrell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-14T17:00:00.000+00:00",
+        "id": 401772833
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4040612,
+        "name": "Luke Farrell"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 15.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T20:05:00.000+00:00",
+        "id": 401772831
+      },
+      "longest_reception": 4.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4040612,
+        "name": "Luke Farrell"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-12T01:15:00.000+00:00",
+        "id": 401772948
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3047876,
+        "name": "KhaDarel Hodge"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772900
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3047876,
+        "name": "KhaDarel Hodge"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-23T21:25:00.000+00:00",
+        "id": 401772889
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3047876,
+        "name": "KhaDarel Hodge"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T18:00:00.000+00:00",
+        "id": 401772882
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3047876,
+        "name": "KhaDarel Hodge"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T14:30:00.000+00:00",
+        "id": 401772636
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3047876,
+        "name": "KhaDarel Hodge"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T18:00:00.000+00:00",
+        "id": 401772763
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3047876,
+        "name": "KhaDarel Hodge"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T17:00:00.000+00:00",
+        "id": 401772760
+      },
+      "longest_reception": 16.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3047876,
+        "name": "KhaDarel Hodge"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 31.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-20T00:20:00.000+00:00",
+        "id": 401772924
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3047876,
+        "name": "KhaDarel Hodge"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-13T23:15:00.000+00:00",
+        "id": 401772815
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3047876,
+        "name": "KhaDarel Hodge"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772838
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3047876,
+        "name": "KhaDarel Hodge"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-15T00:20:00.000+00:00",
+        "id": 401772919
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3047876,
+        "name": "KhaDarel Hodge"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T17:00:00.000+00:00",
+        "id": 401772830
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3047876,
+        "name": "KhaDarel Hodge"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T01:00:00.000+00:00",
+        "id": 401772961
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685397,
+        "name": "Jordan James"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-29T01:20:00.000+00:00",
+        "id": 401772935
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685397,
+        "name": "Jordan James"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-23T01:15:00.000+00:00",
+        "id": 401772824
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4685397,
+        "name": "Jordan James"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2025-12-23T01:15:00.000+00:00",
+        "id": 401772824
+      },
+      "longest_rush": -1.0,
+      "passing_attempts": 0.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 4241464,
+        "name": "Mac Jones"
+      },
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -3.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772785
+      },
+      "longest_rush": 3.0,
+      "passing_attempts": 0.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 4241464,
+        "name": "Mac Jones"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 2.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2025-11-16T21:05:00.000+00:00",
+        "id": 401772885
+      },
+      "longest_rush": -1.0,
+      "passing_attempts": 0.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 4241464,
+        "name": "Mac Jones"
+      },
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -3.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "completions": 33.0,
+      "game": {
+        "date": "2025-11-09T21:25:00.000+00:00",
+        "id": 401772879
+      },
+      "longest_rush": 3.0,
+      "passing_attempts": 39.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 3.0,
+      "passing_yards": 319.0,
+      "player": {
+        "id": 4241464,
+        "name": "Mac Jones"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 3.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "completions": 19.0,
+      "game": {
+        "date": "2025-11-02T18:00:00.000+00:00",
+        "id": 401772767
+      },
+      "longest_rush": 2.0,
+      "passing_attempts": 24.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 235.0,
+      "player": {
+        "id": 4241464,
+        "name": "Mac Jones"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 4.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "completions": 19.0,
+      "game": {
+        "date": "2025-10-26T17:00:00.000+00:00",
+        "id": 401772866
+      },
+      "longest_rush": 13.0,
+      "passing_attempts": 32.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 193.0,
+      "player": {
+        "id": 4241464,
+        "name": "Mac Jones"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 23.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "completions": 17.0,
+      "game": {
+        "date": "2025-10-20T00:20:00.000+00:00",
+        "id": 401772924
+      },
+      "longest_rush": 8.0,
+      "passing_attempts": 26.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 152.0,
+      "player": {
+        "id": 4241464,
+        "name": "Mac Jones"
+      },
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 11.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "completions": 27.0,
+      "game": {
+        "date": "2025-10-12T20:25:00.000+00:00",
+        "id": 401772749
+      },
+      "longest_rush": 5.0,
+      "passing_attempts": 39.0,
+      "passing_interceptions": 2.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 347.0,
+      "player": {
+        "id": 4241464,
+        "name": "Mac Jones"
+      },
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 13.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "completions": 33.0,
+      "game": {
+        "date": "2025-10-03T00:15:00.000+00:00",
+        "id": 401772939
+      },
+      "longest_rush": 2.0,
+      "passing_attempts": 49.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 342.0,
+      "player": {
+        "id": 4241464,
+        "name": "Mac Jones"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 5.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "completions": 27.0,
+      "game": {
+        "date": "2025-09-21T20:25:00.000+00:00",
+        "id": 401772843
+      },
+      "longest_rush": -1.0,
+      "passing_attempts": 41.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 284.0,
+      "player": {
+        "id": 4241464,
+        "name": "Mac Jones"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -1.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "completions": 26.0,
+      "game": {
+        "date": "2025-09-14T17:00:00.000+00:00",
+        "id": 401772833
+      },
+      "longest_rush": 13.0,
+      "passing_attempts": 39.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 3.0,
+      "passing_yards": 279.0,
+      "player": {
+        "id": 4241464,
+        "name": "Mac Jones"
+      },
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 6.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T01:00:00.000+00:00",
+        "id": 401772961
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16002,
+        "name": "Kyle Juszczyk"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-29T01:20:00.000+00:00",
+        "id": 401772935
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16002,
+        "name": "Kyle Juszczyk"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 14.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-23T01:15:00.000+00:00",
+        "id": 401772824
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16002,
+        "name": "Kyle Juszczyk"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T21:25:00.000+00:00",
+        "id": 401772907
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16002,
+        "name": "Kyle Juszczyk"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772785
+      },
+      "longest_reception": 23.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16002,
+        "name": "Kyle Juszczyk"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 27.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-25T01:15:00.000+00:00",
+        "id": 401772820
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16002,
+        "name": "Kyle Juszczyk"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T21:05:00.000+00:00",
+        "id": 401772885
+      },
+      "longest_reception": 21.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16002,
+        "name": "Kyle Juszczyk"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 26.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T21:25:00.000+00:00",
+        "id": 401772879
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16002,
+        "name": "Kyle Juszczyk"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T18:00:00.000+00:00",
+        "id": 401772767
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16002,
+        "name": "Kyle Juszczyk"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 12.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T17:00:00.000+00:00",
+        "id": 401772866
+      },
+      "longest_reception": 4.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16002,
+        "name": "Kyle Juszczyk"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-20T00:20:00.000+00:00",
+        "id": 401772924
+      },
+      "longest_reception": 10.0,
+      "longest_rush": -2.0,
+      "player": {
+        "id": 16002,
+        "name": "Kyle Juszczyk"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 10.0,
+      "receptions": 1.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -2.0,
+      "targets": 1.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T20:25:00.000+00:00",
+        "id": 401772749
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16002,
+        "name": "Kyle Juszczyk"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-03T00:15:00.000+00:00",
+        "id": 401772939
+      },
+      "longest_reception": 12.0,
+      "longest_rush": -1.0,
+      "player": {
+        "id": 16002,
+        "name": "Kyle Juszczyk"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 21.0,
+      "receptions": 3.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -1.0,
+      "targets": 4.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T20:05:00.000+00:00",
+        "id": 401772848
+      },
+      "longest_reception": 18.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16002,
+        "name": "Kyle Juszczyk"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 32.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T20:25:00.000+00:00",
+        "id": 401772843
+      },
+      "longest_reception": 1.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16002,
+        "name": "Kyle Juszczyk"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 1.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-14T17:00:00.000+00:00",
+        "id": 401772833
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16002,
+        "name": "Kyle Juszczyk"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T20:05:00.000+00:00",
+        "id": 401772831
+      },
+      "longest_reception": 25.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 16002,
+        "name": "Kyle Juszczyk"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 32.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T01:00:00.000+00:00",
+        "id": 401772961
+      },
+      "longest_reception": 20.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3040151,
+        "name": "George Kittle"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 29.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-23T01:15:00.000+00:00",
+        "id": 401772824
+      },
+      "longest_reception": 26.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3040151,
+        "name": "George Kittle"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 115.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T21:25:00.000+00:00",
+        "id": 401772907
+      },
+      "longest_reception": 24.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3040151,
+        "name": "George Kittle"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 88.0,
+      "receptions": 8.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772785
+      },
+      "longest_reception": 33.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3040151,
+        "name": "George Kittle"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 67.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-25T01:15:00.000+00:00",
+        "id": 401772820
+      },
+      "longest_reception": 25.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3040151,
+        "name": "George Kittle"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 78.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 10.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T21:05:00.000+00:00",
+        "id": 401772885
+      },
+      "longest_reception": 30.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3040151,
+        "name": "George Kittle"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 67.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T21:25:00.000+00:00",
+        "id": 401772879
+      },
+      "longest_reception": 20.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3040151,
+        "name": "George Kittle"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 84.0,
+      "receptions": 9.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T18:00:00.000+00:00",
+        "id": 401772767
+      },
+      "longest_reception": 11.0,
+      "longest_rush": -3.0,
+      "player": {
+        "id": 3040151,
+        "name": "George Kittle"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 32.0,
+      "receptions": 4.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -3.0,
+      "targets": 4.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T17:00:00.000+00:00",
+        "id": 401772866
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3040151,
+        "name": "George Kittle"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 43.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-20T00:20:00.000+00:00",
+        "id": 401772924
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3040151,
+        "name": "George Kittle"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T20:05:00.000+00:00",
+        "id": 401772831
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3040151,
+        "name": "George Kittle"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 25.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T01:00:00.000+00:00",
+        "id": 401772961
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 5.0,
+      "player": {
+        "id": 3117251,
+        "name": "Christian McCaffrey"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 34.0,
+      "receptions": 6.0,
+      "rushing_attempts": 8.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 23.0,
+      "targets": 7.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-29T01:20:00.000+00:00",
+        "id": 401772935
+      },
+      "longest_reception": 18.0,
+      "longest_rush": 41.0,
+      "player": {
+        "id": 3117251,
+        "name": "Christian McCaffrey"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 41.0,
+      "receptions": 4.0,
+      "rushing_attempts": 23.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 140.0,
+      "targets": 6.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-23T01:15:00.000+00:00",
+        "id": 401772824
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 24.0,
+      "player": {
+        "id": 3117251,
+        "name": "Christian McCaffrey"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 29.0,
+      "receptions": 6.0,
+      "rushing_attempts": 21.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 117.0,
+      "targets": 8.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T21:25:00.000+00:00",
+        "id": 401772907
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 9.0,
+      "player": {
+        "id": 3117251,
+        "name": "Christian McCaffrey"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 14.0,
+      "receptions": 1.0,
+      "rushing_attempts": 22.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 73.0,
+      "targets": 1.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772785
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 7.0,
+      "player": {
+        "id": 3117251,
+        "name": "Christian McCaffrey"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 21.0,
+      "receptions": 4.0,
+      "rushing_attempts": 20.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 53.0,
+      "targets": 4.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-25T01:15:00.000+00:00",
+        "id": 401772820
+      },
+      "longest_reception": 19.0,
+      "longest_rush": 17.0,
+      "player": {
+        "id": 3117251,
+        "name": "Christian McCaffrey"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 53.0,
+      "receptions": 7.0,
+      "rushing_attempts": 24.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 89.0,
+      "targets": 7.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T21:05:00.000+00:00",
+        "id": 401772885
+      },
+      "longest_reception": 15.0,
+      "longest_rush": 20.0,
+      "player": {
+        "id": 3117251,
+        "name": "Christian McCaffrey"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 40.0,
+      "receptions": 5.0,
+      "rushing_attempts": 13.0,
+      "rushing_touchdowns": 2.0,
+      "rushing_yards": 81.0,
+      "targets": 6.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T21:25:00.000+00:00",
+        "id": 401772879
+      },
+      "longest_reception": 19.0,
+      "longest_rush": 5.0,
+      "player": {
+        "id": 3117251,
+        "name": "Christian McCaffrey"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 66.0,
+      "receptions": 8.0,
+      "rushing_attempts": 12.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 30.0,
+      "targets": 10.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T18:00:00.000+00:00",
+        "id": 401772767
+      },
+      "longest_reception": 39.0,
+      "longest_rush": 16.0,
+      "player": {
+        "id": 3117251,
+        "name": "Christian McCaffrey"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 67.0,
+      "receptions": 5.0,
+      "rushing_attempts": 28.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 106.0,
+      "targets": 6.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T17:00:00.000+00:00",
+        "id": 401772866
+      },
+      "longest_reception": 27.0,
+      "longest_rush": 9.0,
+      "player": {
+        "id": 3117251,
+        "name": "Christian McCaffrey"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 43.0,
+      "receptions": 3.0,
+      "rushing_attempts": 8.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 25.0,
+      "targets": 6.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-20T00:20:00.000+00:00",
+        "id": 401772924
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 15.0,
+      "player": {
+        "id": 3117251,
+        "name": "Christian McCaffrey"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 72.0,
+      "receptions": 7.0,
+      "rushing_attempts": 24.0,
+      "rushing_touchdowns": 2.0,
+      "rushing_yards": 129.0,
+      "targets": 8.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T20:25:00.000+00:00",
+        "id": 401772749
+      },
+      "longest_reception": 23.0,
+      "longest_rush": 11.0,
+      "player": {
+        "id": 3117251,
+        "name": "Christian McCaffrey"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 57.0,
+      "receptions": 7.0,
+      "rushing_attempts": 17.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 54.0,
+      "targets": 8.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-03T00:15:00.000+00:00",
+        "id": 401772939
+      },
+      "longest_reception": 16.0,
+      "longest_rush": 8.0,
+      "player": {
+        "id": 3117251,
+        "name": "Christian McCaffrey"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 82.0,
+      "receptions": 8.0,
+      "rushing_attempts": 22.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 57.0,
+      "targets": 9.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T20:05:00.000+00:00",
+        "id": 401772848
+      },
+      "longest_reception": 29.0,
+      "longest_rush": 11.0,
+      "player": {
+        "id": 3117251,
+        "name": "Christian McCaffrey"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 92.0,
+      "receptions": 6.0,
+      "rushing_attempts": 17.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 49.0,
+      "targets": 11.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T20:25:00.000+00:00",
+        "id": 401772843
+      },
+      "longest_reception": 20.0,
+      "longest_rush": 15.0,
+      "player": {
+        "id": 3117251,
+        "name": "Christian McCaffrey"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 88.0,
+      "receptions": 10.0,
+      "rushing_attempts": 17.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 52.0,
+      "targets": 15.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-14T17:00:00.000+00:00",
+        "id": 401772833
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 10.0,
+      "player": {
+        "id": 3117251,
+        "name": "Christian McCaffrey"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 52.0,
+      "receptions": 6.0,
+      "rushing_attempts": 13.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 55.0,
+      "targets": 7.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T20:05:00.000+00:00",
+        "id": 401772831
+      },
+      "longest_reception": 25.0,
+      "longest_rush": 13.0,
+      "player": {
+        "id": 3117251,
+        "name": "Christian McCaffrey"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 73.0,
+      "receptions": 9.0,
+      "rushing_attempts": 22.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 69.0,
+      "targets": 10.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "completions": 19.0,
+      "game": {
+        "date": "2026-01-04T01:00:00.000+00:00",
+        "id": 401772961
+      },
+      "longest_rush": 11.0,
+      "passing_attempts": 27.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 127.0,
+      "player": {
+        "id": 4361741,
+        "name": "Brock Purdy"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 21.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "completions": 24.0,
+      "game": {
+        "date": "2025-12-29T01:20:00.000+00:00",
+        "id": 401772935
+      },
+      "longest_rush": 10.0,
+      "passing_attempts": 33.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 3.0,
+      "passing_yards": 303.0,
+      "player": {
+        "id": 4361741,
+        "name": "Brock Purdy"
+      },
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 2.0,
+      "rushing_yards": 28.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "completions": 25.0,
+      "game": {
+        "date": "2025-12-23T01:15:00.000+00:00",
+        "id": 401772824
+      },
+      "longest_rush": 9.0,
+      "passing_attempts": 34.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 5.0,
+      "passing_yards": 295.0,
+      "player": {
+        "id": 4361741,
+        "name": "Brock Purdy"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 11.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "completions": 23.0,
+      "game": {
+        "date": "2025-12-14T21:25:00.000+00:00",
+        "id": 401772907
+      },
+      "longest_rush": 26.0,
+      "passing_attempts": 30.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 3.0,
+      "passing_yards": 295.0,
+      "player": {
+        "id": 4361741,
+        "name": "Brock Purdy"
+      },
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 44.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "completions": 16.0,
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772785
+      },
+      "longest_rush": 2.0,
+      "passing_attempts": 29.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 168.0,
+      "player": {
+        "id": 4361741,
+        "name": "Brock Purdy"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 4.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "completions": 23.0,
+      "game": {
+        "date": "2025-11-25T01:15:00.000+00:00",
+        "id": 401772820
+      },
+      "longest_rush": 9.0,
+      "passing_attempts": 32.0,
+      "passing_interceptions": 3.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 193.0,
+      "player": {
+        "id": 4361741,
+        "name": "Brock Purdy"
+      },
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 16.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "completions": 19.0,
+      "game": {
+        "date": "2025-11-16T21:05:00.000+00:00",
+        "id": 401772885
+      },
+      "longest_rush": -7.0,
+      "passing_attempts": 26.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 3.0,
+      "passing_yards": 200.0,
+      "player": {
+        "id": 4361741,
+        "name": "Brock Purdy"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -7.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "completions": 22.0,
+      "game": {
+        "date": "2025-09-28T20:05:00.000+00:00",
+        "id": 401772848
+      },
+      "longest_rush": 11.0,
+      "passing_attempts": 38.0,
+      "passing_interceptions": 2.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 309.0,
+      "player": {
+        "id": 4361741,
+        "name": "Brock Purdy"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 13.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "completions": 26.0,
+      "game": {
+        "date": "2025-09-07T20:05:00.000+00:00",
+        "id": 401772831
+      },
+      "longest_rush": 9.0,
+      "passing_attempts": 35.0,
+      "passing_interceptions": 2.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 277.0,
+      "player": {
+        "id": 4361741,
+        "name": "Brock Purdy"
+      },
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 17.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T01:00:00.000+00:00",
+        "id": 401772961
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3043116,
+        "name": "Demarcus Robinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 24.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-29T01:20:00.000+00:00",
+        "id": 401772935
+      },
+      "longest_reception": 25.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3043116,
+        "name": "Demarcus Robinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 30.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-23T01:15:00.000+00:00",
+        "id": 401772824
+      },
+      "longest_reception": 22.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3043116,
+        "name": "Demarcus Robinson"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 23.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T21:25:00.000+00:00",
+        "id": 401772907
+      },
+      "longest_reception": 30.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3043116,
+        "name": "Demarcus Robinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 36.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772785
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 6.0,
+      "player": {
+        "id": 3043116,
+        "name": "Demarcus Robinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 6.0,
+      "targets": 1.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-25T01:15:00.000+00:00",
+        "id": 401772820
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3043116,
+        "name": "Demarcus Robinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T21:05:00.000+00:00",
+        "id": 401772885
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3043116,
+        "name": "Demarcus Robinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 13.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T21:25:00.000+00:00",
+        "id": 401772879
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3043116,
+        "name": "Demarcus Robinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 34.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T18:00:00.000+00:00",
+        "id": 401772767
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3043116,
+        "name": "Demarcus Robinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T17:00:00.000+00:00",
+        "id": 401772866
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3043116,
+        "name": "Demarcus Robinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-20T00:20:00.000+00:00",
+        "id": 401772924
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3043116,
+        "name": "Demarcus Robinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T20:25:00.000+00:00",
+        "id": 401772749
+      },
+      "longest_reception": 31.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3043116,
+        "name": "Demarcus Robinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 44.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-03T00:15:00.000+00:00",
+        "id": 401772939
+      },
+      "longest_reception": 18.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3043116,
+        "name": "Demarcus Robinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 39.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T20:05:00.000+00:00",
+        "id": 401772848
+      },
+      "longest_reception": 20.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3043116,
+        "name": "Demarcus Robinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 20.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T21:25:00.000+00:00",
+        "id": 401772959
+      },
+      "longest_reception": 16.0,
+      "longest_rush": 1.0,
+      "player": {
+        "id": 3126486,
+        "name": "Deebo Samuel Sr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 20.0,
+      "receptions": 2.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "targets": 5.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-25T18:00:00.000+00:00",
+        "id": 401772710
+      },
+      "longest_reception": 41.0,
+      "longest_rush": 29.0,
+      "player": {
+        "id": 3126486,
+        "name": "Deebo Samuel Sr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 68.0,
+      "receptions": 2.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 25.0,
+      "targets": 4.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-20T22:00:00.000+00:00",
+        "id": 401772612
+      },
+      "longest_reception": 20.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3126486,
+        "name": "Deebo Samuel Sr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 35.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T18:00:00.000+00:00",
+        "id": 401772905
+      },
+      "longest_reception": 18.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3126486,
+        "name": "Deebo Samuel Sr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 43.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772899
+      },
+      "longest_reception": 15.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3126486,
+        "name": "Deebo Samuel Sr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 27.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-01T01:20:00.000+00:00",
+        "id": 401772931
+      },
+      "longest_reception": 38.0,
+      "longest_rush": -1.0,
+      "player": {
+        "id": 3126486,
+        "name": "Deebo Samuel Sr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 64.0,
+      "receptions": 5.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -3.0,
+      "targets": 7.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T14:30:00.000+00:00",
+        "id": 401772631
+      },
+      "longest_reception": 28.0,
+      "longest_rush": 3.0,
+      "player": {
+        "id": 3126486,
+        "name": "Deebo Samuel Sr."
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 74.0,
+      "receptions": 7.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 3.0,
+      "targets": 8.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T21:25:00.000+00:00",
+        "id": 401772878
+      },
+      "longest_reception": 19.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3126486,
+        "name": "Deebo Samuel Sr."
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 29.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-03T01:20:00.000+00:00",
+        "id": 401772926
+      },
+      "longest_reception": 19.0,
+      "longest_rush": 3.0,
+      "player": {
+        "id": 3126486,
+        "name": "Deebo Samuel Sr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 41.0,
+      "receptions": 5.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 3.0,
+      "targets": 6.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-28T00:15:00.000+00:00",
+        "id": 401772817
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 1.0,
+      "player": {
+        "id": 3126486,
+        "name": "Deebo Samuel Sr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 11.0,
+      "receptions": 3.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "targets": 6.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-14T00:15:00.000+00:00",
+        "id": 401772717
+      },
+      "longest_reception": 9.0,
+      "longest_rush": -1.0,
+      "player": {
+        "id": 3126486,
+        "name": "Deebo Samuel Sr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 15.0,
+      "receptions": 4.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -1.0,
+      "targets": 5.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T20:25:00.000+00:00",
+        "id": 401772853
+      },
+      "longest_reception": 22.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3126486,
+        "name": "Deebo Samuel Sr."
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 96.0,
+      "receptions": 8.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 11.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T17:00:00.000+00:00",
+        "id": 401772739
+      },
+      "longest_reception": 24.0,
+      "longest_rush": 7.0,
+      "player": {
+        "id": 3126486,
+        "name": "Deebo Samuel Sr."
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 72.0,
+      "receptions": 6.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 9.0,
+      "targets": 6.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772841
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 9.0,
+      "player": {
+        "id": 3126486,
+        "name": "Deebo Samuel Sr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 11.0,
+      "receptions": 2.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 18.0,
+      "targets": 3.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-12T00:15:00.000+00:00",
+        "id": 401772936
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3126486,
+        "name": "Deebo Samuel Sr."
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 44.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T17:00:00.000+00:00",
+        "id": 401772827
+      },
+      "longest_reception": 21.0,
+      "longest_rush": 19.0,
+      "player": {
+        "id": 3126486,
+        "name": "Deebo Samuel Sr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 77.0,
+      "receptions": 7.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 19.0,
+      "targets": 10.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-28T18:00:00.000+00:00",
+        "id": 401772809
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4034862,
+        "name": "Jack Stoll"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772801
+      },
+      "longest_reception": 4.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4034862,
+        "name": "Jack Stoll"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T21:25:00.000+00:00",
+        "id": 401772908
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4034862,
+        "name": "Jack Stoll"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772792
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4034862,
+        "name": "Jack Stoll"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772892
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4034862,
+        "name": "Jack Stoll"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-23T21:25:00.000+00:00",
+        "id": 401772889
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4034862,
+        "name": "Jack Stoll"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T21:05:00.000+00:00",
+        "id": 401772874
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4034862,
+        "name": "Jack Stoll"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T20:05:00.000+00:00",
+        "id": 401772869
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4034862,
+        "name": "Jack Stoll"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-19T17:00:00.000+00:00",
+        "id": 401772861
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4034862,
+        "name": "Jack Stoll"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T17:00:00.000+00:00",
+        "id": 401772751
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4034862,
+        "name": "Jack Stoll"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T17:00:00.000+00:00",
+        "id": 401772744
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4034862,
+        "name": "Jack Stoll"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T17:00:00.000+00:00",
+        "id": 401772740
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4034862,
+        "name": "Jack Stoll"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T20:05:00.000+00:00",
+        "id": 401772736
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4034862,
+        "name": "Jack Stoll"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 21.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-14T17:00:00.000+00:00",
+        "id": 401772833
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4034862,
+        "name": "Jack Stoll"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T17:00:00.000+00:00",
+        "id": 401772718
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4034862,
+        "name": "Jack Stoll"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-23T01:15:00.000+00:00",
+        "id": 401772824
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431466,
+        "name": "Jordan Watkins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T21:25:00.000+00:00",
+        "id": 401772879
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431466,
+        "name": "Jordan Watkins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T18:00:00.000+00:00",
+        "id": 401772767
+      },
+      "longest_reception": 19.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431466,
+        "name": "Jordan Watkins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 19.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T17:00:00.000+00:00",
+        "id": 401772866
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431466,
+        "name": "Jordan Watkins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-29T01:20:00.000+00:00",
+        "id": 401772935
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360290,
+        "name": "Brayden Willis"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T20:25:00.000+00:00",
+        "id": 401772749
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360290,
+        "name": "Brayden Willis"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-03T00:15:00.000+00:00",
+        "id": 401772939
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360290,
+        "name": "Brayden Willis"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T20:05:00.000+00:00",
+        "id": 401772848
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360290,
+        "name": "Brayden Willis"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T20:25:00.000+00:00",
+        "id": 401772843
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360290,
+        "name": "Brayden Willis"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-14T17:00:00.000+00:00",
+        "id": 401772833
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360290,
+        "name": "Brayden Willis"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T21:25:00.000+00:00",
+        "id": 401772907
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372561,
+        "name": "Isaac Guerendo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772785
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372561,
+        "name": "Isaac Guerendo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-25T01:15:00.000+00:00",
+        "id": 401772820
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372561,
+        "name": "Isaac Guerendo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T21:05:00.000+00:00",
+        "id": 401772885
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372561,
+        "name": "Isaac Guerendo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T21:25:00.000+00:00",
+        "id": 401772879
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372561,
+        "name": "Isaac Guerendo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T18:00:00.000+00:00",
+        "id": 401772767
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372561,
+        "name": "Isaac Guerendo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T17:00:00.000+00:00",
+        "id": 401772866
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372561,
+        "name": "Isaac Guerendo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-20T00:20:00.000+00:00",
+        "id": 401772924
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372561,
+        "name": "Isaac Guerendo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T20:25:00.000+00:00",
+        "id": 401772749
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372561,
+        "name": "Isaac Guerendo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-03T00:15:00.000+00:00",
+        "id": 401772939
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372561,
+        "name": "Isaac Guerendo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T20:05:00.000+00:00",
+        "id": 401772848
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372561,
+        "name": "Isaac Guerendo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T20:25:00.000+00:00",
+        "id": 401772843
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372561,
+        "name": "Isaac Guerendo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-14T17:00:00.000+00:00",
+        "id": 401772833
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372561,
+        "name": "Isaac Guerendo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T20:05:00.000+00:00",
+        "id": 401772831
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372561,
+        "name": "Isaac Guerendo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T18:00:00.000+00:00",
+        "id": 401772962
+      },
+      "longest_reception": -3.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3895856,
+        "name": "Christian Kirk"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": -3.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-27T21:30:00.000+00:00",
+        "id": 401772951
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3895856,
+        "name": "Christian Kirk"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 1.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T21:25:00.000+00:00",
+        "id": 401772805
+      },
+      "longest_reception": 21.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3895856,
+        "name": "Christian Kirk"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 37.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T18:00:00.000+00:00",
+        "id": 401772903
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3895856,
+        "name": "Christian Kirk"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-08T01:20:00.000+00:00",
+        "id": 401772932
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3895856,
+        "name": "Christian Kirk"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772787
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3895856,
+        "name": "Christian Kirk"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-21T01:15:00.000+00:00",
+        "id": 401772946
+      },
+      "longest_reception": 33.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3895856,
+        "name": "Christian Kirk"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 54.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T18:00:00.000+00:00",
+        "id": 401772881
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3895856,
+        "name": "Christian Kirk"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772770
+      },
+      "longest_reception": 3.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3895856,
+        "name": "Christian Kirk"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 3.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T18:00:00.000+00:00",
+        "id": 401772870
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3895856,
+        "name": "Christian Kirk"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 26.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T17:00:00.000+00:00",
+        "id": 401772743
+      },
+      "longest_reception": 47.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3895856,
+        "name": "Christian Kirk"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 64.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T17:00:00.000+00:00",
+        "id": 401772738
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3895856,
+        "name": "Christian Kirk"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 20.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772734
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3895856,
+        "name": "Christian Kirk"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 25.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-29T01:20:00.000+00:00",
+        "id": 401772935
+      },
+      "longest_reception": 30.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4428209,
+        "name": "Ricky Pearsall"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 85.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T21:25:00.000+00:00",
+        "id": 401772907
+      },
+      "longest_reception": 38.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4428209,
+        "name": "Ricky Pearsall"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 96.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772785
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4428209,
+        "name": "Ricky Pearsall"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 14.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-25T01:15:00.000+00:00",
+        "id": 401772820
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 2.0,
+      "player": {
+        "id": 4428209,
+        "name": "Ricky Pearsall"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 2.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 2.0,
+      "targets": 4.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T21:05:00.000+00:00",
+        "id": 401772885
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4428209,
+        "name": "Ricky Pearsall"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T20:05:00.000+00:00",
+        "id": 401772848
+      },
+      "longest_reception": 31.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4428209,
+        "name": "Ricky Pearsall"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 46.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T20:25:00.000+00:00",
+        "id": 401772843
+      },
+      "longest_reception": 34.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4428209,
+        "name": "Ricky Pearsall"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 117.0,
+      "receptions": 8.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 11.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-14T17:00:00.000+00:00",
+        "id": 401772833
+      },
+      "longest_reception": 15.0,
+      "longest_rush": -4.0,
+      "player": {
+        "id": 4428209,
+        "name": "Ricky Pearsall"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 56.0,
+      "receptions": 4.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -4.0,
+      "targets": 6.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T20:05:00.000+00:00",
+        "id": 401772831
+      },
+      "longest_reception": 45.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4428209,
+        "name": "Ricky Pearsall"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 108.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T01:00:00.000+00:00",
+        "id": 401772961
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4259147,
+        "name": "Jake Tonges"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-29T01:20:00.000+00:00",
+        "id": 401772935
+      },
+      "longest_reception": 18.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4259147,
+        "name": "Jake Tonges"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 60.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-23T01:15:00.000+00:00",
+        "id": 401772824
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4259147,
+        "name": "Jake Tonges"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T21:25:00.000+00:00",
+        "id": 401772907
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4259147,
+        "name": "Jake Tonges"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772785
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4259147,
+        "name": "Jake Tonges"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-25T01:15:00.000+00:00",
+        "id": 401772820
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4259147,
+        "name": "Jake Tonges"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T21:05:00.000+00:00",
+        "id": 401772885
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4259147,
+        "name": "Jake Tonges"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T21:25:00.000+00:00",
+        "id": 401772879
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4259147,
+        "name": "Jake Tonges"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T18:00:00.000+00:00",
+        "id": 401772767
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4259147,
+        "name": "Jake Tonges"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T17:00:00.000+00:00",
+        "id": 401772866
+      },
+      "longest_reception": 2.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4259147,
+        "name": "Jake Tonges"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 2.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-20T00:20:00.000+00:00",
+        "id": 401772924
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4259147,
+        "name": "Jake Tonges"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T20:25:00.000+00:00",
+        "id": 401772749
+      },
+      "longest_reception": 16.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4259147,
+        "name": "Jake Tonges"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 58.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-03T00:15:00.000+00:00",
+        "id": 401772939
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4259147,
+        "name": "Jake Tonges"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 41.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 11.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T20:05:00.000+00:00",
+        "id": 401772848
+      },
+      "longest_reception": 23.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4259147,
+        "name": "Jake Tonges"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 58.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T20:25:00.000+00:00",
+        "id": 401772843
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4259147,
+        "name": "Jake Tonges"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 21.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-14T17:00:00.000+00:00",
+        "id": 401772833
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4259147,
+        "name": "Jake Tonges"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 31.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T20:05:00.000+00:00",
+        "id": 401772831
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4259147,
+        "name": "Jake Tonges"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 15.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    }
+  ],
+  "results": 245
+}

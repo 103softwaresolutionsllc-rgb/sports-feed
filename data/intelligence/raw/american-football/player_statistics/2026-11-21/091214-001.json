@@ -1,0 +1,4175 @@
+{
+  "errors": [],
+  "get": "players/statistics",
+  "parameters": {
+    "season": "2025",
+    "source": "espn-fallback",
+    "team": "Kansas City Chiefs"
+  },
+  "response": [
+    {
+      "game": {
+        "date": "2026-01-04T18:00:00.000+00:00",
+        "id": 401772966
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4605841,
+        "name": "Nate Carter"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-12T01:15:00.000+00:00",
+        "id": 401772948
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4605841,
+        "name": "Nate Carter"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772893
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4605841,
+        "name": "Nate Carter"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T18:00:00.000+00:00",
+        "id": 401772882
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4605841,
+        "name": "Nate Carter"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T17:00:00.000+00:00",
+        "id": 401772760
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 12.0,
+      "player": {
+        "id": 4605841,
+        "name": "Nate Carter"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 14.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772838
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 10.0,
+      "player": {
+        "id": 4605841,
+        "name": "Nate Carter"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 46.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-15T00:20:00.000+00:00",
+        "id": 401772919
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4605841,
+        "name": "Nate Carter"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T18:00:00.000+00:00",
+        "id": 401772962
+      },
+      "longest_reception": 30.0,
+      "longest_rush": -5.0,
+      "player": {
+        "id": 4688813,
+        "name": "Josh Downs"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 61.0,
+      "receptions": 4.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -5.0,
+      "targets": 4.0,
+      "team": {
+        "id": 11,
+        "name": "Indianapolis Colts"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-28T18:00:00.000+00:00",
+        "id": 401772915
+      },
+      "longest_reception": 18.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4688813,
+        "name": "Josh Downs"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 34.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 11,
+        "name": "Indianapolis Colts"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-23T01:15:00.000+00:00",
+        "id": 401772824
+      },
+      "longest_reception": 18.0,
+      "longest_rush": 3.0,
+      "player": {
+        "id": 4688813,
+        "name": "Josh Downs"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 65.0,
+      "receptions": 5.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 3.0,
+      "targets": 9.0,
+      "team": {
+        "id": 11,
+        "name": "Indianapolis Colts"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T21:25:00.000+00:00",
+        "id": 401772799
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4688813,
+        "name": "Josh Downs"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 13.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 11,
+        "name": "Indianapolis Colts"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772793
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4688813,
+        "name": "Josh Downs"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 23.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 11,
+        "name": "Indianapolis Colts"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772787
+      },
+      "longest_reception": 34.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4688813,
+        "name": "Josh Downs"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 44.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 11,
+        "name": "Indianapolis Colts"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-23T18:00:00.000+00:00",
+        "id": 401772779
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4688813,
+        "name": "Josh Downs"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 10.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 11,
+        "name": "Indianapolis Colts"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T14:30:00.000+00:00",
+        "id": 401772636
+      },
+      "longest_reception": 3.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4688813,
+        "name": "Josh Downs"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 3.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 11,
+        "name": "Indianapolis Colts"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T18:00:00.000+00:00",
+        "id": 401772766
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4688813,
+        "name": "Josh Downs"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 57.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 11,
+        "name": "Indianapolis Colts"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T20:25:00.000+00:00",
+        "id": 401772761
+      },
+      "longest_reception": 18.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4688813,
+        "name": "Josh Downs"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 39.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 11,
+        "name": "Indianapolis Colts"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T17:00:00.000+00:00",
+        "id": 401772856
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4688813,
+        "name": "Josh Downs"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 42.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 11,
+        "name": "Indianapolis Colts"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T17:00:00.000+00:00",
+        "id": 401772851
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4688813,
+        "name": "Josh Downs"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 54.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 11,
+        "name": "Indianapolis Colts"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T20:05:00.000+00:00",
+        "id": 401772849
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4688813,
+        "name": "Josh Downs"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 24.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 11,
+        "name": "Indianapolis Colts"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772733
+      },
+      "longest_reception": 29.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4688813,
+        "name": "Josh Downs"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 34.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 11,
+        "name": "Indianapolis Colts"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-14T20:05:00.000+00:00",
+        "id": 401772729
+      },
+      "longest_reception": 19.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4688813,
+        "name": "Josh Downs"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 51.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 11,
+        "name": "Indianapolis Colts"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T17:00:00.000+00:00",
+        "id": 401772719
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4688813,
+        "name": "Josh Downs"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 12.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 11,
+        "name": "Indianapolis Colts"
+      }
+    },
+    {
+      "completions": 15.0,
+      "game": {
+        "date": "2025-11-14T01:15:00.000+00:00",
+        "id": 401772945
+      },
+      "longest_rush": 14.0,
+      "passing_attempts": 26.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 116.0,
+      "player": {
+        "id": 4362887,
+        "name": "Justin Fields"
+      },
+      "rushing_attempts": 11.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 67.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "completions": 6.0,
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772769
+      },
+      "longest_rush": 13.0,
+      "passing_attempts": 11.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 54.0,
+      "player": {
+        "id": 4362887,
+        "name": "Justin Fields"
+      },
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 28.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "completions": 21.0,
+      "game": {
+        "date": "2025-10-26T17:00:00.000+00:00",
+        "id": 401772758
+      },
+      "longest_rush": 7.0,
+      "passing_attempts": 32.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 244.0,
+      "player": {
+        "id": 4362887,
+        "name": "Justin Fields"
+      },
+      "rushing_attempts": 11.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 31.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "completions": 6.0,
+      "game": {
+        "date": "2025-10-19T17:00:00.000+00:00",
+        "id": 401772860
+      },
+      "longest_rush": 7.0,
+      "passing_attempts": 12.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 46.0,
+      "player": {
+        "id": 4362887,
+        "name": "Justin Fields"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 22.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "completions": 9.0,
+      "game": {
+        "date": "2025-10-12T13:30:00.000+00:00",
+        "id": 401772634
+      },
+      "longest_rush": 8.0,
+      "passing_attempts": 17.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 45.0,
+      "player": {
+        "id": 4362887,
+        "name": "Justin Fields"
+      },
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 31.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "completions": 32.0,
+      "game": {
+        "date": "2025-10-05T17:00:00.000+00:00",
+        "id": 401772850
+      },
+      "longest_rush": 11.0,
+      "passing_attempts": 46.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 283.0,
+      "player": {
+        "id": 4362887,
+        "name": "Justin Fields"
+      },
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 26.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "completions": 20.0,
+      "game": {
+        "date": "2025-09-29T23:15:00.000+00:00",
+        "id": 401772813
+      },
+      "longest_rush": 43.0,
+      "passing_attempts": 27.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 226.0,
+      "player": {
+        "id": 4362887,
+        "name": "Justin Fields"
+      },
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 81.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "completions": 3.0,
+      "game": {
+        "date": "2025-09-14T17:00:00.000+00:00",
+        "id": 401772727
+      },
+      "longest_rush": 27.0,
+      "passing_attempts": 11.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 27.0,
+      "player": {
+        "id": 4362887,
+        "name": "Justin Fields"
+      },
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 49.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "completions": 16.0,
+      "game": {
+        "date": "2025-09-07T17:00:00.000+00:00",
+        "id": 401772721
+      },
+      "longest_rush": 15.0,
+      "passing_attempts": 22.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 218.0,
+      "player": {
+        "id": 4362887,
+        "name": "Justin Fields"
+      },
+      "rushing_attempts": 12.0,
+      "rushing_touchdowns": 2.0,
+      "rushing_yards": 48.0,
+      "team": {
+        "id": 20,
+        "name": "New York Jets"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T21:25:00.000+00:00",
+        "id": 401772957
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4240472,
+        "name": "Noah Gray"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 30.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-26T01:15:00.000+00:00",
+        "id": 401772622
+      },
+      "longest_reception": 2.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4240472,
+        "name": "Noah Gray"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 2.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772803
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4240472,
+        "name": "Noah Gray"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T18:00:00.000+00:00",
+        "id": 401772798
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4240472,
+        "name": "Noah Gray"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-08T01:20:00.000+00:00",
+        "id": 401772932
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4240472,
+        "name": "Noah Gray"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 14.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-23T18:00:00.000+00:00",
+        "id": 401772779
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4240472,
+        "name": "Noah Gray"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 25.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T21:25:00.000+00:00",
+        "id": 401772778
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4240472,
+        "name": "Noah Gray"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T21:25:00.000+00:00",
+        "id": 401772768
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4240472,
+        "name": "Noah Gray"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-28T00:15:00.000+00:00",
+        "id": 401772817
+      },
+      "longest_reception": 15.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4240472,
+        "name": "Noah Gray"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 23.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-19T17:00:00.000+00:00",
+        "id": 401772753
+      },
+      "longest_reception": 28.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4240472,
+        "name": "Noah Gray"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 28.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-13T00:20:00.000+00:00",
+        "id": 401772923
+      },
+      "longest_reception": 19.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4240472,
+        "name": "Noah Gray"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 25.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-07T00:15:00.000+00:00",
+        "id": 401772814
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4240472,
+        "name": "Noah Gray"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T20:25:00.000+00:00",
+        "id": 401772741
+      },
+      "longest_reception": 1.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4240472,
+        "name": "Noah Gray"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 1.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-22T00:20:00.000+00:00",
+        "id": 401772920
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4240472,
+        "name": "Noah Gray"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 17.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-14T20:25:00.000+00:00",
+        "id": 401772837
+      },
+      "longest_reception": 1.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4240472,
+        "name": "Noah Gray"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 1.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-06T00:00:00.000+00:00",
+        "id": 401772714
+      },
+      "longest_reception": 3.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4240472,
+        "name": "Noah Gray"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 3.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T21:25:00.000+00:00",
+        "id": 401772957
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 15847,
+        "name": "Travis Kelce"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 12.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-26T01:15:00.000+00:00",
+        "id": 401772622
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 15847,
+        "name": "Travis Kelce"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 36.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772803
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 15847,
+        "name": "Travis Kelce"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T18:00:00.000+00:00",
+        "id": 401772798
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 15847,
+        "name": "Travis Kelce"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 70.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-08T01:20:00.000+00:00",
+        "id": 401772932
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 15847,
+        "name": "Travis Kelce"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-27T21:30:00.000+00:00",
+        "id": 401772694
+      },
+      "longest_reception": 22.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 15847,
+        "name": "Travis Kelce"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 45.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-23T18:00:00.000+00:00",
+        "id": 401772779
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 1.0,
+      "player": {
+        "id": 15847,
+        "name": "Travis Kelce"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 43.0,
+      "receptions": 4.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "targets": 6.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T21:25:00.000+00:00",
+        "id": 401772778
+      },
+      "longest_reception": 21.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 15847,
+        "name": "Travis Kelce"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 91.0,
+      "receptions": 9.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 13.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T21:25:00.000+00:00",
+        "id": 401772768
+      },
+      "longest_reception": 28.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 15847,
+        "name": "Travis Kelce"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 66.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-28T00:15:00.000+00:00",
+        "id": 401772817
+      },
+      "longest_reception": 38.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 15847,
+        "name": "Travis Kelce"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 99.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-19T17:00:00.000+00:00",
+        "id": 401772753
+      },
+      "longest_reception": 44.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 15847,
+        "name": "Travis Kelce"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 54.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-13T00:20:00.000+00:00",
+        "id": 401772923
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 15847,
+        "name": "Travis Kelce"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 78.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-07T00:15:00.000+00:00",
+        "id": 401772814
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 15847,
+        "name": "Travis Kelce"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 61.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T20:25:00.000+00:00",
+        "id": 401772741
+      },
+      "longest_reception": 15.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 15847,
+        "name": "Travis Kelce"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 48.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-22T00:20:00.000+00:00",
+        "id": 401772920
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 15847,
+        "name": "Travis Kelce"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 26.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-14T20:25:00.000+00:00",
+        "id": 401772837
+      },
+      "longest_reception": 23.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 15847,
+        "name": "Travis Kelce"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 61.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-06T00:00:00.000+00:00",
+        "id": 401772714
+      },
+      "longest_reception": 37.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 15847,
+        "name": "Travis Kelce"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 47.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "completions": 16.0,
+      "game": {
+        "date": "2025-12-14T18:00:00.000+00:00",
+        "id": 401772798
+      },
+      "longest_rush": 12.0,
+      "passing_attempts": 28.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 189.0,
+      "player": {
+        "id": 3139477,
+        "name": "Patrick Mahomes"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 15.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "completions": 14.0,
+      "game": {
+        "date": "2025-12-08T01:20:00.000+00:00",
+        "id": 401772932
+      },
+      "longest_rush": 15.0,
+      "passing_attempts": 33.0,
+      "passing_interceptions": 3.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 160.0,
+      "player": {
+        "id": 3139477,
+        "name": "Patrick Mahomes"
+      },
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 59.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "completions": 23.0,
+      "game": {
+        "date": "2025-11-27T21:30:00.000+00:00",
+        "id": 401772694
+      },
+      "longest_rush": 16.0,
+      "passing_attempts": 34.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 4.0,
+      "passing_yards": 261.0,
+      "player": {
+        "id": 3139477,
+        "name": "Patrick Mahomes"
+      },
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 30.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "completions": 29.0,
+      "game": {
+        "date": "2025-11-23T18:00:00.000+00:00",
+        "id": 401772779
+      },
+      "longest_rush": 13.0,
+      "passing_attempts": 46.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 352.0,
+      "player": {
+        "id": 3139477,
+        "name": "Patrick Mahomes"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 30.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "completions": 29.0,
+      "game": {
+        "date": "2025-11-16T21:25:00.000+00:00",
+        "id": 401772778
+      },
+      "longest_rush": 3.0,
+      "passing_attempts": 45.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 276.0,
+      "player": {
+        "id": 3139477,
+        "name": "Patrick Mahomes"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 3.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "completions": 15.0,
+      "game": {
+        "date": "2025-11-02T21:25:00.000+00:00",
+        "id": 401772768
+      },
+      "longest_rush": 5.0,
+      "passing_attempts": 34.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 250.0,
+      "player": {
+        "id": 3139477,
+        "name": "Patrick Mahomes"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 5.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "completions": 25.0,
+      "game": {
+        "date": "2025-10-28T00:15:00.000+00:00",
+        "id": 401772817
+      },
+      "longest_rush": 15.0,
+      "passing_attempts": 34.0,
+      "passing_interceptions": 2.0,
+      "passing_touchdowns": 3.0,
+      "passing_yards": 299.0,
+      "player": {
+        "id": 3139477,
+        "name": "Patrick Mahomes"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 30.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "completions": 26.0,
+      "game": {
+        "date": "2025-10-19T17:00:00.000+00:00",
+        "id": 401772753
+      },
+      "longest_rush": 10.0,
+      "passing_attempts": 35.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 3.0,
+      "passing_yards": 286.0,
+      "player": {
+        "id": 3139477,
+        "name": "Patrick Mahomes"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 28.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "completions": 22.0,
+      "game": {
+        "date": "2025-10-13T00:20:00.000+00:00",
+        "id": 401772923
+      },
+      "longest_rush": 11.0,
+      "passing_attempts": 30.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 3.0,
+      "passing_yards": 257.0,
+      "player": {
+        "id": 3139477,
+        "name": "Patrick Mahomes"
+      },
+      "rushing_attempts": 10.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 32.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "completions": 29.0,
+      "game": {
+        "date": "2025-10-07T00:15:00.000+00:00",
+        "id": 401772814
+      },
+      "longest_rush": 15.0,
+      "passing_attempts": 41.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 318.0,
+      "player": {
+        "id": 3139477,
+        "name": "Patrick Mahomes"
+      },
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 60.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "completions": 25.0,
+      "game": {
+        "date": "2025-09-28T20:25:00.000+00:00",
+        "id": 401772741
+      },
+      "longest_rush": 4.0,
+      "passing_attempts": 37.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 4.0,
+      "passing_yards": 270.0,
+      "player": {
+        "id": 3139477,
+        "name": "Patrick Mahomes"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 5.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "completions": 22.0,
+      "game": {
+        "date": "2025-09-22T00:20:00.000+00:00",
+        "id": 401772920
+      },
+      "longest_rush": 4.0,
+      "passing_attempts": 37.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 224.0,
+      "player": {
+        "id": 3139477,
+        "name": "Patrick Mahomes"
+      },
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 2.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "completions": 16.0,
+      "game": {
+        "date": "2025-09-14T20:25:00.000+00:00",
+        "id": 401772837
+      },
+      "longest_rush": 22.0,
+      "passing_attempts": 29.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 187.0,
+      "player": {
+        "id": 3139477,
+        "name": "Patrick Mahomes"
+      },
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 66.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "completions": 24.0,
+      "game": {
+        "date": "2025-09-06T00:00:00.000+00:00",
+        "id": 401772714
+      },
+      "longest_rush": 15.0,
+      "passing_attempts": 39.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 258.0,
+      "player": {
+        "id": 3139477,
+        "name": "Patrick Mahomes"
+      },
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 57.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T18:00:00.000+00:00",
+        "id": 401772798
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4428331,
+        "name": "Rashee Rice"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 51.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 11.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-08T01:20:00.000+00:00",
+        "id": 401772932
+      },
+      "longest_reception": 15.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4428331,
+        "name": "Rashee Rice"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 34.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-27T21:30:00.000+00:00",
+        "id": 401772694
+      },
+      "longest_reception": 28.0,
+      "longest_rush": 2.0,
+      "player": {
+        "id": 4428331,
+        "name": "Rashee Rice"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 92.0,
+      "receptions": 8.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 2.0,
+      "targets": 12.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-23T18:00:00.000+00:00",
+        "id": 401772779
+      },
+      "longest_reception": 47.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4428331,
+        "name": "Rashee Rice"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 141.0,
+      "receptions": 8.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 12.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T21:25:00.000+00:00",
+        "id": 401772778
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4428331,
+        "name": "Rashee Rice"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 38.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T21:25:00.000+00:00",
+        "id": 401772768
+      },
+      "longest_reception": 29.0,
+      "longest_rush": 3.0,
+      "player": {
+        "id": 4428331,
+        "name": "Rashee Rice"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 80.0,
+      "receptions": 4.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 6.0,
+      "targets": 7.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-28T00:15:00.000+00:00",
+        "id": 401772817
+      },
+      "longest_reception": 25.0,
+      "longest_rush": 7.0,
+      "player": {
+        "id": 4428331,
+        "name": "Rashee Rice"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 93.0,
+      "receptions": 9.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 12.0,
+      "targets": 9.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-19T17:00:00.000+00:00",
+        "id": 401772753
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4428331,
+        "name": "Rashee Rice"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 42.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 10.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T21:25:00.000+00:00",
+        "id": 401772957
+      },
+      "longest_reception": 2.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5082630,
+        "name": "Jalen Royals"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-26T01:15:00.000+00:00",
+        "id": 401772622
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5082630,
+        "name": "Jalen Royals"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772803
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5082630,
+        "name": "Jalen Royals"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-19T17:00:00.000+00:00",
+        "id": 401772753
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5082630,
+        "name": "Jalen Royals"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-13T00:20:00.000+00:00",
+        "id": 401772923
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5082630,
+        "name": "Jalen Royals"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-07T00:15:00.000+00:00",
+        "id": 401772814
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5082630,
+        "name": "Jalen Royals"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T20:25:00.000+00:00",
+        "id": 401772741
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5082630,
+        "name": "Jalen Royals"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-05T00:20:00.000+00:00",
+        "id": 401772510
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372070,
+        "name": "Ben VanSumeren"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 21,
+        "name": "Philadelphia Eagles"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T01:00:00.000+00:00",
+        "id": 401772961
+      },
+      "longest_reception": 20.0,
+      "longest_rush": 20.0,
+      "player": {
+        "id": 4567048,
+        "name": "Kenneth Walker III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 36.0,
+      "receptions": 4.0,
+      "rushing_attempts": 16.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 97.0,
+      "targets": 4.0,
+      "team": {
+        "id": 26,
+        "name": "Seattle Seahawks"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-28T18:00:00.000+00:00",
+        "id": 401772952
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 16.0,
+      "player": {
+        "id": 4567048,
+        "name": "Kenneth Walker III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 2.0,
+      "rushing_attempts": 15.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 51.0,
+      "targets": 2.0,
+      "team": {
+        "id": 26,
+        "name": "Seattle Seahawks"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-19T01:15:00.000+00:00",
+        "id": 401772949
+      },
+      "longest_reception": 46.0,
+      "longest_rush": 55.0,
+      "player": {
+        "id": 4567048,
+        "name": "Kenneth Walker III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 64.0,
+      "receptions": 3.0,
+      "rushing_attempts": 11.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 100.0,
+      "targets": 3.0,
+      "team": {
+        "id": 26,
+        "name": "Seattle Seahawks"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T21:25:00.000+00:00",
+        "id": 401772799
+      },
+      "longest_reception": 2.0,
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4567048,
+        "name": "Kenneth Walker III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 2.0,
+      "receptions": 1.0,
+      "rushing_attempts": 9.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 17.0,
+      "targets": 1.0,
+      "team": {
+        "id": 26,
+        "name": "Seattle Seahawks"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772900
+      },
+      "longest_reception": -1.0,
+      "longest_rush": 10.0,
+      "player": {
+        "id": 4567048,
+        "name": "Kenneth Walker III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": -1.0,
+      "receptions": 1.0,
+      "rushing_attempts": 10.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 29.0,
+      "targets": 3.0,
+      "team": {
+        "id": 26,
+        "name": "Seattle Seahawks"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T21:05:00.000+00:00",
+        "id": 401772896
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 24.0,
+      "player": {
+        "id": 4567048,
+        "name": "Kenneth Walker III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 18.0,
+      "receptions": 3.0,
+      "rushing_attempts": 13.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 56.0,
+      "targets": 4.0,
+      "team": {
+        "id": 26,
+        "name": "Seattle Seahawks"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-23T18:00:00.000+00:00",
+        "id": 401772886
+      },
+      "longest_reception": 29.0,
+      "longest_rush": 19.0,
+      "player": {
+        "id": 4567048,
+        "name": "Kenneth Walker III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 30.0,
+      "receptions": 3.0,
+      "rushing_attempts": 11.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 71.0,
+      "targets": 4.0,
+      "team": {
+        "id": 26,
+        "name": "Seattle Seahawks"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T21:05:00.000+00:00",
+        "id": 401772884
+      },
+      "longest_reception": 23.0,
+      "longest_rush": 25.0,
+      "player": {
+        "id": 4567048,
+        "name": "Kenneth Walker III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 44.0,
+      "receptions": 3.0,
+      "rushing_attempts": 16.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 67.0,
+      "targets": 3.0,
+      "team": {
+        "id": 26,
+        "name": "Seattle Seahawks"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T21:05:00.000+00:00",
+        "id": 401772773
+      },
+      "longest_reception": 3.0,
+      "longest_rush": 24.0,
+      "player": {
+        "id": 4567048,
+        "name": "Kenneth Walker III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 3.0,
+      "receptions": 1.0,
+      "rushing_attempts": 14.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 67.0,
+      "targets": 1.0,
+      "team": {
+        "id": 26,
+        "name": "Seattle Seahawks"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-03T01:20:00.000+00:00",
+        "id": 401772926
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 12.0,
+      "player": {
+        "id": 4567048,
+        "name": "Kenneth Walker III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 19.0,
+      "receptions": 2.0,
+      "rushing_attempts": 11.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 42.0,
+      "targets": 2.0,
+      "team": {
+        "id": 26,
+        "name": "Seattle Seahawks"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-21T02:00:00.000+00:00",
+        "id": 401772826
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 16.0,
+      "player": {
+        "id": 4567048,
+        "name": "Kenneth Walker III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 17.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 66.0,
+      "targets": 0.0,
+      "team": {
+        "id": 26,
+        "name": "Seattle Seahawks"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T17:00:00.000+00:00",
+        "id": 401772857
+      },
+      "longest_reception": 3.0,
+      "longest_rush": 10.0,
+      "player": {
+        "id": 4567048,
+        "name": "Kenneth Walker III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 3.0,
+      "receptions": 1.0,
+      "rushing_attempts": 10.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 34.0,
+      "targets": 1.0,
+      "team": {
+        "id": 26,
+        "name": "Seattle Seahawks"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T20:05:00.000+00:00",
+        "id": 401772746
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 31.0,
+      "player": {
+        "id": 4567048,
+        "name": "Kenneth Walker III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 1.0,
+      "rushing_attempts": 10.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 86.0,
+      "targets": 1.0,
+      "team": {
+        "id": 26,
+        "name": "Seattle Seahawks"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-26T00:15:00.000+00:00",
+        "id": 401772938
+      },
+      "longest_reception": 29.0,
+      "longest_rush": 21.0,
+      "player": {
+        "id": 4567048,
+        "name": "Kenneth Walker III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 29.0,
+      "receptions": 1.0,
+      "rushing_attempts": 19.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 81.0,
+      "targets": 2.0,
+      "team": {
+        "id": 26,
+        "name": "Seattle Seahawks"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T20:05:00.000+00:00",
+        "id": 401772736
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 10.0,
+      "player": {
+        "id": 4567048,
+        "name": "Kenneth Walker III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 12.0,
+      "receptions": 1.0,
+      "rushing_attempts": 16.0,
+      "rushing_touchdowns": 2.0,
+      "rushing_yards": 38.0,
+      "targets": 1.0,
+      "team": {
+        "id": 26,
+        "name": "Seattle Seahawks"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-14T17:00:00.000+00:00",
+        "id": 401772836
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 20.0,
+      "player": {
+        "id": 4567048,
+        "name": "Kenneth Walker III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 13.0,
+      "receptions": 1.0,
+      "rushing_attempts": 13.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 105.0,
+      "targets": 1.0,
+      "team": {
+        "id": 26,
+        "name": "Seattle Seahawks"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T20:05:00.000+00:00",
+        "id": 401772831
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4567048,
+        "name": "Kenneth Walker III"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 3.0,
+      "rushing_attempts": 10.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 20.0,
+      "targets": 3.0,
+      "team": {
+        "id": 26,
+        "name": "Seattle Seahawks"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T18:00:00.000+00:00",
+        "id": 401772962
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3118892,
+        "name": "Justin Watson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-15T23:00:00.000+00:00",
+        "id": 401772715
+      },
+      "longest_reception": 3.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3118892,
+        "name": "Justin Watson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 3.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T20:25:00.000+00:00",
+        "id": 401772723
+      },
+      "longest_reception": 15.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3118892,
+        "name": "Justin Watson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 27.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-26T01:15:00.000+00:00",
+        "id": 401772622
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 1.0,
+      "player": {
+        "id": 4683062,
+        "name": "Xavier Worthy"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "targets": 3.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772803
+      },
+      "longest_reception": 28.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4683062,
+        "name": "Xavier Worthy"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 41.0,
+      "receptions": 2.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T18:00:00.000+00:00",
+        "id": 401772798
+      },
+      "longest_reception": 26.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4683062,
+        "name": "Xavier Worthy"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 35.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-08T01:20:00.000+00:00",
+        "id": 401772932
+      },
+      "longest_reception": 23.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4683062,
+        "name": "Xavier Worthy"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 55.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-27T21:30:00.000+00:00",
+        "id": 401772694
+      },
+      "longest_reception": 42.0,
+      "longest_rush": 17.0,
+      "player": {
+        "id": 4683062,
+        "name": "Xavier Worthy"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 61.0,
+      "receptions": 4.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 13.0,
+      "targets": 6.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-23T18:00:00.000+00:00",
+        "id": 401772779
+      },
+      "longest_reception": 31.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4683062,
+        "name": "Xavier Worthy"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 59.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T21:25:00.000+00:00",
+        "id": 401772778
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4683062,
+        "name": "Xavier Worthy"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 25.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T21:25:00.000+00:00",
+        "id": 401772768
+      },
+      "longest_reception": 18.0,
+      "longest_rush": 7.0,
+      "player": {
+        "id": 4683062,
+        "name": "Xavier Worthy"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 23.0,
+      "receptions": 3.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 7.0,
+      "targets": 7.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-28T00:15:00.000+00:00",
+        "id": 401772817
+      },
+      "longest_reception": 27.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4683062,
+        "name": "Xavier Worthy"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 53.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-19T17:00:00.000+00:00",
+        "id": 401772753
+      },
+      "longest_reception": 15.0,
+      "longest_rush": 13.0,
+      "player": {
+        "id": 4683062,
+        "name": "Xavier Worthy"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 35.0,
+      "receptions": 3.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 13.0,
+      "targets": 4.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-13T00:20:00.000+00:00",
+        "id": 401772923
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4683062,
+        "name": "Xavier Worthy"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 20.0,
+      "receptions": 2.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 6.0,
+      "targets": 4.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-07T00:15:00.000+00:00",
+        "id": 401772814
+      },
+      "longest_reception": 19.0,
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4683062,
+        "name": "Xavier Worthy"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 42.0,
+      "receptions": 6.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 9.0,
+      "targets": 9.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T20:25:00.000+00:00",
+        "id": 401772741
+      },
+      "longest_reception": 37.0,
+      "longest_rush": 35.0,
+      "player": {
+        "id": 4683062,
+        "name": "Xavier Worthy"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 83.0,
+      "receptions": 5.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 38.0,
+      "targets": 8.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-06T00:00:00.000+00:00",
+        "id": 401772714
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4683062,
+        "name": "Xavier Worthy"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T21:25:00.000+00:00",
+        "id": 401772957
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4431142,
+        "name": "Jimmy Holiday"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T21:25:00.000+00:00",
+        "id": 401772957
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 14.0,
+      "player": {
+        "id": 4596602,
+        "name": "Brashard Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 2.0,
+      "receptions": 2.0,
+      "rushing_attempts": 12.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 56.0,
+      "targets": 4.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-26T01:15:00.000+00:00",
+        "id": 401772622
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4596602,
+        "name": "Brashard Smith"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 5.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772803
+      },
+      "longest_reception": 4.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4596602,
+        "name": "Brashard Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T18:00:00.000+00:00",
+        "id": 401772798
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 2.0,
+      "player": {
+        "id": 4596602,
+        "name": "Brashard Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "targets": 0.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-08T01:20:00.000+00:00",
+        "id": 401772932
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 7.0,
+      "player": {
+        "id": 4596602,
+        "name": "Brashard Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 7.0,
+      "targets": 0.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-27T21:30:00.000+00:00",
+        "id": 401772694
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4596602,
+        "name": "Brashard Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-23T18:00:00.000+00:00",
+        "id": 401772779
+      },
+      "longest_reception": 15.0,
+      "longest_rush": 5.0,
+      "player": {
+        "id": 4596602,
+        "name": "Brashard Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 31.0,
+      "receptions": 3.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 5.0,
+      "targets": 4.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T21:25:00.000+00:00",
+        "id": 401772778
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4596602,
+        "name": "Brashard Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T21:25:00.000+00:00",
+        "id": 401772768
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 4.0,
+      "player": {
+        "id": 4596602,
+        "name": "Brashard Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 7.0,
+      "targets": 1.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-28T00:15:00.000+00:00",
+        "id": 401772817
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 4.0,
+      "player": {
+        "id": 4596602,
+        "name": "Brashard Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 8.0,
+      "targets": 0.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-19T17:00:00.000+00:00",
+        "id": 401772753
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4596602,
+        "name": "Brashard Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 42.0,
+      "receptions": 5.0,
+      "rushing_attempts": 14.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 39.0,
+      "targets": 5.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-13T00:20:00.000+00:00",
+        "id": 401772923
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4596602,
+        "name": "Brashard Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 21.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-07T00:15:00.000+00:00",
+        "id": 401772814
+      },
+      "longest_reception": 15.0,
+      "longest_rush": 4.0,
+      "player": {
+        "id": 4596602,
+        "name": "Brashard Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 32.0,
+      "receptions": 3.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 4.0,
+      "targets": 3.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T20:25:00.000+00:00",
+        "id": 401772741
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 5.0,
+      "player": {
+        "id": 4596602,
+        "name": "Brashard Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 27.0,
+      "receptions": 3.0,
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 9.0,
+      "targets": 4.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-22T00:20:00.000+00:00",
+        "id": 401772920
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4596602,
+        "name": "Brashard Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 13.0,
+      "targets": 1.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-14T20:25:00.000+00:00",
+        "id": 401772837
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 2.0,
+      "player": {
+        "id": 4596602,
+        "name": "Brashard Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 2.0,
+      "targets": 1.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-06T00:00:00.000+00:00",
+        "id": 401772714
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4596602,
+        "name": "Brashard Smith"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T18:00:00.000+00:00",
+        "id": 401772798
+      },
+      "longest_reception": 26.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362921,
+        "name": "Tyquan Thornton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 47.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-08T01:20:00.000+00:00",
+        "id": 401772932
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362921,
+        "name": "Tyquan Thornton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 19.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-27T21:30:00.000+00:00",
+        "id": 401772694
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362921,
+        "name": "Tyquan Thornton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-23T18:00:00.000+00:00",
+        "id": 401772779
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362921,
+        "name": "Tyquan Thornton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T21:25:00.000+00:00",
+        "id": 401772778
+      },
+      "longest_reception": 61.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362921,
+        "name": "Tyquan Thornton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 61.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T21:25:00.000+00:00",
+        "id": 401772768
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362921,
+        "name": "Tyquan Thornton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-28T00:15:00.000+00:00",
+        "id": 401772817
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362921,
+        "name": "Tyquan Thornton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-19T17:00:00.000+00:00",
+        "id": 401772753
+      },
+      "longest_reception": 39.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362921,
+        "name": "Tyquan Thornton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 39.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-13T00:20:00.000+00:00",
+        "id": 401772923
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362921,
+        "name": "Tyquan Thornton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-07T00:15:00.000+00:00",
+        "id": 401772814
+      },
+      "longest_reception": 34.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362921,
+        "name": "Tyquan Thornton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 90.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T20:25:00.000+00:00",
+        "id": 401772741
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362921,
+        "name": "Tyquan Thornton"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 11.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-22T00:20:00.000+00:00",
+        "id": 401772920
+      },
+      "longest_reception": 33.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362921,
+        "name": "Tyquan Thornton"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 71.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-14T20:25:00.000+00:00",
+        "id": 401772837
+      },
+      "longest_reception": 49.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362921,
+        "name": "Tyquan Thornton"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 59.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-06T00:00:00.000+00:00",
+        "id": 401772714
+      },
+      "longest_reception": 38.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362921,
+        "name": "Tyquan Thornton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 41.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T21:25:00.000+00:00",
+        "id": 401772957
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430723,
+        "name": "Jared Wiley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-26T01:15:00.000+00:00",
+        "id": 401772622
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430723,
+        "name": "Jared Wiley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772803
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430723,
+        "name": "Jared Wiley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-08T01:20:00.000+00:00",
+        "id": 401772932
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430723,
+        "name": "Jared Wiley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-27T21:30:00.000+00:00",
+        "id": 401772694
+      },
+      "longest_reception": 4.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430723,
+        "name": "Jared Wiley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T01:20:00.000+00:00",
+        "id": 401772613
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4379401,
+        "name": "John FitzPatrick"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T21:25:00.000+00:00",
+        "id": 401772800
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4379401,
+        "name": "John FitzPatrick"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 18.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T21:25:00.000+00:00",
+        "id": 401772897
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4379401,
+        "name": "John FitzPatrick"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 14.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-27T18:00:00.000+00:00",
+        "id": 401772891
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4379401,
+        "name": "John FitzPatrick"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-23T18:00:00.000+00:00",
+        "id": 401772887
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4379401,
+        "name": "John FitzPatrick"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 11.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T18:00:00.000+00:00",
+        "id": 401772883
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4379401,
+        "name": "John FitzPatrick"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-11T01:15:00.000+00:00",
+        "id": 401772630
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4379401,
+        "name": "John FitzPatrick"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T18:00:00.000+00:00",
+        "id": 401772872
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4379401,
+        "name": "John FitzPatrick"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-27T00:20:00.000+00:00",
+        "id": 401772925
+      },
+      "longest_reception": 4.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4379401,
+        "name": "John FitzPatrick"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-19T20:25:00.000+00:00",
+        "id": 401772863
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4379401,
+        "name": "John FitzPatrick"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T20:25:00.000+00:00",
+        "id": 401772752
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4379401,
+        "name": "John FitzPatrick"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-29T00:20:00.000+00:00",
+        "id": 401772921
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4379401,
+        "name": "John FitzPatrick"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772842
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4379401,
+        "name": "John FitzPatrick"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 12.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-12T00:15:00.000+00:00",
+        "id": 401772936
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4379401,
+        "name": "John FitzPatrick"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T20:25:00.000+00:00",
+        "id": 401772722
+      },
+      "longest_reception": 2.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4379401,
+        "name": "John FitzPatrick"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 2.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 9,
+        "name": "Green Bay Packers"
+      }
+    }
+  ],
+  "results": 181
+}

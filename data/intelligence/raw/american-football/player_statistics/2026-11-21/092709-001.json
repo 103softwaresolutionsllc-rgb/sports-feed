@@ -1,0 +1,2703 @@
+{
+  "errors": [],
+  "get": "players/statistics",
+  "parameters": {
+    "season": "2026",
+    "source": "espn-fallback",
+    "team": "Washington Commanders"
+  },
+  "response": [
+    {
+      "game": {
+        "date": "2026-11-13T01:15:00.000+00:00",
+        "id": 401873052
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4048228,
+        "name": "John Bates"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873043
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4048228,
+        "name": "John Bates"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-02T01:20:00.000+00:00",
+        "id": 401873035
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4048228,
+        "name": "John Bates"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-20T00:15:00.000+00:00",
+        "id": 401873008
+      },
+      "longest_reception": 4.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4048228,
+        "name": "John Bates"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872988
+      },
+      "longest_reception": 1.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4048228,
+        "name": "John Bates"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 1.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T13:30:00.000+00:00",
+        "id": 401872965
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4048228,
+        "name": "John Bates"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872955
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4048228,
+        "name": "John Bates"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:25:00.000+00:00",
+        "id": 401872944
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4048228,
+        "name": "John Bates"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872929
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4048228,
+        "name": "John Bates"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 13.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873043
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4683111,
+        "name": "Jaden Bradley"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 12.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-13T01:15:00.000+00:00",
+        "id": 401873052
+      },
+      "longest_reception": 20.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4567156,
+        "name": "Treylon Burks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 27.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-02T01:20:00.000+00:00",
+        "id": 401873035
+      },
+      "longest_reception": 53.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4567156,
+        "name": "Treylon Burks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 81.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-20T00:15:00.000+00:00",
+        "id": 401873008
+      },
+      "longest_reception": 30.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4567156,
+        "name": "Treylon Burks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 66.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872988
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4567156,
+        "name": "Treylon Burks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 26.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T13:30:00.000+00:00",
+        "id": 401872965
+      },
+      "longest_reception": 47.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4567156,
+        "name": "Treylon Burks"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 47.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872955
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4567156,
+        "name": "Treylon Burks"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 13.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:25:00.000+00:00",
+        "id": 401872944
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4567156,
+        "name": "Treylon Burks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "completions": 23.0,
+      "game": {
+        "date": "2026-11-13T01:15:00.000+00:00",
+        "id": 401873052
+      },
+      "longest_rush": 8.0,
+      "passing_attempts": 33.0,
+      "passing_interceptions": 2.0,
+      "passing_touchdowns": 3.0,
+      "passing_yards": 249.0,
+      "player": {
+        "id": 4426348,
+        "name": "Jayden Daniels"
+      },
+      "rushing_attempts": 11.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 28.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "completions": 24.0,
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873043
+      },
+      "longest_rush": 7.0,
+      "passing_attempts": 35.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 274.0,
+      "player": {
+        "id": 4426348,
+        "name": "Jayden Daniels"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 16.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "completions": 16.0,
+      "game": {
+        "date": "2026-11-02T01:20:00.000+00:00",
+        "id": 401873035
+      },
+      "longest_rush": 14.0,
+      "passing_attempts": 29.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 217.0,
+      "player": {
+        "id": 4426348,
+        "name": "Jayden Daniels"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 23.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "completions": 29.0,
+      "game": {
+        "date": "2026-10-20T00:15:00.000+00:00",
+        "id": 401873008
+      },
+      "longest_rush": 4.0,
+      "passing_attempts": 40.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 300.0,
+      "player": {
+        "id": 4426348,
+        "name": "Jayden Daniels"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 10.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "completions": 17.0,
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872988
+      },
+      "longest_rush": 38.0,
+      "passing_attempts": 25.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 199.0,
+      "player": {
+        "id": 4426348,
+        "name": "Jayden Daniels"
+      },
+      "rushing_attempts": 9.0,
+      "rushing_touchdowns": 2.0,
+      "rushing_yards": 103.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "completions": 11.0,
+      "game": {
+        "date": "2026-09-20T20:25:00.000+00:00",
+        "id": 401872944
+      },
+      "longest_rush": 20.0,
+      "passing_attempts": 17.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 96.0,
+      "player": {
+        "id": 4426348,
+        "name": "Jayden Daniels"
+      },
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 69.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "completions": 18.0,
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872929
+      },
+      "longest_rush": 14.0,
+      "passing_attempts": 34.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 164.0,
+      "player": {
+        "id": 4426348,
+        "name": "Jayden Daniels"
+      },
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 31.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-13T01:15:00.000+00:00",
+        "id": 401873052
+      },
+      "longest_reception": 32.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2976212,
+        "name": "Stefon Diggs"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 83.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 10.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873043
+      },
+      "longest_reception": 42.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2976212,
+        "name": "Stefon Diggs"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 51.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-02T01:20:00.000+00:00",
+        "id": 401873035
+      },
+      "longest_reception": 20.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2976212,
+        "name": "Stefon Diggs"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 38.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-20T00:15:00.000+00:00",
+        "id": 401873008
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2976212,
+        "name": "Stefon Diggs"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 44.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T13:30:00.000+00:00",
+        "id": 401872965
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2976212,
+        "name": "Stefon Diggs"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 35.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872955
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2976212,
+        "name": "Stefon Diggs"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 33.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:25:00.000+00:00",
+        "id": 401872944
+      },
+      "longest_reception": 20.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2976212,
+        "name": "Stefon Diggs"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 47.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872929
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2976212,
+        "name": "Stefon Diggs"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 55.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-13T01:15:00.000+00:00",
+        "id": 401873052
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 7.0,
+      "player": {
+        "id": 3068267,
+        "name": "Austin Ekeler"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 26.0,
+      "receptions": 4.0,
+      "rushing_attempts": 9.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 26.0,
+      "targets": 4.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873043
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 7.0,
+      "player": {
+        "id": 3068267,
+        "name": "Austin Ekeler"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 18.0,
+      "receptions": 2.0,
+      "rushing_attempts": 8.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 16.0,
+      "targets": 3.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-02T01:20:00.000+00:00",
+        "id": 401873035
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 18.0,
+      "player": {
+        "id": 3068267,
+        "name": "Austin Ekeler"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 8.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 36.0,
+      "targets": 0.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-20T00:15:00.000+00:00",
+        "id": 401873008
+      },
+      "longest_reception": 2.0,
+      "longest_rush": 3.0,
+      "player": {
+        "id": 3068267,
+        "name": "Austin Ekeler"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 2.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 3.0,
+      "targets": 2.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872988
+      },
+      "longest_reception": 15.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3068267,
+        "name": "Austin Ekeler"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 15.0,
+      "receptions": 1.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -1.0,
+      "targets": 1.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T13:30:00.000+00:00",
+        "id": 401872965
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 10.0,
+      "player": {
+        "id": 3068267,
+        "name": "Austin Ekeler"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 11.0,
+      "receptions": 1.0,
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 29.0,
+      "targets": 2.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-13T01:15:00.000+00:00",
+        "id": 401873052
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 4.0,
+      "player": {
+        "id": 5151317,
+        "name": "Robert Henry Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 4.0,
+      "targets": 0.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-13T01:15:00.000+00:00",
+        "id": 401873052
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3930066,
+        "name": "Van Jefferson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873043
+      },
+      "longest_reception": 21.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3930066,
+        "name": "Van Jefferson"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 58.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-02T01:20:00.000+00:00",
+        "id": 401873035
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3930066,
+        "name": "Van Jefferson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872988
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3930066,
+        "name": "Van Jefferson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "completions": 15.0,
+      "game": {
+        "date": "2026-10-04T13:30:00.000+00:00",
+        "id": 401872965
+      },
+      "longest_rush": 9.0,
+      "passing_attempts": 33.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 186.0,
+      "player": {
+        "id": 4432722,
+        "name": "Athan Kaliakmanis"
+      },
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 16.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T13:30:00.000+00:00",
+        "id": 401872965
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4602667,
+        "name": "Jaylin Lane"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872955
+      },
+      "longest_reception": 21.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4602667,
+        "name": "Jaylin Lane"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 21.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:25:00.000+00:00",
+        "id": 401872944
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4602667,
+        "name": "Jaylin Lane"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872929
+      },
+      "longest_reception": 4.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4602667,
+        "name": "Jaylin Lane"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "completions": 3.0,
+      "game": {
+        "date": "2026-10-04T13:30:00.000+00:00",
+        "id": 401872965
+      },
+      "longest_rush": 35.0,
+      "passing_attempts": 4.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 46.0,
+      "player": {
+        "id": 2576980,
+        "name": "Marcus Mariota"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 35.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "completions": 19.0,
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872955
+      },
+      "longest_rush": 9.0,
+      "passing_attempts": 31.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 3.0,
+      "passing_yards": 183.0,
+      "player": {
+        "id": 2576980,
+        "name": "Marcus Mariota"
+      },
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 11.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "completions": 11.0,
+      "game": {
+        "date": "2026-09-20T20:25:00.000+00:00",
+        "id": 401872944
+      },
+      "longest_rush": 3.0,
+      "passing_attempts": 16.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 111.0,
+      "player": {
+        "id": 2576980,
+        "name": "Marcus Mariota"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 3.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-13T01:15:00.000+00:00",
+        "id": 401873052
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426948,
+        "name": "Luke McCaffrey"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873043
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426948,
+        "name": "Luke McCaffrey"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-02T01:20:00.000+00:00",
+        "id": 401873035
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426948,
+        "name": "Luke McCaffrey"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-20T00:15:00.000+00:00",
+        "id": 401873008
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426948,
+        "name": "Luke McCaffrey"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872988
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426948,
+        "name": "Luke McCaffrey"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872955
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426948,
+        "name": "Luke McCaffrey"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-13T01:15:00.000+00:00",
+        "id": 401873052
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360635,
+        "name": "Chig Okonkwo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 24.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873043
+      },
+      "longest_reception": 16.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360635,
+        "name": "Chig Okonkwo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 57.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-02T01:20:00.000+00:00",
+        "id": 401873035
+      },
+      "longest_reception": 21.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360635,
+        "name": "Chig Okonkwo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 32.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-20T00:15:00.000+00:00",
+        "id": 401873008
+      },
+      "longest_reception": 29.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360635,
+        "name": "Chig Okonkwo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 69.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872988
+      },
+      "longest_reception": 25.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360635,
+        "name": "Chig Okonkwo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 60.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T13:30:00.000+00:00",
+        "id": 401872965
+      },
+      "longest_reception": 3.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360635,
+        "name": "Chig Okonkwo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872929
+      },
+      "longest_reception": 15.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360635,
+        "name": "Chig Okonkwo"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 16.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T13:30:00.000+00:00",
+        "id": 401872965
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 4.0,
+      "player": {
+        "id": 4421446,
+        "name": "Craig Reynolds"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 4.0,
+      "targets": 0.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-13T01:15:00.000+00:00",
+        "id": 401873052
+      },
+      "longest_reception": 24.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4690923,
+        "name": "Ben Sinnott"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 42.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873043
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4690923,
+        "name": "Ben Sinnott"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-02T01:20:00.000+00:00",
+        "id": 401873035
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4690923,
+        "name": "Ben Sinnott"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-20T00:15:00.000+00:00",
+        "id": 401873008
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4690923,
+        "name": "Ben Sinnott"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872988
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4690923,
+        "name": "Ben Sinnott"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T13:30:00.000+00:00",
+        "id": 401872965
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4690923,
+        "name": "Ben Sinnott"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872955
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4690923,
+        "name": "Ben Sinnott"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:25:00.000+00:00",
+        "id": 401872944
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4690923,
+        "name": "Ben Sinnott"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872929
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4690923,
+        "name": "Ben Sinnott"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-13T01:15:00.000+00:00",
+        "id": 401873052
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 18.0,
+      "player": {
+        "id": 4697815,
+        "name": "Rachaad White"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 11.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 47.0,
+      "targets": 2.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873043
+      },
+      "longest_reception": 45.0,
+      "longest_rush": 14.0,
+      "player": {
+        "id": 4697815,
+        "name": "Rachaad White"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 41.0,
+      "receptions": 2.0,
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 28.0,
+      "targets": 3.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-02T01:20:00.000+00:00",
+        "id": 401873035
+      },
+      "longest_reception": 4.0,
+      "longest_rush": 33.0,
+      "player": {
+        "id": 4697815,
+        "name": "Rachaad White"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 2.0,
+      "rushing_attempts": 11.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 55.0,
+      "targets": 3.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-20T00:15:00.000+00:00",
+        "id": 401873008
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4697815,
+        "name": "Rachaad White"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 30.0,
+      "receptions": 4.0,
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 27.0,
+      "targets": 5.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872988
+      },
+      "longest_reception": 2.0,
+      "longest_rush": 5.0,
+      "player": {
+        "id": 4697815,
+        "name": "Rachaad White"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 2.0,
+      "receptions": 1.0,
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 18.0,
+      "targets": 1.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872955
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 19.0,
+      "player": {
+        "id": 4697815,
+        "name": "Rachaad White"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 6.0,
+      "receptions": 1.0,
+      "rushing_attempts": 8.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 35.0,
+      "targets": 1.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:25:00.000+00:00",
+        "id": 401872944
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 14.0,
+      "player": {
+        "id": 4697815,
+        "name": "Rachaad White"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 40.0,
+      "receptions": 6.0,
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 43.0,
+      "targets": 6.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872929
+      },
+      "longest_reception": 3.0,
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4697815,
+        "name": "Rachaad White"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 2.0,
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 22.0,
+      "targets": 2.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-13T01:15:00.000+00:00",
+        "id": 401873052
+      },
+      "longest_reception": 31.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5081432,
+        "name": "Antonio Williams"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 42.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873043
+      },
+      "longest_reception": 18.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5081432,
+        "name": "Antonio Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 25.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-02T01:20:00.000+00:00",
+        "id": 401873035
+      },
+      "longest_reception": 30.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5081432,
+        "name": "Antonio Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 54.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-20T00:15:00.000+00:00",
+        "id": 401873008
+      },
+      "longest_reception": 23.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5081432,
+        "name": "Antonio Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 50.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872988
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5081432,
+        "name": "Antonio Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 31.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T13:30:00.000+00:00",
+        "id": 401872965
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5081432,
+        "name": "Antonio Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 21.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872955
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5081432,
+        "name": "Antonio Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 15.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:25:00.000+00:00",
+        "id": 401872944
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5081432,
+        "name": "Antonio Williams"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 24.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872929
+      },
+      "longest_reception": 33.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 5081432,
+        "name": "Antonio Williams"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 64.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-08T18:00:00.000+00:00",
+        "id": 401873043
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361088,
+        "name": "Colson Yankoff"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-02T01:20:00.000+00:00",
+        "id": 401873035
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361088,
+        "name": "Colson Yankoff"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-20T00:15:00.000+00:00",
+        "id": 401873008
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361088,
+        "name": "Colson Yankoff"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872988
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361088,
+        "name": "Colson Yankoff"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T13:30:00.000+00:00",
+        "id": 401872965
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361088,
+        "name": "Colson Yankoff"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872955
+      },
+      "longest_reception": 2.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361088,
+        "name": "Colson Yankoff"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 2.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:25:00.000+00:00",
+        "id": 401872944
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361088,
+        "name": "Colson Yankoff"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 14.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-02T01:20:00.000+00:00",
+        "id": 401873035
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361577,
+        "name": "Dyami Brown"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-20T00:15:00.000+00:00",
+        "id": 401873008
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361577,
+        "name": "Dyami Brown"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872988
+      },
+      "longest_reception": 2.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361577,
+        "name": "Dyami Brown"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 2.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T13:30:00.000+00:00",
+        "id": 401872965
+      },
+      "longest_reception": 48.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361577,
+        "name": "Dyami Brown"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 65.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872955
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361577,
+        "name": "Dyami Brown"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:25:00.000+00:00",
+        "id": 401872944
+      },
+      "longest_reception": 18.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361577,
+        "name": "Dyami Brown"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 21.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872929
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361577,
+        "name": "Dyami Brown"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872988
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 33.0,
+      "player": {
+        "id": 4575131,
+        "name": "Jacory Croskey-Merritt"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 11.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 82.0,
+      "targets": 0.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-04T13:30:00.000+00:00",
+        "id": 401872965
+      },
+      "longest_reception": 35.0,
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4575131,
+        "name": "Jacory Croskey-Merritt"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 35.0,
+      "receptions": 2.0,
+      "rushing_attempts": 9.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 15.0,
+      "targets": 4.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872955
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4575131,
+        "name": "Jacory Croskey-Merritt"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 19.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 36.0,
+      "targets": 1.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:25:00.000+00:00",
+        "id": 401872944
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4575131,
+        "name": "Jacory Croskey-Merritt"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 12.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 43.0,
+      "targets": 1.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872929
+      },
+      "longest_reception": -7.0,
+      "longest_rush": 11.0,
+      "player": {
+        "id": 4575131,
+        "name": "Jacory Croskey-Merritt"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": -7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 16.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 63.0,
+      "targets": 1.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-20T00:15:00.000+00:00",
+        "id": 401873008
+      },
+      "longest_reception": 27.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3121422,
+        "name": "Terry McLaurin"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 27.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-11T17:00:00.000+00:00",
+        "id": 401872988
+      },
+      "longest_reception": 22.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3121422,
+        "name": "Terry McLaurin"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 62.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-27T17:00:00.000+00:00",
+        "id": 401872955
+      },
+      "longest_reception": 30.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3121422,
+        "name": "Terry McLaurin"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 77.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-20T20:25:00.000+00:00",
+        "id": 401872944
+      },
+      "longest_reception": 26.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3121422,
+        "name": "Terry McLaurin"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 50.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-09-13T20:25:00.000+00:00",
+        "id": 401872929
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3121422,
+        "name": "Terry McLaurin"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 14.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-11-02T01:20:00.000+00:00",
+        "id": 401873035
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 7.0,
+      "player": {
+        "id": 3127586,
+        "name": "Jeremy McNichols"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 21.0,
+      "targets": 1.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-10-20T00:15:00.000+00:00",
+        "id": 401873008
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 6.0,
+      "player": {
+        "id": 3127586,
+        "name": "Jeremy McNichols"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 13.0,
+      "targets": 0.0,
+      "team": {
+        "id": 28,
+        "name": "Washington Commanders"
+      }
+    }
+  ],
+  "results": 117
+}

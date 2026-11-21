@@ -1,0 +1,4819 @@
+{
+  "errors": [],
+  "get": "players/statistics",
+  "parameters": {
+    "season": "2025",
+    "source": "espn-fallback",
+    "team": "Minnesota Vikings"
+  },
+  "response": [
+    {
+      "completions": 7.0,
+      "game": {
+        "date": "2026-01-04T18:00:00.000+00:00",
+        "id": 401772968
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 8.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 57.0,
+      "player": {
+        "id": 4573398,
+        "name": "Max Brosmer"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "completions": 9.0,
+      "game": {
+        "date": "2025-12-25T21:30:00.000+00:00",
+        "id": 401772711
+      },
+      "longest_rush": 11.0,
+      "passing_attempts": 16.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 51.0,
+      "player": {
+        "id": 4573398,
+        "name": "Max Brosmer"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 16.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "completions": 7.0,
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772911
+      },
+      "longest_rush": -1.0,
+      "passing_attempts": 9.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 52.0,
+      "player": {
+        "id": 4573398,
+        "name": "Max Brosmer"
+      },
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -3.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "completions": 19.0,
+      "game": {
+        "date": "2025-11-30T21:05:00.000+00:00",
+        "id": 401772896
+      },
+      "longest_rush": -1.0,
+      "passing_attempts": 30.0,
+      "passing_interceptions": 4.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 126.0,
+      "player": {
+        "id": 4573398,
+        "name": "Max Brosmer"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -1.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2025-11-23T18:00:00.000+00:00",
+        "id": 401772887
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 0.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 4573398,
+        "name": "Max Brosmer"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "completions": 3.0,
+      "game": {
+        "date": "2025-10-24T00:15:00.000+00:00",
+        "id": 401772942
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 4.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 13.0,
+      "player": {
+        "id": 4573398,
+        "name": "Max Brosmer"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "completions": 0.0,
+      "game": {
+        "date": "2025-10-05T13:30:00.000+00:00",
+        "id": 401772633
+      },
+      "longest_rush": -1.0,
+      "passing_attempts": 0.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 0.0,
+      "player": {
+        "id": 4573398,
+        "name": "Max Brosmer"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -1.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "completions": 2.0,
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772731
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 4.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 29.0,
+      "player": {
+        "id": 4573398,
+        "name": "Max Brosmer"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "completions": 18.0,
+      "game": {
+        "date": "2026-01-04T18:00:00.000+00:00",
+        "id": 401772966
+      },
+      "longest_rush": 2.0,
+      "passing_attempts": 32.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 180.0,
+      "player": {
+        "id": 14880,
+        "name": "Kirk Cousins"
+      },
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "completions": 13.0,
+      "game": {
+        "date": "2025-12-30T01:15:00.000+00:00",
+        "id": 401772825
+      },
+      "longest_rush": 1.0,
+      "passing_attempts": 20.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 126.0,
+      "player": {
+        "id": 14880,
+        "name": "Kirk Cousins"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "completions": 21.0,
+      "game": {
+        "date": "2025-12-21T21:05:00.000+00:00",
+        "id": 401772914
+      },
+      "longest_rush": 2.0,
+      "passing_attempts": 35.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 197.0,
+      "player": {
+        "id": 14880,
+        "name": "Kirk Cousins"
+      },
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": -3.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "completions": 30.0,
+      "game": {
+        "date": "2025-12-12T01:15:00.000+00:00",
+        "id": 401772948
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 44.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 3.0,
+      "passing_yards": 373.0,
+      "player": {
+        "id": 14880,
+        "name": "Kirk Cousins"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "completions": 15.0,
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772900
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 30.0,
+      "passing_interceptions": 2.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 162.0,
+      "player": {
+        "id": 14880,
+        "name": "Kirk Cousins"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "completions": 21.0,
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772893
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 33.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 234.0,
+      "player": {
+        "id": 14880,
+        "name": "Kirk Cousins"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "completions": 16.0,
+      "game": {
+        "date": "2025-11-23T21:25:00.000+00:00",
+        "id": 401772889
+      },
+      "longest_rush": 6.0,
+      "passing_attempts": 23.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 199.0,
+      "player": {
+        "id": 14880,
+        "name": "Kirk Cousins"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 5.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "completions": 6.0,
+      "game": {
+        "date": "2025-11-16T18:00:00.000+00:00",
+        "id": 401772882
+      },
+      "longest_rush": 2.0,
+      "passing_attempts": 14.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 48.0,
+      "player": {
+        "id": 14880,
+        "name": "Kirk Cousins"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 2.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "completions": 21.0,
+      "game": {
+        "date": "2025-10-26T17:00:00.000+00:00",
+        "id": 401772760
+      },
+      "longest_rush": 3.0,
+      "passing_attempts": 31.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 173.0,
+      "player": {
+        "id": 14880,
+        "name": "Kirk Cousins"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 2.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "completions": 5.0,
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772838
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 7.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 29.0,
+      "player": {
+        "id": 14880,
+        "name": "Kirk Cousins"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 1,
+        "name": "Atlanta Falcons"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-03T21:30:00.000+00:00",
+        "id": 401772969
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361112,
+        "name": "Devin Culp"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-28T18:00:00.000+00:00",
+        "id": 401772916
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361112,
+        "name": "Devin Culp"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-12T01:15:00.000+00:00",
+        "id": 401772948
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361112,
+        "name": "Devin Culp"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 6.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772792
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361112,
+        "name": "Devin Culp"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772895
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361112,
+        "name": "Devin Culp"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-24T01:20:00.000+00:00",
+        "id": 401772929
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361112,
+        "name": "Devin Culp"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T18:00:00.000+00:00",
+        "id": 401772776
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361112,
+        "name": "Devin Culp"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772772
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361112,
+        "name": "Devin Culp"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T20:05:00.000+00:00",
+        "id": 401772869
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361112,
+        "name": "Devin Culp"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-20T23:00:00.000+00:00",
+        "id": 401772816
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361112,
+        "name": "Devin Culp"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T20:25:00.000+00:00",
+        "id": 401772749
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361112,
+        "name": "Devin Culp"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T20:05:00.000+00:00",
+        "id": 401772746
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361112,
+        "name": "Devin Culp"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T17:00:00.000+00:00",
+        "id": 401772845
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4361112,
+        "name": "Devin Culp"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 27,
+        "name": "Tampa Bay Buccaneers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T18:00:00.000+00:00",
+        "id": 401772970
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4240631,
+        "name": "DeeJay Dallas"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Jacksonville Jaguars"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-28T18:00:00.000+00:00",
+        "id": 401772915
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 17.0,
+      "player": {
+        "id": 4240631,
+        "name": "DeeJay Dallas"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 21.0,
+      "targets": 1.0,
+      "team": {
+        "id": 30,
+        "name": "Jacksonville Jaguars"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T21:05:00.000+00:00",
+        "id": 401772913
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4240631,
+        "name": "DeeJay Dallas"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 30,
+        "name": "Jacksonville Jaguars"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-25T01:15:00.000+00:00",
+        "id": 401772820
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4240631,
+        "name": "DeeJay Dallas"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T17:00:00.000+00:00",
+        "id": 401772858
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4240631,
+        "name": "DeeJay Dallas"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T17:00:00.000+00:00",
+        "id": 401772852
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4240631,
+        "name": "DeeJay Dallas"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 29,
+        "name": "Carolina Panthers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T18:00:00.000+00:00",
+        "id": 401772968
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4565185,
+        "name": "Tai Felton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-25T21:30:00.000+00:00",
+        "id": 401772711
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4565185,
+        "name": "Tai Felton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772911
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4565185,
+        "name": "Tai Felton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-15T01:20:00.000+00:00",
+        "id": 401772933
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4565185,
+        "name": "Tai Felton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772899
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4565185,
+        "name": "Tai Felton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 10.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T21:05:00.000+00:00",
+        "id": 401772896
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4565185,
+        "name": "Tai Felton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-23T18:00:00.000+00:00",
+        "id": 401772887
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4565185,
+        "name": "Tai Felton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T18:00:00.000+00:00",
+        "id": 401772880
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4565185,
+        "name": "Tai Felton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772876
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4565185,
+        "name": "Tai Felton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T18:00:00.000+00:00",
+        "id": 401772871
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4565185,
+        "name": "Tai Felton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-24T00:15:00.000+00:00",
+        "id": 401772942
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4565185,
+        "name": "Tai Felton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-19T17:00:00.000+00:00",
+        "id": 401772862
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4565185,
+        "name": "Tai Felton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T13:30:00.000+00:00",
+        "id": 401772633
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4565185,
+        "name": "Tai Felton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T13:30:00.000+00:00",
+        "id": 401772632
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4565185,
+        "name": "Tai Felton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772731
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4565185,
+        "name": "Tai Felton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-15T00:20:00.000+00:00",
+        "id": 401772919
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4565185,
+        "name": "Tai Felton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-09T00:15:00.000+00:00",
+        "id": 401772810
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4565185,
+        "name": "Tai Felton"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772911
+      },
+      "longest_reception": 2.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4036133,
+        "name": "T.J. Hockenson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 2.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-15T01:20:00.000+00:00",
+        "id": 401772933
+      },
+      "longest_reception": 29.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4036133,
+        "name": "T.J. Hockenson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 66.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772899
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4036133,
+        "name": "T.J. Hockenson"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 12.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T21:05:00.000+00:00",
+        "id": 401772896
+      },
+      "longest_reception": 29.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4036133,
+        "name": "T.J. Hockenson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 59.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-23T18:00:00.000+00:00",
+        "id": 401772887
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4036133,
+        "name": "T.J. Hockenson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 19.0,
+      "receptions": 4.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T18:00:00.000+00:00",
+        "id": 401772880
+      },
+      "longest_reception": 21.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4036133,
+        "name": "T.J. Hockenson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 39.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772876
+      },
+      "longest_reception": 4.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4036133,
+        "name": "T.J. Hockenson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T18:00:00.000+00:00",
+        "id": 401772871
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4036133,
+        "name": "T.J. Hockenson"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 11.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-24T00:15:00.000+00:00",
+        "id": 401772942
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4036133,
+        "name": "T.J. Hockenson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 26.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-19T17:00:00.000+00:00",
+        "id": 401772862
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4036133,
+        "name": "T.J. Hockenson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 43.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T13:30:00.000+00:00",
+        "id": 401772633
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4036133,
+        "name": "T.J. Hockenson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 38.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T13:30:00.000+00:00",
+        "id": 401772632
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4036133,
+        "name": "T.J. Hockenson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 39.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772731
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4036133,
+        "name": "T.J. Hockenson"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 49.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-15T00:20:00.000+00:00",
+        "id": 401772919
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4036133,
+        "name": "T.J. Hockenson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 12.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-09T00:15:00.000+00:00",
+        "id": 401772810
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4036133,
+        "name": "T.J. Hockenson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 15.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T18:00:00.000+00:00",
+        "id": 401772968
+      },
+      "longest_reception": 18.0,
+      "longest_rush": 3.0,
+      "player": {
+        "id": 4262921,
+        "name": "Justin Jefferson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 101.0,
+      "receptions": 8.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 3.0,
+      "targets": 11.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-25T21:30:00.000+00:00",
+        "id": 401772711
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4262921,
+        "name": "Justin Jefferson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 30.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772911
+      },
+      "longest_reception": 21.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4262921,
+        "name": "Justin Jefferson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 85.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-15T01:20:00.000+00:00",
+        "id": 401772933
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4262921,
+        "name": "Justin Jefferson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 22.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772899
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4262921,
+        "name": "Justin Jefferson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 11.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T21:05:00.000+00:00",
+        "id": 401772896
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4262921,
+        "name": "Justin Jefferson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-23T18:00:00.000+00:00",
+        "id": 401772887
+      },
+      "longest_reception": 19.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4262921,
+        "name": "Justin Jefferson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 48.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T18:00:00.000+00:00",
+        "id": 401772880
+      },
+      "longest_reception": 27.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4262921,
+        "name": "Justin Jefferson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 61.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772876
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4262921,
+        "name": "Justin Jefferson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 37.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 12.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T18:00:00.000+00:00",
+        "id": 401772871
+      },
+      "longest_reception": 21.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4262921,
+        "name": "Justin Jefferson"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 47.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-24T00:15:00.000+00:00",
+        "id": 401772942
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4262921,
+        "name": "Justin Jefferson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 74.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 11.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-19T17:00:00.000+00:00",
+        "id": 401772862
+      },
+      "longest_reception": 40.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4262921,
+        "name": "Justin Jefferson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 79.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 10.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T13:30:00.000+00:00",
+        "id": 401772633
+      },
+      "longest_reception": 38.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4262921,
+        "name": "Justin Jefferson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 123.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 11.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T13:30:00.000+00:00",
+        "id": 401772632
+      },
+      "longest_reception": 29.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4262921,
+        "name": "Justin Jefferson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 126.0,
+      "receptions": 10.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 11.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772731
+      },
+      "longest_reception": 36.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4262921,
+        "name": "Justin Jefferson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 75.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-15T00:20:00.000+00:00",
+        "id": 401772919
+      },
+      "longest_reception": 50.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4262921,
+        "name": "Justin Jefferson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 81.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-09T00:15:00.000+00:00",
+        "id": 401772810
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 4.0,
+      "player": {
+        "id": 4262921,
+        "name": "Justin Jefferson"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 44.0,
+      "receptions": 4.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 4.0,
+      "targets": 7.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T01:00:00.000+00:00",
+        "id": 401772961
+      },
+      "longest_reception": 16.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3886598,
+        "name": "Jauan Jennings"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 35.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-29T01:20:00.000+00:00",
+        "id": 401772935
+      },
+      "longest_reception": 38.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3886598,
+        "name": "Jauan Jennings"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 42.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-23T01:15:00.000+00:00",
+        "id": 401772824
+      },
+      "longest_reception": 21.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3886598,
+        "name": "Jauan Jennings"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 71.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T21:25:00.000+00:00",
+        "id": 401772907
+      },
+      "longest_reception": 20.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3886598,
+        "name": "Jauan Jennings"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 37.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772785
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3886598,
+        "name": "Jauan Jennings"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 39.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-25T01:15:00.000+00:00",
+        "id": 401772820
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3886598,
+        "name": "Jauan Jennings"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 41.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T21:05:00.000+00:00",
+        "id": 401772885
+      },
+      "longest_reception": 25.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3886598,
+        "name": "Jauan Jennings"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 54.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T21:25:00.000+00:00",
+        "id": 401772879
+      },
+      "longest_reception": 22.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3886598,
+        "name": "Jauan Jennings"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 71.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T18:00:00.000+00:00",
+        "id": 401772767
+      },
+      "longest_reception": 20.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3886598,
+        "name": "Jauan Jennings"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 41.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T17:00:00.000+00:00",
+        "id": 401772866
+      },
+      "longest_reception": 25.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3886598,
+        "name": "Jauan Jennings"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 45.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-20T00:20:00.000+00:00",
+        "id": 401772924
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3886598,
+        "name": "Jauan Jennings"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 31.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T20:25:00.000+00:00",
+        "id": 401772749
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3886598,
+        "name": "Jauan Jennings"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T20:05:00.000+00:00",
+        "id": 401772848
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3886598,
+        "name": "Jauan Jennings"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 24.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-14T17:00:00.000+00:00",
+        "id": 401772833
+      },
+      "longest_reception": 42.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3886598,
+        "name": "Jauan Jennings"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 89.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 10.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T20:05:00.000+00:00",
+        "id": 401772831
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3886598,
+        "name": "Jauan Jennings"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 16.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 25,
+        "name": "San Francisco 49ers"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T18:00:00.000+00:00",
+        "id": 401772968
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4360637,
+        "name": "Jeshaun Jones"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-25T21:30:00.000+00:00",
+        "id": 401772711
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 10.0,
+      "player": {
+        "id": 3042519,
+        "name": "Aaron Jones Sr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 10.0,
+      "receptions": 3.0,
+      "rushing_attempts": 18.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 53.0,
+      "targets": 4.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772911
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 15.0,
+      "player": {
+        "id": 3042519,
+        "name": "Aaron Jones Sr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 2.0,
+      "rushing_attempts": 21.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 85.0,
+      "targets": 3.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-15T01:20:00.000+00:00",
+        "id": 401772933
+      },
+      "longest_reception": 18.0,
+      "longest_rush": 16.0,
+      "player": {
+        "id": 3042519,
+        "name": "Aaron Jones Sr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 31.0,
+      "receptions": 3.0,
+      "rushing_attempts": 12.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 34.0,
+      "targets": 3.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772899
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 18.0,
+      "player": {
+        "id": 3042519,
+        "name": "Aaron Jones Sr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 14.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 76.0,
+      "targets": 1.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T21:05:00.000+00:00",
+        "id": 401772896
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 4.0,
+      "player": {
+        "id": 3042519,
+        "name": "Aaron Jones Sr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 22.0,
+      "receptions": 4.0,
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 3.0,
+      "targets": 4.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-23T18:00:00.000+00:00",
+        "id": 401772887
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 13.0,
+      "player": {
+        "id": 3042519,
+        "name": "Aaron Jones Sr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 16.0,
+      "receptions": 3.0,
+      "rushing_attempts": 9.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 41.0,
+      "targets": 4.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T18:00:00.000+00:00",
+        "id": 401772880
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 14.0,
+      "player": {
+        "id": 3042519,
+        "name": "Aaron Jones Sr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 11.0,
+      "receptions": 3.0,
+      "rushing_attempts": 16.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 70.0,
+      "targets": 6.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772876
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 17.0,
+      "player": {
+        "id": 3042519,
+        "name": "Aaron Jones Sr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 22.0,
+      "receptions": 3.0,
+      "rushing_attempts": 9.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 47.0,
+      "targets": 6.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T18:00:00.000+00:00",
+        "id": 401772871
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 31.0,
+      "player": {
+        "id": 3042519,
+        "name": "Aaron Jones Sr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 20.0,
+      "receptions": 2.0,
+      "rushing_attempts": 9.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 78.0,
+      "targets": 2.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-24T00:15:00.000+00:00",
+        "id": 401772942
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 5.0,
+      "player": {
+        "id": 3042519,
+        "name": "Aaron Jones Sr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 15.0,
+      "receptions": 2.0,
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 15.0,
+      "targets": 4.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-15T00:20:00.000+00:00",
+        "id": 401772919
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 8.0,
+      "player": {
+        "id": 3042519,
+        "name": "Aaron Jones Sr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 23.0,
+      "targets": 1.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-09T00:15:00.000+00:00",
+        "id": 401772810
+      },
+      "longest_reception": 27.0,
+      "longest_rush": 9.0,
+      "player": {
+        "id": 3042519,
+        "name": "Aaron Jones Sr."
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 44.0,
+      "receptions": 3.0,
+      "rushing_attempts": 8.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 23.0,
+      "targets": 3.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T18:00:00.000+00:00",
+        "id": 401772968
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 24.0,
+      "player": {
+        "id": 4360569,
+        "name": "Jordan Mason"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 14.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 94.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772911
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 5.0,
+      "player": {
+        "id": 4360569,
+        "name": "Jordan Mason"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 1.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 5.0,
+      "targets": 1.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-15T01:20:00.000+00:00",
+        "id": 401772933
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4360569,
+        "name": "Jordan Mason"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 10.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 29.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772899
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 12.0,
+      "player": {
+        "id": 4360569,
+        "name": "Jordan Mason"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 11.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 52.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T21:05:00.000+00:00",
+        "id": 401772896
+      },
+      "longest_reception": 1.0,
+      "longest_rush": 24.0,
+      "player": {
+        "id": 4360569,
+        "name": "Jordan Mason"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 1.0,
+      "receptions": 1.0,
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 47.0,
+      "targets": 1.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-23T18:00:00.000+00:00",
+        "id": 401772887
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 22.0,
+      "player": {
+        "id": 4360569,
+        "name": "Jordan Mason"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 8.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 42.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T18:00:00.000+00:00",
+        "id": 401772880
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 16.0,
+      "player": {
+        "id": 4360569,
+        "name": "Jordan Mason"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 45.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772876
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 13.0,
+      "player": {
+        "id": 4360569,
+        "name": "Jordan Mason"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 1.0,
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 25.0,
+      "targets": 1.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T18:00:00.000+00:00",
+        "id": 401772871
+      },
+      "longest_reception": 1.0,
+      "longest_rush": 13.0,
+      "player": {
+        "id": 4360569,
+        "name": "Jordan Mason"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 1.0,
+      "receptions": 1.0,
+      "rushing_attempts": 10.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 36.0,
+      "targets": 1.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-24T00:15:00.000+00:00",
+        "id": 401772942
+      },
+      "longest_reception": 3.0,
+      "longest_rush": 4.0,
+      "player": {
+        "id": 4360569,
+        "name": "Jordan Mason"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 3.0,
+      "receptions": 1.0,
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 3.0,
+      "targets": 1.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-19T17:00:00.000+00:00",
+        "id": 401772862
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 12.0,
+      "player": {
+        "id": 4360569,
+        "name": "Jordan Mason"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 15.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 57.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T13:30:00.000+00:00",
+        "id": 401772633
+      },
+      "longest_reception": 2.0,
+      "longest_rush": 14.0,
+      "player": {
+        "id": 4360569,
+        "name": "Jordan Mason"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 3.0,
+      "rushing_attempts": 13.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 52.0,
+      "targets": 4.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T13:30:00.000+00:00",
+        "id": 401772632
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4360569,
+        "name": "Jordan Mason"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 15.0,
+      "receptions": 3.0,
+      "rushing_attempts": 16.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 57.0,
+      "targets": 3.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772731
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 24.0,
+      "player": {
+        "id": 4360569,
+        "name": "Jordan Mason"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 16.0,
+      "rushing_touchdowns": 2.0,
+      "rushing_yards": 116.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-15T00:20:00.000+00:00",
+        "id": 401772919
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4360569,
+        "name": "Jordan Mason"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 2.0,
+      "rushing_attempts": 9.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 30.0,
+      "targets": 3.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-09T00:15:00.000+00:00",
+        "id": 401772810
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 19.0,
+      "player": {
+        "id": 4360569,
+        "name": "Jordan Mason"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 15.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 68.0,
+      "targets": 1.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "completions": 23.0,
+      "game": {
+        "date": "2025-10-05T20:05:00.000+00:00",
+        "id": 401772747
+      },
+      "longest_rush": 12.0,
+      "passing_attempts": 31.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 220.0,
+      "player": {
+        "id": 3917315,
+        "name": "Kyler Murray"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 25.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "completions": 27.0,
+      "game": {
+        "date": "2025-09-26T00:15:00.000+00:00",
+        "id": 401772938
+      },
+      "longest_rush": 29.0,
+      "passing_attempts": 41.0,
+      "passing_interceptions": 2.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 200.0,
+      "player": {
+        "id": 3917315,
+        "name": "Kyler Murray"
+      },
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 41.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "completions": 22.0,
+      "game": {
+        "date": "2025-09-21T20:25:00.000+00:00",
+        "id": 401772843
+      },
+      "longest_rush": 9.0,
+      "passing_attempts": 35.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 159.0,
+      "player": {
+        "id": 3917315,
+        "name": "Kyler Murray"
+      },
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 37.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "completions": 17.0,
+      "game": {
+        "date": "2025-09-14T20:05:00.000+00:00",
+        "id": 401772730
+      },
+      "longest_rush": 30.0,
+      "passing_attempts": 25.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 220.0,
+      "player": {
+        "id": 3917315,
+        "name": "Kyler Murray"
+      },
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 32.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "completions": 21.0,
+      "game": {
+        "date": "2025-09-07T17:00:00.000+00:00",
+        "id": 401772718
+      },
+      "longest_rush": 13.0,
+      "passing_attempts": 29.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 163.0,
+      "player": {
+        "id": 3917315,
+        "name": "Kyler Murray"
+      },
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 38.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-25T21:30:00.000+00:00",
+        "id": 401772711
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430656,
+        "name": "Myles Price"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772911
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430656,
+        "name": "Myles Price"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-15T01:20:00.000+00:00",
+        "id": 401772933
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430656,
+        "name": "Myles Price"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772899
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430656,
+        "name": "Myles Price"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T21:05:00.000+00:00",
+        "id": 401772896
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430656,
+        "name": "Myles Price"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-23T18:00:00.000+00:00",
+        "id": 401772887
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430656,
+        "name": "Myles Price"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T18:00:00.000+00:00",
+        "id": 401772880
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430656,
+        "name": "Myles Price"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772876
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430656,
+        "name": "Myles Price"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T18:00:00.000+00:00",
+        "id": 401772871
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430656,
+        "name": "Myles Price"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-19T17:00:00.000+00:00",
+        "id": 401772862
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430656,
+        "name": "Myles Price"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T13:30:00.000+00:00",
+        "id": 401772633
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430656,
+        "name": "Myles Price"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T13:30:00.000+00:00",
+        "id": 401772632
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430656,
+        "name": "Myles Price"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772731
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430656,
+        "name": "Myles Price"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-15T00:20:00.000+00:00",
+        "id": 401772919
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430656,
+        "name": "Myles Price"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-09T00:15:00.000+00:00",
+        "id": 401772810
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4430656,
+        "name": "Myles Price"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "completions": 15.0,
+      "game": {
+        "date": "2025-10-24T00:15:00.000+00:00",
+        "id": 401772942
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 27.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 144.0,
+      "player": {
+        "id": 2573079,
+        "name": "Carson Wentz"
+      },
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "completions": 26.0,
+      "game": {
+        "date": "2025-10-19T17:00:00.000+00:00",
+        "id": 401772862
+      },
+      "longest_rush": 16.0,
+      "passing_attempts": 42.0,
+      "passing_interceptions": 2.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 313.0,
+      "player": {
+        "id": 2573079,
+        "name": "Carson Wentz"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 28.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "completions": 25.0,
+      "game": {
+        "date": "2025-10-05T13:30:00.000+00:00",
+        "id": 401772633
+      },
+      "longest_rush": 6.0,
+      "passing_attempts": 34.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 236.0,
+      "player": {
+        "id": 2573079,
+        "name": "Carson Wentz"
+      },
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 13.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "completions": 30.0,
+      "game": {
+        "date": "2025-09-28T13:30:00.000+00:00",
+        "id": 401772632
+      },
+      "longest_rush": 11.0,
+      "passing_attempts": 46.0,
+      "passing_interceptions": 2.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 350.0,
+      "player": {
+        "id": 2573079,
+        "name": "Carson Wentz"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 12.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "completions": 14.0,
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772731
+      },
+      "longest_rush": 3.0,
+      "passing_attempts": 20.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 173.0,
+      "player": {
+        "id": 2573079,
+        "name": "Carson Wentz"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 4.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T18:00:00.000+00:00",
+        "id": 401772968
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4433959,
+        "name": "Ben Yurosek"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-25T21:30:00.000+00:00",
+        "id": 401772711
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4433959,
+        "name": "Ben Yurosek"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772911
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4433959,
+        "name": "Ben Yurosek"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-15T01:20:00.000+00:00",
+        "id": 401772933
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4433959,
+        "name": "Ben Yurosek"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T18:00:00.000+00:00",
+        "id": 401772880
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4433959,
+        "name": "Ben Yurosek"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772876
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4433959,
+        "name": "Ben Yurosek"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T18:00:00.000+00:00",
+        "id": 401772871
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4433959,
+        "name": "Ben Yurosek"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-24T00:15:00.000+00:00",
+        "id": 401772942
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4433959,
+        "name": "Ben Yurosek"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-19T17:00:00.000+00:00",
+        "id": 401772862
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4433959,
+        "name": "Ben Yurosek"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772731
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4433959,
+        "name": "Ben Yurosek"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-15T00:20:00.000+00:00",
+        "id": 401772919
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4433959,
+        "name": "Ben Yurosek"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-09T00:15:00.000+00:00",
+        "id": 401772810
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4433959,
+        "name": "Ben Yurosek"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T18:00:00.000+00:00",
+        "id": 401772968
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429205,
+        "name": "Jordan Addison"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-25T21:30:00.000+00:00",
+        "id": 401772711
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 65.0,
+      "player": {
+        "id": 4429205,
+        "name": "Jordan Addison"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 65.0,
+      "targets": 1.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772911
+      },
+      "longest_reception": 20.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429205,
+        "name": "Jordan Addison"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 26.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-15T01:20:00.000+00:00",
+        "id": 401772933
+      },
+      "longest_reception": 58.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429205,
+        "name": "Jordan Addison"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 66.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772899
+      },
+      "longest_reception": 21.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429205,
+        "name": "Jordan Addison"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 62.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T21:05:00.000+00:00",
+        "id": 401772896
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429205,
+        "name": "Jordan Addison"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 36.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 10.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-23T18:00:00.000+00:00",
+        "id": 401772887
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429205,
+        "name": "Jordan Addison"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T18:00:00.000+00:00",
+        "id": 401772880
+      },
+      "longest_reception": 15.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429205,
+        "name": "Jordan Addison"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 20.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772876
+      },
+      "longest_reception": 26.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429205,
+        "name": "Jordan Addison"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 35.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 11.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T18:00:00.000+00:00",
+        "id": 401772871
+      },
+      "longest_reception": 31.0,
+      "longest_rush": 16.0,
+      "player": {
+        "id": 4429205,
+        "name": "Jordan Addison"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 48.0,
+      "receptions": 2.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 16.0,
+      "targets": 4.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-24T00:15:00.000+00:00",
+        "id": 401772942
+      },
+      "longest_reception": 15.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429205,
+        "name": "Jordan Addison"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 26.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-19T17:00:00.000+00:00",
+        "id": 401772862
+      },
+      "longest_reception": 34.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429205,
+        "name": "Jordan Addison"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 128.0,
+      "receptions": 9.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 12.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T13:30:00.000+00:00",
+        "id": 401772633
+      },
+      "longest_reception": 15.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429205,
+        "name": "Jordan Addison"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 41.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T13:30:00.000+00:00",
+        "id": 401772632
+      },
+      "longest_reception": 81.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429205,
+        "name": "Jordan Addison"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 114.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T18:00:00.000+00:00",
+        "id": 401772968
+      },
+      "longest_reception": 22.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3921690,
+        "name": "Josh Oliver"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 29.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-25T21:30:00.000+00:00",
+        "id": 401772711
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3921690,
+        "name": "Josh Oliver"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772911
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3921690,
+        "name": "Josh Oliver"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 19.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-15T01:20:00.000+00:00",
+        "id": 401772933
+      },
+      "longest_reception": 18.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3921690,
+        "name": "Josh Oliver"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 18.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772899
+      },
+      "longest_reception": 18.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3921690,
+        "name": "Josh Oliver"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 24.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T21:05:00.000+00:00",
+        "id": 401772896
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3921690,
+        "name": "Josh Oliver"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-23T18:00:00.000+00:00",
+        "id": 401772887
+      },
+      "longest_reception": 4.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3921690,
+        "name": "Josh Oliver"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T18:00:00.000+00:00",
+        "id": 401772880
+      },
+      "longest_reception": -3.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3921690,
+        "name": "Josh Oliver"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": -3.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-24T00:15:00.000+00:00",
+        "id": 401772942
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3921690,
+        "name": "Josh Oliver"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-19T17:00:00.000+00:00",
+        "id": 401772862
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3921690,
+        "name": "Josh Oliver"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T13:30:00.000+00:00",
+        "id": 401772633
+      },
+      "longest_reception": 32.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3921690,
+        "name": "Josh Oliver"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 35.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T13:30:00.000+00:00",
+        "id": 401772632
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3921690,
+        "name": "Josh Oliver"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772731
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3921690,
+        "name": "Josh Oliver"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 12.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-15T00:20:00.000+00:00",
+        "id": 401772919
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3921690,
+        "name": "Josh Oliver"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-09T00:15:00.000+00:00",
+        "id": 401772810
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3921690,
+        "name": "Josh Oliver"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 16,
+        "name": "Minnesota Vikings"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772934
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4043016,
+        "name": "Dee Eskridge"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 15,
+        "name": "Miami Dolphins"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-16T01:15:00.000+00:00",
+        "id": 401772823
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4043016,
+        "name": "Dee Eskridge"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 15,
+        "name": "Miami Dolphins"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772790
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4043016,
+        "name": "Dee Eskridge"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 15,
+        "name": "Miami Dolphins"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772892
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4043016,
+        "name": "Dee Eskridge"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 15,
+        "name": "Miami Dolphins"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-31T00:15:00.000+00:00",
+        "id": 401772943
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4043016,
+        "name": "Dee Eskridge"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 15,
+        "name": "Miami Dolphins"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T17:00:00.000+00:00",
+        "id": 401772760
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4043016,
+        "name": "Dee Eskridge"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 15,
+        "name": "Miami Dolphins"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-19T17:00:00.000+00:00",
+        "id": 401772754
+      },
+      "longest_reception": 40.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4043016,
+        "name": "Dee Eskridge"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 45.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 15,
+        "name": "Miami Dolphins"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T17:00:00.000+00:00",
+        "id": 401772750
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4043016,
+        "name": "Dee Eskridge"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 15,
+        "name": "Miami Dolphins"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T17:00:00.000+00:00",
+        "id": 401772852
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4043016,
+        "name": "Dee Eskridge"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 15,
+        "name": "Miami Dolphins"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-29T23:15:00.000+00:00",
+        "id": 401772813
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4043016,
+        "name": "Dee Eskridge"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 15,
+        "name": "Miami Dolphins"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-19T00:15:00.000+00:00",
+        "id": 401772937
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4043016,
+        "name": "Dee Eskridge"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 15,
+        "name": "Miami Dolphins"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-14T17:00:00.000+00:00",
+        "id": 401772728
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4043016,
+        "name": "Dee Eskridge"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 15,
+        "name": "Miami Dolphins"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T17:00:00.000+00:00",
+        "id": 401772719
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4043016,
+        "name": "Dee Eskridge"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 15,
+        "name": "Miami Dolphins"
+      }
+    }
+  ],
+  "results": 209
+}

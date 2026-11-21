@@ -1,0 +1,5716 @@
+{
+  "errors": [],
+  "get": "players/statistics",
+  "parameters": {
+    "season": "2025",
+    "source": "espn-fallback",
+    "team": "Houston Texans"
+  },
+  "response": [
+    {
+      "game": {
+        "date": "2026-01-04T21:25:00.000+00:00",
+        "id": 401772958
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429022,
+        "name": "Kayshon Boutte"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 24.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 17,
+        "name": "New England Patriots"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-22T01:20:00.000+00:00",
+        "id": 401772804
+      },
+      "longest_reception": 16.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429022,
+        "name": "Kayshon Boutte"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 16.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 17,
+        "name": "New England Patriots"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T18:00:00.000+00:00",
+        "id": 401772795
+      },
+      "longest_reception": 30.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429022,
+        "name": "Kayshon Boutte"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 30.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 17,
+        "name": "New England Patriots"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-02T01:15:00.000+00:00",
+        "id": 401772821
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429022,
+        "name": "Kayshon Boutte"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 35.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 17,
+        "name": "New England Patriots"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-23T18:00:00.000+00:00",
+        "id": 401772781
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429022,
+        "name": "Kayshon Boutte"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 15.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 17,
+        "name": "New England Patriots"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T18:00:00.000+00:00",
+        "id": 401772763
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429022,
+        "name": "Kayshon Boutte"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 17,
+        "name": "New England Patriots"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T17:00:00.000+00:00",
+        "id": 401772868
+      },
+      "longest_reception": 39.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429022,
+        "name": "Kayshon Boutte"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 75.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 17,
+        "name": "New England Patriots"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-19T17:00:00.000+00:00",
+        "id": 401772755
+      },
+      "longest_reception": 39.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429022,
+        "name": "Kayshon Boutte"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 55.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 17,
+        "name": "New England Patriots"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T17:00:00.000+00:00",
+        "id": 401772751
+      },
+      "longest_reception": 29.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429022,
+        "name": "Kayshon Boutte"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 93.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 17,
+        "name": "New England Patriots"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-06T00:20:00.000+00:00",
+        "id": 401772922
+      },
+      "longest_reception": 19.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429022,
+        "name": "Kayshon Boutte"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 43.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 17,
+        "name": "New England Patriots"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T17:00:00.000+00:00",
+        "id": 401772847
+      },
+      "longest_reception": 18.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429022,
+        "name": "Kayshon Boutte"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 18.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 17,
+        "name": "New England Patriots"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772732
+      },
+      "longest_reception": 20.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429022,
+        "name": "Kayshon Boutte"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 28.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 17,
+        "name": "New England Patriots"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-14T17:00:00.000+00:00",
+        "id": 401772728
+      },
+      "longest_reception": 16.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429022,
+        "name": "Kayshon Boutte"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 16.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 17,
+        "name": "New England Patriots"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T17:00:00.000+00:00",
+        "id": 401772720
+      },
+      "longest_reception": 24.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4429022,
+        "name": "Kayshon Boutte"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 103.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 17,
+        "name": "New England Patriots"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-27T21:30:00.000+00:00",
+        "id": 401772951
+      },
+      "longest_reception": 23.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4258173,
+        "name": "Nico Collins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 57.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T21:25:00.000+00:00",
+        "id": 401772805
+      },
+      "longest_reception": 24.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4258173,
+        "name": "Nico Collins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 59.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T18:00:00.000+00:00",
+        "id": 401772903
+      },
+      "longest_reception": 57.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4258173,
+        "name": "Nico Collins"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 85.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-08T01:20:00.000+00:00",
+        "id": 401772932
+      },
+      "longest_reception": 53.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4258173,
+        "name": "Nico Collins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 121.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772787
+      },
+      "longest_reception": 29.0,
+      "longest_rush": 7.0,
+      "player": {
+        "id": 4258173,
+        "name": "Nico Collins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 98.0,
+      "receptions": 5.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 7.0,
+      "targets": 10.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-21T01:15:00.000+00:00",
+        "id": 401772946
+      },
+      "longest_reception": 24.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4258173,
+        "name": "Nico Collins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 55.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T18:00:00.000+00:00",
+        "id": 401772881
+      },
+      "longest_reception": 18.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4258173,
+        "name": "Nico Collins"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 92.0,
+      "receptions": 9.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 10.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772770
+      },
+      "longest_reception": 54.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4258173,
+        "name": "Nico Collins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 136.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 15.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T18:00:00.000+00:00",
+        "id": 401772870
+      },
+      "longest_reception": 26.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4258173,
+        "name": "Nico Collins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 75.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 11.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-21T02:00:00.000+00:00",
+        "id": 401772826
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4258173,
+        "name": "Nico Collins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 27.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 10.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T17:00:00.000+00:00",
+        "id": 401772743
+      },
+      "longest_reception": 24.0,
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4258173,
+        "name": "Nico Collins"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 52.0,
+      "receptions": 4.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 8.0,
+      "targets": 5.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T17:00:00.000+00:00",
+        "id": 401772738
+      },
+      "longest_reception": 37.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4258173,
+        "name": "Nico Collins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 79.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772734
+      },
+      "longest_reception": 50.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4258173,
+        "name": "Nico Collins"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 104.0,
+      "receptions": 8.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 11.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-15T23:00:00.000+00:00",
+        "id": 401772715
+      },
+      "longest_reception": 29.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4258173,
+        "name": "Nico Collins"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 52.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T20:25:00.000+00:00",
+        "id": 401772723
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4258173,
+        "name": "Nico Collins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 25.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T21:25:00.000+00:00",
+        "id": 401772955
+      },
+      "longest_reception": 28.0,
+      "longest_rush": 18.0,
+      "player": {
+        "id": 4362478,
+        "name": "Emari Demercado"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 28.0,
+      "receptions": 1.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 29.0,
+      "targets": 1.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-28T18:00:00.000+00:00",
+        "id": 401772954
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 4.0,
+      "player": {
+        "id": 4362478,
+        "name": "Emari Demercado"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 2.0,
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 11.0,
+      "targets": 3.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T21:05:00.000+00:00",
+        "id": 401772914
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 12.0,
+      "player": {
+        "id": 4362478,
+        "name": "Emari Demercado"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 30.0,
+      "targets": 1.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T18:00:00.000+00:00",
+        "id": 401772903
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 1.0,
+      "player": {
+        "id": 4362478,
+        "name": "Emari Demercado"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 2.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "targets": 3.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T21:05:00.000+00:00",
+        "id": 401772885
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 5.0,
+      "player": {
+        "id": 4362478,
+        "name": "Emari Demercado"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 12.0,
+      "receptions": 2.0,
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 8.0,
+      "targets": 3.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T21:05:00.000+00:00",
+        "id": 401772773
+      },
+      "longest_reception": 34.0,
+      "longest_rush": 55.0,
+      "player": {
+        "id": 4362478,
+        "name": "Emari Demercado"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 40.0,
+      "receptions": 3.0,
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 64.0,
+      "targets": 4.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-04T01:15:00.000+00:00",
+        "id": 401772818
+      },
+      "longest_reception": -1.0,
+      "longest_rush": 19.0,
+      "player": {
+        "id": 4362478,
+        "name": "Emari Demercado"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": -1.0,
+      "receptions": 1.0,
+      "rushing_attempts": 14.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 79.0,
+      "targets": 1.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T17:00:00.000+00:00",
+        "id": 401772856
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 1.0,
+      "player": {
+        "id": 4362478,
+        "name": "Emari Demercado"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "targets": 1.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T20:05:00.000+00:00",
+        "id": 401772747
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 71.0,
+      "player": {
+        "id": 4362478,
+        "name": "Emari Demercado"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 81.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-26T00:15:00.000+00:00",
+        "id": 401772938
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4362478,
+        "name": "Emari Demercado"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 13.0,
+      "receptions": 2.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 8.0,
+      "targets": 2.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T20:25:00.000+00:00",
+        "id": 401772843
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 1.0,
+      "player": {
+        "id": 4362478,
+        "name": "Emari Demercado"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-14T20:05:00.000+00:00",
+        "id": 401772730
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362478,
+        "name": "Emari Demercado"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T17:00:00.000+00:00",
+        "id": 401772718
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362478,
+        "name": "Emari Demercado"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-28T18:00:00.000+00:00",
+        "id": 401772954
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4432708,
+        "name": "Marvin Harrison Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T21:05:00.000+00:00",
+        "id": 401772914
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4432708,
+        "name": "Marvin Harrison Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 14.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772895
+      },
+      "longest_reception": 21.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4432708,
+        "name": "Marvin Harrison Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 69.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T21:05:00.000+00:00",
+        "id": 401772773
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4432708,
+        "name": "Marvin Harrison Jr."
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 33.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 12.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-04T01:15:00.000+00:00",
+        "id": 401772818
+      },
+      "longest_reception": 20.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4432708,
+        "name": "Marvin Harrison Jr."
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 96.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 10.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-19T20:25:00.000+00:00",
+        "id": 401772863
+      },
+      "longest_reception": 35.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4432708,
+        "name": "Marvin Harrison Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 58.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T17:00:00.000+00:00",
+        "id": 401772856
+      },
+      "longest_reception": 21.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4432708,
+        "name": "Marvin Harrison Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 32.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T20:05:00.000+00:00",
+        "id": 401772747
+      },
+      "longest_reception": 43.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4432708,
+        "name": "Marvin Harrison Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 98.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-26T00:15:00.000+00:00",
+        "id": 401772938
+      },
+      "longest_reception": 18.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4432708,
+        "name": "Marvin Harrison Jr."
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 66.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 10.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T20:25:00.000+00:00",
+        "id": 401772843
+      },
+      "longest_reception": 32.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4432708,
+        "name": "Marvin Harrison Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 44.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-14T20:05:00.000+00:00",
+        "id": 401772730
+      },
+      "longest_reception": 15.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4432708,
+        "name": "Marvin Harrison Jr."
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 27.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T17:00:00.000+00:00",
+        "id": 401772718
+      },
+      "longest_reception": 45.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4432708,
+        "name": "Marvin Harrison Jr."
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 71.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 22,
+        "name": "Arizona Cardinals"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T18:00:00.000+00:00",
+        "id": 401772962
+      },
+      "longest_reception": 33.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4686422,
+        "name": "Xavier Hutchinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 84.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-27T21:30:00.000+00:00",
+        "id": 401772951
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4686422,
+        "name": "Xavier Hutchinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 21.0,
+      "receptions": 2.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 8.0,
+      "targets": 3.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T21:25:00.000+00:00",
+        "id": 401772805
+      },
+      "longest_reception": 4.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4686422,
+        "name": "Xavier Hutchinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T18:00:00.000+00:00",
+        "id": 401772903
+      },
+      "longest_reception": 16.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4686422,
+        "name": "Xavier Hutchinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 16.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-08T01:20:00.000+00:00",
+        "id": 401772932
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4686422,
+        "name": "Xavier Hutchinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772787
+      },
+      "longest_reception": 24.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4686422,
+        "name": "Xavier Hutchinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 39.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-21T01:15:00.000+00:00",
+        "id": 401772946
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4686422,
+        "name": "Xavier Hutchinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 9.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T18:00:00.000+00:00",
+        "id": 401772881
+      },
+      "longest_reception": 22.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4686422,
+        "name": "Xavier Hutchinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 42.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772770
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4686422,
+        "name": "Xavier Hutchinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T18:00:00.000+00:00",
+        "id": 401772870
+      },
+      "longest_reception": 19.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4686422,
+        "name": "Xavier Hutchinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 30.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T17:00:00.000+00:00",
+        "id": 401772866
+      },
+      "longest_reception": 30.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4686422,
+        "name": "Xavier Hutchinson"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 69.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-21T02:00:00.000+00:00",
+        "id": 401772826
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4686422,
+        "name": "Xavier Hutchinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 13.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T17:00:00.000+00:00",
+        "id": 401772743
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4686422,
+        "name": "Xavier Hutchinson"
+      },
+      "receiving_touchdowns": 2.0,
+      "receiving_yards": 18.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T17:00:00.000+00:00",
+        "id": 401772738
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4686422,
+        "name": "Xavier Hutchinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 17.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772734
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4686422,
+        "name": "Xavier Hutchinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 16.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-15T23:00:00.000+00:00",
+        "id": 401772715
+      },
+      "longest_reception": 20.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4686422,
+        "name": "Xavier Hutchinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 29.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T20:25:00.000+00:00",
+        "id": 401772723
+      },
+      "longest_reception": 23.0,
+      "longest_rush": 5.0,
+      "player": {
+        "id": 4686422,
+        "name": "Xavier Hutchinson"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 30.0,
+      "receptions": 2.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 5.0,
+      "targets": 2.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T18:00:00.000+00:00",
+        "id": 401772962
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 2.0,
+      "player": {
+        "id": 4429939,
+        "name": "Jawhar Jordan"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 3.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-27T21:30:00.000+00:00",
+        "id": 401772951
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 10.0,
+      "player": {
+        "id": 4429939,
+        "name": "Jawhar Jordan"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 8.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 36.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T21:25:00.000+00:00",
+        "id": 401772805
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 12.0,
+      "player": {
+        "id": 4429939,
+        "name": "Jawhar Jordan"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 17.0,
+      "receptions": 5.0,
+      "rushing_attempts": 15.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 53.0,
+      "targets": 5.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T18:00:00.000+00:00",
+        "id": 401772903
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 50.0,
+      "player": {
+        "id": 4429939,
+        "name": "Jawhar Jordan"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 17.0,
+      "receptions": 2.0,
+      "rushing_attempts": 15.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 101.0,
+      "targets": 2.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T18:00:00.000+00:00",
+        "id": 401772962
+      },
+      "longest_reception": 3.0,
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4429059,
+        "name": "Woody Marks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 2.0,
+      "rushing_attempts": 10.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 48.0,
+      "targets": 3.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-27T21:30:00.000+00:00",
+        "id": 401772951
+      },
+      "longest_reception": 4.0,
+      "longest_rush": 19.0,
+      "player": {
+        "id": 4429059,
+        "name": "Woody Marks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 19.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 71.0,
+      "targets": 2.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T18:00:00.000+00:00",
+        "id": 401772903
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 11.0,
+      "player": {
+        "id": 4429059,
+        "name": "Woody Marks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 30.0,
+      "targets": 1.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-08T01:20:00.000+00:00",
+        "id": 401772932
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4429059,
+        "name": "Woody Marks"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 8.0,
+      "receptions": 2.0,
+      "rushing_attempts": 26.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 68.0,
+      "targets": 3.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772787
+      },
+      "longest_reception": 3.0,
+      "longest_rush": 16.0,
+      "player": {
+        "id": 4429059,
+        "name": "Woody Marks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 3.0,
+      "receptions": 1.0,
+      "rushing_attempts": 19.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 64.0,
+      "targets": 1.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-21T01:15:00.000+00:00",
+        "id": 401772946
+      },
+      "longest_reception": -5.0,
+      "longest_rush": 19.0,
+      "player": {
+        "id": 4429059,
+        "name": "Woody Marks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": -5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 16.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 74.0,
+      "targets": 1.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T18:00:00.000+00:00",
+        "id": 401772881
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 12.0,
+      "player": {
+        "id": 4429059,
+        "name": "Woody Marks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 18.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 44.0,
+      "targets": 1.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772770
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 21.0,
+      "player": {
+        "id": 4429059,
+        "name": "Woody Marks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 18.0,
+      "receptions": 2.0,
+      "rushing_attempts": 14.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 63.0,
+      "targets": 3.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T18:00:00.000+00:00",
+        "id": 401772870
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 7.0,
+      "player": {
+        "id": 4429059,
+        "name": "Woody Marks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 10.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 27.0,
+      "targets": 3.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T17:00:00.000+00:00",
+        "id": 401772866
+      },
+      "longest_reception": 50.0,
+      "longest_rush": 23.0,
+      "player": {
+        "id": 4429059,
+        "name": "Woody Marks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 49.0,
+      "receptions": 4.0,
+      "rushing_attempts": 11.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 62.0,
+      "targets": 4.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-21T02:00:00.000+00:00",
+        "id": 401772826
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 11.0,
+      "player": {
+        "id": 4429059,
+        "name": "Woody Marks"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 20.0,
+      "receptions": 3.0,
+      "rushing_attempts": 10.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 15.0,
+      "targets": 5.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T17:00:00.000+00:00",
+        "id": 401772743
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 11.0,
+      "player": {
+        "id": 4429059,
+        "name": "Woody Marks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 24.0,
+      "targets": 1.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T17:00:00.000+00:00",
+        "id": 401772738
+      },
+      "longest_reception": 20.0,
+      "longest_rush": 18.0,
+      "player": {
+        "id": 4429059,
+        "name": "Woody Marks"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 50.0,
+      "receptions": 4.0,
+      "rushing_attempts": 17.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 69.0,
+      "targets": 5.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772734
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4429059,
+        "name": "Woody Marks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 27.0,
+      "targets": 2.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-15T23:00:00.000+00:00",
+        "id": 401772715
+      },
+      "longest_reception": 37.0,
+      "longest_rush": 7.0,
+      "player": {
+        "id": 4429059,
+        "name": "Woody Marks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 37.0,
+      "receptions": 1.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 14.0,
+      "targets": 1.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T20:25:00.000+00:00",
+        "id": 401772723
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 2.0,
+      "player": {
+        "id": 4429059,
+        "name": "Woody Marks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 3.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "completions": 3.0,
+      "game": {
+        "date": "2026-01-04T18:00:00.000+00:00",
+        "id": 401772962
+      },
+      "longest_rush": 12.0,
+      "passing_attempts": 9.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 36.0,
+      "player": {
+        "id": 4242546,
+        "name": "Davis Mills"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 12.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "completions": 16.0,
+      "game": {
+        "date": "2025-11-21T01:15:00.000+00:00",
+        "id": 401772946
+      },
+      "longest_rush": 5.0,
+      "passing_attempts": 30.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 153.0,
+      "player": {
+        "id": 4242546,
+        "name": "Davis Mills"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 4.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "completions": 26.0,
+      "game": {
+        "date": "2025-11-16T18:00:00.000+00:00",
+        "id": 401772881
+      },
+      "longest_rush": 10.0,
+      "passing_attempts": 41.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 274.0,
+      "player": {
+        "id": 4242546,
+        "name": "Davis Mills"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 14.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "completions": 27.0,
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772770
+      },
+      "longest_rush": 14.0,
+      "passing_attempts": 45.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 292.0,
+      "player": {
+        "id": 4242546,
+        "name": "Davis Mills"
+      },
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 20.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "completions": 17.0,
+      "game": {
+        "date": "2025-11-02T18:00:00.000+00:00",
+        "id": 401772870
+      },
+      "longest_rush": 7.0,
+      "passing_attempts": 30.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 137.0,
+      "player": {
+        "id": 4242546,
+        "name": "Davis Mills"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 7.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "completions": 2.0,
+      "game": {
+        "date": "2025-10-05T17:00:00.000+00:00",
+        "id": 401772743
+      },
+      "longest_rush": 5.0,
+      "passing_attempts": 4.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 23.0,
+      "player": {
+        "id": 4242546,
+        "name": "Davis Mills"
+      },
+      "rushing_attempts": 3.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 3.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T21:25:00.000+00:00",
+        "id": 401772965
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4035538,
+        "name": "David Montgomery"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 13.0,
+      "receptions": 1.0,
+      "rushing_attempts": 8.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 42.0,
+      "targets": 1.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-25T21:30:00.000+00:00",
+        "id": 401772711
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 8.0,
+      "player": {
+        "id": 4035538,
+        "name": "David Montgomery"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 15.0,
+      "receptions": 2.0,
+      "rushing_attempts": 10.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 25.0,
+      "targets": 2.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T21:25:00.000+00:00",
+        "id": 401772806
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 17.0,
+      "player": {
+        "id": 4035538,
+        "name": "David Montgomery"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 14.0,
+      "targets": 0.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T21:25:00.000+00:00",
+        "id": 401772909
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 10.0,
+      "player": {
+        "id": 4035538,
+        "name": "David Montgomery"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 32.0,
+      "targets": 1.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-05T01:15:00.000+00:00",
+        "id": 401772947
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 35.0,
+      "player": {
+        "id": 4035538,
+        "name": "David Montgomery"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 13.0,
+      "receptions": 1.0,
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 60.0,
+      "targets": 1.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-27T18:00:00.000+00:00",
+        "id": 401772891
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 14.0,
+      "player": {
+        "id": 4035538,
+        "name": "David Montgomery"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 16.0,
+      "receptions": 2.0,
+      "rushing_attempts": 8.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 32.0,
+      "targets": 2.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-23T18:00:00.000+00:00",
+        "id": 401772888
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4035538,
+        "name": "David Montgomery"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 19.0,
+      "receptions": 3.0,
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 18.0,
+      "targets": 3.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-17T01:20:00.000+00:00",
+        "id": 401772928
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 7.0,
+      "player": {
+        "id": 4035538,
+        "name": "David Montgomery"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 10.0,
+      "receptions": 1.0,
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 27.0,
+      "targets": 1.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T21:25:00.000+00:00",
+        "id": 401772878
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 12.0,
+      "player": {
+        "id": 4035538,
+        "name": "David Montgomery"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 1.0,
+      "rushing_attempts": 15.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 71.0,
+      "targets": 1.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T18:00:00.000+00:00",
+        "id": 401772871
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 11.0,
+      "player": {
+        "id": 4035538,
+        "name": "David Montgomery"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 10.0,
+      "receptions": 2.0,
+      "rushing_attempts": 11.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 40.0,
+      "targets": 4.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-20T23:00:00.000+00:00",
+        "id": 401772816
+      },
+      "longest_reception": 15.0,
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4035538,
+        "name": "David Montgomery"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 18.0,
+      "receptions": 2.0,
+      "rushing_attempts": 13.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 21.0,
+      "targets": 3.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-13T00:20:00.000+00:00",
+        "id": 401772923
+      },
+      "longest_reception": 23.0,
+      "longest_rush": 13.0,
+      "player": {
+        "id": 4035538,
+        "name": "David Montgomery"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 37.0,
+      "receptions": 2.0,
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 24.0,
+      "targets": 2.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T20:25:00.000+00:00",
+        "id": 401772854
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 19.0,
+      "player": {
+        "id": 4035538,
+        "name": "David Montgomery"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 1.0,
+      "rushing_attempts": 18.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 65.0,
+      "targets": 1.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T17:00:00.000+00:00",
+        "id": 401772846
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 4.0,
+      "player": {
+        "id": 4035538,
+        "name": "David Montgomery"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 9.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 12.0,
+      "targets": 1.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-23T00:15:00.000+00:00",
+        "id": 401772812
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 72.0,
+      "player": {
+        "id": 4035538,
+        "name": "David Montgomery"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 13.0,
+      "receptions": 1.0,
+      "rushing_attempts": 12.0,
+      "rushing_touchdowns": 2.0,
+      "rushing_yards": 151.0,
+      "targets": 1.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-14T17:00:00.000+00:00",
+        "id": 401772835
+      },
+      "longest_reception": 4.0,
+      "longest_rush": 18.0,
+      "player": {
+        "id": 4035538,
+        "name": "David Montgomery"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 11.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 57.0,
+      "targets": 1.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T20:25:00.000+00:00",
+        "id": 401772722
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 6.0,
+      "player": {
+        "id": 4035538,
+        "name": "David Montgomery"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 18.0,
+      "receptions": 4.0,
+      "rushing_attempts": 11.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 25.0,
+      "targets": 4.0,
+      "team": {
+        "id": 8,
+        "name": "Detroit Lions"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772801
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3843945,
+        "name": "Foster Moreau"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T21:25:00.000+00:00",
+        "id": 401772908
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3843945,
+        "name": "Foster Moreau"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-07T18:00:00.000+00:00",
+        "id": 401772792
+      },
+      "longest_reception": 16.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3843945,
+        "name": "Foster Moreau"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 16.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772892
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3843945,
+        "name": "Foster Moreau"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 13.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-23T21:25:00.000+00:00",
+        "id": 401772889
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3843945,
+        "name": "Foster Moreau"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772877
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3843945,
+        "name": "Foster Moreau"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 16.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T21:05:00.000+00:00",
+        "id": 401772874
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3843945,
+        "name": "Foster Moreau"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T20:05:00.000+00:00",
+        "id": 401772869
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3843945,
+        "name": "Foster Moreau"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-19T17:00:00.000+00:00",
+        "id": 401772861
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3843945,
+        "name": "Foster Moreau"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-12T17:00:00.000+00:00",
+        "id": 401772751
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3843945,
+        "name": "Foster Moreau"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T17:00:00.000+00:00",
+        "id": 401772744
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3843945,
+        "name": "Foster Moreau"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 18,
+        "name": "New Orleans Saints"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T18:00:00.000+00:00",
+        "id": 401772962
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4586312,
+        "name": "Jaylin Noel"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 13.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-27T21:30:00.000+00:00",
+        "id": 401772951
+      },
+      "longest_reception": 43.0,
+      "longest_rush": 2.0,
+      "player": {
+        "id": 4586312,
+        "name": "Jaylin Noel"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 54.0,
+      "receptions": 3.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 2.0,
+      "targets": 4.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T21:25:00.000+00:00",
+        "id": 401772805
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4586312,
+        "name": "Jaylin Noel"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T18:00:00.000+00:00",
+        "id": 401772903
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4586312,
+        "name": "Jaylin Noel"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-08T01:20:00.000+00:00",
+        "id": 401772932
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 1.0,
+      "player": {
+        "id": 4586312,
+        "name": "Jaylin Noel"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 12.0,
+      "receptions": 2.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 1.0,
+      "targets": 2.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772787
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4586312,
+        "name": "Jaylin Noel"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-21T01:15:00.000+00:00",
+        "id": 401772946
+      },
+      "longest_reception": 4.0,
+      "longest_rush": 5.0,
+      "player": {
+        "id": 4586312,
+        "name": "Jaylin Noel"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 5.0,
+      "targets": 2.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T18:00:00.000+00:00",
+        "id": 401772881
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4586312,
+        "name": "Jaylin Noel"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 12.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772770
+      },
+      "longest_reception": 27.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4586312,
+        "name": "Jaylin Noel"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 35.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T18:00:00.000+00:00",
+        "id": 401772870
+      },
+      "longest_reception": 0.0,
+      "longest_rush": -3.0,
+      "player": {
+        "id": 4586312,
+        "name": "Jaylin Noel"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -3.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T17:00:00.000+00:00",
+        "id": 401772866
+      },
+      "longest_reception": 44.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4586312,
+        "name": "Jaylin Noel"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 63.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-21T02:00:00.000+00:00",
+        "id": 401772826
+      },
+      "longest_reception": 29.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4586312,
+        "name": "Jaylin Noel"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 77.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T17:00:00.000+00:00",
+        "id": 401772743
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 5.0,
+      "player": {
+        "id": 4586312,
+        "name": "Jaylin Noel"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 13.0,
+      "receptions": 2.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 5.0,
+      "targets": 3.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T17:00:00.000+00:00",
+        "id": 401772738
+      },
+      "longest_reception": -2.0,
+      "longest_rush": 2.0,
+      "player": {
+        "id": 4586312,
+        "name": "Jaylin Noel"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": -2.0,
+      "receptions": 1.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 2.0,
+      "targets": 1.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772734
+      },
+      "longest_reception": 4.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4586312,
+        "name": "Jaylin Noel"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-15T23:00:00.000+00:00",
+        "id": 401772715
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4586312,
+        "name": "Jaylin Noel"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T20:25:00.000+00:00",
+        "id": 401772723
+      },
+      "longest_reception": 7.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4586312,
+        "name": "Jaylin Noel"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T18:00:00.000+00:00",
+        "id": 401772962
+      },
+      "longest_reception": 6.0,
+      "longest_rush": 3.0,
+      "player": {
+        "id": 2983509,
+        "name": "Dare Ogunbowale"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 6.0,
+      "receptions": 1.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 3.0,
+      "targets": 2.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-27T21:30:00.000+00:00",
+        "id": 401772951
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2983509,
+        "name": "Dare Ogunbowale"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T21:25:00.000+00:00",
+        "id": 401772805
+      },
+      "longest_reception": 2.0,
+      "longest_rush": -3.0,
+      "player": {
+        "id": 2983509,
+        "name": "Dare Ogunbowale"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 2.0,
+      "receptions": 1.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": -3.0,
+      "targets": 1.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T18:00:00.000+00:00",
+        "id": 401772903
+      },
+      "longest_reception": 18.0,
+      "longest_rush": 4.0,
+      "player": {
+        "id": 2983509,
+        "name": "Dare Ogunbowale"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 32.0,
+      "receptions": 3.0,
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 2.0,
+      "targets": 4.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-08T01:20:00.000+00:00",
+        "id": 401772932
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 5.0,
+      "player": {
+        "id": 2983509,
+        "name": "Dare Ogunbowale"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 5.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772787
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2983509,
+        "name": "Dare Ogunbowale"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-21T01:15:00.000+00:00",
+        "id": 401772946
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2983509,
+        "name": "Dare Ogunbowale"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T18:00:00.000+00:00",
+        "id": 401772881
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2983509,
+        "name": "Dare Ogunbowale"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772770
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2983509,
+        "name": "Dare Ogunbowale"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T18:00:00.000+00:00",
+        "id": 401772870
+      },
+      "longest_reception": 2.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2983509,
+        "name": "Dare Ogunbowale"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 2.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T17:00:00.000+00:00",
+        "id": 401772866
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 9.0,
+      "player": {
+        "id": 2983509,
+        "name": "Dare Ogunbowale"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 9.0,
+      "targets": 1.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-21T02:00:00.000+00:00",
+        "id": 401772826
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2983509,
+        "name": "Dare Ogunbowale"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T17:00:00.000+00:00",
+        "id": 401772743
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2983509,
+        "name": "Dare Ogunbowale"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T17:00:00.000+00:00",
+        "id": 401772738
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2983509,
+        "name": "Dare Ogunbowale"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772734
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2983509,
+        "name": "Dare Ogunbowale"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-15T23:00:00.000+00:00",
+        "id": 401772715
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 2983509,
+        "name": "Dare Ogunbowale"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T20:25:00.000+00:00",
+        "id": 401772723
+      },
+      "longest_reception": 16.0,
+      "longest_rush": 7.0,
+      "player": {
+        "id": 2983509,
+        "name": "Dare Ogunbowale"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 17.0,
+      "receptions": 2.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 9.0,
+      "targets": 2.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T18:00:00.000+00:00",
+        "id": 401772803
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372716,
+        "name": "Nikko Remigio"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T18:00:00.000+00:00",
+        "id": 401772798
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372716,
+        "name": "Nikko Remigio"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-27T21:30:00.000+00:00",
+        "id": 401772694
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372716,
+        "name": "Nikko Remigio"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-23T18:00:00.000+00:00",
+        "id": 401772779
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372716,
+        "name": "Nikko Remigio"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T21:25:00.000+00:00",
+        "id": 401772778
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372716,
+        "name": "Nikko Remigio"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T21:25:00.000+00:00",
+        "id": 401772768
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372716,
+        "name": "Nikko Remigio"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-28T00:15:00.000+00:00",
+        "id": 401772817
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372716,
+        "name": "Nikko Remigio"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-19T17:00:00.000+00:00",
+        "id": 401772753
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372716,
+        "name": "Nikko Remigio"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-13T00:20:00.000+00:00",
+        "id": 401772923
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372716,
+        "name": "Nikko Remigio"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-07T00:15:00.000+00:00",
+        "id": 401772814
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372716,
+        "name": "Nikko Remigio"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T20:25:00.000+00:00",
+        "id": 401772741
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372716,
+        "name": "Nikko Remigio"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-22T00:20:00.000+00:00",
+        "id": 401772920
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 11.0,
+      "player": {
+        "id": 4372716,
+        "name": "Nikko Remigio"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 11.0,
+      "targets": 0.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-14T20:25:00.000+00:00",
+        "id": 401772837
+      },
+      "longest_reception": 21.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372716,
+        "name": "Nikko Remigio"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 21.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-06T00:00:00.000+00:00",
+        "id": 401772714
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4372716,
+        "name": "Nikko Remigio"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 12,
+        "name": "Kansas City Chiefs"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T18:00:00.000+00:00",
+        "id": 401772962
+      },
+      "longest_reception": 32.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3117256,
+        "name": "Dalton Schultz"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 73.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-27T21:30:00.000+00:00",
+        "id": 401772951
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3117256,
+        "name": "Dalton Schultz"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 19.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T21:25:00.000+00:00",
+        "id": 401772805
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3117256,
+        "name": "Dalton Schultz"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 35.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T18:00:00.000+00:00",
+        "id": 401772903
+      },
+      "longest_reception": 16.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3117256,
+        "name": "Dalton Schultz"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 76.0,
+      "receptions": 8.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-08T01:20:00.000+00:00",
+        "id": 401772932
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3117256,
+        "name": "Dalton Schultz"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 22.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772787
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3117256,
+        "name": "Dalton Schultz"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 55.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-21T01:15:00.000+00:00",
+        "id": 401772946
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3117256,
+        "name": "Dalton Schultz"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T18:00:00.000+00:00",
+        "id": 401772881
+      },
+      "longest_reception": 13.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3117256,
+        "name": "Dalton Schultz"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 51.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772770
+      },
+      "longest_reception": 20.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3117256,
+        "name": "Dalton Schultz"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 53.0,
+      "receptions": 7.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 11.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T18:00:00.000+00:00",
+        "id": 401772870
+      },
+      "longest_reception": 47.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3117256,
+        "name": "Dalton Schultz"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 77.0,
+      "receptions": 6.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T17:00:00.000+00:00",
+        "id": 401772866
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3117256,
+        "name": "Dalton Schultz"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 24.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-21T02:00:00.000+00:00",
+        "id": 401772826
+      },
+      "longest_reception": 22.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3117256,
+        "name": "Dalton Schultz"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 98.0,
+      "receptions": 9.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 10.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T17:00:00.000+00:00",
+        "id": 401772743
+      },
+      "longest_reception": 21.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3117256,
+        "name": "Dalton Schultz"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 60.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T17:00:00.000+00:00",
+        "id": 401772738
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3117256,
+        "name": "Dalton Schultz"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 30.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772734
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3117256,
+        "name": "Dalton Schultz"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 39.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 6.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-15T23:00:00.000+00:00",
+        "id": 401772715
+      },
+      "longest_reception": 16.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3117256,
+        "name": "Dalton Schultz"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 29.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T20:25:00.000+00:00",
+        "id": 401772723
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 3117256,
+        "name": "Dalton Schultz"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 28.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T18:00:00.000+00:00",
+        "id": 401772962
+      },
+      "longest_reception": 9.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426496,
+        "name": "Cade Stover"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 9.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-27T21:30:00.000+00:00",
+        "id": 401772951
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426496,
+        "name": "Cade Stover"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T21:25:00.000+00:00",
+        "id": 401772805
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426496,
+        "name": "Cade Stover"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 7.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T18:00:00.000+00:00",
+        "id": 401772903
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426496,
+        "name": "Cade Stover"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 22.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-08T01:20:00.000+00:00",
+        "id": 401772932
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426496,
+        "name": "Cade Stover"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772787
+      },
+      "longest_reception": 11.0,
+      "longest_rush": 2.0,
+      "player": {
+        "id": 4426496,
+        "name": "Cade Stover"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 16.0,
+      "receptions": 2.0,
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 3.0,
+      "targets": 2.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-21T01:15:00.000+00:00",
+        "id": 401772946
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426496,
+        "name": "Cade Stover"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 2.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T18:00:00.000+00:00",
+        "id": 401772881
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426496,
+        "name": "Cade Stover"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T20:25:00.000+00:00",
+        "id": 401772723
+      },
+      "longest_reception": 10.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4426496,
+        "name": "Cade Stover"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 22.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "completions": 14.0,
+      "game": {
+        "date": "2026-01-04T18:00:00.000+00:00",
+        "id": 401772962
+      },
+      "longest_rush": 3.0,
+      "passing_attempts": 23.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 169.0,
+      "player": {
+        "id": 4432577,
+        "name": "C.J. Stroud"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 1.0,
+      "rushing_yards": 5.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "completions": 16.0,
+      "game": {
+        "date": "2025-12-27T21:30:00.000+00:00",
+        "id": 401772951
+      },
+      "longest_rush": 2.0,
+      "passing_attempts": 28.0,
+      "passing_interceptions": 2.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 244.0,
+      "player": {
+        "id": 4432577,
+        "name": "C.J. Stroud"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "completions": 23.0,
+      "game": {
+        "date": "2025-12-21T21:25:00.000+00:00",
+        "id": 401772805
+      },
+      "longest_rush": 2.0,
+      "passing_attempts": 35.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 187.0,
+      "player": {
+        "id": 4432577,
+        "name": "C.J. Stroud"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "completions": 22.0,
+      "game": {
+        "date": "2025-12-14T18:00:00.000+00:00",
+        "id": 401772903
+      },
+      "longest_rush": 6.0,
+      "passing_attempts": 29.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 3.0,
+      "passing_yards": 260.0,
+      "player": {
+        "id": 4432577,
+        "name": "C.J. Stroud"
+      },
+      "rushing_attempts": 6.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 10.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "completions": 15.0,
+      "game": {
+        "date": "2025-12-08T01:20:00.000+00:00",
+        "id": 401772932
+      },
+      "longest_rush": 3.0,
+      "passing_attempts": 31.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 203.0,
+      "player": {
+        "id": 4432577,
+        "name": "C.J. Stroud"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 5.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "completions": 22.0,
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772787
+      },
+      "longest_rush": 0.0,
+      "passing_attempts": 35.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 276.0,
+      "player": {
+        "id": 4432577,
+        "name": "C.J. Stroud"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "completions": 6.0,
+      "game": {
+        "date": "2025-11-02T18:00:00.000+00:00",
+        "id": 401772870
+      },
+      "longest_rush": 6.0,
+      "passing_attempts": 10.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 79.0,
+      "player": {
+        "id": 4432577,
+        "name": "C.J. Stroud"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 12.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "completions": 30.0,
+      "game": {
+        "date": "2025-10-26T17:00:00.000+00:00",
+        "id": 401772866
+      },
+      "longest_rush": 13.0,
+      "passing_attempts": 39.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 318.0,
+      "player": {
+        "id": 4432577,
+        "name": "C.J. Stroud"
+      },
+      "rushing_attempts": 7.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 30.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "completions": 23.0,
+      "game": {
+        "date": "2025-10-21T02:00:00.000+00:00",
+        "id": 401772826
+      },
+      "longest_rush": 15.0,
+      "passing_attempts": 49.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 229.0,
+      "player": {
+        "id": 4432577,
+        "name": "C.J. Stroud"
+      },
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 25.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "completions": 23.0,
+      "game": {
+        "date": "2025-10-05T17:00:00.000+00:00",
+        "id": 401772743
+      },
+      "longest_rush": 30.0,
+      "passing_attempts": 27.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 4.0,
+      "passing_yards": 244.0,
+      "player": {
+        "id": 4432577,
+        "name": "C.J. Stroud"
+      },
+      "rushing_attempts": 1.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 30.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "completions": 22.0,
+      "game": {
+        "date": "2025-09-28T17:00:00.000+00:00",
+        "id": 401772738
+      },
+      "longest_rush": 4.0,
+      "passing_attempts": 28.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 2.0,
+      "passing_yards": 233.0,
+      "player": {
+        "id": 4432577,
+        "name": "C.J. Stroud"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 11.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "completions": 25.0,
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772734
+      },
+      "longest_rush": 12.0,
+      "passing_attempts": 38.0,
+      "passing_interceptions": 2.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 204.0,
+      "player": {
+        "id": 4432577,
+        "name": "C.J. Stroud"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 22.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "completions": 13.0,
+      "game": {
+        "date": "2025-09-15T23:00:00.000+00:00",
+        "id": 401772715
+      },
+      "longest_rush": 19.0,
+      "passing_attempts": 24.0,
+      "passing_interceptions": 0.0,
+      "passing_touchdowns": 1.0,
+      "passing_yards": 207.0,
+      "player": {
+        "id": 4432577,
+        "name": "C.J. Stroud"
+      },
+      "rushing_attempts": 4.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 27.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "completions": 19.0,
+      "game": {
+        "date": "2025-09-07T20:25:00.000+00:00",
+        "id": 401772723
+      },
+      "longest_rush": 14.0,
+      "passing_attempts": 27.0,
+      "passing_interceptions": 1.0,
+      "passing_touchdowns": 0.0,
+      "passing_yards": 188.0,
+      "player": {
+        "id": 4432577,
+        "name": "C.J. Stroud"
+      },
+      "rushing_attempts": 5.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 32.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T18:00:00.000+00:00",
+        "id": 401772962
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 20.0,
+      "player": {
+        "id": 4373273,
+        "name": "British Brooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 13.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 63.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-27T21:30:00.000+00:00",
+        "id": 401772951
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4373273,
+        "name": "British Brooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T21:25:00.000+00:00",
+        "id": 401772805
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4373273,
+        "name": "British Brooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T18:00:00.000+00:00",
+        "id": 401772903
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4373273,
+        "name": "British Brooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-08T01:20:00.000+00:00",
+        "id": 401772932
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4373273,
+        "name": "British Brooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772787
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4373273,
+        "name": "British Brooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-21T01:15:00.000+00:00",
+        "id": 401772946
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4373273,
+        "name": "British Brooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T18:00:00.000+00:00",
+        "id": 401772881
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4373273,
+        "name": "British Brooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772770
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4373273,
+        "name": "British Brooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T18:00:00.000+00:00",
+        "id": 401772870
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4373273,
+        "name": "British Brooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T17:00:00.000+00:00",
+        "id": 401772866
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4373273,
+        "name": "British Brooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-21T02:00:00.000+00:00",
+        "id": 401772826
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4373273,
+        "name": "British Brooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T17:00:00.000+00:00",
+        "id": 401772743
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 9.0,
+      "player": {
+        "id": 4373273,
+        "name": "British Brooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 2.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 15.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T17:00:00.000+00:00",
+        "id": 401772738
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4373273,
+        "name": "British Brooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-15T23:00:00.000+00:00",
+        "id": 401772715
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4373273,
+        "name": "British Brooks"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T18:00:00.000+00:00",
+        "id": 401772962
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4877706,
+        "name": "Jayden Higgins"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 23.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-27T21:30:00.000+00:00",
+        "id": 401772951
+      },
+      "longest_reception": 75.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4877706,
+        "name": "Jayden Higgins"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 88.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-21T21:25:00.000+00:00",
+        "id": 401772805
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4877706,
+        "name": "Jayden Higgins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 17.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-14T18:00:00.000+00:00",
+        "id": 401772903
+      },
+      "longest_reception": 4.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4877706,
+        "name": "Jayden Higgins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-12-08T01:20:00.000+00:00",
+        "id": 401772932
+      },
+      "longest_reception": 17.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4877706,
+        "name": "Jayden Higgins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 34.0,
+      "receptions": 3.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-30T18:00:00.000+00:00",
+        "id": 401772787
+      },
+      "longest_reception": 19.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4877706,
+        "name": "Jayden Higgins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 65.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 5.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-21T01:15:00.000+00:00",
+        "id": 401772946
+      },
+      "longest_reception": 16.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4877706,
+        "name": "Jayden Higgins"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 38.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 9.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-16T18:00:00.000+00:00",
+        "id": 401772881
+      },
+      "longest_reception": 23.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4877706,
+        "name": "Jayden Higgins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 55.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-09T18:00:00.000+00:00",
+        "id": 401772770
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4877706,
+        "name": "Jayden Higgins"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 42.0,
+      "receptions": 5.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 7.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-11-02T18:00:00.000+00:00",
+        "id": 401772870
+      },
+      "longest_reception": 4.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4877706,
+        "name": "Jayden Higgins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 4.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-26T17:00:00.000+00:00",
+        "id": 401772866
+      },
+      "longest_reception": 12.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4877706,
+        "name": "Jayden Higgins"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 34.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 8.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-21T02:00:00.000+00:00",
+        "id": 401772826
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4877706,
+        "name": "Jayden Higgins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-10-05T17:00:00.000+00:00",
+        "id": 401772743
+      },
+      "longest_reception": 14.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4877706,
+        "name": "Jayden Higgins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 32.0,
+      "receptions": 4.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 4.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-28T17:00:00.000+00:00",
+        "id": 401772738
+      },
+      "longest_reception": 24.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4877706,
+        "name": "Jayden Higgins"
+      },
+      "receiving_touchdowns": 1.0,
+      "receiving_yards": 24.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-21T17:00:00.000+00:00",
+        "id": 401772734
+      },
+      "longest_reception": 5.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4877706,
+        "name": "Jayden Higgins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 5.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-15T23:00:00.000+00:00",
+        "id": 401772715
+      },
+      "longest_reception": 28.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4877706,
+        "name": "Jayden Higgins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 28.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T20:25:00.000+00:00",
+        "id": 401772723
+      },
+      "longest_reception": 23.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4877706,
+        "name": "Jayden Higgins"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 32.0,
+      "receptions": 2.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 3.0,
+      "team": {
+        "id": 34,
+        "name": "Houston Texans"
+      }
+    },
+    {
+      "game": {
+        "date": "2026-01-04T18:00:00.000+00:00",
+        "id": 401772970
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362617,
+        "name": "Bryce Oliver"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-14T17:00:00.000+00:00",
+        "id": 401772724
+      },
+      "longest_reception": 0.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362617,
+        "name": "Bryce Oliver"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 0.0,
+      "receptions": 0.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 0.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    },
+    {
+      "game": {
+        "date": "2025-09-07T20:05:00.000+00:00",
+        "id": 401772832
+      },
+      "longest_reception": 8.0,
+      "longest_rush": 0.0,
+      "player": {
+        "id": 4362617,
+        "name": "Bryce Oliver"
+      },
+      "receiving_touchdowns": 0.0,
+      "receiving_yards": 8.0,
+      "receptions": 1.0,
+      "rushing_attempts": 0.0,
+      "rushing_touchdowns": 0.0,
+      "rushing_yards": 0.0,
+      "targets": 1.0,
+      "team": {
+        "id": 10,
+        "name": "Tennessee Titans"
+      }
+    }
+  ],
+  "results": 248
+}

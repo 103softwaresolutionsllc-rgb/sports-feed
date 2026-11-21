@@ -353,6 +353,23 @@ def run(data_root: Path, season: str | None = None,
                 "team": TEAMS[tricode],
             }
 
+    # -- settle identity BEFORE any game log is keyed by player_id.
+    # The registry save is merge-aware: if a concurrent writer's
+    # registrations landed after this run loaded the registry, the
+    # merge preserves them and adopts the settled state (including
+    # any id remap forced on this run's players). The keyed map is
+    # then re-resolved against the settled registry, so the layer
+    # published below references settled ids only. (Nov 21, 2026: a
+    # peer fan-out's stale whole-document save once left this
+    # layer's ids pointing at another league's players.)
+    registry_path.parent.mkdir(parents=True, exist_ok=True)
+    registry.save(registry_path)
+    for by_id in keyed.values():
+        for nhl_id, entry in by_id.items():
+            settled = registry.get_by_provider_id(PROVIDER, nhl_id)
+            if settled is not None:
+                entry["player_id"] = settled["player_id"]
+
     # -- game logs, one fetch per keyed player.
     players_doc: dict[str, dict] = {}
     games_published = dropped_entries = 0

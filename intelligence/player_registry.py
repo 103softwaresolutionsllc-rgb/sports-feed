@@ -56,6 +56,127 @@ def _entry_on(entries: list[dict], on: str | None) -> dict | None:
     return None
 
 
+def _provider_identity(player: dict) -> frozenset:
+    """A player's identity as (provider, provider_id) pairs. Two
+    records are the same player when their identities intersect —
+    identity joins on provider ID only, per registry canon."""
+    ids = player.get("provider_ids") or {}
+    return frozenset((k, str(v)) for k, v in ids.items())
+
+
+def _merge_history(memory_entries, disk_entries) -> list:
+    """Union two append-only histories by stint, chronological.
+
+    A stint is keyed by (team|status, from): the same stint recorded
+    by two writers — one of whom closed it, the other still holding
+    it open — is ONE stint, and the closed version carries more
+    truth (among closed versions, the earliest closing is the first
+    recorded transition and wins). If the union still leaves more
+    than one open stint (two writers each opened one), the latest by
+    start date stays open and the others are closed at that date —
+    current_team/current_status read the open entry, and it must be
+    the newest fact, not an accident of list order.
+    """
+    def stint_key(entry: dict):
+        return (entry.get("team") or entry.get("status") or "",
+                entry.get("from") or "")
+
+    by_stint: dict = {}
+    for entry in list(disk_entries or []) + list(memory_entries or []):
+        key = stint_key(entry)
+        current = by_stint.get(key)
+        if current is None:
+            by_stint[key] = entry
+        elif current.get("to") is None and entry.get("to") is not None:
+            by_stint[key] = entry
+        elif current.get("to") is not None \
+                and entry.get("to") is not None \
+                and entry["to"] < current["to"]:
+            by_stint[key] = entry
+    merged = sorted(by_stint.values(), key=lambda e: e.get("from") or "")
+    opens = [e for e in merged if e.get("to") is None]
+    if len(opens) > 1:
+        for entry in opens[:-1]:
+            entry["to"] = opens[-1].get("from")
+    return merged
+
+
+def _merge_player(memory_player: dict, disk_player: dict) -> dict:
+    """Field-merge two records of the SAME player. The in-memory
+    record object survives (callers hold references to it); facts it
+    lacks are folded in from the disk record."""
+    merged_ids = dict(disk_player.get("provider_ids") or {})
+    merged_ids.update(memory_player.get("provider_ids") or {})
+    memory_player["provider_ids"] = merged_ids
+    for field in ("full_name", "league", "position"):
+        if not memory_player.get(field) and disk_player.get(field):
+            memory_player[field] = disk_player[field]
+    memory_player["team_history"] = _merge_history(
+        memory_player.get("team_history"),
+        disk_player.get("team_history"))
+    memory_player["status_history"] = _merge_history(
+        memory_player.get("status_history"),
+        disk_player.get("status_history"))
+    return memory_player
+
+
+def _merge_registry_documents(memory: dict, disk: dict):
+    """Merge the on-disk registry document into the in-memory one.
+
+    Returns (merged_document, id_remaps). Rules:
+      * A player only on disk is preserved verbatim.
+      * The same player on both sides (same player_id, intersecting
+        provider identity) is field-merged via _merge_player.
+      * A player_id claimed on disk by a DIFFERENT player (disjoint
+        provider identity — two writers allocated the same next id
+        from the same stale base) stays with the disk record: first
+        writer wins, ids are permanent. The in-memory record is
+        remapped in place to a fresh id and the remap is reported.
+    """
+    merged = dict(memory)
+    disk_players = list(disk.get("players") or [])
+    disk_by_id = {p["player_id"]: p for p in disk_players}
+    used_ids = set(disk_by_id) | {
+        p["player_id"] for p in memory.get("players") or []}
+
+    def fresh_id() -> str:
+        nums = []
+        for pid in used_ids:
+            m = re.search(r"(\d+)$", pid)
+            if m:
+                nums.append(int(m.group(1)))
+        nid = f"plyr-{(max(nums) + 1) if nums else 1:04d}"
+        used_ids.add(nid)
+        return nid
+
+    out: list[dict] = []
+    remaps: list[dict] = []
+    consumed: set[str] = set()
+    for player in memory.get("players") or []:
+        pid = player["player_id"]
+        rival = disk_by_id.get(pid)
+        if rival is None or pid in consumed:
+            out.append(player)
+            continue
+        consumed.add(pid)
+        if _provider_identity(rival) & _provider_identity(player):
+            out.append(_merge_player(player, rival))
+        else:
+            out.append(rival)  # first writer keeps the contested id
+            new_id = fresh_id()
+            remaps.append({
+                "from": pid, "to": new_id,
+                "provider_ids": dict(player.get("provider_ids") or {}),
+            })
+            player["player_id"] = new_id
+            out.append(player)
+    for player in disk_players:
+        if player["player_id"] not in consumed:
+            out.append(player)
+    merged["players"] = out
+    return merged, remaps
+
+
 class PlayerRegistry:
     """In-memory view over a registry JSON document."""
 
@@ -79,11 +200,44 @@ class PlayerRegistry:
         return cls({"registry_version": REGISTRY_VERSION,
                     "classification": CLASSIFICATION, "players": []})
 
-    def save(self, path: str | Path) -> None:
+    def save(self, path: str | Path) -> list:
+        """Persist the registry — MERGE-AWARE (Nov 21, 2026).
+
+        This document has many writers (fan-out driver, collected-
+        layer collectors, the nightly harvest cron), each holding an
+        in-memory copy loaded at its start. A blind whole-document
+        write from a stale copy silently destroys registrations a
+        peer saved meanwhile — it happened twice on Nov 20-21, 2026
+        (802 NHL registrations overwritten by a peer fan-out's save,
+        then 1,625 MLB registrations the same way, with player_id
+        collisions in between). Saving therefore reloads the on-disk
+        document and merges it (see _merge_registry_documents)
+        before writing, adopts the merged document as this
+        registry's state — so later id allocation in this process
+        builds on the true maximum — and returns the list of id
+        remaps the merge applied (usually empty). An on-disk
+        document that cannot be parsed is never overwritten blind:
+        save raises instead.
+        """
+        path = Path(path)
+        remaps: list = []
+        if path.exists():
+            try:
+                with open(path, encoding="utf-8") as fh:
+                    disk = json.load(fh)
+            except (OSError, ValueError) as exc:
+                raise ValueError(
+                    f"refusing to overwrite unparseable registry "
+                    f"at {path}: {exc}") from exc
+            merged, remaps = _merge_registry_documents(
+                self.document, disk)
+            self.document = merged
+            self.players = merged.setdefault("players", [])
         with open(path, "w", encoding="utf-8") as fh:
             json.dump(self.document, fh, ensure_ascii=False, indent=2,
                       sort_keys=True)
             fh.write("\n")
+        return remaps
 
     # -- lookups ----------------------------------------------------------
     def all_players(self) -> list[dict]:

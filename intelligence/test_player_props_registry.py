@@ -4,9 +4,12 @@ Run from the repo root:
     python3 -m unittest discover -s intelligence -p 'test_*.py'
 """
 
+import json
 import os
 import sys
+import tempfile
 import unittest
+from pathlib import Path
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
@@ -181,6 +184,123 @@ class IdentificationTests(unittest.TestCase):
         self.assertEqual(ident.levenshtein("conseco", "canseco"), 1)
         self.assertEqual(ident.levenshtein("tatum", "tatum"), 0)
         self.assertEqual(ident.levenshtein("", "abc"), 3)
+
+
+def _base_registry_doc() -> dict:
+    return {
+        "registry_version": 1,
+        "classification": "Historical",
+        "players": [{
+            "player_id": "plyr-0001",
+            "full_name": "Base Player",
+            "league": "NBA",
+            "provider_ids": {"espn": 42},
+            "team_history": [
+                {"team": "Team A", "from": "2026-01-01", "to": None}],
+            "status_history": [
+                {"status": "active", "from": "2026-01-01", "to": None,
+                 "note": ""}],
+        }],
+    }
+
+
+class MergeAwareSaveTests(unittest.TestCase):
+    """Registry saves merge with the on-disk document (Nov 21, 2026).
+
+    The registry has many concurrent writers; a blind whole-document
+    save from a stale in-memory copy destroyed a peer's 802 NHL
+    registrations and then a peer's 1,625 MLB registrations in one
+    night. These tests pin the merge-aware behavior.
+    """
+
+    def setUp(self):
+        self._tmp = tempfile.TemporaryDirectory()
+        self.path = Path(self._tmp.name) / "player_registry.json"
+        PlayerRegistry(_base_registry_doc()).save(self.path)
+
+    def tearDown(self):
+        self._tmp.cleanup()
+
+    def _load_file(self) -> PlayerRegistry:
+        return PlayerRegistry.load(self.path)
+
+    def test_stale_save_preserves_peer_registrations(self):
+        stale = self._load_file()
+        peer = self._load_file()
+        peer.add_player({"full_name": "Peer Player", "league": "NHL",
+                         "provider_ids": {"nhl": 777}})
+        peer.save(self.path)
+        # The stale writer registers its own player (explicit id, no
+        # collision) and saves over the peer's newer state.
+        stale.add_player({"player_id": "plyr-0100",
+                          "full_name": "Stale Writer Player",
+                          "league": "NFL",
+                          "provider_ids": {"espn": 999}})
+        remaps = stale.save(self.path)
+        self.assertEqual(remaps, [])
+        saved = self._load_file()
+        names = {p["full_name"] for p in saved.all_players()}
+        self.assertEqual(names, {"Base Player", "Peer Player",
+                                 "Stale Writer Player"})
+        # The stale writer adopted the merged state in memory too.
+        self.assertEqual(len(stale.all_players()), 3)
+        self.assertIsNotNone(stale.get_by_provider_id("nhl", 777))
+
+    def test_id_collision_remaps_the_later_writer(self):
+        stale = self._load_file()
+        peer = self._load_file()
+        peer_player = peer.add_player(
+            {"full_name": "Peer Player", "league": "NHL",
+             "provider_ids": {"nhl": 777}})
+        self.assertEqual(peer_player["player_id"], "plyr-0002")
+        peer.save(self.path)
+        # The stale writer allocated the same next id for a DIFFERENT
+        # player (disjoint provider identity).
+        stale_player = stale.add_player(
+            {"full_name": "Stale Player", "league": "NFL",
+             "provider_ids": {"espn": 999}})
+        self.assertEqual(stale_player["player_id"], "plyr-0002")
+        remaps = stale.save(self.path)
+        self.assertEqual(len(remaps), 1)
+        self.assertEqual(remaps[0]["from"], "plyr-0002")
+        self.assertEqual(remaps[0]["to"], "plyr-0003")
+        # First writer keeps the contested id; the later writer's
+        # record survives under the fresh id, remapped in place.
+        self.assertEqual(stale_player["player_id"], "plyr-0003")
+        saved = self._load_file()
+        self.assertEqual(len(saved.all_players()), 3)
+        self.assertEqual(saved.get_by_id("plyr-0002")["full_name"],
+                         "Peer Player")
+        self.assertEqual(saved.get_by_id("plyr-0003")["full_name"],
+                         "Stale Player")
+
+    def test_same_player_records_field_merge(self):
+        stale = self._load_file()
+        peer = self._load_file()
+        peer_player = peer.get_by_id("plyr-0001")
+        peer.record_team_change(peer_player, "Team B", "2026-06-01")
+        peer.save(self.path)
+        # The stale writer's copy predates the team change; it fills
+        # in the player's position and saves.
+        stale_player = stale.get_by_id("plyr-0001")
+        stale_player["position"] = "PG"
+        stale.save(self.path)
+        saved = self._load_file()
+        merged = saved.get_by_id("plyr-0001")
+        # The peer's appended history survived the stale save...
+        self.assertEqual(saved.current_team(merged), "Team B")
+        self.assertEqual(len(merged["team_history"]), 2)
+        # ...and the stale writer's fact landed too.
+        self.assertEqual(merged["position"], "PG")
+        self.assertEqual(merged["provider_ids"], {"espn": 42})
+
+    def test_unparseable_disk_document_is_never_overwritten(self):
+        self.path.write_text("{ not json", encoding="utf-8")
+        reg = PlayerRegistry(_base_registry_doc())
+        with self.assertRaises(ValueError):
+            reg.save(self.path)
+        self.assertEqual(self.path.read_text(encoding="utf-8"),
+                         "{ not json")
 
 
 if __name__ == "__main__":

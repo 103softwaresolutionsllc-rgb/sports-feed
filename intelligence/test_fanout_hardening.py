@@ -55,6 +55,21 @@ class WriteNormalizedGuardTests(unittest.TestCase):
             self.assertTrue(path.exists())
             self.assertEqual(json.loads(path.read_text())["teams"], [])
 
+    def test_players_doc_guard_refuses_empty_clobber(self):
+        with TemporaryDirectory() as tmp:
+            raw_root = Path(tmp) / "rawroot"  # empty: normalize finds nothing
+            out_root = Path(tmp) / "out"
+            target = (out_root / "normalized" / "basketball"
+                      / "players_2026-2027.json")
+            good = {"sport": "basketball", "season": "2026-2027",
+                    "players": [{"player_id": 1, "player": "Test Player",
+                                 "season": "2026-2027"}]}
+            _write(target, good)
+            with self.assertRaises(ValueError):
+                norm.write_normalized_players("basketball", raw_root,
+                                              out_root, "2026-2027")
+            self.assertEqual(json.loads(target.read_text()), good)
+
 
 class DriverGuardTests(unittest.TestCase):
     def _data_root(self, tmp: str, teams: list) -> Path:

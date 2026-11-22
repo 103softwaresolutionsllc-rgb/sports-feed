@@ -392,6 +392,19 @@ def write_normalized_players(
     directory = Path(out_root) / "normalized" / sport
     directory.mkdir(parents=True, exist_ok=True)
     path = directory / f"players_{season}.json"
+    if not result.get("players") and path.exists():
+        # Same guard as the teams doc (Nov 22, 2026): never clobber a
+        # non-empty players doc with an empty normalize — the
+        # aggregates builder reads these docs, and an empty one would
+        # silently gut the aggregates the way the empty teams doc
+        # silently stopped collection.
+        existing = json.loads(path.read_text())
+        if existing.get("players"):
+            raise ValueError(
+                f"refusing to overwrite {path}: new normalize produced "
+                f"0 players but the existing doc has "
+                f"{len(existing['players'])} — the harvest above this "
+                f"normalize collected nothing; failing loud instead")
     path.write_text(json.dumps(result, indent=2, sort_keys=True))
     return path
 

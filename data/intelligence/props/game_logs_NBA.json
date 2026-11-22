@@ -1,7 +1,7 @@
 {
   "classification": "Historical",
   "coverage": {
-    "as_of": "2026-11-21",
+    "as_of": "2026-11-22",
     "season": "2026-2027",
     "seasons": [
       "2025-2026",
@@ -9,39 +9,8 @@
     ],
     "source": "espn-fallback",
     "sport": "basketball",
-    "teams_covered": [
-      "Atlanta Hawks",
-      "Boston Celtics",
-      "Brooklyn Nets",
-      "Charlotte Hornets",
-      "Chicago Bulls",
-      "Cleveland Cavaliers",
-      "Dallas Mavericks",
-      "Denver Nuggets",
-      "Detroit Pistons",
-      "Golden State Warriors",
-      "Houston Rockets",
-      "Indiana Pacers",
-      "Los Angeles Clippers",
-      "Los Angeles Lakers",
-      "Memphis Grizzlies",
-      "Miami Heat",
-      "Milwaukee Bucks",
-      "Minnesota Timberwolves",
-      "New Orleans Pelicans",
-      "New York Knicks",
-      "Oklahoma City Thunder",
-      "Orlando Magic",
-      "Philadelphia 76ers",
-      "Phoenix Suns",
-      "Portland Trail Blazers",
-      "Sacramento Kings",
-      "San Antonio Spurs",
-      "Toronto Raptors",
-      "Utah Jazz",
-      "Washington Wizards"
-    ],
-    "teams_total": 30
+    "teams_covered": [],
+    "teams_total": 0
   },
   "league": "NBA",
   "players": {

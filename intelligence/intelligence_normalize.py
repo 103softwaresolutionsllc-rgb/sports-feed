@@ -490,6 +490,18 @@ def write_normalized(sport: str, raw_root: Path, out_root: Path, season: str) ->
     directory = Path(out_root) / "normalized" / sport
     directory.mkdir(parents=True, exist_ok=True)
     path = directory / f"teams_{season}.json"
+    if not result.get("teams") and path.exists():
+        # Never clobber a non-empty teams doc with an empty one
+        # (Nov 22, 2026): a normalize over an empty/failed harvest
+        # overwrote the 30-team NBA doc on Nov 21, and the fan-out
+        # driver then silently collected nothing for two nights.
+        existing = json.loads(path.read_text())
+        if existing.get("teams"):
+            raise ValueError(
+                f"refusing to overwrite {path}: new normalize produced "
+                f"0 teams but the existing doc has "
+                f"{len(existing['teams'])} — the harvest above this "
+                f"normalize collected nothing; failing loud instead")
     path.write_text(json.dumps(result, indent=2, sort_keys=True))
     return path
 

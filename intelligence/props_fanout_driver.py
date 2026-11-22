@@ -65,6 +65,18 @@ def main(argv: list[str] | None = None) -> int:
     # fetch zero athletes — exactly what bit the 2025-2026 run.
     team_names = [ESPN_NAME_ALIASES.get(t["team"], t["team"])
                   for t in teams_doc["teams"]]
+    if not team_names:
+        # Fail loud (Nov 22, 2026): an empty teams doc — clobbered by a
+        # bad normalize on Nov 21 — made this driver iterate nothing,
+        # report "complete" in ~2s, and re-stamp coverage as fresh,
+        # masking two nights of zero collection. Never again.
+        print(json.dumps({"status": "failed", "league": league,
+                          "season": season,
+                          "reason": "empty_teams_list",
+                          "detail": "teams doc lists zero teams; "
+                                    "refusing to run or stamp coverage"},
+                         indent=2), flush=True)
+        return 2
     skip = {s.strip() for s in args.skip.split(",") if s.strip()}
 
     registry = (PlayerRegistry.load(registry_path)
@@ -83,6 +95,7 @@ def main(argv: list[str] | None = None) -> int:
 
     totals = {"players_registered": 0, "players_updated": 0,
               "games_added": 0, "athletes_fetched": 0}
+    attempted = 0
     for team in team_names:
         if team in skip:
             print(f"SKIP {team}", flush=True)
@@ -90,6 +103,7 @@ def main(argv: list[str] | None = None) -> int:
         if team in covered:
             print(f"DONE {team} (already covered)", flush=True)
             continue
+        attempted += 1
         report = run_espn_fanout(
             sport, season, [team], transport=urllib_transport,
             landing=landing, registry=registry, log_store=log_store)
@@ -104,25 +118,41 @@ def main(argv: list[str] | None = None) -> int:
               f"registered_total={totals['players_registered']} "
               f"games_total={totals['games_added']}", flush=True)
 
+    if attempted > 0 and totals["athletes_fetched"] == 0:
+        # Fail loud: teams were attempted and not one athlete came back.
+        # Reporting "complete" here is how a dead source hides.
+        print(json.dumps({"status": "failed", "league": league,
+                          "season": season,
+                          "reason": "zero_athletes_fetched",
+                          "teams_attempted": attempted, **totals},
+                         indent=2), flush=True)
+        return 2
+
     seasons_present = sorted({
         g.get("season")
         for p in (log_store.document.get("players") or {}).values()
         for g in p.get("games", []) if g.get("season")})
-    log_store.set_coverage({
-        "sport": sport,
-        "season": season,
-        "seasons": seasons_present,
-        "teams_covered": [t for t in team_names if t in covered],
-        "teams_total": len(team_names),
-        "as_of": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
-        "source": "espn-fallback",
-    })
-    log_store.save(log_path)
+    # Stamp coverage only when the run leaves at least one team covered;
+    # a fresh as_of over zero coverage masked the Nov 21-22 outage from
+    # the publish gate's staleness check.
+    coverage_stamped = bool(covered)
+    if coverage_stamped:
+        log_store.set_coverage({
+            "sport": sport,
+            "season": season,
+            "seasons": seasons_present,
+            "teams_covered": [t for t in team_names if t in covered],
+            "teams_total": len(team_names),
+            "as_of": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+            "source": "espn-fallback",
+        })
+        log_store.save(log_path)
     registry.save(registry_path)
     print(json.dumps({"status": "complete", "league": league,
                       "season": season,
                       "teams_covered": len(covered),
-                      "teams_total": len(team_names), **totals},
+                      "teams_total": len(team_names),
+                      "coverage_stamped": coverage_stamped, **totals},
                      indent=2), flush=True)
     return 0
 

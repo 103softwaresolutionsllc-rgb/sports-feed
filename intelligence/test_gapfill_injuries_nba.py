@@ -111,9 +111,23 @@ class KeyingTests(unittest.TestCase):
 
 class RecordTests(unittest.TestCase):
     def test_expiry_is_game_start_plus_two_hours(self):
+        # The report prints no meridiem; NBA tips are PM. 7:30 PM ET on
+        # 11/21 (EST, UTC-5) is 00:30 UTC on 11/22. (This test previously
+        # asserted the AM reading, 12:30 UTC — it encoded the bug that
+        # expired game-day records ~12 hours early.)
         start = gf.game_start_utc("11/21/2026", "07:30 (ET)")
-        self.assertEqual(start, datetime(2026, 11, 21, 12, 30,
+        self.assertEqual(start, datetime(2026, 11, 22, 0, 30,
                                          tzinfo=timezone.utc))
+
+    def test_bare_times_read_as_pm(self):
+        # Afternoon tip: 3:30 PM ET = 20:30 UTC.
+        self.assertEqual(
+            gf.game_start_utc("11/22/2026", "03:30 (ET)"),
+            datetime(2026, 11, 22, 20, 30, tzinfo=timezone.utc))
+        # Noon tip: 12:30 PM ET = 17:30 UTC.
+        self.assertEqual(
+            gf.game_start_utc("11/22/2026", "12:30 (ET)"),
+            datetime(2026, 11, 22, 17, 30, tzinfo=timezone.utc))
 
     def test_provenance_complete(self):
         rows = [{"game_date": "11/21/2026", "game_time": "07:30 (ET)",

@@ -321,7 +321,14 @@ def key_row(row: dict, index: dict[str, list[dict]]):
 
 
 def game_start_utc(game_date: str | None, game_time: str | None):
-    """'11/21/2026' + '07:30 (ET)' -> aware UTC datetime or None."""
+    """'11/21/2026' + '07:30 (ET)' -> aware UTC datetime or None.
+
+    The report prints game times on a 12-hour clock with NO meridiem
+    marker. NBA tip times are afternoon/evening, so the bare hour is
+    read as PM (12 = noon): '07:30' is 19:30 ET, never 07:30 ET.
+    Reading it as AM — the original bug — stamped every expiry ~12
+    hours early, so game-day records expired before they published.
+    """
     if not game_date:
         return None
     try:
@@ -332,7 +339,8 @@ def game_start_utc(game_date: str | None, game_time: str | None):
     if game_time:
         m = re.search(r"(\d{1,2}):(\d{2})", game_time)
         if m:
-            hour, minute = int(m.group(1)), int(m.group(2))
+            hour = int(m.group(1)) % 12 + 12  # bare 12-hour time = PM
+            minute = int(m.group(2))
     return datetime(day.year, day.month, day.day, hour, minute,
                     tzinfo=EASTERN).astimezone(timezone.utc)
 

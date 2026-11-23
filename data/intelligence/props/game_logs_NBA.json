@@ -1,7 +1,7 @@
 {
   "classification": "Historical",
   "coverage": {
-    "as_of": "2026-11-22",
+    "as_of": "2026-11-23",
     "season": "2026-2027",
     "seasons": [
       "2025-2026",
@@ -2678,6 +2678,34 @@
             "turnovers": 1.0
           },
           "team": "Atlanta Hawks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 401910029,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 1.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 18.0,
+            "field_goal_percentage": 44.4,
+            "field_goals_made": 8.0,
+            "free_throw_attempts": 5.0,
+            "free_throws_made": 5.0,
+            "minutes": 28.0,
+            "points": 27.0,
+            "points_assists": 28.0,
+            "points_rebounds": 29.0,
+            "points_rebounds_assists": 30.0,
+            "rebounds": 2.0,
+            "rebounds_assists": 3.0,
+            "steals": 0.0,
+            "three_point_attempts": 10.0,
+            "three_pointers_made": 6.0,
+            "triple_double": 0.0,
+            "turnovers": 2.0
+          },
+          "team": "Atlanta Hawks"
         }
       ]
     },
@@ -5256,6 +5284,34 @@
             "three_pointers_made": 1.0,
             "triple_double": 0.0,
             "turnovers": 2.0
+          },
+          "team": "Atlanta Hawks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 401910029,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 8.0,
+            "blocks": 3.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 9.0,
+            "field_goal_percentage": 22.2,
+            "field_goals_made": 2.0,
+            "free_throw_attempts": 2.0,
+            "free_throws_made": 1.0,
+            "minutes": 39.0,
+            "points": 5.0,
+            "points_assists": 13.0,
+            "points_rebounds": 19.0,
+            "points_rebounds_assists": 27.0,
+            "rebounds": 14.0,
+            "rebounds_assists": 22.0,
+            "steals": 5.0,
+            "three_point_attempts": 3.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 3.0
           },
           "team": "Atlanta Hawks"
         }
@@ -8234,6 +8290,34 @@
             "turnovers": 0.0
           },
           "team": "Atlanta Hawks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 401910029,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 1.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 10.0,
+            "field_goal_percentage": 40.0,
+            "field_goals_made": 4.0,
+            "free_throw_attempts": 6.0,
+            "free_throws_made": 6.0,
+            "minutes": 31.0,
+            "points": 16.0,
+            "points_assists": 17.0,
+            "points_rebounds": 23.0,
+            "points_rebounds_assists": 24.0,
+            "rebounds": 7.0,
+            "rebounds_assists": 8.0,
+            "steals": 3.0,
+            "three_point_attempts": 7.0,
+            "three_pointers_made": 2.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
+          },
+          "team": "Atlanta Hawks"
         }
       ]
     },
@@ -8513,6 +8597,34 @@
             "rebounds_assists": 4.0,
             "steals": 0.0,
             "three_point_attempts": 0.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "Atlanta Hawks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 401910029,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 1.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 9.0,
+            "field_goal_percentage": 22.2,
+            "field_goals_made": 2.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 19.0,
+            "points": 4.0,
+            "points_assists": 5.0,
+            "points_rebounds": 8.0,
+            "points_rebounds_assists": 9.0,
+            "rebounds": 4.0,
+            "rebounds_assists": 5.0,
+            "steals": 0.0,
+            "three_point_attempts": 4.0,
             "three_pointers_made": 0.0,
             "triple_double": 0.0,
             "turnovers": 0.0
@@ -10036,6 +10148,34 @@
             "three_pointers_made": 0.0,
             "triple_double": 0.0,
             "turnovers": 1.0
+          },
+          "team": "Atlanta Hawks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 401910029,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 6.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 10.0,
+            "field_goal_percentage": 30.0,
+            "field_goals_made": 3.0,
+            "free_throw_attempts": 4.0,
+            "free_throws_made": 3.0,
+            "minutes": 27.0,
+            "points": 10.0,
+            "points_assists": 16.0,
+            "points_rebounds": 15.0,
+            "points_rebounds_assists": 21.0,
+            "rebounds": 5.0,
+            "rebounds_assists": 11.0,
+            "steals": 1.0,
+            "three_point_attempts": 4.0,
+            "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 2.0
           },
           "team": "Atlanta Hawks"
         }
@@ -12506,6 +12646,34 @@
             "turnovers": 4.0
           },
           "team": "Atlanta Hawks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 401910029,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 0.0,
+            "blocks": 0.0,
+            "double_double": 1.0,
+            "field_goal_attempts": 10.0,
+            "field_goal_percentage": 40.0,
+            "field_goals_made": 4.0,
+            "free_throw_attempts": 4.0,
+            "free_throws_made": 4.0,
+            "minutes": 30.0,
+            "points": 12.0,
+            "points_assists": 12.0,
+            "points_rebounds": 23.0,
+            "points_rebounds_assists": 23.0,
+            "rebounds": 11.0,
+            "rebounds_assists": 11.0,
+            "steals": 1.0,
+            "three_point_attempts": 3.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 3.0
+          },
+          "team": "Atlanta Hawks"
         }
       ]
     },
@@ -14382,6 +14550,34 @@
             "steals": 0.0,
             "three_point_attempts": 3.0,
             "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "Atlanta Hawks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 401910029,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 3.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 13.0,
+            "field_goal_percentage": 53.8,
+            "field_goals_made": 7.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 19.0,
+            "points": 18.0,
+            "points_assists": 21.0,
+            "points_rebounds": 22.0,
+            "points_rebounds_assists": 25.0,
+            "rebounds": 4.0,
+            "rebounds_assists": 7.0,
+            "steals": 1.0,
+            "three_point_attempts": 10.0,
+            "three_pointers_made": 4.0,
             "triple_double": 0.0,
             "turnovers": 0.0
           },
@@ -22942,6 +23138,34 @@
             "turnovers": 2.0
           },
           "team": "Atlanta Hawks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 401910029,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 2.0,
+            "blocks": 1.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 9.0,
+            "field_goal_percentage": 22.2,
+            "field_goals_made": 2.0,
+            "free_throw_attempts": 2.0,
+            "free_throws_made": 1.0,
+            "minutes": 29.0,
+            "points": 6.0,
+            "points_assists": 8.0,
+            "points_rebounds": 15.0,
+            "points_rebounds_assists": 17.0,
+            "rebounds": 9.0,
+            "rebounds_assists": 11.0,
+            "steals": 0.0,
+            "three_point_attempts": 4.0,
+            "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
+          },
+          "team": "Atlanta Hawks"
         }
       ]
     },
@@ -25214,6 +25438,34 @@
             "turnovers": 0.0
           },
           "team": "Atlanta Hawks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 401910029,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 1.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 11.0,
+            "field_goal_percentage": 36.4,
+            "field_goals_made": 4.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 19.0,
+            "points": 9.0,
+            "points_assists": 10.0,
+            "points_rebounds": 15.0,
+            "points_rebounds_assists": 16.0,
+            "rebounds": 6.0,
+            "rebounds_assists": 7.0,
+            "steals": 1.0,
+            "three_point_attempts": 5.0,
+            "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 3.0
+          },
+          "team": "Atlanta Hawks"
         }
       ]
     },
@@ -26533,6 +26785,34 @@
             "rebounds_assists": 3.0,
             "steals": 1.0,
             "three_point_attempts": 2.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
+          },
+          "team": "Boston Celtics"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910035,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 0.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 1.0,
+            "field_goal_percentage": 0.0,
+            "field_goals_made": 0.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 5.0,
+            "points": 0.0,
+            "points_assists": 0.0,
+            "points_rebounds": 2.0,
+            "points_rebounds_assists": 2.0,
+            "rebounds": 2.0,
+            "rebounds_assists": 2.0,
+            "steals": 0.0,
+            "three_point_attempts": 1.0,
             "three_pointers_made": 0.0,
             "triple_double": 0.0,
             "turnovers": 1.0
@@ -28192,6 +28472,34 @@
             "three_pointers_made": 4.0,
             "triple_double": 0.0,
             "turnovers": 1.0
+          },
+          "team": "Boston Celtics"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910035,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 4.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 5.0,
+            "field_goal_percentage": 40.0,
+            "field_goals_made": 2.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 16.0,
+            "points": 6.0,
+            "points_assists": 10.0,
+            "points_rebounds": 8.0,
+            "points_rebounds_assists": 12.0,
+            "rebounds": 2.0,
+            "rebounds_assists": 6.0,
+            "steals": 1.0,
+            "three_point_attempts": 2.0,
+            "three_pointers_made": 2.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
           },
           "team": "Boston Celtics"
         }
@@ -30576,6 +30884,34 @@
             "three_pointers_made": 0.0,
             "triple_double": 0.0,
             "turnovers": 2.0
+          },
+          "team": "Boston Celtics"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910035,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 0.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 5.0,
+            "field_goal_percentage": 80.0,
+            "field_goals_made": 4.0,
+            "free_throw_attempts": 4.0,
+            "free_throws_made": 2.0,
+            "minutes": 17.0,
+            "points": 10.0,
+            "points_assists": 10.0,
+            "points_rebounds": 15.0,
+            "points_rebounds_assists": 15.0,
+            "rebounds": 5.0,
+            "rebounds_assists": 5.0,
+            "steals": 0.0,
+            "three_point_attempts": 0.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
           },
           "team": "Boston Celtics"
         }
@@ -34534,6 +34870,34 @@
             "turnovers": 0.0
           },
           "team": "Boston Celtics"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910035,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 0.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 6.0,
+            "field_goal_percentage": 33.3,
+            "field_goals_made": 2.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 22.0,
+            "points": 6.0,
+            "points_assists": 6.0,
+            "points_rebounds": 8.0,
+            "points_rebounds_assists": 8.0,
+            "rebounds": 2.0,
+            "rebounds_assists": 2.0,
+            "steals": 1.0,
+            "three_point_attempts": 6.0,
+            "three_pointers_made": 2.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
+          },
+          "team": "Boston Celtics"
         }
       ]
     },
@@ -35541,6 +35905,34 @@
             "rebounds_assists": 1.0,
             "steals": 0.0,
             "three_point_attempts": 4.0,
+            "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "Boston Celtics"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910035,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 0.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 3.0,
+            "field_goal_percentage": 66.7,
+            "field_goals_made": 2.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 6.0,
+            "points": 5.0,
+            "points_assists": 5.0,
+            "points_rebounds": 6.0,
+            "points_rebounds_assists": 6.0,
+            "rebounds": 1.0,
+            "rebounds_assists": 1.0,
+            "steals": 1.0,
+            "three_point_attempts": 2.0,
             "three_pointers_made": 1.0,
             "triple_double": 0.0,
             "turnovers": 0.0
@@ -38178,6 +38570,34 @@
             "steals": 0.0,
             "three_point_attempts": 11.0,
             "three_pointers_made": 4.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "Boston Celtics"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910035,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 2.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 7.0,
+            "field_goal_percentage": 14.3,
+            "field_goals_made": 1.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 22.0,
+            "points": 3.0,
+            "points_assists": 5.0,
+            "points_rebounds": 4.0,
+            "points_rebounds_assists": 6.0,
+            "rebounds": 1.0,
+            "rebounds_assists": 3.0,
+            "steals": 0.0,
+            "three_point_attempts": 7.0,
+            "three_pointers_made": 1.0,
             "triple_double": 0.0,
             "turnovers": 0.0
           },
@@ -40878,6 +41298,34 @@
             "turnovers": 0.0
           },
           "team": "Boston Celtics"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910035,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 4.0,
+            "blocks": 1.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 8.0,
+            "field_goal_percentage": 25.0,
+            "field_goals_made": 2.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 28.0,
+            "points": 5.0,
+            "points_assists": 9.0,
+            "points_rebounds": 6.0,
+            "points_rebounds_assists": 10.0,
+            "rebounds": 1.0,
+            "rebounds_assists": 5.0,
+            "steals": 3.0,
+            "three_point_attempts": 4.0,
+            "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 3.0
+          },
+          "team": "Boston Celtics"
         }
       ]
     },
@@ -43428,6 +43876,34 @@
             "three_pointers_made": 1.0,
             "triple_double": 0.0,
             "turnovers": 2.0
+          },
+          "team": "Boston Celtics"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910035,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 4.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 4.0,
+            "field_goal_percentage": 75.0,
+            "field_goals_made": 3.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 30.0,
+            "points": 6.0,
+            "points_assists": 10.0,
+            "points_rebounds": 16.0,
+            "points_rebounds_assists": 20.0,
+            "rebounds": 10.0,
+            "rebounds_assists": 14.0,
+            "steals": 0.0,
+            "three_point_attempts": 0.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 3.0
           },
           "team": "Boston Celtics"
         }
@@ -48142,6 +48618,34 @@
             "turnovers": 1.0
           },
           "team": "Boston Celtics"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910035,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 1.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 2.0,
+            "field_goal_percentage": 50.0,
+            "field_goals_made": 1.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 15.0,
+            "points": 3.0,
+            "points_assists": 4.0,
+            "points_rebounds": 7.0,
+            "points_rebounds_assists": 8.0,
+            "rebounds": 4.0,
+            "rebounds_assists": 5.0,
+            "steals": 0.0,
+            "three_point_attempts": 2.0,
+            "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "Boston Celtics"
         }
       ]
     },
@@ -48984,6 +49488,34 @@
             "three_pointers_made": 3.0,
             "triple_double": 0.0,
             "turnovers": 6.0
+          },
+          "team": "Boston Celtics"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910035,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 6.0,
+            "blocks": 0.0,
+            "double_double": 1.0,
+            "field_goal_attempts": 20.0,
+            "field_goal_percentage": 40.0,
+            "field_goals_made": 8.0,
+            "free_throw_attempts": 8.0,
+            "free_throws_made": 7.0,
+            "minutes": 38.0,
+            "points": 27.0,
+            "points_assists": 33.0,
+            "points_rebounds": 37.0,
+            "points_rebounds_assists": 43.0,
+            "rebounds": 10.0,
+            "rebounds_assists": 16.0,
+            "steals": 1.0,
+            "three_point_attempts": 11.0,
+            "three_pointers_made": 4.0,
+            "triple_double": 0.0,
+            "turnovers": 4.0
           },
           "team": "Boston Celtics"
         }
@@ -51337,6 +51869,34 @@
             "rebounds_assists": 4.0,
             "steals": 0.0,
             "three_point_attempts": 3.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "Boston Celtics"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910035,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 0.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 1.0,
+            "field_goal_percentage": 100.0,
+            "field_goals_made": 1.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 9.0,
+            "points": 2.0,
+            "points_assists": 2.0,
+            "points_rebounds": 2.0,
+            "points_rebounds_assists": 2.0,
+            "rebounds": 0.0,
+            "rebounds_assists": 0.0,
+            "steals": 1.0,
+            "three_point_attempts": 0.0,
             "three_pointers_made": 0.0,
             "triple_double": 0.0,
             "turnovers": 0.0
@@ -53920,6 +54480,34 @@
             "three_pointers_made": 0.0,
             "triple_double": 0.0,
             "turnovers": 0.0
+          },
+          "team": "Boston Celtics"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910035,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 5.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 21.0,
+            "field_goal_percentage": 28.6,
+            "field_goals_made": 6.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 32.0,
+            "points": 14.0,
+            "points_assists": 19.0,
+            "points_rebounds": 17.0,
+            "points_rebounds_assists": 22.0,
+            "rebounds": 3.0,
+            "rebounds_assists": 8.0,
+            "steals": 1.0,
+            "three_point_attempts": 12.0,
+            "three_pointers_made": 2.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
           },
           "team": "Boston Celtics"
         }
@@ -110982,6 +111570,34 @@
             "turnovers": 3.0
           },
           "team": "Chicago Bulls"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910032,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 3.0,
+            "blocks": 2.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 17.0,
+            "field_goal_percentage": 41.2,
+            "field_goals_made": 7.0,
+            "free_throw_attempts": 4.0,
+            "free_throws_made": 3.0,
+            "minutes": 38.0,
+            "points": 21.0,
+            "points_assists": 24.0,
+            "points_rebounds": 26.0,
+            "points_rebounds_assists": 29.0,
+            "rebounds": 5.0,
+            "rebounds_assists": 8.0,
+            "steals": 0.0,
+            "three_point_attempts": 12.0,
+            "three_pointers_made": 4.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
+          },
+          "team": "Chicago Bulls"
         }
       ]
     },
@@ -113650,6 +114266,34 @@
             "turnovers": 0.0
           },
           "team": "Chicago Bulls"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910032,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 0.0,
+            "blocks": 1.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 4.0,
+            "field_goal_percentage": 50.0,
+            "field_goals_made": 2.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 17.0,
+            "points": 5.0,
+            "points_assists": 5.0,
+            "points_rebounds": 6.0,
+            "points_rebounds_assists": 6.0,
+            "rebounds": 1.0,
+            "rebounds_assists": 1.0,
+            "steals": 0.0,
+            "three_point_attempts": 3.0,
+            "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 2.0
+          },
+          "team": "Chicago Bulls"
         }
       ]
     },
@@ -114100,6 +114744,34 @@
             "three_pointers_made": 2.0,
             "triple_double": 0.0,
             "turnovers": 1.0
+          },
+          "team": "Chicago Bulls"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910032,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 0.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 6.0,
+            "field_goal_percentage": 50.0,
+            "field_goals_made": 3.0,
+            "free_throw_attempts": 2.0,
+            "free_throws_made": 2.0,
+            "minutes": 11.0,
+            "points": 9.0,
+            "points_assists": 9.0,
+            "points_rebounds": 13.0,
+            "points_rebounds_assists": 13.0,
+            "rebounds": 4.0,
+            "rebounds_assists": 4.0,
+            "steals": 0.0,
+            "three_point_attempts": 2.0,
+            "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
           },
           "team": "Chicago Bulls"
         }
@@ -116038,6 +116710,34 @@
             "turnovers": 2.0
           },
           "team": "Chicago Bulls"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910032,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 22.0,
+            "blocks": 1.0,
+            "double_double": 1.0,
+            "field_goal_attempts": 17.0,
+            "field_goal_percentage": 58.8,
+            "field_goals_made": 10.0,
+            "free_throw_attempts": 2.0,
+            "free_throws_made": 1.0,
+            "minutes": 41.0,
+            "points": 23.0,
+            "points_assists": 45.0,
+            "points_rebounds": 37.0,
+            "points_rebounds_assists": 59.0,
+            "rebounds": 14.0,
+            "rebounds_assists": 36.0,
+            "steals": 0.0,
+            "three_point_attempts": 5.0,
+            "three_pointers_made": 2.0,
+            "triple_double": 1.0,
+            "turnovers": 5.0
+          },
+          "team": "Chicago Bulls"
         }
       ]
     },
@@ -117662,6 +118362,34 @@
             "steals": 0.0,
             "three_point_attempts": 1.0,
             "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "Chicago Bulls"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910032,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 1.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 6.0,
+            "field_goal_percentage": 33.3,
+            "field_goals_made": 2.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 14.0,
+            "points": 6.0,
+            "points_assists": 7.0,
+            "points_rebounds": 7.0,
+            "points_rebounds_assists": 8.0,
+            "rebounds": 1.0,
+            "rebounds_assists": 2.0,
+            "steals": 0.0,
+            "three_point_attempts": 4.0,
+            "three_pointers_made": 2.0,
             "triple_double": 0.0,
             "turnovers": 0.0
           },
@@ -119460,6 +120188,34 @@
             "three_pointers_made": 4.0,
             "triple_double": 0.0,
             "turnovers": 2.0
+          },
+          "team": "Chicago Bulls"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910032,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 6.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 19.0,
+            "field_goal_percentage": 68.4,
+            "field_goals_made": 13.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 40.0,
+            "points": 33.0,
+            "points_assists": 39.0,
+            "points_rebounds": 40.0,
+            "points_rebounds_assists": 46.0,
+            "rebounds": 7.0,
+            "rebounds_assists": 13.0,
+            "steals": 1.0,
+            "three_point_attempts": 13.0,
+            "three_pointers_made": 7.0,
+            "triple_double": 0.0,
+            "turnovers": 3.0
           },
           "team": "Chicago Bulls"
         }
@@ -121701,6 +122457,34 @@
             "rebounds_assists": 8.0,
             "steals": 1.0,
             "three_point_attempts": 1.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "Chicago Bulls"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910032,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 4.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 4.0,
+            "field_goal_percentage": 50.0,
+            "field_goals_made": 2.0,
+            "free_throw_attempts": 6.0,
+            "free_throws_made": 5.0,
+            "minutes": 12.0,
+            "points": 9.0,
+            "points_assists": 13.0,
+            "points_rebounds": 11.0,
+            "points_rebounds_assists": 15.0,
+            "rebounds": 2.0,
+            "rebounds_assists": 6.0,
+            "steals": 0.0,
+            "three_point_attempts": 0.0,
             "three_pointers_made": 0.0,
             "triple_double": 0.0,
             "turnovers": 0.0
@@ -125518,6 +126302,34 @@
             "steals": 1.0,
             "three_point_attempts": 3.0,
             "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
+          },
+          "team": "Chicago Bulls"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910032,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 2.0,
+            "blocks": 1.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 10.0,
+            "field_goal_percentage": 30.0,
+            "field_goals_made": 3.0,
+            "free_throw_attempts": 4.0,
+            "free_throws_made": 3.0,
+            "minutes": 42.0,
+            "points": 11.0,
+            "points_assists": 13.0,
+            "points_rebounds": 12.0,
+            "points_rebounds_assists": 14.0,
+            "rebounds": 1.0,
+            "rebounds_assists": 3.0,
+            "steals": 1.0,
+            "three_point_attempts": 8.0,
+            "three_pointers_made": 2.0,
             "triple_double": 0.0,
             "turnovers": 1.0
           },
@@ -129622,6 +130434,34 @@
             "turnovers": 2.0
           },
           "team": "Chicago Bulls"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910032,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 1.0,
+            "blocks": 2.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 14.0,
+            "field_goal_percentage": 71.4,
+            "field_goals_made": 10.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 34.0,
+            "points": 26.0,
+            "points_assists": 27.0,
+            "points_rebounds": 30.0,
+            "points_rebounds_assists": 31.0,
+            "rebounds": 4.0,
+            "rebounds_assists": 5.0,
+            "steals": 2.0,
+            "three_point_attempts": 7.0,
+            "three_pointers_made": 6.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
+          },
+          "team": "Chicago Bulls"
         }
       ]
     },
@@ -131977,6 +132817,34 @@
             "rebounds_assists": 4.0,
             "steals": 1.0,
             "three_point_attempts": 4.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
+          },
+          "team": "Chicago Bulls"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910032,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 0.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 3.0,
+            "field_goal_percentage": 0.0,
+            "field_goals_made": 0.0,
+            "free_throw_attempts": 2.0,
+            "free_throws_made": 2.0,
+            "minutes": 16.0,
+            "points": 2.0,
+            "points_assists": 2.0,
+            "points_rebounds": 4.0,
+            "points_rebounds_assists": 4.0,
+            "rebounds": 2.0,
+            "rebounds_assists": 2.0,
+            "steals": 1.0,
+            "three_point_attempts": 1.0,
             "three_pointers_made": 0.0,
             "triple_double": 0.0,
             "turnovers": 1.0
@@ -156014,6 +156882,34 @@
             "turnovers": 0.0
           },
           "team": "Dallas Mavericks"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910033,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 1.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 8.0,
+            "field_goal_percentage": 50.0,
+            "field_goals_made": 4.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 16.0,
+            "points": 9.0,
+            "points_assists": 10.0,
+            "points_rebounds": 13.0,
+            "points_rebounds_assists": 14.0,
+            "rebounds": 4.0,
+            "rebounds_assists": 5.0,
+            "steals": 0.0,
+            "three_point_attempts": 3.0,
+            "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
+          },
+          "team": "Dallas Mavericks"
         }
       ]
     },
@@ -158536,6 +159432,34 @@
             "three_pointers_made": 3.0,
             "triple_double": 0.0,
             "turnovers": 1.0
+          },
+          "team": "Dallas Mavericks"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910033,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 0.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 5.0,
+            "field_goal_percentage": 20.0,
+            "field_goals_made": 1.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 16.0,
+            "points": 3.0,
+            "points_assists": 3.0,
+            "points_rebounds": 5.0,
+            "points_rebounds_assists": 5.0,
+            "rebounds": 2.0,
+            "rebounds_assists": 2.0,
+            "steals": 1.0,
+            "three_point_attempts": 5.0,
+            "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
           },
           "team": "Dallas Mavericks"
         }
@@ -162214,6 +163138,34 @@
             "turnovers": 1.0
           },
           "team": "Dallas Mavericks"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910033,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 3.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 7.0,
+            "field_goal_percentage": 42.9,
+            "field_goals_made": 3.0,
+            "free_throw_attempts": 1.0,
+            "free_throws_made": 1.0,
+            "minutes": 21.0,
+            "points": 9.0,
+            "points_assists": 12.0,
+            "points_rebounds": 9.0,
+            "points_rebounds_assists": 12.0,
+            "rebounds": 0.0,
+            "rebounds_assists": 3.0,
+            "steals": 0.0,
+            "three_point_attempts": 4.0,
+            "three_pointers_made": 2.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
+          },
+          "team": "Dallas Mavericks"
         }
       ]
     },
@@ -164714,6 +165666,34 @@
             "turnovers": 3.0
           },
           "team": "Dallas Mavericks"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910033,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 4.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 17.0,
+            "field_goal_percentage": 47.1,
+            "field_goals_made": 8.0,
+            "free_throw_attempts": 10.0,
+            "free_throws_made": 9.0,
+            "minutes": 31.0,
+            "points": 28.0,
+            "points_assists": 32.0,
+            "points_rebounds": 31.0,
+            "points_rebounds_assists": 35.0,
+            "rebounds": 3.0,
+            "rebounds_assists": 7.0,
+            "steals": 1.0,
+            "three_point_attempts": 7.0,
+            "three_pointers_made": 3.0,
+            "triple_double": 0.0,
+            "turnovers": 5.0
+          },
+          "team": "Dallas Mavericks"
         }
       ]
     },
@@ -166704,6 +167684,34 @@
             "three_pointers_made": 0.0,
             "triple_double": 0.0,
             "turnovers": 1.0
+          },
+          "team": "Dallas Mavericks"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910033,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 4.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 8.0,
+            "field_goal_percentage": 62.5,
+            "field_goals_made": 5.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 28.0,
+            "points": 10.0,
+            "points_assists": 14.0,
+            "points_rebounds": 14.0,
+            "points_rebounds_assists": 18.0,
+            "rebounds": 4.0,
+            "rebounds_assists": 8.0,
+            "steals": 2.0,
+            "three_point_attempts": 0.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
           },
           "team": "Dallas Mavericks"
         }
@@ -168842,6 +169850,34 @@
             "turnovers": 0.0
           },
           "team": "Dallas Mavericks"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910033,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 8.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 13.0,
+            "field_goal_percentage": 46.2,
+            "field_goals_made": 6.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 27.0,
+            "points": 16.0,
+            "points_assists": 24.0,
+            "points_rebounds": 17.0,
+            "points_rebounds_assists": 25.0,
+            "rebounds": 1.0,
+            "rebounds_assists": 9.0,
+            "steals": 1.0,
+            "three_point_attempts": 8.0,
+            "three_pointers_made": 4.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
+          },
+          "team": "Dallas Mavericks"
         }
       ]
     },
@@ -169264,6 +170300,34 @@
             "three_pointers_made": 1.0,
             "triple_double": 0.0,
             "turnovers": 1.0
+          },
+          "team": "Dallas Mavericks"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910033,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 2.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 4.0,
+            "field_goal_percentage": 75.0,
+            "field_goals_made": 3.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 20.0,
+            "points": 7.0,
+            "points_assists": 9.0,
+            "points_rebounds": 13.0,
+            "points_rebounds_assists": 15.0,
+            "rebounds": 6.0,
+            "rebounds_assists": 8.0,
+            "steals": 2.0,
+            "three_point_attempts": 1.0,
+            "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 2.0
           },
           "team": "Dallas Mavericks"
         }
@@ -171934,6 +172998,34 @@
             "turnovers": 0.0
           },
           "team": "Dallas Mavericks"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910033,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 4.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 6.0,
+            "field_goal_percentage": 33.3,
+            "field_goals_made": 2.0,
+            "free_throw_attempts": 1.0,
+            "free_throws_made": 1.0,
+            "minutes": 25.0,
+            "points": 6.0,
+            "points_assists": 10.0,
+            "points_rebounds": 6.0,
+            "points_rebounds_assists": 10.0,
+            "rebounds": 0.0,
+            "rebounds_assists": 4.0,
+            "steals": 5.0,
+            "three_point_attempts": 4.0,
+            "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "Dallas Mavericks"
         }
       ]
     },
@@ -173896,6 +174988,34 @@
             "three_pointers_made": 0.0,
             "triple_double": 0.0,
             "turnovers": 2.0
+          },
+          "team": "Dallas Mavericks"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910033,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 4.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 9.0,
+            "field_goal_percentage": 55.6,
+            "field_goals_made": 5.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 29.0,
+            "points": 13.0,
+            "points_assists": 17.0,
+            "points_rebounds": 19.0,
+            "points_rebounds_assists": 23.0,
+            "rebounds": 6.0,
+            "rebounds_assists": 10.0,
+            "steals": 4.0,
+            "three_point_attempts": 5.0,
+            "three_pointers_made": 3.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
           },
           "team": "Dallas Mavericks"
         }
@@ -176224,6 +177344,34 @@
             "three_pointers_made": 1.0,
             "triple_double": 0.0,
             "turnovers": 0.0
+          },
+          "team": "Dallas Mavericks"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910033,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 2.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 11.0,
+            "field_goal_percentage": 54.5,
+            "field_goals_made": 6.0,
+            "free_throw_attempts": 5.0,
+            "free_throws_made": 3.0,
+            "minutes": 28.0,
+            "points": 15.0,
+            "points_assists": 17.0,
+            "points_rebounds": 23.0,
+            "points_rebounds_assists": 25.0,
+            "rebounds": 8.0,
+            "rebounds_assists": 10.0,
+            "steals": 0.0,
+            "three_point_attempts": 5.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
           },
           "team": "Dallas Mavericks"
         }
@@ -181698,6 +182846,34 @@
             "turnovers": 0.0
           },
           "team": "Denver Nuggets"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910032,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 0.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 3.0,
+            "field_goal_percentage": 33.3,
+            "field_goals_made": 1.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 11.0,
+            "points": 2.0,
+            "points_assists": 2.0,
+            "points_rebounds": 4.0,
+            "points_rebounds_assists": 4.0,
+            "rebounds": 2.0,
+            "rebounds_assists": 2.0,
+            "steals": 0.0,
+            "three_point_attempts": 1.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "Denver Nuggets"
         }
       ]
     },
@@ -183326,6 +184502,34 @@
             "turnovers": 0.0
           },
           "team": "Denver Nuggets"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910032,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 3.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 14.0,
+            "field_goal_percentage": 57.1,
+            "field_goals_made": 8.0,
+            "free_throw_attempts": 2.0,
+            "free_throws_made": 2.0,
+            "minutes": 38.0,
+            "points": 21.0,
+            "points_assists": 24.0,
+            "points_rebounds": 29.0,
+            "points_rebounds_assists": 32.0,
+            "rebounds": 8.0,
+            "rebounds_assists": 11.0,
+            "steals": 1.0,
+            "three_point_attempts": 6.0,
+            "three_pointers_made": 3.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
+          },
+          "team": "Denver Nuggets"
         }
       ]
     },
@@ -183718,6 +184922,34 @@
             "steals": 0.0,
             "three_point_attempts": 1.0,
             "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "Denver Nuggets"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910032,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 0.0,
+            "blocks": 1.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 5.0,
+            "field_goal_percentage": 60.0,
+            "field_goals_made": 3.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 15.0,
+            "points": 8.0,
+            "points_assists": 8.0,
+            "points_rebounds": 8.0,
+            "points_rebounds_assists": 8.0,
+            "rebounds": 0.0,
+            "rebounds_assists": 0.0,
+            "steals": 0.0,
+            "three_point_attempts": 2.0,
+            "three_pointers_made": 2.0,
             "triple_double": 0.0,
             "turnovers": 0.0
           },
@@ -186246,6 +187478,34 @@
             "turnovers": 1.0
           },
           "team": "Denver Nuggets"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910032,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 1.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 5.0,
+            "field_goal_percentage": 20.0,
+            "field_goals_made": 1.0,
+            "free_throw_attempts": 3.0,
+            "free_throws_made": 2.0,
+            "minutes": 18.0,
+            "points": 4.0,
+            "points_assists": 5.0,
+            "points_rebounds": 4.0,
+            "points_rebounds_assists": 5.0,
+            "rebounds": 0.0,
+            "rebounds_assists": 1.0,
+            "steals": 0.0,
+            "three_point_attempts": 0.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
+          },
+          "team": "Denver Nuggets"
         }
       ]
     },
@@ -187764,6 +189024,34 @@
             "three_pointers_made": 1.0,
             "triple_double": 0.0,
             "turnovers": 0.0
+          },
+          "team": "Denver Nuggets"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910032,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 5.0,
+            "blocks": 1.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 19.0,
+            "field_goal_percentage": 42.1,
+            "field_goals_made": 8.0,
+            "free_throw_attempts": 1.0,
+            "free_throws_made": 1.0,
+            "minutes": 33.0,
+            "points": 18.0,
+            "points_assists": 23.0,
+            "points_rebounds": 26.0,
+            "points_rebounds_assists": 31.0,
+            "rebounds": 8.0,
+            "rebounds_assists": 13.0,
+            "steals": 2.0,
+            "three_point_attempts": 5.0,
+            "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
           },
           "team": "Denver Nuggets"
         }
@@ -190634,6 +191922,34 @@
             "turnovers": 1.0
           },
           "team": "Denver Nuggets"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910032,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 5.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 9.0,
+            "field_goal_percentage": 66.7,
+            "field_goals_made": 6.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 36.0,
+            "points": 16.0,
+            "points_assists": 21.0,
+            "points_rebounds": 18.0,
+            "points_rebounds_assists": 23.0,
+            "rebounds": 2.0,
+            "rebounds_assists": 7.0,
+            "steals": 2.0,
+            "three_point_attempts": 5.0,
+            "three_pointers_made": 4.0,
+            "triple_double": 0.0,
+            "turnovers": 3.0
+          },
+          "team": "Denver Nuggets"
         }
       ]
     },
@@ -192878,6 +194194,34 @@
             "turnovers": 4.0
           },
           "team": "Denver Nuggets"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910032,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 11.0,
+            "blocks": 1.0,
+            "double_double": 1.0,
+            "field_goal_attempts": 22.0,
+            "field_goal_percentage": 63.6,
+            "field_goals_made": 14.0,
+            "free_throw_attempts": 10.0,
+            "free_throws_made": 8.0,
+            "minutes": 42.0,
+            "points": 37.0,
+            "points_assists": 48.0,
+            "points_rebounds": 55.0,
+            "points_rebounds_assists": 66.0,
+            "rebounds": 18.0,
+            "rebounds_assists": 29.0,
+            "steals": 1.0,
+            "three_point_attempts": 3.0,
+            "three_pointers_made": 1.0,
+            "triple_double": 1.0,
+            "turnovers": 3.0
+          },
+          "team": "Denver Nuggets"
         }
       ]
     },
@@ -194868,6 +196212,34 @@
             "three_pointers_made": 1.0,
             "triple_double": 0.0,
             "turnovers": 0.0
+          },
+          "team": "Denver Nuggets"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910032,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 0.0,
+            "blocks": 2.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 1.0,
+            "field_goal_percentage": 0.0,
+            "field_goals_made": 0.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 20.0,
+            "points": 0.0,
+            "points_assists": 0.0,
+            "points_rebounds": 4.0,
+            "points_rebounds_assists": 4.0,
+            "rebounds": 4.0,
+            "rebounds_assists": 4.0,
+            "steals": 0.0,
+            "three_point_attempts": 1.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
           },
           "team": "Denver Nuggets"
         }
@@ -197140,6 +198512,34 @@
             "three_pointers_made": 1.0,
             "triple_double": 0.0,
             "turnovers": 2.0
+          },
+          "team": "Denver Nuggets"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910032,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 1.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 2.0,
+            "field_goal_percentage": 0.0,
+            "field_goals_made": 0.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 8.0,
+            "points": 0.0,
+            "points_assists": 1.0,
+            "points_rebounds": 0.0,
+            "points_rebounds_assists": 1.0,
+            "rebounds": 0.0,
+            "rebounds_assists": 1.0,
+            "steals": 0.0,
+            "three_point_attempts": 1.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
           },
           "team": "Denver Nuggets"
         }
@@ -199690,6 +201090,34 @@
             "steals": 0.0,
             "three_point_attempts": 2.0,
             "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 2.0
+          },
+          "team": "Denver Nuggets"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910032,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 7.0,
+            "blocks": 2.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 22.0,
+            "field_goal_percentage": 59.1,
+            "field_goals_made": 13.0,
+            "free_throw_attempts": 14.0,
+            "free_throws_made": 13.0,
+            "minutes": 45.0,
+            "points": 45.0,
+            "points_assists": 52.0,
+            "points_rebounds": 50.0,
+            "points_rebounds_assists": 57.0,
+            "rebounds": 5.0,
+            "rebounds_assists": 12.0,
+            "steals": 3.0,
+            "three_point_attempts": 11.0,
+            "three_pointers_made": 6.0,
             "triple_double": 0.0,
             "turnovers": 2.0
           },
@@ -206010,6 +207438,34 @@
             "turnovers": 1.0
           },
           "team": "Detroit Pistons"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 401910029,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 0.0,
+            "blocks": 1.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 9.0,
+            "field_goal_percentage": 66.7,
+            "field_goals_made": 6.0,
+            "free_throw_attempts": 2.0,
+            "free_throws_made": 2.0,
+            "minutes": 22.0,
+            "points": 18.0,
+            "points_assists": 18.0,
+            "points_rebounds": 24.0,
+            "points_rebounds_assists": 24.0,
+            "rebounds": 6.0,
+            "rebounds_assists": 6.0,
+            "steals": 1.0,
+            "three_point_attempts": 5.0,
+            "three_pointers_made": 4.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
+          },
+          "team": "Detroit Pistons"
         }
       ]
     },
@@ -208280,6 +209736,34 @@
             "three_pointers_made": 2.0,
             "triple_double": 0.0,
             "turnovers": 3.0
+          },
+          "team": "Detroit Pistons"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 401910029,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 15.0,
+            "blocks": 1.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 9.0,
+            "field_goal_percentage": 22.2,
+            "field_goals_made": 2.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 33.0,
+            "points": 5.0,
+            "points_assists": 20.0,
+            "points_rebounds": 9.0,
+            "points_rebounds_assists": 24.0,
+            "rebounds": 4.0,
+            "rebounds_assists": 19.0,
+            "steals": 1.0,
+            "three_point_attempts": 3.0,
+            "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 6.0
           },
           "team": "Detroit Pistons"
         }
@@ -213106,6 +214590,34 @@
             "turnovers": 0.0
           },
           "team": "Detroit Pistons"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 401910029,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 1.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 5.0,
+            "field_goal_percentage": 40.0,
+            "field_goals_made": 2.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 18.0,
+            "points": 6.0,
+            "points_assists": 7.0,
+            "points_rebounds": 9.0,
+            "points_rebounds_assists": 10.0,
+            "rebounds": 3.0,
+            "rebounds_assists": 4.0,
+            "steals": 1.0,
+            "three_point_attempts": 5.0,
+            "three_pointers_made": 2.0,
+            "triple_double": 0.0,
+            "turnovers": 2.0
+          },
+          "team": "Detroit Pistons"
         }
       ]
     },
@@ -216474,6 +217986,34 @@
             "turnovers": 0.0
           },
           "team": "Detroit Pistons"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 401910029,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 0.0,
+            "blocks": 1.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 6.0,
+            "field_goal_percentage": 16.7,
+            "field_goals_made": 1.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 10.0,
+            "points": 2.0,
+            "points_assists": 2.0,
+            "points_rebounds": 6.0,
+            "points_rebounds_assists": 6.0,
+            "rebounds": 4.0,
+            "rebounds_assists": 4.0,
+            "steals": 0.0,
+            "three_point_attempts": 0.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "Detroit Pistons"
         }
       ]
     },
@@ -218828,6 +220368,34 @@
             "three_pointers_made": 4.0,
             "triple_double": 0.0,
             "turnovers": 2.0
+          },
+          "team": "Detroit Pistons"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 401910029,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 1.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 8.0,
+            "field_goal_percentage": 12.5,
+            "field_goals_made": 1.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 30.0,
+            "points": 2.0,
+            "points_assists": 3.0,
+            "points_rebounds": 5.0,
+            "points_rebounds_assists": 6.0,
+            "rebounds": 3.0,
+            "rebounds_assists": 4.0,
+            "steals": 1.0,
+            "three_point_attempts": 4.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 3.0
           },
           "team": "Detroit Pistons"
         }
@@ -221270,6 +222838,34 @@
             "turnovers": 1.0
           },
           "team": "Detroit Pistons"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 401910029,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 3.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 12.0,
+            "field_goal_percentage": 33.3,
+            "field_goals_made": 4.0,
+            "free_throw_attempts": 2.0,
+            "free_throws_made": 2.0,
+            "minutes": 38.0,
+            "points": 11.0,
+            "points_assists": 14.0,
+            "points_rebounds": 16.0,
+            "points_rebounds_assists": 19.0,
+            "rebounds": 5.0,
+            "rebounds_assists": 8.0,
+            "steals": 1.0,
+            "three_point_attempts": 6.0,
+            "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "Detroit Pistons"
         }
       ]
     },
@@ -223400,6 +224996,34 @@
             "three_pointers_made": 1.0,
             "triple_double": 0.0,
             "turnovers": 2.0
+          },
+          "team": "Detroit Pistons"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 401910029,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 3.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 15.0,
+            "field_goal_percentage": 46.7,
+            "field_goals_made": 7.0,
+            "free_throw_attempts": 2.0,
+            "free_throws_made": 2.0,
+            "minutes": 26.0,
+            "points": 19.0,
+            "points_assists": 22.0,
+            "points_rebounds": 21.0,
+            "points_rebounds_assists": 24.0,
+            "rebounds": 2.0,
+            "rebounds_assists": 5.0,
+            "steals": 3.0,
+            "three_point_attempts": 9.0,
+            "three_pointers_made": 3.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
           },
           "team": "Detroit Pistons"
         }
@@ -228068,6 +229692,34 @@
             "three_pointers_made": 0.0,
             "triple_double": 0.0,
             "turnovers": 1.0
+          },
+          "team": "Detroit Pistons"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 401910029,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 2.0,
+            "blocks": 1.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 11.0,
+            "field_goal_percentage": 54.5,
+            "field_goals_made": 6.0,
+            "free_throw_attempts": 4.0,
+            "free_throws_made": 4.0,
+            "minutes": 26.0,
+            "points": 16.0,
+            "points_assists": 18.0,
+            "points_rebounds": 21.0,
+            "points_rebounds_assists": 23.0,
+            "rebounds": 5.0,
+            "rebounds_assists": 7.0,
+            "steals": 1.0,
+            "three_point_attempts": 0.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 3.0
           },
           "team": "Detroit Pistons"
         }
@@ -233682,6 +235334,34 @@
             "turnovers": 1.0
           },
           "team": "Detroit Pistons"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 401910029,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 5.0,
+            "blocks": 2.0,
+            "double_double": 1.0,
+            "field_goal_attempts": 10.0,
+            "field_goal_percentage": 70.0,
+            "field_goals_made": 7.0,
+            "free_throw_attempts": 4.0,
+            "free_throws_made": 4.0,
+            "minutes": 38.0,
+            "points": 18.0,
+            "points_assists": 23.0,
+            "points_rebounds": 29.0,
+            "points_rebounds_assists": 34.0,
+            "rebounds": 11.0,
+            "rebounds_assists": 16.0,
+            "steals": 1.0,
+            "three_point_attempts": 0.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
+          },
+          "team": "Detroit Pistons"
         }
       ]
     },
@@ -234468,6 +236148,34 @@
             "three_pointers_made": 0.0,
             "triple_double": 0.0,
             "turnovers": 2.0
+          },
+          "team": "Golden State Warriors"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910035,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 3.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 7.0,
+            "field_goal_percentage": 85.7,
+            "field_goals_made": 6.0,
+            "free_throw_attempts": 2.0,
+            "free_throws_made": 1.0,
+            "minutes": 26.0,
+            "points": 13.0,
+            "points_assists": 16.0,
+            "points_rebounds": 22.0,
+            "points_rebounds_assists": 25.0,
+            "rebounds": 9.0,
+            "rebounds_assists": 12.0,
+            "steals": 3.0,
+            "three_point_attempts": 0.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
           },
           "team": "Golden State Warriors"
         }
@@ -235335,6 +237043,34 @@
             "points_rebounds_assists": 10.0,
             "rebounds": 0.0,
             "rebounds_assists": 1.0,
+            "steals": 0.0,
+            "three_point_attempts": 3.0,
+            "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "Golden State Warriors"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910035,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 2.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 3.0,
+            "field_goal_percentage": 33.3,
+            "field_goals_made": 1.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 11.0,
+            "points": 3.0,
+            "points_assists": 5.0,
+            "points_rebounds": 3.0,
+            "points_rebounds_assists": 5.0,
+            "rebounds": 0.0,
+            "rebounds_assists": 2.0,
             "steals": 0.0,
             "three_point_attempts": 3.0,
             "three_pointers_made": 1.0,
@@ -239214,6 +240950,34 @@
             "turnovers": 1.0
           },
           "team": "Golden State Warriors"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910035,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 3.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 7.0,
+            "field_goal_percentage": 42.9,
+            "field_goals_made": 3.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 27.0,
+            "points": 9.0,
+            "points_assists": 12.0,
+            "points_rebounds": 15.0,
+            "points_rebounds_assists": 18.0,
+            "rebounds": 6.0,
+            "rebounds_assists": 9.0,
+            "steals": 0.0,
+            "three_point_attempts": 6.0,
+            "three_pointers_made": 3.0,
+            "triple_double": 0.0,
+            "turnovers": 3.0
+          },
+          "team": "Golden State Warriors"
         }
       ]
     },
@@ -240898,6 +242662,34 @@
             "turnovers": 2.0
           },
           "team": "Golden State Warriors"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910035,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 2.0,
+            "blocks": 1.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 9.0,
+            "field_goal_percentage": 33.3,
+            "field_goals_made": 3.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 18.0,
+            "points": 7.0,
+            "points_assists": 9.0,
+            "points_rebounds": 10.0,
+            "points_rebounds_assists": 12.0,
+            "rebounds": 3.0,
+            "rebounds_assists": 5.0,
+            "steals": 0.0,
+            "three_point_attempts": 4.0,
+            "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "Golden State Warriors"
         }
       ]
     },
@@ -241712,6 +243504,34 @@
             "rebounds": 8.0,
             "rebounds_assists": 15.0,
             "steals": 1.0,
+            "three_point_attempts": 4.0,
+            "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 3.0
+          },
+          "team": "Golden State Warriors"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910035,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 3.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 13.0,
+            "field_goal_percentage": 38.5,
+            "field_goals_made": 5.0,
+            "free_throw_attempts": 2.0,
+            "free_throws_made": 1.0,
+            "minutes": 34.0,
+            "points": 12.0,
+            "points_assists": 15.0,
+            "points_rebounds": 20.0,
+            "points_rebounds_assists": 23.0,
+            "rebounds": 8.0,
+            "rebounds_assists": 11.0,
+            "steals": 0.0,
             "three_point_attempts": 4.0,
             "three_pointers_made": 1.0,
             "triple_double": 0.0,
@@ -244582,6 +246402,34 @@
             "turnovers": 2.0
           },
           "team": "Golden State Warriors"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910035,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 7.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 7.0,
+            "field_goal_percentage": 0.0,
+            "field_goals_made": 0.0,
+            "free_throw_attempts": 2.0,
+            "free_throws_made": 2.0,
+            "minutes": 27.0,
+            "points": 2.0,
+            "points_assists": 9.0,
+            "points_rebounds": 5.0,
+            "points_rebounds_assists": 12.0,
+            "rebounds": 3.0,
+            "rebounds_assists": 10.0,
+            "steals": 2.0,
+            "three_point_attempts": 5.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 2.0
+          },
+          "team": "Golden State Warriors"
         }
       ]
     },
@@ -245032,6 +246880,34 @@
             "three_pointers_made": 1.0,
             "triple_double": 0.0,
             "turnovers": 2.0
+          },
+          "team": "Golden State Warriors"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910035,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 0.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 3.0,
+            "field_goal_percentage": 0.0,
+            "field_goals_made": 0.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 8.0,
+            "points": 0.0,
+            "points_assists": 0.0,
+            "points_rebounds": 1.0,
+            "points_rebounds_assists": 1.0,
+            "rebounds": 1.0,
+            "rebounds_assists": 1.0,
+            "steals": 0.0,
+            "three_point_attempts": 2.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
           },
           "team": "Golden State Warriors"
         }
@@ -247524,6 +249400,34 @@
             "rebounds": 1.0,
             "rebounds_assists": 2.0,
             "steals": 3.0,
+            "three_point_attempts": 1.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
+          },
+          "team": "Golden State Warriors"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910035,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 0.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 5.0,
+            "field_goal_percentage": 80.0,
+            "field_goals_made": 4.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 13.0,
+            "points": 8.0,
+            "points_assists": 8.0,
+            "points_rebounds": 9.0,
+            "points_rebounds_assists": 9.0,
+            "rebounds": 1.0,
+            "rebounds_assists": 1.0,
+            "steals": 1.0,
             "three_point_attempts": 1.0,
             "three_pointers_made": 0.0,
             "triple_double": 0.0,
@@ -250278,6 +252182,34 @@
             "turnovers": 2.0
           },
           "team": "Golden State Warriors"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910035,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 2.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 14.0,
+            "field_goal_percentage": 35.7,
+            "field_goals_made": 5.0,
+            "free_throw_attempts": 4.0,
+            "free_throws_made": 4.0,
+            "minutes": 38.0,
+            "points": 18.0,
+            "points_assists": 20.0,
+            "points_rebounds": 25.0,
+            "points_rebounds_assists": 27.0,
+            "rebounds": 7.0,
+            "rebounds_assists": 9.0,
+            "steals": 0.0,
+            "three_point_attempts": 10.0,
+            "three_pointers_made": 4.0,
+            "triple_double": 0.0,
+            "turnovers": 6.0
+          },
+          "team": "Golden State Warriors"
         }
       ]
     },
@@ -252662,6 +254594,34 @@
             "turnovers": 2.0
           },
           "team": "Golden State Warriors"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910035,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 2.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 7.0,
+            "field_goal_percentage": 14.3,
+            "field_goals_made": 1.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 17.0,
+            "points": 3.0,
+            "points_assists": 5.0,
+            "points_rebounds": 5.0,
+            "points_rebounds_assists": 7.0,
+            "rebounds": 2.0,
+            "rebounds_assists": 4.0,
+            "steals": 1.0,
+            "three_point_attempts": 5.0,
+            "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 2.0
+          },
+          "team": "Golden State Warriors"
         }
       ]
     },
@@ -254988,6 +256948,34 @@
             "three_pointers_made": 0.0,
             "triple_double": 0.0,
             "turnovers": 3.0
+          },
+          "team": "Golden State Warriors"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910035,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 3.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 8.0,
+            "field_goal_percentage": 62.5,
+            "field_goals_made": 5.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 23.0,
+            "points": 13.0,
+            "points_assists": 16.0,
+            "points_rebounds": 18.0,
+            "points_rebounds_assists": 21.0,
+            "rebounds": 5.0,
+            "rebounds_assists": 8.0,
+            "steals": 1.0,
+            "three_point_attempts": 5.0,
+            "three_pointers_made": 3.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
           },
           "team": "Golden State Warriors"
         }
@@ -287714,6 +289702,34 @@
             "turnovers": 0.0
           },
           "team": "Indiana Pacers"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910034,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 0.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 2.0,
+            "field_goal_percentage": 50.0,
+            "field_goals_made": 1.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 1.0,
+            "points": 2.0,
+            "points_assists": 2.0,
+            "points_rebounds": 2.0,
+            "points_rebounds_assists": 2.0,
+            "rebounds": 0.0,
+            "rebounds_assists": 0.0,
+            "steals": 0.0,
+            "three_point_attempts": 1.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "Indiana Pacers"
         }
       ]
     },
@@ -289536,6 +291552,34 @@
             "three_pointers_made": 1.0,
             "triple_double": 0.0,
             "turnovers": 2.0
+          },
+          "team": "Indiana Pacers"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910034,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 3.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 2.0,
+            "field_goal_percentage": 0.0,
+            "field_goals_made": 0.0,
+            "free_throw_attempts": 2.0,
+            "free_throws_made": 2.0,
+            "minutes": 17.0,
+            "points": 2.0,
+            "points_assists": 5.0,
+            "points_rebounds": 3.0,
+            "points_rebounds_assists": 6.0,
+            "rebounds": 1.0,
+            "rebounds_assists": 4.0,
+            "steals": 2.0,
+            "three_point_attempts": 2.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
           },
           "team": "Indiana Pacers"
         }
@@ -292710,6 +294754,34 @@
             "turnovers": 0.0
           },
           "team": "Indiana Pacers"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910034,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 0.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 2.0,
+            "field_goal_percentage": 100.0,
+            "field_goals_made": 2.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 11.0,
+            "points": 5.0,
+            "points_assists": 5.0,
+            "points_rebounds": 8.0,
+            "points_rebounds_assists": 8.0,
+            "rebounds": 3.0,
+            "rebounds_assists": 3.0,
+            "steals": 1.0,
+            "three_point_attempts": 1.0,
+            "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
+          },
+          "team": "Indiana Pacers"
         }
       ]
     },
@@ -294646,6 +296718,34 @@
             "turnovers": 2.0
           },
           "team": "Indiana Pacers"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910034,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 8.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 13.0,
+            "field_goal_percentage": 38.5,
+            "field_goals_made": 5.0,
+            "free_throw_attempts": 7.0,
+            "free_throws_made": 4.0,
+            "minutes": 32.0,
+            "points": 16.0,
+            "points_assists": 24.0,
+            "points_rebounds": 18.0,
+            "points_rebounds_assists": 26.0,
+            "rebounds": 2.0,
+            "rebounds_assists": 10.0,
+            "steals": 0.0,
+            "three_point_attempts": 3.0,
+            "three_pointers_made": 2.0,
+            "triple_double": 0.0,
+            "turnovers": 6.0
+          },
+          "team": "Indiana Pacers"
         }
       ]
     },
@@ -296297,6 +298397,34 @@
             "rebounds_assists": 17.0,
             "steals": 0.0,
             "three_point_attempts": 2.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "Indiana Pacers"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910034,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 2.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 7.0,
+            "field_goal_percentage": 28.6,
+            "field_goals_made": 2.0,
+            "free_throw_attempts": 5.0,
+            "free_throws_made": 5.0,
+            "minutes": 32.0,
+            "points": 9.0,
+            "points_assists": 11.0,
+            "points_rebounds": 11.0,
+            "points_rebounds_assists": 13.0,
+            "rebounds": 2.0,
+            "rebounds_assists": 4.0,
+            "steals": 1.0,
+            "three_point_attempts": 3.0,
             "three_pointers_made": 0.0,
             "triple_double": 0.0,
             "turnovers": 0.0
@@ -298124,6 +300252,34 @@
             "three_pointers_made": 3.0,
             "triple_double": 0.0,
             "turnovers": 1.0
+          },
+          "team": "Indiana Pacers"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910034,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 0.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 10.0,
+            "field_goal_percentage": 40.0,
+            "field_goals_made": 4.0,
+            "free_throw_attempts": 9.0,
+            "free_throws_made": 7.0,
+            "minutes": 27.0,
+            "points": 15.0,
+            "points_assists": 15.0,
+            "points_rebounds": 20.0,
+            "points_rebounds_assists": 20.0,
+            "rebounds": 5.0,
+            "rebounds_assists": 5.0,
+            "steals": 0.0,
+            "three_point_attempts": 4.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
           },
           "team": "Indiana Pacers"
         }
@@ -302194,6 +304350,34 @@
             "turnovers": 2.0
           },
           "team": "Indiana Pacers"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910034,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 1.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 22.0,
+            "field_goal_percentage": 40.9,
+            "field_goals_made": 9.0,
+            "free_throw_attempts": 4.0,
+            "free_throws_made": 4.0,
+            "minutes": 33.0,
+            "points": 25.0,
+            "points_assists": 26.0,
+            "points_rebounds": 31.0,
+            "points_rebounds_assists": 32.0,
+            "rebounds": 6.0,
+            "rebounds_assists": 7.0,
+            "steals": 2.0,
+            "three_point_attempts": 6.0,
+            "three_pointers_made": 3.0,
+            "triple_double": 0.0,
+            "turnovers": 2.0
+          },
+          "team": "Indiana Pacers"
         }
       ]
     },
@@ -302954,6 +305138,34 @@
             "turnovers": 1.0
           },
           "team": "Indiana Pacers"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910034,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 0.0,
+            "blocks": 3.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 4.0,
+            "field_goal_percentage": 75.0,
+            "field_goals_made": 3.0,
+            "free_throw_attempts": 1.0,
+            "free_throws_made": 1.0,
+            "minutes": 14.0,
+            "points": 7.0,
+            "points_assists": 7.0,
+            "points_rebounds": 10.0,
+            "points_rebounds_assists": 10.0,
+            "rebounds": 3.0,
+            "rebounds_assists": 3.0,
+            "steals": 1.0,
+            "three_point_attempts": 1.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "Indiana Pacers"
         }
       ]
     },
@@ -303208,6 +305420,34 @@
             "three_pointers_made": 1.0,
             "triple_double": 0.0,
             "turnovers": 1.0
+          },
+          "team": "Indiana Pacers"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910034,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 4.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 3.0,
+            "field_goal_percentage": 66.7,
+            "field_goals_made": 2.0,
+            "free_throw_attempts": 2.0,
+            "free_throws_made": 2.0,
+            "minutes": 18.0,
+            "points": 6.0,
+            "points_assists": 10.0,
+            "points_rebounds": 7.0,
+            "points_rebounds_assists": 11.0,
+            "rebounds": 1.0,
+            "rebounds_assists": 5.0,
+            "steals": 0.0,
+            "three_point_attempts": 0.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
           },
           "team": "Indiana Pacers"
         }
@@ -304246,6 +306486,34 @@
             "steals": 0.0,
             "three_point_attempts": 5.0,
             "three_pointers_made": 2.0,
+            "triple_double": 0.0,
+            "turnovers": 2.0
+          },
+          "team": "Indiana Pacers"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910034,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 1.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 8.0,
+            "field_goal_percentage": 37.5,
+            "field_goals_made": 3.0,
+            "free_throw_attempts": 3.0,
+            "free_throws_made": 3.0,
+            "minutes": 22.0,
+            "points": 9.0,
+            "points_assists": 10.0,
+            "points_rebounds": 14.0,
+            "points_rebounds_assists": 15.0,
+            "rebounds": 5.0,
+            "rebounds_assists": 6.0,
+            "steals": 0.0,
+            "three_point_attempts": 2.0,
+            "three_pointers_made": 0.0,
             "triple_double": 0.0,
             "turnovers": 2.0
           },
@@ -306802,6 +309070,34 @@
             "turnovers": 1.0
           },
           "team": "Indiana Pacers"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910034,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 0.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 0.0,
+            "field_goal_percentage": 0.0,
+            "field_goals_made": 0.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 1.0,
+            "points": 0.0,
+            "points_assists": 0.0,
+            "points_rebounds": 0.0,
+            "points_rebounds_assists": 0.0,
+            "rebounds": 0.0,
+            "rebounds_assists": 0.0,
+            "steals": 0.0,
+            "three_point_attempts": 0.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "Indiana Pacers"
         }
       ]
     },
@@ -308456,6 +310752,34 @@
             "three_pointers_made": 0.0,
             "triple_double": 0.0,
             "turnovers": 2.0
+          },
+          "team": "Indiana Pacers"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910034,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 1.0,
+            "blocks": 0.0,
+            "double_double": 1.0,
+            "field_goal_attempts": 11.0,
+            "field_goal_percentage": 45.5,
+            "field_goals_made": 5.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 31.0,
+            "points": 10.0,
+            "points_assists": 11.0,
+            "points_rebounds": 24.0,
+            "points_rebounds_assists": 25.0,
+            "rebounds": 14.0,
+            "rebounds_assists": 15.0,
+            "steals": 0.0,
+            "three_point_attempts": 0.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
           },
           "team": "Indiana Pacers"
         }
@@ -362694,6 +365018,34 @@
             "turnovers": 3.0
           },
           "team": "Miami Heat"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 401910030,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 12.0,
+            "blocks": 2.0,
+            "double_double": 1.0,
+            "field_goal_attempts": 11.0,
+            "field_goal_percentage": 72.7,
+            "field_goals_made": 8.0,
+            "free_throw_attempts": 9.0,
+            "free_throws_made": 8.0,
+            "minutes": 37.0,
+            "points": 24.0,
+            "points_assists": 36.0,
+            "points_rebounds": 39.0,
+            "points_rebounds_assists": 51.0,
+            "rebounds": 15.0,
+            "rebounds_assists": 27.0,
+            "steals": 2.0,
+            "three_point_attempts": 0.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 1.0,
+            "turnovers": 0.0
+          },
+          "team": "Miami Heat"
         }
       ]
     },
@@ -364490,6 +366842,34 @@
             "steals": 1.0,
             "three_point_attempts": 5.0,
             "three_pointers_made": 3.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
+          },
+          "team": "Miami Heat"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 401910030,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 1.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 7.0,
+            "field_goal_percentage": 57.1,
+            "field_goals_made": 4.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 29.0,
+            "points": 10.0,
+            "points_assists": 11.0,
+            "points_rebounds": 11.0,
+            "points_rebounds_assists": 12.0,
+            "rebounds": 1.0,
+            "rebounds_assists": 2.0,
+            "steals": 1.0,
+            "three_point_attempts": 4.0,
+            "three_pointers_made": 2.0,
             "triple_double": 0.0,
             "turnovers": 1.0
           },
@@ -366826,6 +369206,34 @@
             "turnovers": 1.0
           },
           "team": "Miami Heat"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 401910030,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 0.0,
+            "blocks": 1.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 7.0,
+            "field_goal_percentage": 57.1,
+            "field_goals_made": 4.0,
+            "free_throw_attempts": 2.0,
+            "free_throws_made": 2.0,
+            "minutes": 15.0,
+            "points": 11.0,
+            "points_assists": 11.0,
+            "points_rebounds": 11.0,
+            "points_rebounds_assists": 11.0,
+            "rebounds": 0.0,
+            "rebounds_assists": 0.0,
+            "steals": 0.0,
+            "three_point_attempts": 3.0,
+            "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
+          },
+          "team": "Miami Heat"
         }
       ]
     },
@@ -368340,6 +370748,34 @@
             "three_pointers_made": 4.0,
             "triple_double": 0.0,
             "turnovers": 2.0
+          },
+          "team": "Miami Heat"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 401910030,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 0.0,
+            "blocks": 1.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 5.0,
+            "field_goal_percentage": 40.0,
+            "field_goals_made": 2.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 11.0,
+            "points": 4.0,
+            "points_assists": 4.0,
+            "points_rebounds": 5.0,
+            "points_rebounds_assists": 5.0,
+            "rebounds": 1.0,
+            "rebounds_assists": 1.0,
+            "steals": 0.0,
+            "three_point_attempts": 3.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
           },
           "team": "Miami Heat"
         }
@@ -373394,6 +375830,34 @@
             "turnovers": 2.0
           },
           "team": "Miami Heat"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 401910030,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 3.0,
+            "blocks": 1.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 8.0,
+            "field_goal_percentage": 50.0,
+            "field_goals_made": 4.0,
+            "free_throw_attempts": 4.0,
+            "free_throws_made": 4.0,
+            "minutes": 19.0,
+            "points": 15.0,
+            "points_assists": 18.0,
+            "points_rebounds": 23.0,
+            "points_rebounds_assists": 26.0,
+            "rebounds": 8.0,
+            "rebounds_assists": 11.0,
+            "steals": 1.0,
+            "three_point_attempts": 6.0,
+            "three_pointers_made": 3.0,
+            "triple_double": 0.0,
+            "turnovers": 3.0
+          },
+          "team": "Miami Heat"
         }
       ]
     },
@@ -375718,6 +378182,34 @@
             "steals": 1.0,
             "three_point_attempts": 2.0,
             "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 3.0
+          },
+          "team": "Miami Heat"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 401910030,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 5.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 14.0,
+            "field_goal_percentage": 64.3,
+            "field_goals_made": 9.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 30.0,
+            "points": 21.0,
+            "points_assists": 26.0,
+            "points_rebounds": 24.0,
+            "points_rebounds_assists": 29.0,
+            "rebounds": 3.0,
+            "rebounds_assists": 8.0,
+            "steals": 3.0,
+            "three_point_attempts": 7.0,
+            "three_pointers_made": 3.0,
             "triple_double": 0.0,
             "turnovers": 3.0
           },
@@ -378134,6 +380626,34 @@
             "turnovers": 4.0
           },
           "team": "Miami Heat"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 401910030,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 3.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 10.0,
+            "field_goal_percentage": 50.0,
+            "field_goals_made": 5.0,
+            "free_throw_attempts": 4.0,
+            "free_throws_made": 3.0,
+            "minutes": 34.0,
+            "points": 14.0,
+            "points_assists": 17.0,
+            "points_rebounds": 18.0,
+            "points_rebounds_assists": 21.0,
+            "rebounds": 4.0,
+            "rebounds_assists": 7.0,
+            "steals": 1.0,
+            "three_point_attempts": 3.0,
+            "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 4.0
+          },
+          "team": "Miami Heat"
         }
       ]
     },
@@ -380429,6 +382949,34 @@
             "rebounds_assists": 3.0,
             "steals": 0.0,
             "three_point_attempts": 5.0,
+            "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 2.0
+          },
+          "team": "Miami Heat"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 401910030,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 1.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 9.0,
+            "field_goal_percentage": 44.4,
+            "field_goals_made": 4.0,
+            "free_throw_attempts": 2.0,
+            "free_throws_made": 1.0,
+            "minutes": 21.0,
+            "points": 10.0,
+            "points_assists": 11.0,
+            "points_rebounds": 18.0,
+            "points_rebounds_assists": 19.0,
+            "rebounds": 8.0,
+            "rebounds_assists": 9.0,
+            "steals": 0.0,
+            "three_point_attempts": 3.0,
             "three_pointers_made": 1.0,
             "triple_double": 0.0,
             "turnovers": 2.0
@@ -386438,6 +388986,34 @@
             "turnovers": 0.0
           },
           "team": "Miami Heat"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 401910030,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 4.0,
+            "blocks": 1.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 9.0,
+            "field_goal_percentage": 33.3,
+            "field_goals_made": 3.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 23.0,
+            "points": 9.0,
+            "points_assists": 13.0,
+            "points_rebounds": 15.0,
+            "points_rebounds_assists": 19.0,
+            "rebounds": 6.0,
+            "rebounds_assists": 10.0,
+            "steals": 1.0,
+            "three_point_attempts": 7.0,
+            "three_pointers_made": 3.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
+          },
+          "team": "Miami Heat"
         }
       ]
     },
@@ -388792,6 +391368,34 @@
             "three_pointers_made": 1.0,
             "triple_double": 0.0,
             "turnovers": 1.0
+          },
+          "team": "Miami Heat"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 401910030,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 1.0,
+            "blocks": 1.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 5.0,
+            "field_goal_percentage": 40.0,
+            "field_goals_made": 2.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 22.0,
+            "points": 5.0,
+            "points_assists": 6.0,
+            "points_rebounds": 7.0,
+            "points_rebounds_assists": 8.0,
+            "rebounds": 2.0,
+            "rebounds_assists": 3.0,
+            "steals": 0.0,
+            "three_point_attempts": 2.0,
+            "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
           },
           "team": "Miami Heat"
         }
@@ -472858,6 +475462,34 @@
             "turnovers": 1.0
           },
           "team": "New York Knicks"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910034,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 3.0,
+            "blocks": 1.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 7.0,
+            "field_goal_percentage": 57.1,
+            "field_goals_made": 4.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 22.0,
+            "points": 11.0,
+            "points_assists": 14.0,
+            "points_rebounds": 12.0,
+            "points_rebounds_assists": 15.0,
+            "rebounds": 1.0,
+            "rebounds_assists": 4.0,
+            "steals": 0.0,
+            "three_point_attempts": 6.0,
+            "three_pointers_made": 3.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
+          },
+          "team": "New York Knicks"
         }
       ]
     },
@@ -477962,6 +480594,34 @@
             "turnovers": 3.0
           },
           "team": "New York Knicks"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910034,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 1.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 12.0,
+            "field_goal_percentage": 25.0,
+            "field_goals_made": 3.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 31.0,
+            "points": 8.0,
+            "points_assists": 9.0,
+            "points_rebounds": 11.0,
+            "points_rebounds_assists": 12.0,
+            "rebounds": 3.0,
+            "rebounds_assists": 4.0,
+            "steals": 1.0,
+            "three_point_attempts": 8.0,
+            "three_pointers_made": 2.0,
+            "triple_double": 0.0,
+            "turnovers": 2.0
+          },
+          "team": "New York Knicks"
         }
       ]
     },
@@ -480596,6 +483256,34 @@
             "three_pointers_made": 6.0,
             "triple_double": 0.0,
             "turnovers": 3.0
+          },
+          "team": "New York Knicks"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910034,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 7.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 18.0,
+            "field_goal_percentage": 44.4,
+            "field_goals_made": 8.0,
+            "free_throw_attempts": 7.0,
+            "free_throws_made": 5.0,
+            "minutes": 32.0,
+            "points": 22.0,
+            "points_assists": 29.0,
+            "points_rebounds": 25.0,
+            "points_rebounds_assists": 32.0,
+            "rebounds": 3.0,
+            "rebounds_assists": 10.0,
+            "steals": 1.0,
+            "three_point_attempts": 6.0,
+            "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 4.0
           },
           "team": "New York Knicks"
         }
@@ -483910,6 +486598,34 @@
             "turnovers": 0.0
           },
           "team": "New York Knicks"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910034,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 0.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 5.0,
+            "field_goal_percentage": 40.0,
+            "field_goals_made": 2.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 17.0,
+            "points": 5.0,
+            "points_assists": 5.0,
+            "points_rebounds": 7.0,
+            "points_rebounds_assists": 7.0,
+            "rebounds": 2.0,
+            "rebounds_assists": 2.0,
+            "steals": 0.0,
+            "three_point_attempts": 2.0,
+            "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 2.0
+          },
+          "team": "New York Knicks"
         }
       ]
     },
@@ -485981,6 +488697,34 @@
             "rebounds_assists": 0.0,
             "steals": 0.0,
             "three_point_attempts": 2.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "New York Knicks"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910034,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 0.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 2.0,
+            "field_goal_percentage": 0.0,
+            "field_goals_made": 0.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 8.0,
+            "points": 0.0,
+            "points_assists": 0.0,
+            "points_rebounds": 2.0,
+            "points_rebounds_assists": 2.0,
+            "rebounds": 2.0,
+            "rebounds_assists": 2.0,
+            "steals": 0.0,
+            "three_point_attempts": 1.0,
             "three_pointers_made": 0.0,
             "triple_double": 0.0,
             "turnovers": 0.0
@@ -488230,6 +490974,34 @@
             "turnovers": 2.0
           },
           "team": "New York Knicks"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910034,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 1.0,
+            "blocks": 1.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 3.0,
+            "field_goal_percentage": 33.3,
+            "field_goals_made": 1.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 19.0,
+            "points": 2.0,
+            "points_assists": 3.0,
+            "points_rebounds": 12.0,
+            "points_rebounds_assists": 13.0,
+            "rebounds": 10.0,
+            "rebounds_assists": 11.0,
+            "steals": 0.0,
+            "three_point_attempts": 0.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 3.0
+          },
+          "team": "New York Knicks"
         }
       ]
     },
@@ -490472,6 +493244,34 @@
             "three_pointers_made": 0.0,
             "triple_double": 0.0,
             "turnovers": 1.0
+          },
+          "team": "New York Knicks"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910034,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 10.0,
+            "blocks": 0.0,
+            "double_double": 1.0,
+            "field_goal_attempts": 11.0,
+            "field_goal_percentage": 45.5,
+            "field_goals_made": 5.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 39.0,
+            "points": 10.0,
+            "points_assists": 20.0,
+            "points_rebounds": 21.0,
+            "points_rebounds_assists": 31.0,
+            "rebounds": 11.0,
+            "rebounds_assists": 21.0,
+            "steals": 1.0,
+            "three_point_attempts": 4.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 1.0,
+            "turnovers": 3.0
           },
           "team": "New York Knicks"
         }
@@ -494206,6 +497006,34 @@
             "turnovers": 1.0
           },
           "team": "New York Knicks"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910034,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 0.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 5.0,
+            "field_goal_percentage": 40.0,
+            "field_goals_made": 2.0,
+            "free_throw_attempts": 3.0,
+            "free_throws_made": 3.0,
+            "minutes": 11.0,
+            "points": 8.0,
+            "points_assists": 8.0,
+            "points_rebounds": 11.0,
+            "points_rebounds_assists": 11.0,
+            "rebounds": 3.0,
+            "rebounds_assists": 3.0,
+            "steals": 0.0,
+            "three_point_attempts": 3.0,
+            "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "New York Knicks"
         }
       ]
     },
@@ -497686,6 +500514,34 @@
             "turnovers": 0.0
           },
           "team": "New York Knicks"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910034,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 3.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 15.0,
+            "field_goal_percentage": 46.7,
+            "field_goals_made": 7.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 32.0,
+            "points": 17.0,
+            "points_assists": 20.0,
+            "points_rebounds": 19.0,
+            "points_rebounds_assists": 22.0,
+            "rebounds": 2.0,
+            "rebounds_assists": 5.0,
+            "steals": 1.0,
+            "three_point_attempts": 9.0,
+            "three_pointers_made": 3.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "New York Knicks"
         }
       ]
     },
@@ -500294,6 +503150,34 @@
             "turnovers": 4.0
           },
           "team": "New York Knicks"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910034,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 5.0,
+            "blocks": 2.0,
+            "double_double": 1.0,
+            "field_goal_attempts": 14.0,
+            "field_goal_percentage": 64.3,
+            "field_goals_made": 9.0,
+            "free_throw_attempts": 12.0,
+            "free_throws_made": 8.0,
+            "minutes": 29.0,
+            "points": 30.0,
+            "points_assists": 35.0,
+            "points_rebounds": 43.0,
+            "points_rebounds_assists": 48.0,
+            "rebounds": 13.0,
+            "rebounds_assists": 18.0,
+            "steals": 3.0,
+            "three_point_attempts": 4.0,
+            "three_pointers_made": 4.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
+          },
+          "team": "New York Knicks"
         }
       ]
     },
@@ -501980,6 +504864,34 @@
             "three_pointers_made": 0.0,
             "triple_double": 0.0,
             "turnovers": 0.0
+          },
+          "team": "Oklahoma City Thunder"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 401910030,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 2.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 3.0,
+            "field_goal_percentage": 66.7,
+            "field_goals_made": 2.0,
+            "free_throw_attempts": 5.0,
+            "free_throws_made": 4.0,
+            "minutes": 19.0,
+            "points": 8.0,
+            "points_assists": 10.0,
+            "points_rebounds": 12.0,
+            "points_rebounds_assists": 14.0,
+            "rebounds": 4.0,
+            "rebounds_assists": 6.0,
+            "steals": 0.0,
+            "three_point_attempts": 0.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
           },
           "team": "Oklahoma City Thunder"
         }
@@ -506386,6 +509298,34 @@
             "turnovers": 0.0
           },
           "team": "Oklahoma City Thunder"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 401910030,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 0.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 11.0,
+            "field_goal_percentage": 45.5,
+            "field_goals_made": 5.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 26.0,
+            "points": 11.0,
+            "points_assists": 11.0,
+            "points_rebounds": 14.0,
+            "points_rebounds_assists": 14.0,
+            "rebounds": 3.0,
+            "rebounds_assists": 3.0,
+            "steals": 2.0,
+            "three_point_attempts": 3.0,
+            "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
+          },
+          "team": "Oklahoma City Thunder"
         }
       ]
     },
@@ -506582,6 +509522,34 @@
             "steals": 0.0,
             "three_point_attempts": 4.0,
             "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "Oklahoma City Thunder"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 401910030,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 4.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 8.0,
+            "field_goal_percentage": 62.5,
+            "field_goals_made": 5.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 32.0,
+            "points": 13.0,
+            "points_assists": 17.0,
+            "points_rebounds": 18.0,
+            "points_rebounds_assists": 22.0,
+            "rebounds": 5.0,
+            "rebounds_assists": 9.0,
+            "steals": 0.0,
+            "three_point_attempts": 5.0,
+            "three_pointers_made": 3.0,
             "triple_double": 0.0,
             "turnovers": 0.0
           },
@@ -510708,6 +513676,34 @@
             "three_pointers_made": 0.0,
             "triple_double": 0.0,
             "turnovers": 4.0
+          },
+          "team": "Oklahoma City Thunder"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 401910030,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 4.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 5.0,
+            "field_goal_percentage": 20.0,
+            "field_goals_made": 1.0,
+            "free_throw_attempts": 1.0,
+            "free_throws_made": 0.0,
+            "minutes": 23.0,
+            "points": 2.0,
+            "points_assists": 6.0,
+            "points_rebounds": 10.0,
+            "points_rebounds_assists": 14.0,
+            "rebounds": 8.0,
+            "rebounds_assists": 12.0,
+            "steals": 1.0,
+            "three_point_attempts": 0.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 3.0
           },
           "team": "Oklahoma City Thunder"
         }
@@ -515594,6 +518590,34 @@
             "turnovers": 2.0
           },
           "team": "Oklahoma City Thunder"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 401910030,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 3.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 17.0,
+            "field_goal_percentage": 41.2,
+            "field_goals_made": 7.0,
+            "free_throw_attempts": 5.0,
+            "free_throws_made": 4.0,
+            "minutes": 29.0,
+            "points": 20.0,
+            "points_assists": 23.0,
+            "points_rebounds": 22.0,
+            "points_rebounds_assists": 25.0,
+            "rebounds": 2.0,
+            "rebounds_assists": 5.0,
+            "steals": 0.0,
+            "three_point_attempts": 7.0,
+            "three_pointers_made": 2.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
+          },
+          "team": "Oklahoma City Thunder"
         }
       ]
     },
@@ -517584,6 +520608,34 @@
             "three_pointers_made": 1.0,
             "triple_double": 0.0,
             "turnovers": 0.0
+          },
+          "team": "Oklahoma City Thunder"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 401910030,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 3.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 17.0,
+            "field_goal_percentage": 35.3,
+            "field_goals_made": 6.0,
+            "free_throw_attempts": 5.0,
+            "free_throws_made": 3.0,
+            "minutes": 22.0,
+            "points": 17.0,
+            "points_assists": 20.0,
+            "points_rebounds": 20.0,
+            "points_rebounds_assists": 23.0,
+            "rebounds": 3.0,
+            "rebounds_assists": 6.0,
+            "steals": 2.0,
+            "three_point_attempts": 3.0,
+            "three_pointers_made": 2.0,
+            "triple_double": 0.0,
+            "turnovers": 3.0
           },
           "team": "Oklahoma City Thunder"
         }
@@ -519578,6 +522630,34 @@
             "turnovers": 0.0
           },
           "team": "Oklahoma City Thunder"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 401910030,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 1.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 7.0,
+            "field_goal_percentage": 57.1,
+            "field_goals_made": 4.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 31.0,
+            "points": 9.0,
+            "points_assists": 10.0,
+            "points_rebounds": 15.0,
+            "points_rebounds_assists": 16.0,
+            "rebounds": 6.0,
+            "rebounds_assists": 7.0,
+            "steals": 2.0,
+            "three_point_attempts": 1.0,
+            "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
+          },
+          "team": "Oklahoma City Thunder"
         }
       ]
     },
@@ -520026,6 +523106,34 @@
             "steals": 1.0,
             "three_point_attempts": 6.0,
             "three_pointers_made": 4.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "Oklahoma City Thunder"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 401910030,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 5.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 14.0,
+            "field_goal_percentage": 50.0,
+            "field_goals_made": 7.0,
+            "free_throw_attempts": 2.0,
+            "free_throws_made": 2.0,
+            "minutes": 32.0,
+            "points": 21.0,
+            "points_assists": 26.0,
+            "points_rebounds": 24.0,
+            "points_rebounds_assists": 29.0,
+            "rebounds": 3.0,
+            "rebounds_assists": 8.0,
+            "steals": 0.0,
+            "three_point_attempts": 12.0,
+            "three_pointers_made": 5.0,
             "triple_double": 0.0,
             "turnovers": 0.0
           },
@@ -527750,6 +530858,34 @@
             "turnovers": 0.0
           },
           "team": "Oklahoma City Thunder"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 401910030,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 2.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 10.0,
+            "field_goal_percentage": 50.0,
+            "field_goals_made": 5.0,
+            "free_throw_attempts": 1.0,
+            "free_throws_made": 0.0,
+            "minutes": 26.0,
+            "points": 12.0,
+            "points_assists": 14.0,
+            "points_rebounds": 16.0,
+            "points_rebounds_assists": 18.0,
+            "rebounds": 4.0,
+            "rebounds_assists": 6.0,
+            "steals": 1.0,
+            "three_point_attempts": 4.0,
+            "three_pointers_made": 2.0,
+            "triple_double": 0.0,
+            "turnovers": 3.0
+          },
+          "team": "Oklahoma City Thunder"
         }
       ]
     },
@@ -532630,6 +535766,34 @@
             "turnovers": 1.0
           },
           "team": "Orlando Magic"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910031,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 5.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 14.0,
+            "field_goal_percentage": 50.0,
+            "field_goals_made": 7.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 33.0,
+            "points": 17.0,
+            "points_assists": 22.0,
+            "points_rebounds": 18.0,
+            "points_rebounds_assists": 23.0,
+            "rebounds": 1.0,
+            "rebounds_assists": 6.0,
+            "steals": 1.0,
+            "three_point_attempts": 8.0,
+            "three_pointers_made": 3.0,
+            "triple_double": 0.0,
+            "turnovers": 2.0
+          },
+          "team": "Orlando Magic"
         }
       ]
     },
@@ -534846,6 +538010,34 @@
             "turnovers": 1.0
           },
           "team": "Orlando Magic"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910031,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 1.0,
+            "blocks": 1.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 0.0,
+            "field_goal_percentage": 0.0,
+            "field_goals_made": 0.0,
+            "free_throw_attempts": 2.0,
+            "free_throws_made": 1.0,
+            "minutes": 15.0,
+            "points": 1.0,
+            "points_assists": 2.0,
+            "points_rebounds": 5.0,
+            "points_rebounds_assists": 6.0,
+            "rebounds": 4.0,
+            "rebounds_assists": 5.0,
+            "steals": 0.0,
+            "three_point_attempts": 0.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "Orlando Magic"
         }
       ]
     },
@@ -537034,6 +540226,34 @@
             "turnovers": 5.0
           },
           "team": "Orlando Magic"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910031,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 2.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 12.0,
+            "field_goal_percentage": 41.7,
+            "field_goals_made": 5.0,
+            "free_throw_attempts": 2.0,
+            "free_throws_made": 2.0,
+            "minutes": 35.0,
+            "points": 14.0,
+            "points_assists": 16.0,
+            "points_rebounds": 19.0,
+            "points_rebounds_assists": 21.0,
+            "rebounds": 5.0,
+            "rebounds_assists": 7.0,
+            "steals": 2.0,
+            "three_point_attempts": 4.0,
+            "three_pointers_made": 2.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
+          },
+          "team": "Orlando Magic"
         }
       ]
     },
@@ -538485,6 +541705,34 @@
             "points_assists": 0.0,
             "points_rebounds": 1.0,
             "points_rebounds_assists": 1.0,
+            "rebounds": 1.0,
+            "rebounds_assists": 1.0,
+            "steals": 0.0,
+            "three_point_attempts": 0.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "Orlando Magic"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910031,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 0.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 2.0,
+            "field_goal_percentage": 50.0,
+            "field_goals_made": 1.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 9.0,
+            "points": 2.0,
+            "points_assists": 2.0,
+            "points_rebounds": 3.0,
+            "points_rebounds_assists": 3.0,
             "rebounds": 1.0,
             "rebounds_assists": 1.0,
             "steals": 0.0,
@@ -540313,6 +543561,34 @@
             "rebounds_assists": 0.0,
             "steals": 1.0,
             "three_point_attempts": 1.0,
+            "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "Orlando Magic"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910031,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 2.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 5.0,
+            "field_goal_percentage": 20.0,
+            "field_goals_made": 1.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 14.0,
+            "points": 3.0,
+            "points_assists": 5.0,
+            "points_rebounds": 5.0,
+            "points_rebounds_assists": 7.0,
+            "rebounds": 2.0,
+            "rebounds_assists": 4.0,
+            "steals": 0.0,
+            "three_point_attempts": 4.0,
             "three_pointers_made": 1.0,
             "triple_double": 0.0,
             "turnovers": 0.0
@@ -542980,6 +546256,34 @@
             "three_pointers_made": 0.0,
             "triple_double": 0.0,
             "turnovers": 1.0
+          },
+          "team": "Orlando Magic"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910031,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 3.0,
+            "blocks": 1.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 6.0,
+            "field_goal_percentage": 66.7,
+            "field_goals_made": 4.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 26.0,
+            "points": 9.0,
+            "points_assists": 12.0,
+            "points_rebounds": 15.0,
+            "points_rebounds_assists": 18.0,
+            "rebounds": 6.0,
+            "rebounds_assists": 9.0,
+            "steals": 1.0,
+            "three_point_attempts": 2.0,
+            "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 2.0
           },
           "team": "Orlando Magic"
         }
@@ -545790,6 +549094,34 @@
             "turnovers": 0.0
           },
           "team": "Orlando Magic"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910031,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 0.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 10.0,
+            "field_goal_percentage": 60.0,
+            "field_goals_made": 6.0,
+            "free_throw_attempts": 2.0,
+            "free_throws_made": 2.0,
+            "minutes": 27.0,
+            "points": 18.0,
+            "points_assists": 18.0,
+            "points_rebounds": 21.0,
+            "points_rebounds_assists": 21.0,
+            "rebounds": 3.0,
+            "rebounds_assists": 3.0,
+            "steals": 0.0,
+            "three_point_attempts": 7.0,
+            "three_pointers_made": 4.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
+          },
+          "team": "Orlando Magic"
         }
       ]
     },
@@ -546126,6 +549458,34 @@
             "steals": 0.0,
             "three_point_attempts": 3.0,
             "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "Orlando Magic"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910031,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 2.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 1.0,
+            "field_goal_percentage": 0.0,
+            "field_goals_made": 0.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 5.0,
+            "points": 0.0,
+            "points_assists": 2.0,
+            "points_rebounds": 1.0,
+            "points_rebounds_assists": 3.0,
+            "rebounds": 1.0,
+            "rebounds_assists": 3.0,
+            "steals": 0.0,
+            "three_point_attempts": 1.0,
+            "three_pointers_made": 0.0,
             "triple_double": 0.0,
             "turnovers": 0.0
           },
@@ -547982,6 +551342,34 @@
             "turnovers": 1.0
           },
           "team": "Orlando Magic"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910031,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 1.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 3.0,
+            "field_goal_percentage": 33.3,
+            "field_goals_made": 1.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 6.0,
+            "points": 2.0,
+            "points_assists": 3.0,
+            "points_rebounds": 3.0,
+            "points_rebounds_assists": 4.0,
+            "rebounds": 1.0,
+            "rebounds_assists": 2.0,
+            "steals": 0.0,
+            "three_point_attempts": 0.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "Orlando Magic"
         }
       ]
     },
@@ -549832,6 +553220,34 @@
             "three_pointers_made": 2.0,
             "triple_double": 0.0,
             "turnovers": 4.0
+          },
+          "team": "Orlando Magic"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910031,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 2.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 11.0,
+            "field_goal_percentage": 18.2,
+            "field_goals_made": 2.0,
+            "free_throw_attempts": 5.0,
+            "free_throws_made": 5.0,
+            "minutes": 22.0,
+            "points": 9.0,
+            "points_assists": 11.0,
+            "points_rebounds": 13.0,
+            "points_rebounds_assists": 15.0,
+            "rebounds": 4.0,
+            "rebounds_assists": 6.0,
+            "steals": 0.0,
+            "three_point_attempts": 6.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
           },
           "team": "Orlando Magic"
         }
@@ -551994,6 +555410,34 @@
             "turnovers": 2.0
           },
           "team": "Orlando Magic"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910031,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 3.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 6.0,
+            "field_goal_percentage": 33.3,
+            "field_goals_made": 2.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 17.0,
+            "points": 5.0,
+            "points_assists": 8.0,
+            "points_rebounds": 8.0,
+            "points_rebounds_assists": 11.0,
+            "rebounds": 3.0,
+            "rebounds_assists": 6.0,
+            "steals": 2.0,
+            "three_point_attempts": 4.0,
+            "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "Orlando Magic"
         }
       ]
     },
@@ -553422,6 +556866,34 @@
             "steals": 0.0,
             "three_point_attempts": 5.0,
             "three_pointers_made": 2.0,
+            "triple_double": 0.0,
+            "turnovers": 2.0
+          },
+          "team": "Orlando Magic"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910031,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 6.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 18.0,
+            "field_goal_percentage": 38.9,
+            "field_goals_made": 7.0,
+            "free_throw_attempts": 2.0,
+            "free_throws_made": 2.0,
+            "minutes": 32.0,
+            "points": 16.0,
+            "points_assists": 22.0,
+            "points_rebounds": 24.0,
+            "points_rebounds_assists": 30.0,
+            "rebounds": 8.0,
+            "rebounds_assists": 14.0,
+            "steals": 2.0,
+            "three_point_attempts": 3.0,
+            "three_pointers_made": 0.0,
             "triple_double": 0.0,
             "turnovers": 2.0
           },
@@ -706670,6 +710142,34 @@
             "turnovers": 3.0
           },
           "team": "Utah Jazz"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910033,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 2.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 10.0,
+            "field_goal_percentage": 60.0,
+            "field_goals_made": 6.0,
+            "free_throw_attempts": 2.0,
+            "free_throws_made": 1.0,
+            "minutes": 33.0,
+            "points": 16.0,
+            "points_assists": 18.0,
+            "points_rebounds": 21.0,
+            "points_rebounds_assists": 23.0,
+            "rebounds": 5.0,
+            "rebounds_assists": 7.0,
+            "steals": 3.0,
+            "three_point_attempts": 6.0,
+            "three_pointers_made": 3.0,
+            "triple_double": 0.0,
+            "turnovers": 3.0
+          },
+          "team": "Utah Jazz"
         }
       ]
     },
@@ -707148,6 +710648,34 @@
             "three_pointers_made": 0.0,
             "triple_double": 0.0,
             "turnovers": 0.0
+          },
+          "team": "Utah Jazz"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910033,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 1.0,
+            "blocks": 1.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 6.0,
+            "field_goal_percentage": 50.0,
+            "field_goals_made": 3.0,
+            "free_throw_attempts": 1.0,
+            "free_throws_made": 0.0,
+            "minutes": 23.0,
+            "points": 6.0,
+            "points_assists": 7.0,
+            "points_rebounds": 16.0,
+            "points_rebounds_assists": 17.0,
+            "rebounds": 10.0,
+            "rebounds_assists": 11.0,
+            "steals": 0.0,
+            "three_point_attempts": 1.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 5.0
           },
           "team": "Utah Jazz"
         }
@@ -708496,6 +712024,34 @@
             "three_pointers_made": 0.0,
             "triple_double": 0.0,
             "turnovers": 2.0
+          },
+          "team": "Utah Jazz"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910033,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 0.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 0.0,
+            "field_goal_percentage": 0.0,
+            "field_goals_made": 0.0,
+            "free_throw_attempts": 2.0,
+            "free_throws_made": 1.0,
+            "minutes": 13.0,
+            "points": 1.0,
+            "points_assists": 1.0,
+            "points_rebounds": 6.0,
+            "points_rebounds_assists": 6.0,
+            "rebounds": 5.0,
+            "rebounds_assists": 5.0,
+            "steals": 0.0,
+            "three_point_attempts": 0.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
           },
           "team": "Utah Jazz"
         }
@@ -710544,6 +714100,34 @@
             "three_pointers_made": 0.0,
             "triple_double": 0.0,
             "turnovers": 1.0
+          },
+          "team": "Utah Jazz"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910033,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 7.0,
+            "blocks": 1.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 5.0,
+            "field_goal_percentage": 80.0,
+            "field_goals_made": 4.0,
+            "free_throw_attempts": 2.0,
+            "free_throws_made": 1.0,
+            "minutes": 13.0,
+            "points": 10.0,
+            "points_assists": 17.0,
+            "points_rebounds": 12.0,
+            "points_rebounds_assists": 19.0,
+            "rebounds": 2.0,
+            "rebounds_assists": 9.0,
+            "steals": 1.0,
+            "three_point_attempts": 1.0,
+            "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 2.0
           },
           "team": "Utah Jazz"
         }
@@ -712986,6 +716570,34 @@
             "turnovers": 1.0
           },
           "team": "Utah Jazz"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910033,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 3.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 4.0,
+            "field_goal_percentage": 25.0,
+            "field_goals_made": 1.0,
+            "free_throw_attempts": 2.0,
+            "free_throws_made": 0.0,
+            "minutes": 9.0,
+            "points": 2.0,
+            "points_assists": 5.0,
+            "points_rebounds": 6.0,
+            "points_rebounds_assists": 9.0,
+            "rebounds": 4.0,
+            "rebounds_assists": 7.0,
+            "steals": 0.0,
+            "three_point_attempts": 3.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "Utah Jazz"
         }
       ]
     },
@@ -714948,6 +718560,34 @@
             "three_pointers_made": 0.0,
             "triple_double": 0.0,
             "turnovers": 4.0
+          },
+          "team": "Utah Jazz"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910033,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 7.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 9.0,
+            "field_goal_percentage": 44.4,
+            "field_goals_made": 4.0,
+            "free_throw_attempts": 5.0,
+            "free_throws_made": 5.0,
+            "minutes": 26.0,
+            "points": 15.0,
+            "points_assists": 22.0,
+            "points_rebounds": 20.0,
+            "points_rebounds_assists": 27.0,
+            "rebounds": 5.0,
+            "rebounds_assists": 12.0,
+            "steals": 0.0,
+            "three_point_attempts": 6.0,
+            "three_pointers_made": 2.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
           },
           "team": "Utah Jazz"
         }
@@ -717052,6 +720692,34 @@
             "three_pointers_made": 2.0,
             "triple_double": 0.0,
             "turnovers": 0.0
+          },
+          "team": "Utah Jazz"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910033,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 0.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 3.0,
+            "field_goal_percentage": 0.0,
+            "field_goals_made": 0.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 23.0,
+            "points": 0.0,
+            "points_assists": 0.0,
+            "points_rebounds": 1.0,
+            "points_rebounds_assists": 1.0,
+            "rebounds": 1.0,
+            "rebounds_assists": 1.0,
+            "steals": 1.0,
+            "three_point_attempts": 3.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
           },
           "team": "Utah Jazz"
         }
@@ -719296,6 +722964,34 @@
             "three_pointers_made": 0.0,
             "triple_double": 0.0,
             "turnovers": 1.0
+          },
+          "team": "Utah Jazz"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910033,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 1.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 3.0,
+            "field_goal_percentage": 100.0,
+            "field_goals_made": 3.0,
+            "free_throw_attempts": 4.0,
+            "free_throws_made": 2.0,
+            "minutes": 12.0,
+            "points": 8.0,
+            "points_assists": 9.0,
+            "points_rebounds": 11.0,
+            "points_rebounds_assists": 12.0,
+            "rebounds": 3.0,
+            "rebounds_assists": 4.0,
+            "steals": 0.0,
+            "three_point_attempts": 0.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 2.0
           },
           "team": "Utah Jazz"
         }
@@ -724042,6 +727738,34 @@
             "turnovers": 3.0
           },
           "team": "Utah Jazz"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910033,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 3.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 23.0,
+            "field_goal_percentage": 52.2,
+            "field_goals_made": 12.0,
+            "free_throw_attempts": 5.0,
+            "free_throws_made": 5.0,
+            "minutes": 32.0,
+            "points": 39.0,
+            "points_assists": 42.0,
+            "points_rebounds": 44.0,
+            "points_rebounds_assists": 47.0,
+            "rebounds": 5.0,
+            "rebounds_assists": 8.0,
+            "steals": 0.0,
+            "three_point_attempts": 15.0,
+            "three_pointers_made": 10.0,
+            "triple_double": 0.0,
+            "turnovers": 3.0
+          },
+          "team": "Utah Jazz"
         }
       ]
     },
@@ -726678,6 +730402,34 @@
             "turnovers": 2.0
           },
           "team": "Utah Jazz"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910033,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 0.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 2.0,
+            "field_goal_percentage": 0.0,
+            "field_goals_made": 0.0,
+            "free_throw_attempts": 2.0,
+            "free_throws_made": 1.0,
+            "minutes": 14.0,
+            "points": 1.0,
+            "points_assists": 1.0,
+            "points_rebounds": 5.0,
+            "points_rebounds_assists": 5.0,
+            "rebounds": 4.0,
+            "rebounds_assists": 4.0,
+            "steals": 1.0,
+            "three_point_attempts": 2.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
+          },
+          "team": "Utah Jazz"
         }
       ]
     },
@@ -727156,6 +730908,34 @@
             "three_pointers_made": 0.0,
             "triple_double": 0.0,
             "turnovers": 1.0
+          },
+          "team": "Utah Jazz"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910033,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 5.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 9.0,
+            "field_goal_percentage": 33.3,
+            "field_goals_made": 3.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 25.0,
+            "points": 6.0,
+            "points_assists": 11.0,
+            "points_rebounds": 9.0,
+            "points_rebounds_assists": 14.0,
+            "rebounds": 3.0,
+            "rebounds_assists": 8.0,
+            "steals": 0.0,
+            "three_point_attempts": 5.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 4.0
           },
           "team": "Utah Jazz"
         }
@@ -729710,6 +733490,34 @@
             "turnovers": 0.0
           },
           "team": "Utah Jazz"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910033,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 2.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 6.0,
+            "field_goal_percentage": 66.7,
+            "field_goals_made": 4.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 17.0,
+            "points": 10.0,
+            "points_assists": 12.0,
+            "points_rebounds": 13.0,
+            "points_rebounds_assists": 15.0,
+            "rebounds": 3.0,
+            "rebounds_assists": 5.0,
+            "steals": 0.0,
+            "three_point_attempts": 3.0,
+            "three_pointers_made": 2.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
+          },
+          "team": "Utah Jazz"
         }
       ]
     },
@@ -732199,6 +736007,34 @@
             "points_rebounds_assists": 5.0,
             "rebounds": 4.0,
             "rebounds_assists": 5.0,
+            "steals": 0.0,
+            "three_point_attempts": 0.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "Washington Wizards"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910031,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 2.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 0.0,
+            "field_goal_percentage": 0.0,
+            "field_goals_made": 0.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 5.0,
+            "points": 0.0,
+            "points_assists": 2.0,
+            "points_rebounds": 2.0,
+            "points_rebounds_assists": 4.0,
+            "rebounds": 2.0,
+            "rebounds_assists": 4.0,
             "steals": 0.0,
             "three_point_attempts": 0.0,
             "three_pointers_made": 0.0,
@@ -734982,6 +738818,34 @@
             "steals": 0.0,
             "three_point_attempts": 2.0,
             "three_pointers_made": 1.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "Washington Wizards"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910031,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 0.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 0.0,
+            "field_goal_percentage": 0.0,
+            "field_goals_made": 0.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 3.0,
+            "points": 0.0,
+            "points_assists": 0.0,
+            "points_rebounds": 0.0,
+            "points_rebounds_assists": 0.0,
+            "rebounds": 0.0,
+            "rebounds_assists": 0.0,
+            "steals": 0.0,
+            "three_point_attempts": 0.0,
+            "three_pointers_made": 0.0,
             "triple_double": 0.0,
             "turnovers": 0.0
           },
@@ -739026,6 +742890,34 @@
             "turnovers": 0.0
           },
           "team": "Washington Wizards"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910031,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 1.0,
+            "blocks": 1.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 7.0,
+            "field_goal_percentage": 57.1,
+            "field_goals_made": 4.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 25.0,
+            "points": 12.0,
+            "points_assists": 13.0,
+            "points_rebounds": 15.0,
+            "points_rebounds_assists": 16.0,
+            "rebounds": 3.0,
+            "rebounds_assists": 4.0,
+            "steals": 0.0,
+            "three_point_attempts": 6.0,
+            "three_pointers_made": 4.0,
+            "triple_double": 0.0,
+            "turnovers": 3.0
+          },
+          "team": "Washington Wizards"
         }
       ]
     },
@@ -740010,6 +743902,34 @@
             "turnovers": 3.0
           },
           "team": "Washington Wizards"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910031,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 1.0,
+            "blocks": 1.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 13.0,
+            "field_goal_percentage": 61.5,
+            "field_goals_made": 8.0,
+            "free_throw_attempts": 4.0,
+            "free_throws_made": 4.0,
+            "minutes": 33.0,
+            "points": 22.0,
+            "points_assists": 23.0,
+            "points_rebounds": 29.0,
+            "points_rebounds_assists": 30.0,
+            "rebounds": 7.0,
+            "rebounds_assists": 8.0,
+            "steals": 2.0,
+            "three_point_attempts": 5.0,
+            "three_pointers_made": 2.0,
+            "triple_double": 0.0,
+            "turnovers": 2.0
+          },
+          "team": "Washington Wizards"
         }
       ]
     },
@@ -740376,6 +744296,34 @@
             "three_pointers_made": 2.0,
             "triple_double": 0.0,
             "turnovers": 3.0
+          },
+          "team": "Washington Wizards"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910031,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 6.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 10.0,
+            "field_goal_percentage": 40.0,
+            "field_goals_made": 4.0,
+            "free_throw_attempts": 11.0,
+            "free_throws_made": 8.0,
+            "minutes": 33.0,
+            "points": 16.0,
+            "points_assists": 22.0,
+            "points_rebounds": 24.0,
+            "points_rebounds_assists": 30.0,
+            "rebounds": 8.0,
+            "rebounds_assists": 14.0,
+            "steals": 1.0,
+            "three_point_attempts": 0.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 2.0
           },
           "team": "Washington Wizards"
         }
@@ -742202,6 +746150,34 @@
             "turnovers": 3.0
           },
           "team": "Washington Wizards"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910031,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 4.0,
+            "blocks": 1.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 17.0,
+            "field_goal_percentage": 52.9,
+            "field_goals_made": 9.0,
+            "free_throw_attempts": 1.0,
+            "free_throws_made": 0.0,
+            "minutes": 36.0,
+            "points": 24.0,
+            "points_assists": 28.0,
+            "points_rebounds": 27.0,
+            "points_rebounds_assists": 31.0,
+            "rebounds": 3.0,
+            "rebounds_assists": 7.0,
+            "steals": 0.0,
+            "three_point_attempts": 11.0,
+            "three_pointers_made": 6.0,
+            "triple_double": 0.0,
+            "turnovers": 2.0
+          },
+          "team": "Washington Wizards"
         }
       ]
     },
@@ -743856,6 +747832,34 @@
             "three_pointers_made": 0.0,
             "triple_double": 0.0,
             "turnovers": 1.0
+          },
+          "team": "Washington Wizards"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910031,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 1.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 0.0,
+            "field_goal_percentage": 0.0,
+            "field_goals_made": 0.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 3.0,
+            "points": 0.0,
+            "points_assists": 1.0,
+            "points_rebounds": 2.0,
+            "points_rebounds_assists": 3.0,
+            "rebounds": 2.0,
+            "rebounds_assists": 3.0,
+            "steals": 0.0,
+            "three_point_attempts": 0.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
           },
           "team": "Washington Wizards"
         }
@@ -745962,6 +749966,34 @@
             "turnovers": 0.0
           },
           "team": "Washington Wizards"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910031,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 0.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 5.0,
+            "field_goal_percentage": 80.0,
+            "field_goals_made": 4.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 15.0,
+            "points": 11.0,
+            "points_assists": 11.0,
+            "points_rebounds": 13.0,
+            "points_rebounds_assists": 13.0,
+            "rebounds": 2.0,
+            "rebounds_assists": 2.0,
+            "steals": 0.0,
+            "three_point_attempts": 3.0,
+            "three_pointers_made": 3.0,
+            "triple_double": 0.0,
+            "turnovers": 1.0
+          },
+          "team": "Washington Wizards"
         }
       ]
     },
@@ -747668,6 +751700,34 @@
             "rebounds": 0.0,
             "rebounds_assists": 1.0,
             "steals": 1.0,
+            "three_point_attempts": 0.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "Washington Wizards"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910031,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 0.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 0.0,
+            "field_goal_percentage": 0.0,
+            "field_goals_made": 0.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 3.0,
+            "points": 0.0,
+            "points_assists": 0.0,
+            "points_rebounds": 0.0,
+            "points_rebounds_assists": 0.0,
+            "rebounds": 0.0,
+            "rebounds_assists": 0.0,
+            "steals": 0.0,
             "three_point_attempts": 0.0,
             "three_pointers_made": 0.0,
             "triple_double": 0.0,
@@ -749690,6 +753750,34 @@
             "steals": 0.0,
             "three_point_attempts": 1.0,
             "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "Washington Wizards"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910031,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 2.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 4.0,
+            "field_goal_percentage": 50.0,
+            "field_goals_made": 2.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 20.0,
+            "points": 6.0,
+            "points_assists": 8.0,
+            "points_rebounds": 8.0,
+            "points_rebounds_assists": 10.0,
+            "rebounds": 2.0,
+            "rebounds_assists": 4.0,
+            "steals": 0.0,
+            "three_point_attempts": 3.0,
+            "three_pointers_made": 2.0,
             "triple_double": 0.0,
             "turnovers": 0.0
           },
@@ -752250,6 +756338,34 @@
             "turnovers": 0.0
           },
           "team": "Washington Wizards"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910031,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 1.0,
+            "blocks": 0.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 4.0,
+            "field_goal_percentage": 50.0,
+            "field_goals_made": 2.0,
+            "free_throw_attempts": 0.0,
+            "free_throws_made": 0.0,
+            "minutes": 9.0,
+            "points": 4.0,
+            "points_assists": 5.0,
+            "points_rebounds": 7.0,
+            "points_rebounds_assists": 8.0,
+            "rebounds": 3.0,
+            "rebounds_assists": 4.0,
+            "steals": 0.0,
+            "three_point_attempts": 1.0,
+            "three_pointers_made": 0.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "Washington Wizards"
         }
       ]
     },
@@ -754046,6 +758162,34 @@
             "turnovers": 2.0
           },
           "team": "Washington Wizards"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910031,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 2.0,
+            "blocks": 1.0,
+            "double_double": 0.0,
+            "field_goal_attempts": 5.0,
+            "field_goal_percentage": 60.0,
+            "field_goals_made": 3.0,
+            "free_throw_attempts": 2.0,
+            "free_throws_made": 2.0,
+            "minutes": 26.0,
+            "points": 10.0,
+            "points_assists": 12.0,
+            "points_rebounds": 19.0,
+            "points_rebounds_assists": 21.0,
+            "rebounds": 9.0,
+            "rebounds_assists": 11.0,
+            "steals": 2.0,
+            "three_point_attempts": 3.0,
+            "three_pointers_made": 2.0,
+            "triple_double": 0.0,
+            "turnovers": 0.0
+          },
+          "team": "Washington Wizards"
         }
       ]
     },
@@ -754944,6 +759088,34 @@
             "three_pointers_made": 4.0,
             "triple_double": 0.0,
             "turnovers": 1.0
+          },
+          "team": "Washington Wizards"
+        },
+        {
+          "date": "2026-11-23",
+          "game_id": 401910031,
+          "season": "2026-2027",
+          "stats": {
+            "assists": 11.0,
+            "blocks": 0.0,
+            "double_double": 1.0,
+            "field_goal_attempts": 10.0,
+            "field_goal_percentage": 30.0,
+            "field_goals_made": 3.0,
+            "free_throw_attempts": 2.0,
+            "free_throws_made": 2.0,
+            "minutes": 28.0,
+            "points": 11.0,
+            "points_assists": 22.0,
+            "points_rebounds": 15.0,
+            "points_rebounds_assists": 26.0,
+            "rebounds": 4.0,
+            "rebounds_assists": 15.0,
+            "steals": 1.0,
+            "three_point_attempts": 7.0,
+            "three_pointers_made": 3.0,
+            "triple_double": 0.0,
+            "turnovers": 3.0
           },
           "team": "Washington Wizards"
         }

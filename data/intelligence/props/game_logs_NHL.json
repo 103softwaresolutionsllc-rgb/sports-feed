@@ -1,7 +1,7 @@
 {
   "classification": "Historical",
   "coverage": {
-    "as_of": "2026-11-22",
+    "as_of": "2026-11-23",
     "season": "20262027",
     "seasons": [
       "20252026",
@@ -72659,9 +72659,9 @@
             "goals": 0.0,
             "goals_against": 5.0,
             "pim": 0.0,
-            "save_pct": 0.857143,
-            "saves": 30.0,
-            "shots_against": 35.0,
+            "save_pct": 0.861111,
+            "saves": 31.0,
+            "shots_against": 36.0,
             "shutouts": 0.0,
             "toi_seconds": 3600.0,
             "wins": 1.0
@@ -74607,6 +74607,28 @@
             "toi_seconds": 1411.0
           },
           "team": "Buffalo Sabres"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 2.0,
+            "game_winning_goals": 0.0,
+            "goals": 1.0,
+            "ot_goals": 0.0,
+            "pim": 2.0,
+            "plus_minus": 3.0,
+            "points": 3.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 1.0,
+            "shifts": 26.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 4.0,
+            "toi_seconds": 1228.0
+          },
+          "team": "Buffalo Sabres"
         }
       ]
     },
@@ -76479,6 +76501,28 @@
             "shorthanded_points": 0.0,
             "shots": 0.0,
             "toi_seconds": 612.0
+          },
+          "team": "Buffalo Sabres"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 2.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 10.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 398.0
           },
           "team": "Buffalo Sabres"
         }
@@ -79017,6 +79061,28 @@
             "shorthanded_points": 0.0,
             "shots": 1.0,
             "toi_seconds": 776.0
+          },
+          "team": "Buffalo Sabres"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 2.0,
+            "plus_minus": -1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 20.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 967.0
           },
           "team": "Buffalo Sabres"
         }
@@ -83123,6 +83189,28 @@
             "toi_seconds": 721.0
           },
           "team": "Buffalo Sabres"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 2.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 21.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 2.0,
+            "toi_seconds": 935.0
+          },
+          "team": "Buffalo Sabres"
         }
       ]
     },
@@ -83719,6 +83807,28 @@
             "shorthanded_points": 0.0,
             "shots": 6.0,
             "toi_seconds": 1298.0
+          },
+          "team": "Buffalo Sabres"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 1.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 3.0,
+            "points": 2.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 23.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 2.0,
+            "toi_seconds": 1080.0
           },
           "team": "Buffalo Sabres"
         }
@@ -86013,6 +86123,28 @@
             "toi_seconds": 695.0
           },
           "team": "Buffalo Sabres"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 13.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 605.0
+          },
+          "team": "Buffalo Sabres"
         }
       ]
     },
@@ -88217,6 +88349,28 @@
             "toi_seconds": 951.0
           },
           "team": "Buffalo Sabres"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 14.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 625.0
+          },
+          "team": "Buffalo Sabres"
         }
       ]
     },
@@ -89693,6 +89847,28 @@
             "shorthanded_points": 0.0,
             "shots": 0.0,
             "toi_seconds": 677.0
+          },
+          "team": "Buffalo Sabres"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 18.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 813.0
           },
           "team": "Buffalo Sabres"
         }
@@ -91523,6 +91699,28 @@
             "shorthanded_points": 0.0,
             "shots": 1.0,
             "toi_seconds": 858.0
+          },
+          "team": "Buffalo Sabres"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 1.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 2.0,
+            "points": 2.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 22.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 2.0,
+            "toi_seconds": 937.0
           },
           "team": "Buffalo Sabres"
         }
@@ -93839,6 +94037,28 @@
             "toi_seconds": 1057.0
           },
           "team": "Buffalo Sabres"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 1.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 2.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 20.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 3.0,
+            "toi_seconds": 982.0
+          },
+          "team": "Buffalo Sabres"
         }
       ]
     },
@@ -96131,6 +96351,28 @@
             "toi_seconds": 1347.0
           },
           "team": "Buffalo Sabres"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 1.0,
+            "goals": 2.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 3.0,
+            "points": 2.0,
+            "power_play_goals": 1.0,
+            "power_play_points": 1.0,
+            "shifts": 23.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 5.0,
+            "toi_seconds": 1174.0
+          },
+          "team": "Buffalo Sabres"
         }
       ]
     },
@@ -97805,6 +98047,28 @@
             "shorthanded_points": 0.0,
             "shots": 2.0,
             "toi_seconds": 674.0
+          },
+          "team": "Buffalo Sabres"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 17.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 2.0,
+            "toi_seconds": 813.0
           },
           "team": "Buffalo Sabres"
         }
@@ -99899,6 +100163,28 @@
             "shorthanded_points": 0.0,
             "shots": 0.0,
             "toi_seconds": 369.0
+          },
+          "team": "Buffalo Sabres"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 17.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 731.0
           },
           "team": "Buffalo Sabres"
         }
@@ -102037,6 +102323,28 @@
             "shorthanded_points": 0.0,
             "shots": 3.0,
             "toi_seconds": 1592.0
+          },
+          "team": "Buffalo Sabres"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 1.0,
+            "shifts": 28.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 2.0,
+            "toi_seconds": 1317.0
           },
           "team": "Buffalo Sabres"
         }
@@ -105725,6 +106033,28 @@
             "toi_seconds": 1400.0
           },
           "team": "Buffalo Sabres"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 2.0,
+            "plus_minus": 3.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 27.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 1391.0
+          },
+          "team": "Buffalo Sabres"
         }
       ]
     },
@@ -107951,6 +108281,28 @@
             "toi_seconds": 1382.0
           },
           "team": "Buffalo Sabres"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 2.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 28.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 1334.0
+          },
+          "team": "Buffalo Sabres"
         }
       ]
     },
@@ -108987,6 +109339,28 @@
             "shorthanded_points": 0.0,
             "shots": 0.0,
             "toi_seconds": 1193.0
+          },
+          "team": "Buffalo Sabres"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 2.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 24.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 1321.0
           },
           "team": "Buffalo Sabres"
         }
@@ -111149,6 +111523,28 @@
             "toi_seconds": 764.0
           },
           "team": "Buffalo Sabres"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 20.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 879.0
+          },
+          "team": "Buffalo Sabres"
         }
       ]
     },
@@ -112515,6 +112911,25 @@
             "save_pct": 0.918919,
             "saves": 34.0,
             "shots_against": 37.0,
+            "shutouts": 0.0,
+            "toi_seconds": 3600.0,
+            "wins": 1.0
+          },
+          "team": "Buffalo Sabres"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "games_started": 1.0,
+            "goals": 0.0,
+            "goals_against": 2.0,
+            "pim": 0.0,
+            "save_pct": 0.935484,
+            "saves": 29.0,
+            "shots_against": 31.0,
             "shutouts": 0.0,
             "toi_seconds": 3600.0,
             "wins": 1.0
@@ -115530,6 +115945,28 @@
             "toi_seconds": 1240.0
           },
           "team": "Carolina Hurricanes"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 22.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 1025.0
+          },
+          "team": "Carolina Hurricanes"
         }
       ]
     },
@@ -117822,6 +118259,28 @@
             "toi_seconds": 1066.0
           },
           "team": "Carolina Hurricanes"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 1.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 22.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 6.0,
+            "toi_seconds": 959.0
+          },
+          "team": "Carolina Hurricanes"
         }
       ]
     },
@@ -119870,6 +120329,28 @@
             "shorthanded_points": 0.0,
             "shots": 3.0,
             "toi_seconds": 763.0
+          },
+          "team": "Carolina Hurricanes"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 2.0,
+            "plus_minus": 1.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 18.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 841.0
           },
           "team": "Carolina Hurricanes"
         }
@@ -125208,6 +125689,28 @@
             "toi_seconds": 772.0
           },
           "team": "Carolina Hurricanes"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 4.0,
+            "plus_minus": 1.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 21.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 4.0,
+            "toi_seconds": 878.0
+          },
+          "team": "Carolina Hurricanes"
         }
       ]
     },
@@ -127126,6 +127629,28 @@
             "toi_seconds": 619.0
           },
           "team": "Carolina Hurricanes"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 20.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 756.0
+          },
+          "team": "Carolina Hurricanes"
         }
       ]
     },
@@ -128956,6 +129481,28 @@
             "toi_seconds": 1222.0
           },
           "team": "Carolina Hurricanes"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 20.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 3.0,
+            "toi_seconds": 845.0
+          },
+          "team": "Carolina Hurricanes"
         }
       ]
     },
@@ -130300,6 +130847,28 @@
             "shorthanded_points": 0.0,
             "shots": 0.0,
             "toi_seconds": 682.0
+          },
+          "team": "Carolina Hurricanes"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 4.0,
+            "plus_minus": 1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 17.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 607.0
           },
           "team": "Carolina Hurricanes"
         }
@@ -132506,6 +133075,28 @@
             "toi_seconds": 881.0
           },
           "team": "Carolina Hurricanes"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 1.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 21.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 850.0
+          },
+          "team": "Carolina Hurricanes"
         }
       ]
     },
@@ -134468,6 +135059,28 @@
             "toi_seconds": 407.0
           },
           "team": "Carolina Hurricanes"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 1.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 2.0,
+            "points": 2.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 18.0,
+            "shorthanded_goals": 1.0,
+            "shorthanded_points": 1.0,
+            "shots": 3.0,
+            "toi_seconds": 758.0
+          },
+          "team": "Carolina Hurricanes"
         }
       ]
     },
@@ -136318,6 +136931,28 @@
             "shorthanded_points": 0.0,
             "shots": 1.0,
             "toi_seconds": 986.0
+          },
+          "team": "Carolina Hurricanes"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 2.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 21.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 1.0,
+            "shots": 0.0,
+            "toi_seconds": 878.0
           },
           "team": "Carolina Hurricanes"
         }
@@ -138612,6 +139247,28 @@
             "toi_seconds": 998.0
           },
           "team": "Carolina Hurricanes"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 22.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 7.0,
+            "toi_seconds": 1024.0
+          },
+          "team": "Carolina Hurricanes"
         }
       ]
     },
@@ -140860,6 +141517,28 @@
             "toi_seconds": 1020.0
           },
           "team": "Carolina Hurricanes"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 19.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 965.0
+          },
+          "team": "Carolina Hurricanes"
         }
       ]
     },
@@ -142954,6 +143633,28 @@
             "toi_seconds": 1090.0
           },
           "team": "Carolina Hurricanes"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 23.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 1376.0
+          },
+          "team": "Carolina Hurricanes"
         }
       ]
     },
@@ -144672,6 +145373,28 @@
             "shorthanded_points": 0.0,
             "shots": 0.0,
             "toi_seconds": 1094.0
+          },
+          "team": "Carolina Hurricanes"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 2.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 20.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 2.0,
+            "toi_seconds": 995.0
           },
           "team": "Carolina Hurricanes"
         }
@@ -146768,6 +147491,28 @@
             "toi_seconds": 1064.0
           },
           "team": "Carolina Hurricanes"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 2.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 25.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 3.0,
+            "toi_seconds": 1070.0
+          },
+          "team": "Carolina Hurricanes"
         }
       ]
     },
@@ -148642,6 +149387,28 @@
             "toi_seconds": 1045.0
           },
           "team": "Carolina Hurricanes"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 1.0,
+            "goals": 1.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 2.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 21.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 2.0,
+            "toi_seconds": 1068.0
+          },
+          "team": "Carolina Hurricanes"
         }
       ]
     },
@@ -150008,6 +150775,28 @@
             "shorthanded_points": 0.0,
             "shots": 1.0,
             "toi_seconds": 1253.0
+          },
+          "team": "Carolina Hurricanes"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 2.0,
+            "plus_minus": 1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 22.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 3.0,
+            "toi_seconds": 1313.0
           },
           "team": "Carolina Hurricanes"
         }
@@ -152504,6 +153293,28 @@
             "toi_seconds": 1225.0
           },
           "team": "Carolina Hurricanes"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 1.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 2.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 26.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 4.0,
+            "toi_seconds": 1232.0
+          },
+          "team": "Carolina Hurricanes"
         }
       ]
     },
@@ -153398,6 +154209,25 @@
             "shots_against": 13.0,
             "shutouts": 0.0,
             "toi_seconds": 3585.0,
+            "wins": 1.0
+          },
+          "team": "Carolina Hurricanes"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "games_started": 1.0,
+            "goals": 0.0,
+            "goals_against": 2.0,
+            "pim": 0.0,
+            "save_pct": 0.925926,
+            "saves": 25.0,
+            "shots_against": 27.0,
+            "shutouts": 0.0,
+            "toi_seconds": 3600.0,
             "wins": 1.0
           },
           "team": "Carolina Hurricanes"
@@ -233734,6 +234564,28 @@
             "toi_seconds": 1059.0
           },
           "team": "Chicago Blackhawks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 2.0,
+            "game_winning_goals": 0.0,
+            "goals": 1.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 3.0,
+            "power_play_goals": 1.0,
+            "power_play_points": 3.0,
+            "shifts": 19.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 4.0,
+            "toi_seconds": 821.0
+          },
+          "team": "Chicago Blackhawks"
         }
       ]
     },
@@ -236160,6 +237012,28 @@
             "shorthanded_points": 0.0,
             "shots": 3.0,
             "toi_seconds": 927.0
+          },
+          "team": "Chicago Blackhawks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 15.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 698.0
           },
           "team": "Chicago Blackhawks"
         }
@@ -239228,6 +240102,28 @@
             "toi_seconds": 964.0
           },
           "team": "Chicago Blackhawks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 2.0,
+            "plus_minus": -1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 22.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 985.0
+          },
+          "team": "Chicago Blackhawks"
         }
       ]
     },
@@ -240486,6 +241382,28 @@
             "toi_seconds": 585.0
           },
           "team": "Chicago Blackhawks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -1.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 21.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 814.0
+          },
+          "team": "Chicago Blackhawks"
         }
       ]
     },
@@ -240928,6 +241846,28 @@
             "shorthanded_points": 0.0,
             "shots": 7.0,
             "toi_seconds": 1166.0
+          },
+          "team": "Chicago Blackhawks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 2.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 2.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 2.0,
+            "shifts": 20.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 3.0,
+            "toi_seconds": 974.0
           },
           "team": "Chicago Blackhawks"
         }
@@ -241438,6 +242378,28 @@
             "shorthanded_points": 0.0,
             "shots": 4.0,
             "toi_seconds": 1153.0
+          },
+          "team": "Chicago Blackhawks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 3.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 4.0,
+            "power_play_goals": 2.0,
+            "power_play_points": 3.0,
+            "shifts": 19.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 4.0,
+            "toi_seconds": 818.0
           },
           "team": "Chicago Blackhawks"
         }
@@ -243026,6 +243988,28 @@
             "shorthanded_points": 0.0,
             "shots": 1.0,
             "toi_seconds": 667.0
+          },
+          "team": "Chicago Blackhawks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 4.0,
+            "plus_minus": -1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 19.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 741.0
           },
           "team": "Chicago Blackhawks"
         }
@@ -244636,6 +245620,28 @@
             "shorthanded_points": 0.0,
             "shots": 0.0,
             "toi_seconds": 891.0
+          },
+          "team": "Chicago Blackhawks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 20.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 848.0
           },
           "team": "Chicago Blackhawks"
         }
@@ -246556,6 +247562,28 @@
             "toi_seconds": 1341.0
           },
           "team": "Chicago Blackhawks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 1.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 2.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 1.0,
+            "shifts": 26.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 2.0,
+            "toi_seconds": 1199.0
+          },
+          "team": "Chicago Blackhawks"
         }
       ]
     },
@@ -247064,6 +248092,28 @@
             "shorthanded_points": 0.0,
             "shots": 0.0,
             "toi_seconds": 904.0
+          },
+          "team": "Chicago Blackhawks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -1.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 21.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 888.0
           },
           "team": "Chicago Blackhawks"
         }
@@ -249136,6 +250186,28 @@
             "shorthanded_points": 0.0,
             "shots": 1.0,
             "toi_seconds": 809.0
+          },
+          "team": "Chicago Blackhawks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 23.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 2.0,
+            "toi_seconds": 995.0
           },
           "team": "Chicago Blackhawks"
         }
@@ -251588,6 +252660,28 @@
             "toi_seconds": 1397.0
           },
           "team": "Chicago Blackhawks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 30.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 1502.0
+          },
+          "team": "Chicago Blackhawks"
         }
       ]
     },
@@ -252294,6 +253388,28 @@
             "shorthanded_points": 0.0,
             "shots": 0.0,
             "toi_seconds": 841.0
+          },
+          "team": "Chicago Blackhawks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 2.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 19.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 959.0
           },
           "team": "Chicago Blackhawks"
         }
@@ -254900,6 +256016,28 @@
             "toi_seconds": 972.0
           },
           "team": "Chicago Blackhawks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 2.0,
+            "plus_minus": -2.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 10.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 336.0
+          },
+          "team": "Chicago Blackhawks"
         }
       ]
     },
@@ -256906,6 +258044,28 @@
             "toi_seconds": 1101.0
           },
           "team": "Chicago Blackhawks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 25.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 1279.0
+          },
+          "team": "Chicago Blackhawks"
         }
       ]
     },
@@ -258580,6 +259740,28 @@
             "shorthanded_points": 0.0,
             "shots": 6.0,
             "toi_seconds": 1575.0
+          },
+          "team": "Chicago Blackhawks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 23.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 2.0,
+            "toi_seconds": 1234.0
           },
           "team": "Chicago Blackhawks"
         }
@@ -260874,11 +262056,53 @@
             "toi_seconds": 1708.0
           },
           "team": "Chicago Blackhawks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 29.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 1709.0
+          },
+          "team": "Chicago Blackhawks"
         }
       ]
     },
     "plyr-2985": {
-      "games": []
+      "games": [
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "games_started": 1.0,
+            "goals": 0.0,
+            "goals_against": 3.0,
+            "pim": 0.0,
+            "save_pct": 0.88,
+            "saves": 22.0,
+            "shots_against": 25.0,
+            "shutouts": 0.0,
+            "toi_seconds": 3600.0,
+            "wins": 1.0
+          },
+          "team": "Chicago Blackhawks"
+        }
+      ]
     },
     "plyr-2986": {
       "games": [
@@ -299455,6 +300679,28 @@
             "toi_seconds": 627.0
           },
           "team": "Dallas Stars"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 18.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 2.0,
+            "toi_seconds": 819.0
+          },
+          "team": "Dallas Stars"
         }
       ]
     },
@@ -306005,6 +307251,28 @@
             "toi_seconds": 754.0
           },
           "team": "Dallas Stars"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 16.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 622.0
+          },
+          "team": "Dallas Stars"
         }
       ]
     },
@@ -307657,6 +308925,28 @@
             "shorthanded_points": 0.0,
             "shots": 2.0,
             "toi_seconds": 1067.0
+          },
+          "team": "Dallas Stars"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 2.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 21.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 3.0,
+            "toi_seconds": 950.0
           },
           "team": "Dallas Stars"
         }
@@ -309929,6 +311219,28 @@
             "toi_seconds": 942.0
           },
           "team": "Dallas Stars"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 21.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 953.0
+          },
+          "team": "Dallas Stars"
         }
       ]
     },
@@ -310855,6 +312167,28 @@
             "shorthanded_points": 0.0,
             "shots": 0.0,
             "toi_seconds": 987.0
+          },
+          "team": "Dallas Stars"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 19.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 3.0,
+            "toi_seconds": 942.0
           },
           "team": "Dallas Stars"
         }
@@ -313105,6 +314439,28 @@
             "toi_seconds": 1165.0
           },
           "team": "Dallas Stars"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 20.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 3.0,
+            "toi_seconds": 1139.0
+          },
+          "team": "Dallas Stars"
         }
       ]
     },
@@ -313461,6 +314817,28 @@
             "toi_seconds": 558.0
           },
           "team": "Dallas Stars"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 1.0,
+            "goals": 1.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 15.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 727.0
+          },
+          "team": "Dallas Stars"
         }
       ]
     },
@@ -313661,6 +315039,28 @@
             "shorthanded_points": 0.0,
             "shots": 1.0,
             "toi_seconds": 650.0
+          },
+          "team": "Dallas Stars"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 16.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 609.0
           },
           "team": "Dallas Stars"
         }
@@ -315557,6 +316957,28 @@
             "shorthanded_points": 0.0,
             "shots": 0.0,
             "toi_seconds": 1145.0
+          },
+          "team": "Dallas Stars"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 21.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 1265.0
           },
           "team": "Dallas Stars"
         }
@@ -317851,6 +319273,28 @@
             "toi_seconds": 1345.0
           },
           "team": "Dallas Stars"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 20.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 1292.0
+          },
+          "team": "Dallas Stars"
         }
       ]
     },
@@ -318931,6 +320375,28 @@
             "shorthanded_points": 0.0,
             "shots": 1.0,
             "toi_seconds": 799.0
+          },
+          "team": "Dallas Stars"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 16.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 775.0
           },
           "team": "Dallas Stars"
         }
@@ -320961,6 +322427,28 @@
             "toi_seconds": 1041.0
           },
           "team": "Dallas Stars"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 2.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 18.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 798.0
+          },
+          "team": "Dallas Stars"
         }
       ]
     },
@@ -322551,6 +324039,28 @@
             "shorthanded_points": 0.0,
             "shots": 0.0,
             "toi_seconds": 690.0
+          },
+          "team": "Dallas Stars"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 14.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 548.0
           },
           "team": "Dallas Stars"
         }
@@ -325421,6 +326931,28 @@
             "toi_seconds": 1623.0
           },
           "team": "Dallas Stars"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 26.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 2.0,
+            "toi_seconds": 1514.0
+          },
+          "team": "Dallas Stars"
         }
       ]
     },
@@ -327491,6 +329023,28 @@
             "shorthanded_points": 0.0,
             "shots": 1.0,
             "toi_seconds": 1738.0
+          },
+          "team": "Dallas Stars"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 25.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 2.0,
+            "toi_seconds": 1573.0
           },
           "team": "Dallas Stars"
         }
@@ -329675,6 +331229,28 @@
             "toi_seconds": 1433.0
           },
           "team": "Dallas Stars"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 25.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 1466.0
+          },
+          "team": "Dallas Stars"
         }
       ]
     },
@@ -331305,6 +332881,28 @@
             "shorthanded_points": 0.0,
             "shots": 2.0,
             "toi_seconds": 1319.0
+          },
+          "team": "Dallas Stars"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 23.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 1240.0
           },
           "team": "Dallas Stars"
         }
@@ -333537,6 +335135,28 @@
             "toi_seconds": 480.0
           },
           "team": "Dallas Stars"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 13.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 528.0
+          },
+          "team": "Dallas Stars"
         }
       ]
     },
@@ -335572,6 +337192,25 @@
             "shots_against": 30.0,
             "shutouts": 0.0,
             "toi_seconds": 3874.0,
+            "wins": 1.0
+          },
+          "team": "Dallas Stars"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "games_started": 1.0,
+            "goals": 0.0,
+            "goals_against": 0.0,
+            "pim": 0.0,
+            "save_pct": 1.0,
+            "saves": 33.0,
+            "shots_against": 33.0,
+            "shutouts": 1.0,
+            "toi_seconds": 3600.0,
             "wins": 1.0
           },
           "team": "Dallas Stars"
@@ -371196,6 +372835,28 @@
             "toi_seconds": 653.0
           },
           "team": "Edmonton Oilers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 1.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 20.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 716.0
+          },
+          "team": "Edmonton Oilers"
         }
       ]
     },
@@ -372958,6 +374619,28 @@
             "shorthanded_points": 0.0,
             "shots": 0.0,
             "toi_seconds": 772.0
+          },
+          "team": "Edmonton Oilers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 20.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 3.0,
+            "toi_seconds": 790.0
           },
           "team": "Edmonton Oilers"
         }
@@ -374944,6 +376627,28 @@
             "toi_seconds": 1473.0
           },
           "team": "Edmonton Oilers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 1.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 29.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 2.0,
+            "toi_seconds": 1572.0
+          },
+          "team": "Edmonton Oilers"
         }
       ]
     },
@@ -375496,6 +377201,28 @@
             "shorthanded_points": 0.0,
             "shots": 1.0,
             "toi_seconds": 616.0
+          },
+          "team": "Edmonton Oilers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 23.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 800.0
           },
           "team": "Edmonton Oilers"
         }
@@ -377614,6 +379341,28 @@
             "toi_seconds": 600.0
           },
           "team": "Edmonton Oilers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 14.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 528.0
+          },
+          "team": "Edmonton Oilers"
         }
       ]
     },
@@ -378232,6 +379981,28 @@
             "shorthanded_points": 0.0,
             "shots": 1.0,
             "toi_seconds": 552.0
+          },
+          "team": "Edmonton Oilers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 1.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 25.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 4.0,
+            "toi_seconds": 947.0
           },
           "team": "Edmonton Oilers"
         }
@@ -380996,6 +382767,28 @@
             "toi_seconds": 282.0
           },
           "team": "Edmonton Oilers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 11.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 431.0
+          },
+          "team": "Edmonton Oilers"
         }
       ]
     },
@@ -381550,6 +383343,28 @@
             "toi_seconds": 650.0
           },
           "team": "Edmonton Oilers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 23.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 989.0
+          },
+          "team": "Edmonton Oilers"
         }
       ]
     },
@@ -382102,6 +383917,28 @@
             "shorthanded_points": 0.0,
             "shots": 0.0,
             "toi_seconds": 1189.0
+          },
+          "team": "Edmonton Oilers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 1.0,
+            "ot_goals": 0.0,
+            "pim": 2.0,
+            "plus_minus": 0.0,
+            "points": 2.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 26.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 1336.0
           },
           "team": "Edmonton Oilers"
         }
@@ -384462,6 +386299,28 @@
             "toi_seconds": 1504.0
           },
           "team": "Edmonton Oilers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 29.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 2.0,
+            "toi_seconds": 1618.0
+          },
+          "team": "Edmonton Oilers"
         }
       ]
     },
@@ -385014,6 +386873,28 @@
             "shorthanded_points": 0.0,
             "shots": 1.0,
             "toi_seconds": 639.0
+          },
+          "team": "Edmonton Oilers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 15.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 508.0
           },
           "team": "Edmonton Oilers"
         }
@@ -389226,6 +391107,28 @@
             "toi_seconds": 1306.0
           },
           "team": "Edmonton Oilers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 27.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 1481.0
+          },
+          "team": "Edmonton Oilers"
         }
       ]
     },
@@ -393392,6 +395295,28 @@
             "toi_seconds": 1540.0
           },
           "team": "Edmonton Oilers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -2.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 31.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 1945.0
+          },
+          "team": "Edmonton Oilers"
         }
       ]
     },
@@ -395704,6 +397629,28 @@
             "shorthanded_points": 0.0,
             "shots": 1.0,
             "toi_seconds": 1139.0
+          },
+          "team": "Edmonton Oilers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -2.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 26.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 1221.0
           },
           "team": "Edmonton Oilers"
         }
@@ -399300,6 +401247,28 @@
             "toi_seconds": 960.0
           },
           "team": "Edmonton Oilers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 14.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 2.0,
+            "toi_seconds": 801.0
+          },
+          "team": "Edmonton Oilers"
         }
       ]
     },
@@ -401614,6 +403583,28 @@
             "toi_seconds": 1129.0
           },
           "team": "Edmonton Oilers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 2.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 27.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 2.0,
+            "toi_seconds": 1186.0
+          },
+          "team": "Edmonton Oilers"
         }
       ]
     },
@@ -402169,6 +404160,28 @@
             "shorthanded_points": 0.0,
             "shots": 0.0,
             "toi_seconds": 1322.0
+          },
+          "team": "Edmonton Oilers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 3.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 28.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 3.0,
+            "toi_seconds": 1235.0
           },
           "team": "Edmonton Oilers"
         }
@@ -403583,6 +405596,28 @@
             "toi_seconds": 738.0
           },
           "team": "Edmonton Oilers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 22.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 4.0,
+            "toi_seconds": 999.0
+          },
+          "team": "Edmonton Oilers"
         }
       ]
     },
@@ -404402,6 +406437,25 @@
             "shutouts": 0.0,
             "toi_seconds": 3600.0,
             "wins": 1.0
+          },
+          "team": "Edmonton Oilers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "games_started": 1.0,
+            "goals": 0.0,
+            "goals_against": 4.0,
+            "pim": 0.0,
+            "save_pct": 0.851852,
+            "saves": 23.0,
+            "shots_against": 27.0,
+            "shutouts": 0.0,
+            "toi_seconds": 3850.0,
+            "wins": 0.0
           },
           "team": "Edmonton Oilers"
         }
@@ -622584,9 +624638,9 @@
             "goals": 0.0,
             "goals_against": 3.0,
             "pim": 0.0,
-            "save_pct": 0.875,
-            "saves": 21.0,
-            "shots_against": 24.0,
+            "save_pct": 0.88,
+            "saves": 22.0,
+            "shots_against": 25.0,
             "shutouts": 0.0,
             "toi_seconds": 3473.0,
             "wins": 1.0
@@ -658633,6 +660687,28 @@
             "toi_seconds": 516.0
           },
           "team": "New York Rangers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -2.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 18.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 687.0
+          },
+          "team": "New York Rangers"
         }
       ]
     },
@@ -660923,6 +662999,28 @@
             "shorthanded_points": 1.0,
             "shots": 4.0,
             "toi_seconds": 1102.0
+          },
+          "team": "New York Rangers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -2.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 25.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 6.0,
+            "toi_seconds": 1069.0
           },
           "team": "New York Rangers"
         }
@@ -663265,6 +665363,28 @@
             "toi_seconds": 454.0
           },
           "team": "New York Rangers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 14.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 564.0
+          },
+          "team": "New York Rangers"
         }
       ]
     },
@@ -663290,7 +665410,7 @@
             "shots": 1.0,
             "toi_seconds": 368.0
           },
-          "team": "New York Rangers"
+          "team": "Chicago Blackhawks"
         },
         {
           "date": "2026-10-26",
@@ -663312,7 +665432,7 @@
             "shots": 1.0,
             "toi_seconds": 451.0
           },
-          "team": "New York Rangers"
+          "team": "Chicago Blackhawks"
         },
         {
           "date": "2026-11-01",
@@ -663334,7 +665454,7 @@
             "shots": 0.0,
             "toi_seconds": 453.0
           },
-          "team": "New York Rangers"
+          "team": "Chicago Blackhawks"
         },
         {
           "date": "2026-11-09",
@@ -663356,7 +665476,7 @@
             "shots": 0.0,
             "toi_seconds": 226.0
           },
-          "team": "New York Rangers"
+          "team": "Chicago Blackhawks"
         }
       ]
     },
@@ -665251,6 +667371,28 @@
             "shorthanded_points": 0.0,
             "shots": 2.0,
             "toi_seconds": 1015.0
+          },
+          "team": "New York Rangers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -3.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 25.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 1182.0
           },
           "team": "New York Rangers"
         }
@@ -667367,6 +669509,28 @@
             "shorthanded_points": 0.0,
             "shots": 1.0,
             "toi_seconds": 956.0
+          },
+          "team": "New York Rangers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 25.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 915.0
           },
           "team": "New York Rangers"
         }
@@ -669661,6 +671825,28 @@
             "toi_seconds": 1111.0
           },
           "team": "New York Rangers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 22.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 3.0,
+            "toi_seconds": 1072.0
+          },
+          "team": "New York Rangers"
         }
       ]
     },
@@ -671645,6 +673831,28 @@
             "toi_seconds": 1184.0
           },
           "team": "New York Rangers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 1.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -1.0,
+            "points": 2.0,
+            "power_play_goals": 1.0,
+            "power_play_points": 2.0,
+            "shifts": 27.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 2.0,
+            "toi_seconds": 1340.0
+          },
+          "team": "New York Rangers"
         }
       ]
     },
@@ -673209,6 +675417,28 @@
             "shorthanded_points": 0.0,
             "shots": 0.0,
             "toi_seconds": 943.0
+          },
+          "team": "New York Rangers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 21.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 4.0,
+            "toi_seconds": 992.0
           },
           "team": "New York Rangers"
         }
@@ -675551,6 +677781,28 @@
             "toi_seconds": 421.0
           },
           "team": "New York Rangers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 14.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 565.0
+          },
+          "team": "New York Rangers"
         }
       ]
     },
@@ -676283,6 +678535,28 @@
             "shorthanded_points": 0.0,
             "shots": 0.0,
             "toi_seconds": 804.0
+          },
+          "team": "New York Rangers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -3.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 21.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 798.0
           },
           "team": "New York Rangers"
         }
@@ -678647,6 +680921,28 @@
             "toi_seconds": 1240.0
           },
           "team": "New York Rangers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 1.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -2.0,
+            "points": 1.0,
+            "power_play_goals": 1.0,
+            "power_play_points": 1.0,
+            "shifts": 23.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 4.0,
+            "toi_seconds": 1100.0
+          },
+          "team": "New York Rangers"
         }
       ]
     },
@@ -680277,6 +682573,28 @@
             "shorthanded_points": 0.0,
             "shots": 1.0,
             "toi_seconds": 910.0
+          },
+          "team": "New York Rangers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 27.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 2.0,
+            "toi_seconds": 1296.0
           },
           "team": "New York Rangers"
         }
@@ -681975,6 +684293,28 @@
             "shorthanded_points": 1.0,
             "shots": 1.0,
             "toi_seconds": 1408.0
+          },
+          "team": "New York Rangers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 2.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 2.0,
+            "plus_minus": -3.0,
+            "points": 2.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 2.0,
+            "shifts": 24.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 2.0,
+            "toi_seconds": 1259.0
           },
           "team": "New York Rangers"
         }
@@ -684269,6 +686609,28 @@
             "toi_seconds": 1273.0
           },
           "team": "New York Rangers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 22.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 1064.0
+          },
+          "team": "New York Rangers"
         }
       ]
     },
@@ -684447,6 +686809,28 @@
             "shorthanded_points": 0.0,
             "shots": 3.0,
             "toi_seconds": 810.0
+          },
+          "team": "New York Rangers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 2.0,
+            "plus_minus": -2.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 20.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 1053.0
           },
           "team": "New York Rangers"
         }
@@ -686739,6 +689123,28 @@
             "shorthanded_points": 0.0,
             "shots": 2.0,
             "toi_seconds": 1406.0
+          },
+          "team": "New York Rangers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 2.0,
+            "plus_minus": -1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 24.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 1102.0
           },
           "team": "New York Rangers"
         }
@@ -690731,6 +693137,28 @@
             "toi_seconds": 1260.0
           },
           "team": "New York Rangers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 21.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 1070.0
+          },
+          "team": "New York Rangers"
         }
       ]
     },
@@ -691453,6 +693881,25 @@
             "shutouts": 0.0,
             "toi_seconds": 3576.0,
             "wins": 1.0
+          },
+          "team": "New York Rangers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "games_started": 1.0,
+            "goals": 0.0,
+            "goals_against": 4.0,
+            "pim": 0.0,
+            "save_pct": 0.9,
+            "saves": 36.0,
+            "shots_against": 40.0,
+            "shutouts": 0.0,
+            "toi_seconds": 3480.0,
+            "wins": 0.0
           },
           "team": "New York Rangers"
         }
@@ -771384,6 +773831,28 @@
             "toi_seconds": 559.0
           },
           "team": "Pittsburgh Penguins"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 2.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 14.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 524.0
+          },
+          "team": "Pittsburgh Penguins"
         }
       ]
     },
@@ -773368,6 +775837,28 @@
             "toi_seconds": 874.0
           },
           "team": "Pittsburgh Penguins"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 18.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 5.0,
+            "toi_seconds": 974.0
+          },
+          "team": "Pittsburgh Penguins"
         }
       ]
     },
@@ -775350,6 +777841,28 @@
             "shorthanded_points": 0.0,
             "shots": 1.0,
             "toi_seconds": 1248.0
+          },
+          "team": "Pittsburgh Penguins"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 22.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 4.0,
+            "toi_seconds": 1078.0
           },
           "team": "Pittsburgh Penguins"
         }
@@ -777556,6 +780069,28 @@
             "toi_seconds": 684.0
           },
           "team": "Pittsburgh Penguins"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 17.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 781.0
+          },
+          "team": "Pittsburgh Penguins"
         }
       ]
     },
@@ -777602,6 +780137,28 @@
             "shorthanded_points": 0.0,
             "shots": 1.0,
             "toi_seconds": 649.0
+          },
+          "team": "Pittsburgh Penguins"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 15.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 2.0,
+            "toi_seconds": 703.0
           },
           "team": "Pittsburgh Penguins"
         }
@@ -779720,6 +782277,28 @@
             "toi_seconds": 1134.0
           },
           "team": "Pittsburgh Penguins"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 23.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 1139.0
+          },
+          "team": "Pittsburgh Penguins"
         }
       ]
     },
@@ -780976,6 +783555,28 @@
             "shorthanded_points": 0.0,
             "shots": 0.0,
             "toi_seconds": 798.0
+          },
+          "team": "Pittsburgh Penguins"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 18.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 2.0,
+            "toi_seconds": 940.0
           },
           "team": "Pittsburgh Penguins"
         }
@@ -783274,6 +785875,28 @@
             "toi_seconds": 751.0
           },
           "team": "Pittsburgh Penguins"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 17.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 862.0
+          },
+          "team": "Pittsburgh Penguins"
         }
       ]
     },
@@ -784970,6 +787593,28 @@
             "shorthanded_points": 0.0,
             "shots": 1.0,
             "toi_seconds": 784.0
+          },
+          "team": "Pittsburgh Penguins"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 2.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 15.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 774.0
           },
           "team": "Pittsburgh Penguins"
         }
@@ -786760,6 +789405,28 @@
             "shorthanded_points": 0.0,
             "shots": 2.0,
             "toi_seconds": 771.0
+          },
+          "team": "Pittsburgh Penguins"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 20.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 2.0,
+            "toi_seconds": 830.0
           },
           "team": "Pittsburgh Penguins"
         }
@@ -789054,6 +791721,28 @@
             "toi_seconds": 1219.0
           },
           "team": "Pittsburgh Penguins"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 22.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 1151.0
+          },
+          "team": "Pittsburgh Penguins"
         }
       ]
     },
@@ -790860,6 +793549,28 @@
             "shorthanded_points": 0.0,
             "shots": 5.0,
             "toi_seconds": 1253.0
+          },
+          "team": "Pittsburgh Penguins"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 24.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 3.0,
+            "toi_seconds": 1123.0
           },
           "team": "Pittsburgh Penguins"
         }
@@ -796690,6 +799401,28 @@
             "toi_seconds": 1103.0
           },
           "team": "Pittsburgh Penguins"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 2.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 22.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 1186.0
+          },
+          "team": "Pittsburgh Penguins"
         }
       ]
     },
@@ -798824,8 +801557,30 @@
             "shifts": 23.0,
             "shorthanded_goals": 0.0,
             "shorthanded_points": 0.0,
-            "shots": 3.0,
+            "shots": 4.0,
             "toi_seconds": 1409.0
+          },
+          "team": "Pittsburgh Penguins"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 24.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 2.0,
+            "toi_seconds": 1382.0
           },
           "team": "Pittsburgh Penguins"
         }
@@ -801032,6 +803787,28 @@
             "toi_seconds": 1132.0
           },
           "team": "Pittsburgh Penguins"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 21.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 1071.0
+          },
+          "team": "Pittsburgh Penguins"
         }
       ]
     },
@@ -803148,6 +805925,28 @@
             "toi_seconds": 1067.0
           },
           "team": "Pittsburgh Penguins"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 19.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 3.0,
+            "toi_seconds": 1238.0
+          },
+          "team": "Pittsburgh Penguins"
         }
       ]
     },
@@ -804956,6 +807755,28 @@
             "toi_seconds": 1003.0
           },
           "team": "Pittsburgh Penguins"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 21.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 1071.0
+          },
+          "team": "Pittsburgh Penguins"
         }
       ]
     },
@@ -805112,6 +807933,28 @@
             "shorthanded_points": 0.0,
             "shots": 1.0,
             "toi_seconds": 1150.0
+          },
+          "team": "Pittsburgh Penguins"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 19.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 3.0,
+            "toi_seconds": 962.0
           },
           "team": "Pittsburgh Penguins"
         }
@@ -806278,6 +809121,25 @@
             "shots_against": 32.0,
             "shutouts": 0.0,
             "toi_seconds": 3415.0,
+            "wins": 0.0
+          },
+          "team": "Pittsburgh Penguins"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020376,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "games_started": 1.0,
+            "goals": 0.0,
+            "goals_against": 1.0,
+            "pim": 0.0,
+            "save_pct": 0.956522,
+            "saves": 22.0,
+            "shots_against": 23.0,
+            "shutouts": 0.0,
+            "toi_seconds": 3451.0,
             "wins": 0.0
           },
           "team": "Pittsburgh Penguins"
@@ -810409,15 +813271,15 @@
           "game_id": 2026020372,
           "season": "20262027",
           "stats": {
-            "assists": 0.0,
+            "assists": 1.0,
             "game_winning_goals": 0.0,
             "goals": 0.0,
             "ot_goals": 0.0,
             "pim": 0.0,
             "plus_minus": 0.0,
-            "points": 0.0,
+            "points": 1.0,
             "power_play_goals": 0.0,
-            "power_play_points": 0.0,
+            "power_play_points": 1.0,
             "shifts": 23.0,
             "shorthanded_goals": 0.0,
             "shorthanded_points": 0.0,
@@ -816547,17 +819409,17 @@
           "stats": {
             "assists": 1.0,
             "game_winning_goals": 0.0,
-            "goals": 1.0,
+            "goals": 0.0,
             "ot_goals": 0.0,
             "pim": 0.0,
             "plus_minus": 0.0,
-            "points": 2.0,
-            "power_play_goals": 1.0,
-            "power_play_points": 1.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
             "shifts": 23.0,
             "shorthanded_goals": 0.0,
             "shorthanded_points": 0.0,
-            "shots": 4.0,
+            "shots": 3.0,
             "toi_seconds": 967.0
           },
           "team": "Seattle Kraken"
@@ -834122,19 +836984,19 @@
           "game_id": 2026020372,
           "season": "20262027",
           "stats": {
-            "assists": 1.0,
+            "assists": 0.0,
             "game_winning_goals": 0.0,
-            "goals": 0.0,
+            "goals": 1.0,
             "ot_goals": 0.0,
             "pim": 0.0,
             "plus_minus": 1.0,
             "points": 1.0,
-            "power_play_goals": 0.0,
+            "power_play_goals": 1.0,
             "power_play_points": 1.0,
             "shifts": 27.0,
             "shorthanded_goals": 0.0,
             "shorthanded_points": 0.0,
-            "shots": 1.0,
+            "shots": 2.0,
             "toi_seconds": 1332.0
           },
           "team": "Seattle Kraken"
@@ -843767,9 +846629,9 @@
             "goals": 0.0,
             "goals_against": 4.0,
             "pim": 0.0,
-            "save_pct": 0.862069,
-            "saves": 25.0,
-            "shots_against": 29.0,
+            "save_pct": 0.857143,
+            "saves": 24.0,
+            "shots_against": 28.0,
             "shutouts": 0.0,
             "toi_seconds": 3566.0,
             "wins": 0.0
@@ -854649,7 +857511,7 @@
             "shifts": 20.0,
             "shorthanded_goals": 0.0,
             "shorthanded_points": 0.0,
-            "shots": 3.0,
+            "shots": 2.0,
             "toi_seconds": 833.0
           },
           "team": "San Jose Sharks"
@@ -878711,6 +881573,28 @@
             "toi_seconds": 781.0
           },
           "team": "St. Louis Blues"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 23.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 929.0
+          },
+          "team": "St. Louis Blues"
         }
       ]
     },
@@ -880981,6 +883865,28 @@
             "toi_seconds": 1054.0
           },
           "team": "St. Louis Blues"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 1.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 26.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 1140.0
+          },
+          "team": "St. Louis Blues"
         }
       ]
     },
@@ -883123,6 +886029,28 @@
             "toi_seconds": 741.0
           },
           "team": "St. Louis Blues"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 1.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 17.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 2.0,
+            "toi_seconds": 678.0
+          },
+          "team": "St. Louis Blues"
         }
       ]
     },
@@ -884931,6 +887859,28 @@
             "toi_seconds": 759.0
           },
           "team": "St. Louis Blues"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 22.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 2.0,
+            "toi_seconds": 953.0
+          },
+          "team": "St. Louis Blues"
         }
       ]
     },
@@ -885487,6 +888437,28 @@
             "shorthanded_points": 0.0,
             "shots": 0.0,
             "toi_seconds": 1015.0
+          },
+          "team": "St. Louis Blues"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 20.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 4.0,
+            "toi_seconds": 815.0
           },
           "team": "St. Louis Blues"
         }
@@ -889853,6 +892825,28 @@
             "toi_seconds": 845.0
           },
           "team": "St. Louis Blues"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 19.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 735.0
+          },
+          "team": "St. Louis Blues"
         }
       ]
     },
@@ -891879,6 +894873,28 @@
             "shorthanded_points": 0.0,
             "shots": 0.0,
             "toi_seconds": 831.0
+          },
+          "team": "St. Louis Blues"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 26.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 1108.0
           },
           "team": "St. Louis Blues"
         }
@@ -893931,6 +896947,28 @@
             "toi_seconds": 860.0
           },
           "team": "St. Louis Blues"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 1.0,
+            "ot_goals": 0.0,
+            "pim": 2.0,
+            "plus_minus": 1.0,
+            "points": 2.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 24.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 1156.0
+          },
+          "team": "St. Louis Blues"
         }
       ]
     },
@@ -895847,6 +898885,28 @@
             "shorthanded_points": 0.0,
             "shots": 2.0,
             "toi_seconds": 967.0
+          },
+          "team": "St. Louis Blues"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 17.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 928.0
           },
           "team": "St. Louis Blues"
         }
@@ -897767,6 +900827,28 @@
             "toi_seconds": 1008.0
           },
           "team": "St. Louis Blues"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 4.0,
+            "plus_minus": 2.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 26.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 2.0,
+            "toi_seconds": 1221.0
+          },
+          "team": "St. Louis Blues"
         }
       ]
     },
@@ -899487,6 +902569,28 @@
             "toi_seconds": 939.0
           },
           "team": "St. Louis Blues"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 16.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 748.0
+          },
+          "team": "St. Louis Blues"
         }
       ]
     },
@@ -900501,6 +903605,28 @@
             "shorthanded_points": 0.0,
             "shots": 0.0,
             "toi_seconds": 863.0
+          },
+          "team": "St. Louis Blues"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 12.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 626.0
           },
           "team": "St. Louis Blues"
         }
@@ -902089,6 +905215,28 @@
             "shorthanded_points": 0.0,
             "shots": 0.0,
             "toi_seconds": 820.0
+          },
+          "team": "St. Louis Blues"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 26.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 3.0,
+            "toi_seconds": 1280.0
           },
           "team": "St. Louis Blues"
         }
@@ -904383,6 +907531,28 @@
             "toi_seconds": 1454.0
           },
           "team": "St. Louis Blues"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 1.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 28.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 5.0,
+            "toi_seconds": 1780.0
+          },
+          "team": "St. Louis Blues"
         }
       ]
     },
@@ -906101,6 +909271,28 @@
             "shorthanded_points": 0.0,
             "shots": 3.0,
             "toi_seconds": 1356.0
+          },
+          "team": "St. Louis Blues"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 2.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 17.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 835.0
           },
           "team": "St. Louis Blues"
         }
@@ -908417,6 +911609,28 @@
             "toi_seconds": 1324.0
           },
           "team": "St. Louis Blues"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 18.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 1042.0
+          },
+          "team": "St. Louis Blues"
         }
       ]
     },
@@ -910025,6 +913239,28 @@
             "shorthanded_points": 0.0,
             "shots": 1.0,
             "toi_seconds": 1151.0
+          },
+          "team": "St. Louis Blues"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 27.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 5.0,
+            "toi_seconds": 1228.0
           },
           "team": "St. Louis Blues"
         }
@@ -912185,6 +915421,28 @@
             "shorthanded_points": 0.0,
             "shots": 1.0,
             "toi_seconds": 1040.0
+          },
+          "team": "St. Louis Blues"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -2.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 29.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 1518.0
           },
           "team": "St. Louis Blues"
         }
@@ -915805,6 +919063,25 @@
             "wins": 1.0
           },
           "team": "St. Louis Blues"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020375,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "games_started": 1.0,
+            "goals": 0.0,
+            "goals_against": 4.0,
+            "pim": 0.0,
+            "save_pct": 0.866667,
+            "saves": 26.0,
+            "shots_against": 30.0,
+            "shutouts": 0.0,
+            "toi_seconds": 3879.0,
+            "wins": 1.0
+          },
+          "team": "St. Louis Blues"
         }
       ]
     },
@@ -917809,6 +921086,28 @@
             "shorthanded_points": 0.0,
             "shots": 0.0,
             "toi_seconds": 1147.0
+          },
+          "team": "Tampa Bay Lightning"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -2.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 24.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 1060.0
           },
           "team": "Tampa Bay Lightning"
         }
@@ -922641,6 +925940,28 @@
             "toi_seconds": 614.0
           },
           "team": "Tampa Bay Lightning"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 1.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 16.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 2.0,
+            "toi_seconds": 825.0
+          },
+          "team": "Tampa Bay Lightning"
         }
       ]
     },
@@ -924557,6 +927878,28 @@
             "shorthanded_points": 0.0,
             "shots": 2.0,
             "toi_seconds": 777.0
+          },
+          "team": "Tampa Bay Lightning"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 16.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 792.0
           },
           "team": "Tampa Bay Lightning"
         }
@@ -926829,6 +930172,28 @@
             "toi_seconds": 1337.0
           },
           "team": "Tampa Bay Lightning"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -3.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 1.0,
+            "shifts": 21.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 1281.0
+          },
+          "team": "Tampa Bay Lightning"
         }
       ]
     },
@@ -928883,6 +932248,28 @@
             "toi_seconds": 619.0
           },
           "team": "Tampa Bay Lightning"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 17.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 2.0,
+            "toi_seconds": 647.0
+          },
+          "team": "Tampa Bay Lightning"
         }
       ]
     },
@@ -930909,6 +934296,28 @@
             "shorthanded_points": 0.0,
             "shots": 1.0,
             "toi_seconds": 983.0
+          },
+          "team": "Tampa Bay Lightning"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -2.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 18.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 5.0,
+            "toi_seconds": 848.0
           },
           "team": "Tampa Bay Lightning"
         }
@@ -933071,6 +936480,28 @@
             "toi_seconds": 1217.0
           },
           "team": "Tampa Bay Lightning"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 1.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -3.0,
+            "points": 1.0,
+            "power_play_goals": 1.0,
+            "power_play_points": 1.0,
+            "shifts": 19.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 4.0,
+            "toi_seconds": 1183.0
+          },
+          "team": "Tampa Bay Lightning"
         }
       ]
     },
@@ -933559,6 +936990,28 @@
             "toi_seconds": 951.0
           },
           "team": "Tampa Bay Lightning"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -2.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 20.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 820.0
+          },
+          "team": "Tampa Bay Lightning"
         }
       ]
     },
@@ -933671,6 +937124,28 @@
             "shorthanded_points": 0.0,
             "shots": 1.0,
             "toi_seconds": 526.0
+          },
+          "team": "Tampa Bay Lightning"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 17.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 929.0
           },
           "team": "Tampa Bay Lightning"
         }
@@ -935481,6 +938956,28 @@
             "toi_seconds": 1164.0
           },
           "team": "Tampa Bay Lightning"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 2.0,
+            "plus_minus": -3.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 19.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 2.0,
+            "toi_seconds": 1116.0
+          },
+          "team": "Tampa Bay Lightning"
         }
       ]
     },
@@ -936233,6 +939730,28 @@
             "toi_seconds": 587.0
           },
           "team": "Tampa Bay Lightning"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 16.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 2.0,
+            "toi_seconds": 674.0
+          },
+          "team": "Tampa Bay Lightning"
         }
       ]
     },
@@ -936653,6 +940172,28 @@
             "shorthanded_points": 0.0,
             "shots": 1.0,
             "toi_seconds": 600.0
+          },
+          "team": "Tampa Bay Lightning"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 16.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 700.0
           },
           "team": "Tampa Bay Lightning"
         }
@@ -937141,6 +940682,28 @@
             "shorthanded_points": 0.0,
             "shots": 2.0,
             "toi_seconds": 1340.0
+          },
+          "team": "Tampa Bay Lightning"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 2.0,
+            "plus_minus": -3.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 1.0,
+            "shifts": 24.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 6.0,
+            "toi_seconds": 1338.0
           },
           "team": "Tampa Bay Lightning"
         }
@@ -938905,6 +942468,28 @@
             "shorthanded_points": 0.0,
             "shots": 2.0,
             "toi_seconds": 1322.0
+          },
+          "team": "Tampa Bay Lightning"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 2.0,
+            "plus_minus": -1.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 27.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 1162.0
           },
           "team": "Tampa Bay Lightning"
         }
@@ -941951,6 +945536,28 @@
             "toi_seconds": 1115.0
           },
           "team": "Tampa Bay Lightning"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -2.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 21.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 1057.0
+          },
+          "team": "Tampa Bay Lightning"
         }
       ]
     },
@@ -943141,6 +946748,28 @@
             "shorthanded_points": 0.0,
             "shots": 1.0,
             "toi_seconds": 1112.0
+          },
+          "team": "Tampa Bay Lightning"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 19.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 1072.0
           },
           "team": "Tampa Bay Lightning"
         }
@@ -945967,6 +949596,28 @@
             "toi_seconds": 1270.0
           },
           "team": "Tampa Bay Lightning"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -2.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 25.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 1207.0
+          },
+          "team": "Tampa Bay Lightning"
         }
       ]
     },
@@ -948193,6 +951844,28 @@
             "toi_seconds": 959.0
           },
           "team": "Tampa Bay Lightning"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 20.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 1006.0
+          },
+          "team": "Tampa Bay Lightning"
         }
       ]
     },
@@ -948290,6 +951963,25 @@
             "shutouts": 0.0,
             "toi_seconds": 3600.0,
             "wins": 1.0
+          },
+          "team": "Tampa Bay Lightning"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020374,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "games_started": 1.0,
+            "goals": 0.0,
+            "goals_against": 5.0,
+            "pim": 0.0,
+            "save_pct": 0.814815,
+            "saves": 22.0,
+            "shots_against": 27.0,
+            "shutouts": 0.0,
+            "toi_seconds": 3536.0,
+            "wins": 0.0
           },
           "team": "Tampa Bay Lightning"
         }
@@ -1016708,6 +1020400,28 @@
             "toi_seconds": 719.0
           },
           "team": "Vancouver Canucks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 15.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 694.0
+          },
+          "team": "Vancouver Canucks"
         }
       ]
     },
@@ -1018912,6 +1022626,28 @@
             "toi_seconds": 1449.0
           },
           "team": "Vancouver Canucks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 22.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 3.0,
+            "toi_seconds": 1170.0
+          },
+          "team": "Vancouver Canucks"
         }
       ]
     },
@@ -1019444,6 +1023180,28 @@
             "toi_seconds": 1284.0
           },
           "team": "Vancouver Canucks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 1.0,
+            "ot_goals": 0.0,
+            "pim": 2.0,
+            "plus_minus": 1.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 22.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 1001.0
+          },
+          "team": "Vancouver Canucks"
         }
       ]
     },
@@ -1019974,6 +1023732,28 @@
             "shorthanded_points": 0.0,
             "shots": 0.0,
             "toi_seconds": 732.0
+          },
+          "team": "Vancouver Canucks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 2.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 19.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 3.0,
+            "toi_seconds": 989.0
           },
           "team": "Vancouver Canucks"
         }
@@ -1022266,6 +1026046,28 @@
             "shorthanded_points": 0.0,
             "shots": 0.0,
             "toi_seconds": 1245.0
+          },
+          "team": "Vancouver Canucks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 1.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 19.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 4.0,
+            "toi_seconds": 1077.0
           },
           "team": "Vancouver Canucks"
         }
@@ -1026720,6 +1030522,28 @@
             "toi_seconds": 735.0
           },
           "team": "Vancouver Canucks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 2.0,
+            "plus_minus": -2.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 19.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 2.0,
+            "toi_seconds": 851.0
+          },
+          "team": "Vancouver Canucks"
         }
       ]
     },
@@ -1027272,6 +1031096,28 @@
             "shorthanded_points": 0.0,
             "shots": 1.0,
             "toi_seconds": 925.0
+          },
+          "team": "Vancouver Canucks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 20.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 2.0,
+            "toi_seconds": 1102.0
           },
           "team": "Vancouver Canucks"
         }
@@ -1029632,6 +1033478,28 @@
             "toi_seconds": 879.0
           },
           "team": "Vancouver Canucks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -2.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 16.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 754.0
+          },
+          "team": "Vancouver Canucks"
         }
       ]
     },
@@ -1031680,6 +1035548,28 @@
             "shorthanded_points": 0.0,
             "shots": 4.0,
             "toi_seconds": 869.0
+          },
+          "team": "Vancouver Canucks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 20.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 3.0,
+            "toi_seconds": 1016.0
           },
           "team": "Vancouver Canucks"
         }
@@ -1033934,6 +1037824,28 @@
             "toi_seconds": 652.0
           },
           "team": "Vancouver Canucks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 16.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 775.0
+          },
+          "team": "Vancouver Canucks"
         }
       ]
     },
@@ -1035542,6 +1039454,28 @@
             "shorthanded_points": 0.0,
             "shots": 3.0,
             "toi_seconds": 1170.0
+          },
+          "team": "Vancouver Canucks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 2.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 20.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 1138.0
           },
           "team": "Vancouver Canucks"
         }
@@ -1037526,6 +1041460,28 @@
             "shorthanded_points": 0.0,
             "shots": 3.0,
             "toi_seconds": 385.0
+          },
+          "team": "New York Rangers"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020373,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 16.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 632.0
           },
           "team": "New York Rangers"
         }
@@ -1039888,6 +1043844,28 @@
             "shorthanded_points": 0.0,
             "shots": 5.0,
             "toi_seconds": 1661.0
+          },
+          "team": "Vancouver Canucks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 1.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 32.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 2.0,
+            "toi_seconds": 1555.0
           },
           "team": "Vancouver Canucks"
         }
@@ -1042538,6 +1046516,28 @@
             "toi_seconds": 1832.0
           },
           "team": "Vancouver Canucks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 28.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 1474.0
+          },
+          "team": "Vancouver Canucks"
         }
       ]
     },
@@ -1043046,6 +1047046,28 @@
             "shorthanded_points": 0.0,
             "shots": 2.0,
             "toi_seconds": 1219.0
+          },
+          "team": "Vancouver Canucks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 24.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 1099.0
           },
           "team": "Vancouver Canucks"
         }
@@ -1045142,6 +1049164,28 @@
             "toi_seconds": 848.0
           },
           "team": "Vancouver Canucks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 18.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 732.0
+          },
+          "team": "Vancouver Canucks"
         }
       ]
     },
@@ -1045430,6 +1049474,28 @@
             "shorthanded_points": 0.0,
             "shots": 1.0,
             "toi_seconds": 562.0
+          },
+          "team": "Vancouver Canucks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 12.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 536.0
           },
           "team": "Vancouver Canucks"
         }
@@ -1047438,6 +1051504,28 @@
             "toi_seconds": 1194.0
           },
           "team": "Vancouver Canucks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 25.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 1168.0
+          },
+          "team": "Vancouver Canucks"
         }
       ]
     },
@@ -1048883,6 +1052971,24 @@
             "shutouts": 0.0,
             "toi_seconds": 3497.0,
             "wins": 0.0
+          },
+          "team": "Vancouver Canucks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "games_started": 0.0,
+            "goals": 0.0,
+            "goals_against": 2.0,
+            "pim": 0.0,
+            "save_pct": 0.894737,
+            "saves": 17.0,
+            "shots_against": 19.0,
+            "shutouts": 0.0,
+            "toi_seconds": 2808.0
           },
           "team": "Vancouver Canucks"
         }
@@ -1120179,7 +1124285,7 @@
             "shifts": 22.0,
             "shorthanded_goals": 0.0,
             "shorthanded_points": 0.0,
-            "shots": 1.0,
+            "shots": 2.0,
             "toi_seconds": 888.0
           },
           "team": "Washington Capitals"
@@ -1159960,6 +1164066,94 @@
             "toi_seconds": 572.0
           },
           "team": "Chicago Blackhawks"
+        },
+        {
+          "date": "2026-10-08",
+          "game_id": 2026020062,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 11.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 513.0
+          },
+          "team": "Chicago Blackhawks"
+        },
+        {
+          "date": "2026-10-10",
+          "game_id": 2026020078,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -2.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 15.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 578.0
+          },
+          "team": "Chicago Blackhawks"
+        },
+        {
+          "date": "2026-10-13",
+          "game_id": 2026020098,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 11.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 505.0
+          },
+          "team": "Chicago Blackhawks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 1.0,
+            "goals": 1.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -1.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 15.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 5.0,
+            "toi_seconds": 600.0
+          },
+          "team": "Chicago Blackhawks"
         }
       ]
     },
@@ -1184551,6 +1188745,94 @@
             "toi_seconds": 846.0
           },
           "team": "Vancouver Canucks"
+        },
+        {
+          "date": "2026-10-03",
+          "game_id": 2026020033,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 1.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 1.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 22.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 3.0,
+            "toi_seconds": 570.0
+          },
+          "team": "Toronto Maple Leafs"
+        },
+        {
+          "date": "2026-10-04",
+          "game_id": 2026020039,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 2.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 17.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 596.0
+          },
+          "team": "Toronto Maple Leafs"
+        },
+        {
+          "date": "2026-10-08",
+          "game_id": 2026020061,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -2.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 12.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 516.0
+          },
+          "team": "Toronto Maple Leafs"
+        },
+        {
+          "date": "2026-10-11",
+          "game_id": 2026020085,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 16.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 757.0
+          },
+          "team": "Toronto Maple Leafs"
         }
       ]
     },
@@ -1185501,6 +1189783,25 @@
             "shutouts": 0.0,
             "toi_seconds": 3600.0,
             "wins": 1.0
+          },
+          "team": "Vancouver Canucks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "games_started": 1.0,
+            "goals": 0.0,
+            "goals_against": 4.0,
+            "pim": 0.0,
+            "save_pct": 0.636364,
+            "saves": 7.0,
+            "shots_against": 11.0,
+            "shutouts": 0.0,
+            "toi_seconds": 764.0,
+            "wins": 0.0
           },
           "team": "Vancouver Canucks"
         }
@@ -1187009,6 +1191310,28 @@
             "toi_seconds": 829.0
           },
           "team": "Vancouver Canucks"
+        },
+        {
+          "date": "2026-11-22",
+          "game_id": 2026020377,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 2.0,
+            "plus_minus": -2.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 16.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 677.0
+          },
+          "team": "Vancouver Canucks"
         }
       ]
     },
@@ -1187172,12 +1191495,12 @@
     }
   },
   "provenance": {
-    "collected_fetched_at_max": "2026-11-22T10:41:22.396740+00:00",
-    "collected_fetched_at_min": "2026-11-22T10:41:22.396740+00:00",
-    "collected_generated_at": "2026-11-22T10:41:22.396740+00:00",
+    "collected_fetched_at_max": "2026-11-23T10:41:14.956193+00:00",
+    "collected_fetched_at_min": "2026-11-23T10:41:14.956193+00:00",
+    "collected_generated_at": "2026-11-23T10:41:14.956193+00:00",
     "collected_layer": "collected/game_logs_NHL.json",
     "collector": "gapfill_stats_nhl",
-    "materialized_at": "2026-11-22T10:50:53.347334+00:00",
+    "materialized_at": "2026-11-23T10:50:48.520729+00:00",
     "materialized_by": "materialize_collected_props",
     "origin": "materialized_from_collected_layer",
     "promotion": {

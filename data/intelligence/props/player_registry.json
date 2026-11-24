@@ -75045,6 +75045,11 @@
         {
           "from": "2026-11-21",
           "team": "Florida Panthers",
+          "to": "2026-11-24"
+        },
+        {
+          "from": "2026-11-24",
+          "team": "Vancouver Canucks",
           "to": null
         }
       ]
@@ -76697,6 +76702,11 @@
         {
           "from": "2026-11-21",
           "team": "Montréal Canadiens",
+          "to": "2026-11-24"
+        },
+        {
+          "from": "2026-11-24",
+          "team": "Detroit Red Wings",
           "to": null
         }
       ]
@@ -77211,6 +77221,11 @@
         {
           "from": "2026-11-21",
           "team": "Montréal Canadiens",
+          "to": "2026-11-24"
+        },
+        {
+          "from": "2026-11-24",
+          "team": "Detroit Red Wings",
           "to": null
         }
       ]
@@ -88351,6 +88366,11 @@
         {
           "from": "2026-11-21",
           "team": "Detroit Red Wings",
+          "to": "2026-11-24"
+        },
+        {
+          "from": "2026-11-24",
+          "team": "Montréal Canadiens",
           "to": null
         }
       ]
@@ -89676,6 +89696,78 @@
         {
           "from": "2026-11-24",
           "team": "Utah Jazz",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Mikael Pyyhtia",
+      "league": "NHL",
+      "player_id": "plyr-3696",
+      "position": "L",
+      "provider_ids": {
+        "nhl": 8482451
+      },
+      "status_history": [
+        {
+          "from": "2026-11-24",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-24",
+          "team": "Columbus Blue Jackets",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Sam Morton",
+      "league": "NHL",
+      "player_id": "plyr-3697",
+      "position": "C",
+      "provider_ids": {
+        "nhl": 8484821
+      },
+      "status_history": [
+        {
+          "from": "2026-11-24",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-24",
+          "team": "Calgary Flames",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Libor Hajek",
+      "league": "NHL",
+      "player_id": "plyr-3698",
+      "position": "D",
+      "provider_ids": {
+        "nhl": 8479333
+      },
+      "status_history": [
+        {
+          "from": "2026-11-24",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-24",
+          "team": "San Jose Sharks",
           "to": null
         }
       ]

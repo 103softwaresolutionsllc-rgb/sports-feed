@@ -3,483 +3,15 @@
  "league": "NBA",
  "classification": "Historical",
  "collected": true,
- "generated_at": "2026-11-23T23:04:18.071267+00:00",
+ "generated_at": "2026-11-24T02:04:09.887206+00:00",
  "report": {
   "source_name": "NBA official injury report",
-  "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-  "report_timestamp": "2026-11-23T22:45:00+00:00",
-  "fetched_at": "2026-11-23T23:04:18.071267+00:00",
-  "raw_landing": "/home/hatch/workspace/sports-feed-data-wt/data/intelligence/raw/collected/nba_injury_report/2026-11-23/Injury-Report_2026-11-23_05_45PM.pdf"
+  "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+  "report_timestamp": "2026-11-24T02:00:00+00:00",
+  "fetched_at": "2026-11-24T02:04:09.887206+00:00",
+  "raw_landing": "/home/hatch/workspace/sports-feed-data-wt/data/intelligence/raw/collected/nba_injury_report/2026-11-23/Injury-Report_2026-11-23_09_00PM.pdf"
  },
  "records": [
-  {
-   "player_name": "Cameron Boozer",
-   "team": "Memphis Grizzlies",
-   "game_date": "11/23/2026",
-   "game_time": "07:00 (ET)",
-   "matchup": "MEM@CHA",
-   "status": "Out",
-   "reason": "Injury/Illness - Right Ankle Sprain",
-   "reason_category": "Injury/Illness",
-   "collected": true,
-   "expires_at": "2026-11-24T02:00:00+00:00",
-   "provenance": {
-    "origin": "collected",
-    "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
-    "collector": "gapfill_injuries_nba",
-    "classification": "Historical",
-    "expires_at": "2026-11-24T02:00:00+00:00",
-    "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
-   },
-   "player_id": "plyr-0206",
-   "registry_team": "Memphis Grizzlies",
-   "team_agrees_with_registry": true
-  },
-  {
-   "player_name": "Jerami Grant",
-   "team": "Memphis Grizzlies",
-   "game_date": "11/23/2026",
-   "game_time": "07:00 (ET)",
-   "matchup": "MEM@CHA",
-   "status": "Out",
-   "reason": "Injury/Illness - Left Calf Strain",
-   "reason_category": "Injury/Illness",
-   "collected": true,
-   "expires_at": "2026-11-24T02:00:00+00:00",
-   "provenance": {
-    "origin": "collected",
-    "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
-    "collector": "gapfill_injuries_nba",
-    "classification": "Historical",
-    "expires_at": "2026-11-24T02:00:00+00:00",
-    "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
-   },
-   "player_id": "plyr-0209",
-   "registry_team": "Memphis Grizzlies",
-   "team_agrees_with_registry": true
-  },
-  {
-   "player_name": "GG Jackson",
-   "team": "Memphis Grizzlies",
-   "game_date": "11/23/2026",
-   "game_time": "07:00 (ET)",
-   "matchup": "MEM@CHA",
-   "status": "Out",
-   "reason": "Injury/Illness - Left 5th Metatarsal Fracture Injury/Illness - Lumbar Disc",
-   "reason_category": "Injury/Illness",
-   "collected": true,
-   "expires_at": "2026-11-24T02:00:00+00:00",
-   "provenance": {
-    "origin": "collected",
-    "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
-    "collector": "gapfill_injuries_nba",
-    "classification": "Historical",
-    "expires_at": "2026-11-24T02:00:00+00:00",
-    "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
-   },
-   "player_id": "plyr-0211",
-   "registry_team": "Memphis Grizzlies",
-   "team_agrees_with_registry": true
-  },
-  {
-   "player_name": "Scotty Pippen Jr.",
-   "team": "Memphis Grizzlies",
-   "game_date": "11/23/2026",
-   "game_time": "07:00 (ET)",
-   "matchup": "MEM@CHA",
-   "status": "Out",
-   "reason": "Herniation",
-   "reason_category": null,
-   "collected": true,
-   "expires_at": "2026-11-24T02:00:00+00:00",
-   "provenance": {
-    "origin": "collected",
-    "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
-    "collector": "gapfill_injuries_nba",
-    "classification": "Historical",
-    "expires_at": "2026-11-24T02:00:00+00:00",
-    "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
-   },
-   "player_id": "plyr-0216",
-   "registry_team": "Memphis Grizzlies",
-   "team_agrees_with_registry": true
-  },
-  {
-   "player_name": "Grayson Allen",
-   "team": "Charlotte Hornets",
-   "game_date": "11/23/2026",
-   "game_time": "07:00 (ET)",
-   "matchup": "MEM@CHA",
-   "status": "Out",
-   "reason": "Concussion Protocol",
-   "reason_category": null,
-   "collected": true,
-   "expires_at": "2026-11-24T02:00:00+00:00",
-   "provenance": {
-    "origin": "collected",
-    "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
-    "collector": "gapfill_injuries_nba",
-    "classification": "Historical",
-    "expires_at": "2026-11-24T02:00:00+00:00",
-    "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
-   },
-   "player_id": "plyr-0047",
-   "registry_team": "Charlotte Hornets",
-   "team_agrees_with_registry": true
-  },
-  {
-   "player_name": "Kon Knueppel",
-   "team": "Charlotte Hornets",
-   "game_date": "11/23/2026",
-   "game_time": "07:00 (ET)",
-   "matchup": "MEM@CHA",
-   "status": "Out",
-   "reason": "Injury/Illness - Left Hamstring Strain",
-   "reason_category": "Injury/Illness",
-   "collected": true,
-   "expires_at": "2026-11-24T02:00:00+00:00",
-   "provenance": {
-    "origin": "collected",
-    "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
-    "collector": "gapfill_injuries_nba",
-    "classification": "Historical",
-    "expires_at": "2026-11-24T02:00:00+00:00",
-    "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
-   },
-   "player_id": "plyr-0053",
-   "registry_team": "Charlotte Hornets",
-   "team_agrees_with_registry": true
-  },
-  {
-   "player_name": "Brandon Miller",
-   "team": "Charlotte Hornets",
-   "game_date": "11/23/2026",
-   "game_time": "07:00 (ET)",
-   "matchup": "MEM@CHA",
-   "status": "Available",
-   "reason": "Injury/Illness - Right Knee Contusion / Bone Bruise",
-   "reason_category": "Injury/Illness",
-   "collected": true,
-   "expires_at": "2026-11-24T02:00:00+00:00",
-   "provenance": {
-    "origin": "collected",
-    "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
-    "collector": "gapfill_injuries_nba",
-    "classification": "Historical",
-    "expires_at": "2026-11-24T02:00:00+00:00",
-    "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
-   },
-   "player_id": "plyr-0055",
-   "registry_team": "Charlotte Hornets",
-   "team_agrees_with_registry": true
-  },
-  {
-   "player_name": "Dennis Schroder",
-   "team": "Charlotte Hornets",
-   "game_date": "11/23/2026",
-   "game_time": "07:00 (ET)",
-   "matchup": "MEM@CHA",
-   "status": "Out",
-   "reason": "Injury/Illness - Left Hamstring Strain",
-   "reason_category": "Injury/Illness",
-   "collected": true,
-   "expires_at": "2026-11-24T02:00:00+00:00",
-   "provenance": {
-    "origin": "collected",
-    "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
-    "collector": "gapfill_injuries_nba",
-    "classification": "Historical",
-    "expires_at": "2026-11-24T02:00:00+00:00",
-    "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
-   },
-   "player_id": "plyr-0059",
-   "registry_team": "Charlotte Hornets",
-   "team_agrees_with_registry": true
-  },
-  {
-   "player_name": "Grant Williams",
-   "team": "Charlotte Hornets",
-   "game_date": "11/23/2026",
-   "game_time": "07:00 (ET)",
-   "matchup": "MEM@CHA",
-   "status": "Out",
-   "reason": "Injury/Illness - Right Hamstring Injury Management",
-   "reason_category": "Injury/Illness",
-   "collected": true,
-   "expires_at": "2026-11-24T02:00:00+00:00",
-   "provenance": {
-    "origin": "collected",
-    "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
-    "collector": "gapfill_injuries_nba",
-    "classification": "Historical",
-    "expires_at": "2026-11-24T02:00:00+00:00",
-    "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
-   },
-   "player_id": "plyr-0062",
-   "registry_team": "Charlotte Hornets",
-   "team_agrees_with_registry": true
-  },
-  {
-   "player_name": "Vit Krejci",
-   "team": "Portland Trail Blazers",
-   "game_date": "11/23/2026",
-   "game_time": "07:00 (ET)",
-   "matchup": "POR@PHI",
-   "status": "Out",
-   "reason": "Injury/Illness - Left Ankle Fracture",
-   "reason_category": "Injury/Illness",
-   "collected": true,
-   "expires_at": "2026-11-24T02:00:00+00:00",
-   "provenance": {
-    "origin": "collected",
-    "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
-    "collector": "gapfill_injuries_nba",
-    "classification": "Historical",
-    "expires_at": "2026-11-24T02:00:00+00:00",
-    "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
-   },
-   "player_id": "plyr-0374",
-   "registry_team": "Portland Trail Blazers",
-   "team_agrees_with_registry": true
-  },
-  {
-   "player_name": "Ja Morant",
-   "team": "Portland Trail Blazers",
-   "game_date": "11/23/2026",
-   "game_time": "07:00 (ET)",
-   "matchup": "POR@PHI",
-   "status": "Out",
-   "reason": "Injury/Illness - Left Hamstring Strain",
-   "reason_category": "Injury/Illness",
-   "collected": true,
-   "expires_at": "2026-11-24T02:00:00+00:00",
-   "provenance": {
-    "origin": "collected",
-    "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
-    "collector": "gapfill_injuries_nba",
-    "classification": "Historical",
-    "expires_at": "2026-11-24T02:00:00+00:00",
-    "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
-   },
-   "player_id": "plyr-0376",
-   "registry_team": "Portland Trail Blazers",
-   "team_agrees_with_registry": true
-  },
-  {
-   "player_name": "Shaedon Sharpe",
-   "team": "Portland Trail Blazers",
-   "game_date": "11/23/2026",
-   "game_time": "07:00 (ET)",
-   "matchup": "POR@PHI",
-   "status": "Out",
-   "reason": "Injury/Illness - Right Meniscus",
-   "reason_category": "Injury/Illness",
-   "collected": true,
-   "expires_at": "2026-11-24T02:00:00+00:00",
-   "provenance": {
-    "origin": "collected",
-    "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
-    "collector": "gapfill_injuries_nba",
-    "classification": "Historical",
-    "expires_at": "2026-11-24T02:00:00+00:00",
-    "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
-   },
-   "player_id": "plyr-0495",
-   "registry_team": "Portland Trail Blazers",
-   "team_agrees_with_registry": true
-  },
-  {
-   "player_name": "Chris Youngblood",
-   "team": "Portland Trail Blazers",
-   "game_date": "11/23/2026",
-   "game_time": "07:00 (ET)",
-   "matchup": "POR@PHI",
-   "status": "Out",
-   "reason": "Surgery Injury/Illness - Right Heel Contusion / Bone Bruise",
-   "reason_category": "Surgery Injury/Illness",
-   "collected": true,
-   "expires_at": "2026-11-24T02:00:00+00:00",
-   "provenance": {
-    "origin": "collected",
-    "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
-    "collector": "gapfill_injuries_nba",
-    "classification": "Historical",
-    "expires_at": "2026-11-24T02:00:00+00:00",
-    "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
-   },
-   "player_id": "plyr-0380",
-   "registry_team": "Portland Trail Blazers",
-   "team_agrees_with_registry": true
-  },
-  {
-   "player_name": "Adem Bona",
-   "team": "Philadelphia 76ers",
-   "game_date": "11/23/2026",
-   "game_time": "07:00 (ET)",
-   "matchup": "POR@PHI",
-   "status": "Probable",
-   "reason": "Injury/Illness - Cervical Spine Sprain",
-   "reason_category": "Injury/Illness",
-   "collected": true,
-   "expires_at": "2026-11-24T02:00:00+00:00",
-   "provenance": {
-    "origin": "collected",
-    "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
-    "collector": "gapfill_injuries_nba",
-    "classification": "Historical",
-    "expires_at": "2026-11-24T02:00:00+00:00",
-    "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
-   },
-   "player_id": "plyr-0335",
-   "registry_team": "Philadelphia 76ers",
-   "team_agrees_with_registry": true
-  },
-  {
-   "player_name": "Jaylen Brown",
-   "team": "Philadelphia 76ers",
-   "game_date": "11/23/2026",
-   "game_time": "07:00 (ET)",
-   "matchup": "POR@PHI",
-   "status": "Probable",
-   "reason": "Injury/Illness - Left Hamstring Strain",
-   "reason_category": "Injury/Illness",
-   "collected": true,
-   "expires_at": "2026-11-24T02:00:00+00:00",
-   "provenance": {
-    "origin": "collected",
-    "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
-    "collector": "gapfill_injuries_nba",
-    "classification": "Historical",
-    "expires_at": "2026-11-24T02:00:00+00:00",
-    "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
-   },
-   "player_id": "plyr-0336",
-   "registry_team": "Philadelphia 76ers",
-   "team_agrees_with_registry": true
-  },
-  {
-   "player_name": "Joel Embiid",
-   "team": "Philadelphia 76ers",
-   "game_date": "11/23/2026",
-   "game_time": "07:00 (ET)",
-   "matchup": "POR@PHI",
-   "status": "Out",
-   "reason": "Injury/Illness - Illness",
-   "reason_category": "Injury/Illness",
-   "collected": true,
-   "expires_at": "2026-11-24T02:00:00+00:00",
-   "provenance": {
-    "origin": "collected",
-    "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
-    "collector": "gapfill_injuries_nba",
-    "classification": "Historical",
-    "expires_at": "2026-11-24T02:00:00+00:00",
-    "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
-   },
-   "player_id": "plyr-0340",
-   "registry_team": "Philadelphia 76ers",
-   "team_agrees_with_registry": true
-  },
-  {
-   "player_name": "Ariel Hukporti",
-   "team": "Philadelphia 76ers",
-   "game_date": "11/23/2026",
-   "game_time": "07:00 (ET)",
-   "matchup": "POR@PHI",
-   "status": "Out",
-   "reason": "Injury/Illness - Right Achilles Tendon Rupture / Tear Injury/Illness - Left Hamstring Injury",
-   "reason_category": "Injury/Illness",
-   "collected": true,
-   "expires_at": "2026-11-24T02:00:00+00:00",
-   "provenance": {
-    "origin": "collected",
-    "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
-    "collector": "gapfill_injuries_nba",
-    "classification": "Historical",
-    "expires_at": "2026-11-24T02:00:00+00:00",
-    "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
-   },
-   "player_id": "plyr-0492",
-   "registry_team": "Philadelphia 76ers",
-   "team_agrees_with_registry": true
-  },
-  {
-   "player_name": "Dean Wade",
-   "team": "Philadelphia 76ers",
-   "game_date": "11/23/2026",
-   "game_time": "07:00 (ET)",
-   "matchup": "POR@PHI",
-   "status": "Probable",
-   "reason": "Management",
-   "reason_category": null,
-   "collected": true,
-   "expires_at": "2026-11-24T02:00:00+00:00",
-   "provenance": {
-    "origin": "collected",
-    "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
-    "collector": "gapfill_injuries_nba",
-    "classification": "Historical",
-    "expires_at": "2026-11-24T02:00:00+00:00",
-    "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
-   },
-   "player_id": "plyr-0348",
-   "registry_team": "Philadelphia 76ers",
-   "team_agrees_with_registry": true
-  },
   {
    "player_name": "Joshua Jefferson",
    "team": "Brooklyn Nets",
@@ -494,13 +26,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T02:30:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0035",
    "registry_team": "Brooklyn Nets",
@@ -520,13 +52,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T02:30:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0036",
    "registry_team": "Brooklyn Nets",
@@ -546,13 +78,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T02:30:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0474",
    "registry_team": "Brooklyn Nets",
@@ -572,13 +104,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T02:30:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0040",
    "registry_team": "Brooklyn Nets",
@@ -598,13 +130,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T02:30:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0042",
    "registry_team": "Brooklyn Nets",
@@ -624,13 +156,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T02:30:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0044",
    "registry_team": "Brooklyn Nets",
@@ -650,13 +182,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T02:30:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0256",
    "registry_team": "Minnesota Timberwolves",
@@ -676,13 +208,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T02:30:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0257",
    "registry_team": "Minnesota Timberwolves",
@@ -702,13 +234,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T02:30:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0488",
    "registry_team": "Minnesota Timberwolves",
@@ -728,13 +260,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T02:30:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0259",
    "registry_team": "Minnesota Timberwolves",
@@ -754,13 +286,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T02:30:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0269",
    "registry_team": "Minnesota Timberwolves",
@@ -780,13 +312,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T02:30:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0241",
    "registry_team": "Milwaukee Bucks",
@@ -806,13 +338,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T02:30:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0485",
    "registry_team": "Milwaukee Bucks",
@@ -832,13 +364,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T02:30:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0248",
    "registry_team": "Milwaukee Bucks",
@@ -858,13 +390,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T02:30:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0412",
    "registry_team": "Toronto Raptors",
@@ -876,7 +408,7 @@
    "game_date": "11/23/2026",
    "game_time": "07:30 (ET)",
    "matchup": "MIL@TOR",
-   "status": "Questionable",
+   "status": "Available",
    "reason": "Injury/Illness - Right Ankle Sprain",
    "reason_category": "Injury/Illness",
    "collected": true,
@@ -884,13 +416,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T02:30:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0414",
    "registry_team": "Toronto Raptors",
@@ -910,13 +442,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T02:30:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0417",
    "registry_team": "Toronto Raptors",
@@ -928,7 +460,7 @@
    "game_date": "11/23/2026",
    "game_time": "07:30 (ET)",
    "matchup": "MIL@TOR",
-   "status": "Probable",
+   "status": "Available",
    "reason": "Concussion Protocol",
    "reason_category": null,
    "collected": true,
@@ -936,13 +468,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T02:30:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0419",
    "registry_team": "Toronto Raptors",
@@ -962,13 +494,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T02:30:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0305",
    "registry_team": "Oklahoma City Thunder",
@@ -988,13 +520,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T02:30:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0310",
    "registry_team": "Oklahoma City Thunder",
@@ -1014,13 +546,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T02:30:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0311",
    "registry_team": "Oklahoma City Thunder",
@@ -1040,13 +572,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T02:30:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0316",
    "registry_team": "Oklahoma City Thunder",
@@ -1066,13 +598,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T02:30:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0317",
    "registry_team": "Oklahoma City Thunder",
@@ -1092,13 +624,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T02:30:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0318",
    "registry_team": "Oklahoma City Thunder",
@@ -1118,13 +650,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T02:30:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0319",
    "registry_team": "Oklahoma City Thunder",
@@ -1144,13 +676,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T02:30:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0483",
    "registry_team": "Indiana Pacers",
@@ -1170,13 +702,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T02:30:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0174",
    "registry_team": "Indiana Pacers",
@@ -1196,13 +728,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T02:30:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0177",
    "registry_team": "Indiana Pacers",
@@ -1222,13 +754,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T02:30:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0180",
    "registry_team": "Indiana Pacers",
@@ -1248,13 +780,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T02:30:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0182",
    "registry_team": "Indiana Pacers",
@@ -1266,7 +798,7 @@
    "game_date": "11/23/2026",
    "game_time": "07:30 (ET)",
    "matchup": "OKC@IND",
-   "status": "Questionable",
+   "status": "Available",
    "reason": "Injury/Illness - Left Hip Injury Management",
    "reason_category": "Injury/Illness",
    "collected": true,
@@ -1274,13 +806,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T02:30:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0183",
    "registry_team": "Indiana Pacers",
@@ -1300,13 +832,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T03:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0087",
    "registry_team": "Cleveland Cavaliers",
@@ -1326,13 +858,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T03:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0476",
    "registry_team": "Cleveland Cavaliers",
@@ -1344,7 +876,7 @@
    "game_date": "11/23/2026",
    "game_time": "08:00 (ET)",
    "matchup": "CLE@CHI",
-   "status": "Probable",
+   "status": "Available",
    "reason": "Management",
    "reason_category": null,
    "collected": true,
@@ -1352,13 +884,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T03:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0092",
    "registry_team": "Cleveland Cavaliers",
@@ -1370,21 +902,21 @@
    "game_date": "11/23/2026",
    "game_time": "08:00 (ET)",
    "matchup": "CLE@CHI",
-   "status": "Questionable",
-   "reason": "Injury/Illness - Illness",
-   "reason_category": "Injury/Illness",
+   "status": "Available",
+   "reason": "-",
+   "reason_category": null,
    "collected": true,
    "expires_at": "2026-11-24T03:00:00+00:00",
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T03:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0065",
    "registry_team": "Chicago Bulls",
@@ -1404,13 +936,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T03:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0074",
    "registry_team": "Chicago Bulls",
@@ -1422,21 +954,21 @@
    "game_date": "11/23/2026",
    "game_time": "08:00 (ET)",
    "matchup": "CLE@CHI",
-   "status": "Probable",
-   "reason": "Injury/Illness - Gastrointestinal Illness",
-   "reason_category": "Injury/Illness",
+   "status": "Available",
+   "reason": "-",
+   "reason_category": null,
    "collected": true,
    "expires_at": "2026-11-24T03:00:00+00:00",
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T03:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0076",
    "registry_team": "Chicago Bulls",
@@ -1456,13 +988,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T03:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0079",
    "registry_team": "Chicago Bulls",
@@ -1482,15 +1014,67 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T03:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0354",
+   "registry_team": "Phoenix Suns",
+   "team_agrees_with_registry": true
+  },
+  {
+   "player_name": "Pat Spencer",
+   "team": "Phoenix Suns",
+   "game_date": "11/23/2026",
+   "game_time": "08:00 (ET)",
+   "matchup": "PHX@NOP",
+   "status": "Out",
+   "reason": "G League - Two-Way",
+   "reason_category": "G League",
+   "collected": true,
+   "expires_at": "2026-11-24T03:00:00+00:00",
+   "provenance": {
+    "origin": "collected",
+    "source_name": "NBA official injury report",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
+    "collector": "gapfill_injuries_nba",
+    "classification": "Historical",
+    "expires_at": "2026-11-24T03:00:00+00:00",
+    "supersedes": null,
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
+   },
+   "player_id": "plyr-0364",
+   "registry_team": "Phoenix Suns",
+   "team_agrees_with_registry": true
+  },
+  {
+   "player_name": "Drew Timme",
+   "team": "Phoenix Suns",
+   "game_date": "11/23/2026",
+   "game_time": "08:00 (ET)",
+   "matchup": "PHX@NOP",
+   "status": "Out",
+   "reason": "G League - Two-Way",
+   "reason_category": "G League",
+   "collected": true,
+   "expires_at": "2026-11-24T03:00:00+00:00",
+   "provenance": {
+    "origin": "collected",
+    "source_name": "NBA official injury report",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
+    "collector": "gapfill_injuries_nba",
+    "classification": "Historical",
+    "expires_at": "2026-11-24T03:00:00+00:00",
+    "supersedes": null,
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
+   },
+   "player_id": "plyr-0493",
    "registry_team": "Phoenix Suns",
    "team_agrees_with_registry": true
   },
@@ -1508,13 +1092,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T03:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0494",
    "registry_team": "Phoenix Suns",
@@ -1534,13 +1118,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T03:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0271",
    "registry_team": "New Orleans Pelicans",
@@ -1560,13 +1144,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T03:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0276",
    "registry_team": "New Orleans Pelicans",
@@ -1586,13 +1170,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T03:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0278",
    "registry_team": "New Orleans Pelicans",
@@ -1612,13 +1196,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T03:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0280",
    "registry_team": "New Orleans Pelicans",
@@ -1638,13 +1222,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T03:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0281",
    "registry_team": "New Orleans Pelicans",
@@ -1664,13 +1248,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T03:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0282",
    "registry_team": "New Orleans Pelicans",
@@ -1690,13 +1274,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T03:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0285",
    "registry_team": "New Orleans Pelicans",
@@ -1716,13 +1300,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T03:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0286",
    "registry_team": "New Orleans Pelicans",
@@ -1734,7 +1318,7 @@
    "game_date": "11/23/2026",
    "game_time": "08:00 (ET)",
    "matchup": "PHX@NOP",
-   "status": "Probable",
+   "status": "Available",
    "reason": "Injury/Illness - Left Thigh Contusion",
    "reason_category": "Injury/Illness",
    "collected": true,
@@ -1742,13 +1326,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T03:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0287",
    "registry_team": "New Orleans Pelicans",
@@ -1768,13 +1352,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T03:30:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0505",
    "registry_team": "Los Angeles Clippers",
@@ -1794,13 +1378,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T03:30:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0455",
    "registry_team": "Los Angeles Clippers",
@@ -1820,13 +1404,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T03:30:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0463",
    "registry_team": "Los Angeles Clippers",
@@ -1839,20 +1423,20 @@
    "game_time": "08:30 (ET)",
    "matchup": "LAC@HOU",
    "status": "Out",
-   "reason": "Injury/Illness - Left Rotator Cuff Surgery",
+   "reason": "Injury/Illness - Left Rotator Cuff",
    "reason_category": "Injury/Illness",
    "collected": true,
    "expires_at": "2026-11-24T03:30:00+00:00",
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T03:30:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0507",
    "registry_team": "Los Angeles Clippers",
@@ -1872,13 +1456,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T03:30:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0482",
    "registry_team": "Houston Rockets",
@@ -1890,7 +1474,7 @@
    "game_date": "11/23/2026",
    "game_time": "10:00 (ET)",
    "matchup": "SAS@SAC",
-   "status": "Questionable",
+   "status": "Out",
    "reason": "Injury/Illness - Right Shin Contusion",
    "reason_category": "Injury/Illness",
    "collected": true,
@@ -1898,13 +1482,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T05:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0400",
    "registry_team": "San Antonio Spurs",
@@ -1924,13 +1508,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T05:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0402",
    "registry_team": "San Antonio Spurs",
@@ -1950,13 +1534,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T05:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0498",
    "registry_team": "San Antonio Spurs",
@@ -1968,21 +1552,21 @@
    "game_date": "11/23/2026",
    "game_time": "10:00 (ET)",
    "matchup": "SAS@SAC",
-   "status": "Questionable",
-   "reason": "Injury/Illness - Left Shoulder Contusion",
-   "reason_category": "Injury/Illness",
+   "status": "Available",
+   "reason": "-",
+   "reason_category": null,
    "collected": true,
    "expires_at": "2026-11-24T05:00:00+00:00",
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T05:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0406",
    "registry_team": "San Antonio Spurs",
@@ -1994,7 +1578,7 @@
    "game_date": "11/23/2026",
    "game_time": "10:00 (ET)",
    "matchup": "SAS@SAC",
-   "status": "Questionable",
+   "status": "Out",
    "reason": "Injury/Illness - Bilateral Low Back Tightness",
    "reason_category": "Injury/Illness",
    "collected": true,
@@ -2002,13 +1586,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T05:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0409",
    "registry_team": "San Antonio Spurs",
@@ -2028,13 +1612,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T05:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0388",
    "registry_team": "Sacramento Kings",
@@ -2054,13 +1638,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T05:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0496",
    "registry_team": "Sacramento Kings",
@@ -2080,13 +1664,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T05:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0497",
    "registry_team": "Sacramento Kings",
@@ -2106,13 +1690,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T05:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0432",
    "registry_team": "Utah Jazz",
@@ -2132,13 +1716,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T05:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0433",
    "registry_team": "Utah Jazz",
@@ -2158,13 +1742,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T05:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0434",
    "registry_team": "Utah Jazz",
@@ -2177,20 +1761,20 @@
    "game_time": "10:00 (ET)",
    "matchup": "UTA@LAL",
    "status": "Out",
-   "reason": "Injury/Illness - Right 2nd Plantar Plate Tear",
+   "reason": "Injury/Illness - Right 2nd Plantar",
    "reason_category": "Injury/Illness",
    "collected": true,
    "expires_at": "2026-11-24T05:00:00+00:00",
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T05:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0502",
    "registry_team": "Utah Jazz",
@@ -2210,13 +1794,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T05:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0192",
    "registry_team": "Los Angeles Lakers",
@@ -2236,13 +1820,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-24T05:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0200",
    "registry_team": "Los Angeles Lakers",
@@ -2262,13 +1846,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-25T02:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0127",
    "registry_team": "Detroit Pistons",
@@ -2288,13 +1872,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-25T02:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0128",
    "registry_team": "Detroit Pistons",
@@ -2314,13 +1898,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-25T02:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0135",
    "registry_team": "Detroit Pistons",
@@ -2340,13 +1924,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-25T02:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0137",
    "registry_team": "Detroit Pistons",
@@ -2366,13 +1950,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-25T02:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0138",
    "registry_team": "Detroit Pistons",
@@ -2392,13 +1976,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-25T02:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0140",
    "registry_team": "Detroit Pistons",
@@ -2418,13 +2002,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-25T02:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0321",
    "registry_team": "Orlando Magic",
@@ -2444,13 +2028,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-25T02:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0328",
    "registry_team": "Orlando Magic",
@@ -2470,13 +2054,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-25T02:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0489",
    "registry_team": "Orlando Magic",
@@ -2496,13 +2080,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-25T02:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0490",
    "registry_team": "Orlando Magic",
@@ -2522,13 +2106,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-25T03:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0023",
    "registry_team": "Boston Celtics",
@@ -2548,13 +2132,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-25T03:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0026",
    "registry_team": "Boston Celtics",
@@ -2574,13 +2158,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-25T03:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0473",
    "registry_team": "Boston Celtics",
@@ -2600,13 +2184,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-25T03:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0440",
    "registry_team": "Washington Wizards",
@@ -2626,13 +2210,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-25T03:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0442",
    "registry_team": "Washington Wizards",
@@ -2652,13 +2236,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-25T03:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0451",
    "registry_team": "Washington Wizards",
@@ -2678,13 +2262,13 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-25T03:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0503",
    "registry_team": "Washington Wizards",
@@ -2704,24 +2288,154 @@
    "provenance": {
     "origin": "collected",
     "source_name": "NBA official injury report",
-    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_05_45PM.pdf",
-    "fetched_at": "2026-11-23T23:04:18.071267+00:00",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
     "collector": "gapfill_injuries_nba",
     "classification": "Historical",
     "expires_at": "2026-11-25T03:00:00+00:00",
     "supersedes": null,
-    "report_timestamp": "2026-11-23T22:45:00+00:00"
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
    },
    "player_id": "plyr-0504",
    "registry_team": "Washington Wizards",
    "team_agrees_with_registry": true
+  },
+  {
+   "player_name": "Sergio de Larrea",
+   "team": "Dallas Mavericks",
+   "game_date": "11/24/2026",
+   "game_time": "10:00 (ET)",
+   "matchup": "DAL@DEN",
+   "status": "Out",
+   "reason": "Injury/Illness - Right Knee Sprain",
+   "reason_category": "Injury/Illness",
+   "collected": true,
+   "expires_at": "2026-11-25T05:00:00+00:00",
+   "provenance": {
+    "origin": "collected",
+    "source_name": "NBA official injury report",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
+    "collector": "gapfill_injuries_nba",
+    "classification": "Historical",
+    "expires_at": "2026-11-25T05:00:00+00:00",
+    "supersedes": null,
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
+   },
+   "player_id": "plyr-0098",
+   "registry_team": "Dallas Mavericks",
+   "team_agrees_with_registry": true
+  },
+  {
+   "player_name": "Tobi Lawal",
+   "team": "Dallas Mavericks",
+   "game_date": "11/24/2026",
+   "game_time": "10:00 (ET)",
+   "matchup": "DAL@DEN",
+   "status": "Out",
+   "reason": "Injury/Illness - Right Groin Strain",
+   "reason_category": "Injury/Illness",
+   "collected": true,
+   "expires_at": "2026-11-25T05:00:00+00:00",
+   "provenance": {
+    "origin": "collected",
+    "source_name": "NBA official injury report",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
+    "collector": "gapfill_injuries_nba",
+    "classification": "Historical",
+    "expires_at": "2026-11-25T05:00:00+00:00",
+    "supersedes": null,
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
+   },
+   "player_id": "plyr-0104",
+   "registry_team": "Dallas Mavericks",
+   "team_agrees_with_registry": true
+  },
+  {
+   "player_name": "Dereck Lively II",
+   "team": "Dallas Mavericks",
+   "game_date": "11/24/2026",
+   "game_time": "10:00 (ET)",
+   "matchup": "DAL@DEN",
+   "status": "Out",
+   "reason": "Injury/Illness - Right Foot Surgery",
+   "reason_category": "Injury/Illness",
+   "collected": true,
+   "expires_at": "2026-11-25T05:00:00+00:00",
+   "provenance": {
+    "origin": "collected",
+    "source_name": "NBA official injury report",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
+    "collector": "gapfill_injuries_nba",
+    "classification": "Historical",
+    "expires_at": "2026-11-25T05:00:00+00:00",
+    "supersedes": null,
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
+   },
+   "player_id": "plyr-0477",
+   "registry_team": "Dallas Mavericks",
+   "team_agrees_with_registry": true
+  },
+  {
+   "player_name": "Caleb Martin",
+   "team": "Dallas Mavericks",
+   "game_date": "11/24/2026",
+   "game_time": "10:00 (ET)",
+   "matchup": "DAL@DEN",
+   "status": "Available",
+   "reason": "Injury/Illness - Right Thumb Splint",
+   "reason_category": "Injury/Illness",
+   "collected": true,
+   "expires_at": "2026-11-25T05:00:00+00:00",
+   "provenance": {
+    "origin": "collected",
+    "source_name": "NBA official injury report",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
+    "collector": "gapfill_injuries_nba",
+    "classification": "Historical",
+    "expires_at": "2026-11-25T05:00:00+00:00",
+    "supersedes": null,
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
+   },
+   "player_id": "plyr-0106",
+   "registry_team": "Dallas Mavericks",
+   "team_agrees_with_registry": true
+  },
+  {
+   "player_name": "P.J. Washington",
+   "team": "Dallas Mavericks",
+   "game_date": "11/24/2026",
+   "game_time": "10:00 (ET)",
+   "matchup": "DAL@DEN",
+   "status": "Questionable",
+   "reason": "Injury/Illness - Illness",
+   "reason_category": "Injury/Illness",
+   "collected": true,
+   "expires_at": "2026-11-25T05:00:00+00:00",
+   "provenance": {
+    "origin": "collected",
+    "source_name": "NBA official injury report",
+    "source_url": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_09_00PM.pdf",
+    "fetched_at": "2026-11-24T02:04:09.887206+00:00",
+    "collector": "gapfill_injuries_nba",
+    "classification": "Historical",
+    "expires_at": "2026-11-25T05:00:00+00:00",
+    "supersedes": null,
+    "report_timestamp": "2026-11-24T02:00:00+00:00"
+   },
+   "player_id": "plyr-0109",
+   "registry_team": "Dallas Mavericks",
+   "team_agrees_with_registry": true
   }
  ],
  "counts": {
-  "rows_parsed": 118,
-  "published": 104,
-  "staged_unkeyed": 14,
-  "expired_at_publish": 0,
+  "rows_parsed": 126,
+  "published": 93,
+  "staged_unkeyed": 15,
+  "expired_at_publish": 18,
   "dropped_no_status": 0
  }
 }

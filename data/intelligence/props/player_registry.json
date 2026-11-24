@@ -11354,6 +11354,7 @@
       "full_name": "Grant Nelson",
       "league": "NBA",
       "player_id": "plyr-0474",
+      "position": "F",
       "provider_ids": {
         "espn": 4702670
       },
@@ -11653,6 +11654,7 @@
       "full_name": "Johni Broome",
       "league": "NBA",
       "player_id": "plyr-0487",
+      "position": "F",
       "provider_ids": {
         "espn": 4433569
       },
@@ -11953,6 +11955,7 @@
       "full_name": "Kobe Bufkin",
       "league": "NBA",
       "player_id": "plyr-0500",
+      "position": "G",
       "provider_ids": {
         "espn": 4683736
       },
@@ -11976,6 +11979,7 @@
       "full_name": "Harrison Ingram",
       "league": "NBA",
       "player_id": "plyr-0501",
+      "position": "F",
       "provider_ids": {
         "espn": 4433618
       },
@@ -12091,6 +12095,7 @@
       "full_name": "Brandon Ingram",
       "league": "NBA",
       "player_id": "plyr-0506",
+      "position": "F",
       "provider_ids": {
         "espn": 3913176
       },
@@ -89623,6 +89628,54 @@
         {
           "from": "2026-11-22",
           "team": "Winnipeg Jets",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Gabe Vincent",
+      "league": "NBA",
+      "player_id": "plyr-3694",
+      "position": "G",
+      "provider_ids": {
+        "espn": 3137259
+      },
+      "status_history": [
+        {
+          "from": "2026-11-24",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-24",
+          "team": "Sacramento Kings",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Jonas Aidoo",
+      "league": "NBA",
+      "player_id": "plyr-3695",
+      "position": "C",
+      "provider_ids": {
+        "espn": 4684682
+      },
+      "status_history": [
+        {
+          "from": "2026-11-24",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-24",
+          "team": "Utah Jazz",
           "to": null
         }
       ]

@@ -89771,6 +89771,54 @@
           "to": null
         }
       ]
+    },
+    {
+      "full_name": "Otto Stenberg",
+      "league": "NHL",
+      "player_id": "plyr-3699",
+      "position": "C",
+      "provider_ids": {
+        "nhl": 8484230
+      },
+      "status_history": [
+        {
+          "from": "2026-11-25",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-25",
+          "team": "St. Louis Blues",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Adam Jiricek",
+      "league": "NHL",
+      "player_id": "plyr-3700",
+      "position": "D",
+      "provider_ids": {
+        "nhl": 8484790
+      },
+      "status_history": [
+        {
+          "from": "2026-11-25",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-25",
+          "team": "St. Louis Blues",
+          "to": null
+        }
+      ]
     }
   ],
   "registry_version": 1

@@ -89819,6 +89819,30 @@
           "to": null
         }
       ]
+    },
+    {
+      "full_name": "Tyler Nickel",
+      "league": "NBA",
+      "player_id": "plyr-3701",
+      "position": "F",
+      "provider_ids": {
+        "espn": 4838721
+      },
+      "status_history": [
+        {
+          "from": "2026-11-26",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-26",
+          "team": "New York Knicks",
+          "to": null
+        }
+      ]
     }
   ],
   "registry_version": 1

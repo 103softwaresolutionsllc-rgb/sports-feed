@@ -89843,6 +89843,78 @@
           "to": null
         }
       ]
+    },
+    {
+      "full_name": "Adam Beckman",
+      "league": "NHL",
+      "player_id": "plyr-3702",
+      "position": "L",
+      "provider_ids": {
+        "nhl": 8481550
+      },
+      "status_history": [
+        {
+          "from": "2026-11-26",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-26",
+          "team": "Colorado Avalanche",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Kirill Kirsanov",
+      "league": "NHL",
+      "player_id": "plyr-3703",
+      "position": "D",
+      "provider_ids": {
+        "nhl": 8482922
+      },
+      "status_history": [
+        {
+          "from": "2026-11-26",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-26",
+          "team": "Los Angeles Kings",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Calum Ritchie",
+      "league": "NHL",
+      "player_id": "plyr-3704",
+      "position": "C",
+      "provider_ids": {
+        "nhl": 8484221
+      },
+      "status_history": [
+        {
+          "from": "2026-11-26",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-26",
+          "team": "New York Islanders",
+          "to": null
+        }
+      ]
     }
   ],
   "registry_version": 1

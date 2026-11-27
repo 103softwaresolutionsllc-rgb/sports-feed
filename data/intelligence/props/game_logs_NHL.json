@@ -1,7 +1,7 @@
 {
   "classification": "Historical",
   "coverage": {
-    "as_of": "2026-11-26",
+    "as_of": "2026-11-27",
     "season": "20262027",
     "seasons": [
       "20252026",
@@ -517546,9 +517546,9 @@
             "goals": 0.0,
             "goals_against": 4.0,
             "pim": 0.0,
-            "save_pct": 0.8,
-            "saves": 16.0,
-            "shots_against": 20.0,
+            "save_pct": 0.809524,
+            "saves": 17.0,
+            "shots_against": 21.0,
             "shutouts": 0.0,
             "toi_seconds": 3516.0,
             "wins": 0.0
@@ -1002618,7 +1002618,7 @@
             "shifts": 23.0,
             "shorthanded_goals": 0.0,
             "shorthanded_points": 0.0,
-            "shots": 1.0,
+            "shots": 2.0,
             "toi_seconds": 1064.0
           },
           "team": "Utah Mammoth"
@@ -1210635,15 +1210635,274 @@
           "team": "New York Islanders"
         }
       ]
+    },
+    "plyr-3705": {
+      "games": [
+        {
+          "date": "2026-10-23",
+          "game_id": 2026020167,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 2.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 11.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 491.0
+          },
+          "team": "Colorado Avalanche"
+        },
+        {
+          "date": "2026-10-25",
+          "game_id": 2026020183,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 6.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 302.0
+          },
+          "team": "Colorado Avalanche"
+        }
+      ]
+    },
+    "plyr-3706": {
+      "games": []
+    },
+    "plyr-3707": {
+      "games": []
+    },
+    "plyr-3708": {
+      "games": [
+        {
+          "date": "2026-10-01",
+          "game_id": 2026020016,
+          "season": "20262027",
+          "stats": {
+            "assists": 1.0,
+            "game_winning_goals": 1.0,
+            "goals": 1.0,
+            "ot_goals": 1.0,
+            "pim": 2.0,
+            "plus_minus": 1.0,
+            "points": 2.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 1.0,
+            "shifts": 24.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 3.0,
+            "toi_seconds": 1277.0
+          },
+          "team": "San Jose Sharks"
+        },
+        {
+          "date": "2026-10-03",
+          "game_id": 2026020034,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 20.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 3.0,
+            "toi_seconds": 1281.0
+          },
+          "team": "San Jose Sharks"
+        },
+        {
+          "date": "2026-10-05",
+          "game_id": 2026020043,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 18.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 1141.0
+          },
+          "team": "San Jose Sharks"
+        },
+        {
+          "date": "2026-10-08",
+          "game_id": 2026020063,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 0.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 18.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 2.0,
+            "toi_seconds": 966.0
+          },
+          "team": "San Jose Sharks"
+        },
+        {
+          "date": "2026-10-10",
+          "game_id": 2026020072,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 22.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 0.0,
+            "toi_seconds": 1221.0
+          },
+          "team": "San Jose Sharks"
+        },
+        {
+          "date": "2026-10-13",
+          "game_id": 2026020105,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -5.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 16.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 941.0
+          },
+          "team": "San Jose Sharks"
+        },
+        {
+          "date": "2026-10-15",
+          "game_id": 2026020115,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": 1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 17.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 2.0,
+            "toi_seconds": 995.0
+          },
+          "team": "San Jose Sharks"
+        },
+        {
+          "date": "2026-10-19",
+          "game_id": 2026020139,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 2.0,
+            "plus_minus": 1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 19.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 772.0
+          },
+          "team": "San Jose Sharks"
+        },
+        {
+          "date": "2026-10-27",
+          "game_id": 2026020198,
+          "season": "20262027",
+          "stats": {
+            "assists": 0.0,
+            "game_winning_goals": 0.0,
+            "goals": 0.0,
+            "ot_goals": 0.0,
+            "pim": 0.0,
+            "plus_minus": -1.0,
+            "points": 0.0,
+            "power_play_goals": 0.0,
+            "power_play_points": 0.0,
+            "shifts": 19.0,
+            "shorthanded_goals": 0.0,
+            "shorthanded_points": 0.0,
+            "shots": 1.0,
+            "toi_seconds": 845.0
+          },
+          "team": "San Jose Sharks"
+        }
+      ]
+    },
+    "plyr-3709": {
+      "games": []
     }
   },
   "provenance": {
-    "collected_fetched_at_max": "2026-11-26T10:41:09.975848+00:00",
-    "collected_fetched_at_min": "2026-11-26T10:41:09.975848+00:00",
-    "collected_generated_at": "2026-11-26T10:41:09.975848+00:00",
+    "collected_fetched_at_max": "2026-11-27T10:42:37.782023+00:00",
+    "collected_fetched_at_min": "2026-11-27T10:42:37.782023+00:00",
+    "collected_generated_at": "2026-11-27T10:42:37.782023+00:00",
     "collected_layer": "collected/game_logs_NHL.json",
     "collector": "gapfill_stats_nhl",
-    "materialized_at": "2026-11-26T10:50:19.687519+00:00",
+    "materialized_at": "2026-11-27T10:52:36.002275+00:00",
     "materialized_by": "materialize_collected_props",
     "origin": "materialized_from_collected_layer",
     "promotion": {

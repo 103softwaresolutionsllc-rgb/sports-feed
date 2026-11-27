@@ -89915,6 +89915,126 @@
           "to": null
         }
       ]
+    },
+    {
+      "full_name": "Taylor Makar",
+      "league": "NHL",
+      "player_id": "plyr-3705",
+      "position": "L",
+      "provider_ids": {
+        "nhl": 8482953
+      },
+      "status_history": [
+        {
+          "from": "2026-11-27",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-27",
+          "team": "Colorado Avalanche",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Juuso Parssinen",
+      "league": "NHL",
+      "player_id": "plyr-3706",
+      "position": "C",
+      "provider_ids": {
+        "nhl": 8481704
+      },
+      "status_history": [
+        {
+          "from": "2026-11-27",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-27",
+          "team": "New York Rangers",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Cam Lund",
+      "league": "NHL",
+      "player_id": "plyr-3707",
+      "position": "C",
+      "provider_ids": {
+        "nhl": 8483481
+      },
+      "status_history": [
+        {
+          "from": "2026-11-27",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-27",
+          "team": "San Jose Sharks",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Luca Cagnoni",
+      "league": "NHL",
+      "player_id": "plyr-3708",
+      "position": "D",
+      "provider_ids": {
+        "nhl": 8484152
+      },
+      "status_history": [
+        {
+          "from": "2026-11-27",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-27",
+          "team": "San Jose Sharks",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Yegor Borikov",
+      "league": "NHL",
+      "player_id": "plyr-3709",
+      "position": "R",
+      "provider_ids": {
+        "nhl": 8485594
+      },
+      "status_history": [
+        {
+          "from": "2026-11-27",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-27",
+          "team": "Utah Mammoth",
+          "to": null
+        }
+      ]
     }
   ],
   "registry_version": 1

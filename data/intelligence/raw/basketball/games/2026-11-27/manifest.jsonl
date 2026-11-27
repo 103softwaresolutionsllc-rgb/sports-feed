@@ -1,0 +1,3 @@
+{"classification": "Historical", "endpoint": "/games", "file": "165140-001.json", "params": {"league": 12, "season": "2022-2023", "source": "espn-fallback"}, "retrieved_at": "2026-11-27T16:51:40.762509+00:00"}
+{"classification": "Historical", "endpoint": "/games", "file": "165142-001.json", "params": {"league": 12, "season": "2023-2024", "source": "espn-fallback"}, "retrieved_at": "2026-11-27T16:51:42.764074+00:00"}
+{"classification": "Historical", "endpoint": "/games", "file": "165144-001.json", "params": {"league": 12, "season": "2024-2025", "source": "espn-fallback"}, "retrieved_at": "2026-11-27T16:51:44.355141+00:00"}

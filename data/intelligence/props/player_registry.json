@@ -90061,6 +90061,78 @@
           "to": null
         }
       ]
+    },
+    {
+      "full_name": "Conor Sheary",
+      "league": "NHL",
+      "player_id": "plyr-3711",
+      "position": "L",
+      "provider_ids": {
+        "nhl": 8477839
+      },
+      "status_history": [
+        {
+          "from": "2026-11-28",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-28",
+          "team": "Buffalo Sabres",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Anton Silaev",
+      "league": "NHL",
+      "player_id": "plyr-3712",
+      "position": "D",
+      "provider_ids": {
+        "nhl": 8484987
+      },
+      "status_history": [
+        {
+          "from": "2026-11-28",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-28",
+          "team": "New Jersey Devils",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Atley Calvert",
+      "league": "NHL",
+      "player_id": "plyr-3713",
+      "position": "C",
+      "provider_ids": {
+        "nhl": 8483833
+      },
+      "status_history": [
+        {
+          "from": "2026-11-28",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-28",
+          "team": "Pittsburgh Penguins",
+          "to": null
+        }
+      ]
     }
   ],
   "registry_version": 1

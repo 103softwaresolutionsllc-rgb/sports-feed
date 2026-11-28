@@ -11447,6 +11447,7 @@
       "full_name": "Julian Strawther",
       "league": "NBA",
       "player_id": "plyr-0478",
+      "position": "G",
       "provider_ids": {
         "espn": 4432181
       },
@@ -12003,6 +12004,7 @@
       "full_name": "Jusuf Nurkic",
       "league": "NBA",
       "player_id": "plyr-0502",
+      "position": "C",
       "provider_ids": {
         "espn": 3102530
       },
@@ -90032,6 +90034,30 @@
         {
           "from": "2026-11-27",
           "team": "Utah Mammoth",
+          "to": null
+        }
+      ]
+    },
+    {
+      "full_name": "Lawson Lovering",
+      "league": "NBA",
+      "player_id": "plyr-3710",
+      "position": "C",
+      "provider_ids": {
+        "espn": 4596528
+      },
+      "status_history": [
+        {
+          "from": "2026-11-28",
+          "note": "Registered from harvested game data.",
+          "status": "active",
+          "to": null
+        }
+      ],
+      "team_history": [
+        {
+          "from": "2026-11-28",
+          "team": "Memphis Grizzlies",
           "to": null
         }
       ]

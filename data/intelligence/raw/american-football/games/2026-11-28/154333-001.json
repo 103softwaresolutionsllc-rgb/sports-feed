@@ -1,0 +1,8847 @@
+{
+  "errors": [],
+  "get": "games",
+  "parameters": {
+    "league": "1",
+    "season": "2024",
+    "source": "espn-fallback"
+  },
+  "response": [
+    {
+      "date": "2024-09-06T00:40Z",
+      "id": 401671789,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        },
+        "home": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        }
+      }
+    },
+    {
+      "date": "2024-09-07T00:15Z",
+      "id": 401671805,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 29
+        },
+        "home": {
+          "total": 34
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        },
+        "home": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        }
+      }
+    },
+    {
+      "date": "2024-09-08T17:00Z",
+      "id": 401671617,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 28
+        },
+        "home": {
+          "total": 34
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        },
+        "home": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        }
+      }
+    },
+    {
+      "date": "2024-09-08T17:00Z",
+      "id": 401671628,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 17,
+          "name": "New England Patriots"
+        },
+        "home": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        }
+      }
+    },
+    {
+      "date": "2024-09-08T17:00Z",
+      "id": 401671712,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 28
+        },
+        "home": {
+          "total": 6
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        },
+        "home": {
+          "id": 19,
+          "name": "New York Giants"
+        }
+      }
+    },
+    {
+      "date": "2024-09-08T17:00Z",
+      "id": 401671719,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        },
+        "home": {
+          "id": 3,
+          "name": "Chicago Bears"
+        }
+      }
+    },
+    {
+      "date": "2024-09-08T17:00Z",
+      "id": 401671734,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 47
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        },
+        "home": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        }
+      }
+    },
+    {
+      "date": "2024-09-08T17:00Z",
+      "id": 401671744,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 18
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        },
+        "home": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        }
+      }
+    },
+    {
+      "date": "2024-09-08T17:00Z",
+      "id": 401671849,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        },
+        "home": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        }
+      }
+    },
+    {
+      "date": "2024-09-08T17:00Z",
+      "id": 401671861,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 29
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 34,
+          "name": "Houston Texans"
+        },
+        "home": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        }
+      }
+    },
+    {
+      "date": "2024-09-08T20:05Z",
+      "id": 401671659,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 22
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        },
+        "home": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        }
+      }
+    },
+    {
+      "date": "2024-09-08T20:05Z",
+      "id": 401671664,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 26
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 7,
+          "name": "Denver Broncos"
+        },
+        "home": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        }
+      }
+    },
+    {
+      "date": "2024-09-08T20:25Z",
+      "id": 401671761,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 33
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        },
+        "home": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        }
+      }
+    },
+    {
+      "date": "2024-09-08T20:25Z",
+      "id": 401671770,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 37
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 28,
+          "name": "Washington Commanders"
+        },
+        "home": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        }
+      }
+    },
+    {
+      "date": "2024-09-09T00:20Z",
+      "id": 401671792,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 26
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        },
+        "home": {
+          "id": 8,
+          "name": "Detroit Lions"
+        }
+      }
+    },
+    {
+      "date": "2024-09-10T00:15Z",
+      "id": 401671696,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 19
+        },
+        "home": {
+          "total": 32
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 20,
+          "name": "New York Jets"
+        },
+        "home": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        }
+      }
+    },
+    {
+      "date": "2024-09-13T00:15Z",
+      "id": 401671807,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 31
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        },
+        "home": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        }
+      }
+    },
+    {
+      "date": "2024-09-15T17:00Z",
+      "id": 401671624,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 26
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        },
+        "home": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        }
+      }
+    },
+    {
+      "date": "2024-09-15T17:00Z",
+      "id": 401671635,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 18
+        },
+        "home": {
+          "total": 13
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        },
+        "home": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        }
+      }
+    },
+    {
+      "date": "2024-09-15T17:00Z",
+      "id": 401671636,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 20,
+          "name": "New York Jets"
+        },
+        "home": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        }
+      }
+    },
+    {
+      "date": "2024-09-15T17:00Z",
+      "id": 401671645,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        },
+        "home": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        }
+      }
+    },
+    {
+      "date": "2024-09-15T17:00Z",
+      "id": 401671652,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 26
+        },
+        "home": {
+          "total": 3
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        },
+        "home": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        }
+      }
+    },
+    {
+      "date": "2024-09-15T17:00Z",
+      "id": 401671702,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 23
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        },
+        "home": {
+          "id": 17,
+          "name": "New England Patriots"
+        }
+      }
+    },
+    {
+      "date": "2024-09-15T17:00Z",
+      "id": 401671709,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 44
+        },
+        "home": {
+          "total": 19
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        },
+        "home": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        }
+      }
+    },
+    {
+      "date": "2024-09-15T17:00Z",
+      "id": 401671716,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 18
+        },
+        "home": {
+          "total": 21
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 19,
+          "name": "New York Giants"
+        },
+        "home": {
+          "id": 28,
+          "name": "Washington Commanders"
+        }
+      }
+    },
+    {
+      "date": "2024-09-15T17:00Z",
+      "id": 401671721,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 16
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        },
+        "home": {
+          "id": 8,
+          "name": "Detroit Lions"
+        }
+      }
+    },
+    {
+      "date": "2024-09-15T17:00Z",
+      "id": 401671723,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 16
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        },
+        "home": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        }
+      }
+    },
+    {
+      "date": "2024-09-15T20:05Z",
+      "id": 401671754,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 41
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        },
+        "home": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        }
+      }
+    },
+    {
+      "date": "2024-09-15T20:25Z",
+      "id": 401671668,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 13
+        },
+        "home": {
+          "total": 6
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        },
+        "home": {
+          "id": 7,
+          "name": "Denver Broncos"
+        }
+      }
+    },
+    {
+      "date": "2024-09-15T20:25Z",
+      "id": 401671670,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 25
+        },
+        "home": {
+          "total": 26
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        },
+        "home": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        }
+      }
+    },
+    {
+      "date": "2024-09-16T00:20Z",
+      "id": 401671786,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 13
+        },
+        "home": {
+          "total": 19
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3,
+          "name": "Chicago Bears"
+        },
+        "home": {
+          "id": 34,
+          "name": "Houston Texans"
+        }
+      }
+    },
+    {
+      "date": "2024-09-17T00:15Z",
+      "id": 401671691,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 22
+        },
+        "home": {
+          "total": 21
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        },
+        "home": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        }
+      }
+    },
+    {
+      "date": "2024-09-20T00:15Z",
+      "id": 401671808,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 3
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 17,
+          "name": "New England Patriots"
+        },
+        "home": {
+          "id": 20,
+          "name": "New York Jets"
+        }
+      }
+    },
+    {
+      "date": "2024-09-22T17:00Z",
+      "id": 401671632,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        },
+        "home": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        }
+      }
+    },
+    {
+      "date": "2024-09-22T17:00Z",
+      "id": 401671646,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 7
+        },
+        "home": {
+          "total": 34
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 34,
+          "name": "Houston Texans"
+        },
+        "home": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        }
+      }
+    },
+    {
+      "date": "2024-09-22T17:00Z",
+      "id": 401671736,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 15
+        },
+        "home": {
+          "total": 12
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        },
+        "home": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        }
+      }
+    },
+    {
+      "date": "2024-09-22T17:00Z",
+      "id": 401671741,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 26
+        },
+        "home": {
+          "total": 7
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 7,
+          "name": "Denver Broncos"
+        },
+        "home": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        }
+      }
+    },
+    {
+      "date": "2024-09-22T17:00Z",
+      "id": 401671823,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 30
+        },
+        "home": {
+          "total": 14
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        },
+        "home": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        }
+      }
+    },
+    {
+      "date": "2024-09-22T17:00Z",
+      "id": 401671855,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 21
+        },
+        "home": {
+          "total": 15
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 19,
+          "name": "New York Giants"
+        },
+        "home": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        }
+      }
+    },
+    {
+      "date": "2024-09-22T17:00Z",
+      "id": 401671865,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 21
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3,
+          "name": "Chicago Bears"
+        },
+        "home": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        }
+      }
+    },
+    {
+      "date": "2024-09-22T20:05Z",
+      "id": 401671658,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 36
+        },
+        "home": {
+          "total": 22
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        },
+        "home": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        }
+      }
+    },
+    {
+      "date": "2024-09-22T20:05Z",
+      "id": 401671662,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 3
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        },
+        "home": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        }
+      }
+    },
+    {
+      "date": "2024-09-22T20:25Z",
+      "id": 401671763,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 28
+        },
+        "home": {
+          "total": 25
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        },
+        "home": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        }
+      }
+    },
+    {
+      "date": "2024-09-22T20:25Z",
+      "id": 401671771,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 13
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 8,
+          "name": "Detroit Lions"
+        },
+        "home": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        }
+      }
+    },
+    {
+      "date": "2024-09-22T20:25Z",
+      "id": 401671772,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        },
+        "home": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        }
+      }
+    },
+    {
+      "date": "2024-09-23T00:20Z",
+      "id": 401671793,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 22
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        },
+        "home": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        }
+      }
+    },
+    {
+      "date": "2024-09-23T23:30Z",
+      "id": 401671682,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 47
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        },
+        "home": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        }
+      }
+    },
+    {
+      "date": "2024-09-24T00:15Z",
+      "id": 401671490,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 38
+        },
+        "home": {
+          "total": 33
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 28,
+          "name": "Washington Commanders"
+        },
+        "home": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        }
+      }
+    },
+    {
+      "date": "2024-09-27T00:15Z",
+      "id": 401671812,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 15
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        },
+        "home": {
+          "id": 19,
+          "name": "New York Giants"
+        }
+      }
+    },
+    {
+      "date": "2024-09-29T17:00Z",
+      "id": 401671622,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 9
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 7,
+          "name": "Denver Broncos"
+        },
+        "home": {
+          "id": 20,
+          "name": "New York Jets"
+        }
+      }
+    },
+    {
+      "date": "2024-09-29T17:00Z",
+      "id": 401671643,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 31
+        },
+        "home": {
+          "total": 29
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        },
+        "home": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        }
+      }
+    },
+    {
+      "date": "2024-09-29T17:00Z",
+      "id": 401671727,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 26
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        },
+        "home": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        }
+      }
+    },
+    {
+      "date": "2024-09-29T17:00Z",
+      "id": 401671740,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 33
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        },
+        "home": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        }
+      }
+    },
+    {
+      "date": "2024-09-29T17:00Z",
+      "id": 401671745,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 34
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        },
+        "home": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        }
+      }
+    },
+    {
+      "date": "2024-09-29T17:00Z",
+      "id": 401671857,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        },
+        "home": {
+          "id": 34,
+          "name": "Houston Texans"
+        }
+      }
+    },
+    {
+      "date": "2024-09-29T17:00Z",
+      "id": 401671867,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        },
+        "home": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        }
+      }
+    },
+    {
+      "date": "2024-09-29T17:00Z",
+      "id": 401671871,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 18
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        },
+        "home": {
+          "id": 3,
+          "name": "Chicago Bears"
+        }
+      }
+    },
+    {
+      "date": "2024-09-29T20:05Z",
+      "id": 401671755,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 42
+        },
+        "home": {
+          "total": 14
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 28,
+          "name": "Washington Commanders"
+        },
+        "home": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        }
+      }
+    },
+    {
+      "date": "2024-09-29T20:05Z",
+      "id": 401671758,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 13
+        },
+        "home": {
+          "total": 30
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 17,
+          "name": "New England Patriots"
+        },
+        "home": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        }
+      }
+    },
+    {
+      "date": "2024-09-29T20:25Z",
+      "id": 401671672,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        },
+        "home": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        }
+      }
+    },
+    {
+      "date": "2024-09-29T20:25Z",
+      "id": 401671674,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        },
+        "home": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        }
+      }
+    },
+    {
+      "date": "2024-09-30T00:20Z",
+      "id": 401671783,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 35
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        },
+        "home": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        }
+      }
+    },
+    {
+      "date": "2024-09-30T23:30Z",
+      "id": 401671683,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 31
+        },
+        "home": {
+          "total": 12
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        },
+        "home": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        }
+      }
+    },
+    {
+      "date": "2024-10-01T00:15Z",
+      "id": 401671491,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 29
+        },
+        "home": {
+          "total": 42
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        },
+        "home": {
+          "id": 8,
+          "name": "Detroit Lions"
+        }
+      }
+    },
+    {
+      "date": "2024-10-04T00:15Z",
+      "id": 401671815,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 30
+        },
+        "home": {
+          "total": 36
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        },
+        "home": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        }
+      }
+    },
+    {
+      "date": "2024-10-06T13:30Z",
+      "id": 401671804,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 20,
+          "name": "New York Jets"
+        },
+        "home": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        }
+      }
+    },
+    {
+      "date": "2024-10-06T17:00Z",
+      "id": 401671626,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 41
+        },
+        "home": {
+          "total": 38
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        },
+        "home": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        }
+      }
+    },
+    {
+      "date": "2024-10-06T17:00Z",
+      "id": 401671633,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 34
+        },
+        "home": {
+          "total": 37
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        },
+        "home": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        }
+      }
+    },
+    {
+      "date": "2024-10-06T17:00Z",
+      "id": 401671700,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 15
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        },
+        "home": {
+          "id": 17,
+          "name": "New England Patriots"
+        }
+      }
+    },
+    {
+      "date": "2024-10-06T17:00Z",
+      "id": 401671718,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 13
+        },
+        "home": {
+          "total": 34
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        },
+        "home": {
+          "id": 28,
+          "name": "Washington Commanders"
+        }
+      }
+    },
+    {
+      "date": "2024-10-06T17:00Z",
+      "id": 401671859,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        },
+        "home": {
+          "id": 34,
+          "name": "Houston Texans"
+        }
+      }
+    },
+    {
+      "date": "2024-10-06T17:00Z",
+      "id": 401671872,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 36
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        },
+        "home": {
+          "id": 3,
+          "name": "Chicago Bears"
+        }
+      }
+    },
+    {
+      "date": "2024-10-06T20:05Z",
+      "id": 401671747,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 18
+        },
+        "home": {
+          "total": 34
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        },
+        "home": {
+          "id": 7,
+          "name": "Denver Broncos"
+        }
+      }
+    },
+    {
+      "date": "2024-10-06T20:05Z",
+      "id": 401671756,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        },
+        "home": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        }
+      }
+    },
+    {
+      "date": "2024-10-06T20:25Z",
+      "id": 401671679,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 19
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        },
+        "home": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        }
+      }
+    },
+    {
+      "date": "2024-10-06T20:25Z",
+      "id": 401671680,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 29
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 19,
+          "name": "New York Giants"
+        },
+        "home": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        }
+      }
+    },
+    {
+      "date": "2024-10-07T01:45Z",
+      "id": 401671784,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        },
+        "home": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        }
+      }
+    },
+    {
+      "date": "2024-10-08T00:15Z",
+      "id": 401671687,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 13
+        },
+        "home": {
+          "total": 26
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        },
+        "home": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        }
+      }
+    },
+    {
+      "date": "2024-10-11T00:15Z",
+      "id": 401671819,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 36
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        },
+        "home": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        }
+      }
+    },
+    {
+      "date": "2024-10-13T13:30Z",
+      "id": 401671802,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 35
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        },
+        "home": {
+          "id": 3,
+          "name": "Chicago Bears"
+        }
+      }
+    },
+    {
+      "date": "2024-10-13T17:00Z",
+      "id": 401671619,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 41
+        },
+        "home": {
+          "total": 21
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 34,
+          "name": "Houston Texans"
+        },
+        "home": {
+          "id": 17,
+          "name": "New England Patriots"
+        }
+      }
+    },
+    {
+      "date": "2024-10-13T17:00Z",
+      "id": 401671625,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 23
+        },
+        "home": {
+          "total": 30
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 28,
+          "name": "Washington Commanders"
+        },
+        "home": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        }
+      }
+    },
+    {
+      "date": "2024-10-13T17:00Z",
+      "id": 401671714,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        },
+        "home": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        }
+      }
+    },
+    {
+      "date": "2024-10-13T17:00Z",
+      "id": 401671722,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 13
+        },
+        "home": {
+          "total": 34
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        },
+        "home": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        }
+      }
+    },
+    {
+      "date": "2024-10-13T17:00Z",
+      "id": 401671735,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 51
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        },
+        "home": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        }
+      }
+    },
+    {
+      "date": "2024-10-13T17:00Z",
+      "id": 401671820,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        },
+        "home": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        }
+      }
+    },
+    {
+      "date": "2024-10-13T20:05Z",
+      "id": 401671655,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 23
+        },
+        "home": {
+          "total": 16
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        },
+        "home": {
+          "id": 7,
+          "name": "Denver Broncos"
+        }
+      }
+    },
+    {
+      "date": "2024-10-13T20:05Z",
+      "id": 401671657,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 32
+        },
+        "home": {
+          "total": 13
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        },
+        "home": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        }
+      }
+    },
+    {
+      "date": "2024-10-13T20:25Z",
+      "id": 401671764,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 47
+        },
+        "home": {
+          "total": 9
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 8,
+          "name": "Detroit Lions"
+        },
+        "home": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        }
+      }
+    },
+    {
+      "date": "2024-10-13T20:25Z",
+      "id": 401671769,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 38
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        },
+        "home": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        }
+      }
+    },
+    {
+      "date": "2024-10-14T00:20Z",
+      "id": 401671791,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 7
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        },
+        "home": {
+          "id": 19,
+          "name": "New York Giants"
+        }
+      }
+    },
+    {
+      "date": "2024-10-15T00:15Z",
+      "id": 401671684,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 23
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        },
+        "home": {
+          "id": 20,
+          "name": "New York Jets"
+        }
+      }
+    },
+    {
+      "date": "2024-10-18T00:15Z",
+      "id": 401671816,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 33
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 7,
+          "name": "Denver Broncos"
+        },
+        "home": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        }
+      }
+    },
+    {
+      "date": "2024-10-20T13:30Z",
+      "id": 401671801,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 32
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 17,
+          "name": "New England Patriots"
+        },
+        "home": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        }
+      }
+    },
+    {
+      "date": "2024-10-20T17:00Z",
+      "id": 401671616,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 34
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        },
+        "home": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        }
+      }
+    },
+    {
+      "date": "2024-10-20T17:00Z",
+      "id": 401671644,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 22
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 34,
+          "name": "Houston Texans"
+        },
+        "home": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        }
+      }
+    },
+    {
+      "date": "2024-10-20T17:00Z",
+      "id": 401671710,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 28
+        },
+        "home": {
+          "total": 3
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        },
+        "home": {
+          "id": 19,
+          "name": "New York Giants"
+        }
+      }
+    },
+    {
+      "date": "2024-10-20T17:00Z",
+      "id": 401671724,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 31
+        },
+        "home": {
+          "total": 29
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 8,
+          "name": "Detroit Lions"
+        },
+        "home": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        }
+      }
+    },
+    {
+      "date": "2024-10-20T17:00Z",
+      "id": 401671730,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 34
+        },
+        "home": {
+          "total": 14
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        },
+        "home": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        }
+      }
+    },
+    {
+      "date": "2024-10-20T17:00Z",
+      "id": 401671853,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 21
+        },
+        "home": {
+          "total": 14
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        },
+        "home": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        }
+      }
+    },
+    {
+      "date": "2024-10-20T17:00Z",
+      "id": 401671864,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 16
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        },
+        "home": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        }
+      }
+    },
+    {
+      "date": "2024-10-20T20:05Z",
+      "id": 401671640,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 7
+        },
+        "home": {
+          "total": 40
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        },
+        "home": {
+          "id": 28,
+          "name": "Washington Commanders"
+        }
+      }
+    },
+    {
+      "date": "2024-10-20T20:05Z",
+      "id": 401671663,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 15
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        },
+        "home": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        }
+      }
+    },
+    {
+      "date": "2024-10-20T20:25Z",
+      "id": 401671777,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 28
+        },
+        "home": {
+          "total": 18
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        },
+        "home": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        }
+      }
+    },
+    {
+      "date": "2024-10-21T00:20Z",
+      "id": 401671785,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 15
+        },
+        "home": {
+          "total": 37
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 20,
+          "name": "New York Jets"
+        },
+        "home": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        }
+      }
+    },
+    {
+      "date": "2024-10-22T00:15Z",
+      "id": 401671695,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 41
+        },
+        "home": {
+          "total": 31
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        },
+        "home": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        }
+      }
+    },
+    {
+      "date": "2024-10-22T01:00Z",
+      "id": 401671699,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 15
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        },
+        "home": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        }
+      }
+    },
+    {
+      "date": "2024-10-25T00:15Z",
+      "id": 401671817,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 30
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        },
+        "home": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        }
+      }
+    },
+    {
+      "date": "2024-10-27T17:00Z",
+      "id": 401671618,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 22
+        },
+        "home": {
+          "total": 25
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 20,
+          "name": "New York Jets"
+        },
+        "home": {
+          "id": 17,
+          "name": "New England Patriots"
+        }
+      }
+    },
+    {
+      "date": "2024-10-27T17:00Z",
+      "id": 401671667,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 37
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        },
+        "home": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        }
+      }
+    },
+    {
+      "date": "2024-10-27T17:00Z",
+      "id": 401671707,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 30
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        },
+        "home": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        }
+      }
+    },
+    {
+      "date": "2024-10-27T17:00Z",
+      "id": 401671720,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 14
+        },
+        "home": {
+          "total": 52
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        },
+        "home": {
+          "id": 8,
+          "name": "Detroit Lions"
+        }
+      }
+    },
+    {
+      "date": "2024-10-27T17:00Z",
+      "id": 401671739,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 31
+        },
+        "home": {
+          "total": 26
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        },
+        "home": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        }
+      }
+    },
+    {
+      "date": "2024-10-27T17:00Z",
+      "id": 401671850,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 28
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        },
+        "home": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        }
+      }
+    },
+    {
+      "date": "2024-10-27T17:00Z",
+      "id": 401671852,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 29
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        },
+        "home": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        }
+      }
+    },
+    {
+      "date": "2024-10-27T17:00Z",
+      "id": 401671856,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        },
+        "home": {
+          "id": 34,
+          "name": "Houston Texans"
+        }
+      }
+    },
+    {
+      "date": "2024-10-27T20:05Z",
+      "id": 401671750,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 8
+        },
+        "home": {
+          "total": 26
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        },
+        "home": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        }
+      }
+    },
+    {
+      "date": "2024-10-27T20:05Z",
+      "id": 401671760,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 31
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        },
+        "home": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        }
+      }
+    },
+    {
+      "date": "2024-10-27T20:25Z",
+      "id": 401671599,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 15
+        },
+        "home": {
+          "total": 18
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3,
+          "name": "Chicago Bears"
+        },
+        "home": {
+          "id": 28,
+          "name": "Washington Commanders"
+        }
+      }
+    },
+    {
+      "date": "2024-10-27T20:25Z",
+      "id": 401671600,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 14
+        },
+        "home": {
+          "total": 28
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        },
+        "home": {
+          "id": 7,
+          "name": "Denver Broncos"
+        }
+      }
+    },
+    {
+      "date": "2024-10-27T20:25Z",
+      "id": 401671671,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 27
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        },
+        "home": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        }
+      }
+    },
+    {
+      "date": "2024-10-28T00:20Z",
+      "id": 401671795,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 30
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        },
+        "home": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        }
+      }
+    },
+    {
+      "date": "2024-10-29T00:15Z",
+      "id": 401671685,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 18
+        },
+        "home": {
+          "total": 26
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 19,
+          "name": "New York Giants"
+        },
+        "home": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        }
+      }
+    },
+    {
+      "date": "2024-11-01T00:15Z",
+      "id": 401671809,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 13
+        },
+        "home": {
+          "total": 21
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 34,
+          "name": "Houston Texans"
+        },
+        "home": {
+          "id": 20,
+          "name": "New York Jets"
+        }
+      }
+    },
+    {
+      "date": "2024-11-03T18:00Z",
+      "id": 401671493,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 27
+        },
+        "home": {
+          "total": 30
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        },
+        "home": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        }
+      }
+    },
+    {
+      "date": "2024-11-03T18:00Z",
+      "id": 401671623,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 41
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 7,
+          "name": "Denver Broncos"
+        },
+        "home": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        }
+      }
+    },
+    {
+      "date": "2024-11-03T18:00Z",
+      "id": 401671629,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 27
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        },
+        "home": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        }
+      }
+    },
+    {
+      "date": "2024-11-03T18:00Z",
+      "id": 401671650,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 22
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        },
+        "home": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        }
+      }
+    },
+    {
+      "date": "2024-11-03T18:00Z",
+      "id": 401671704,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 41
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        },
+        "home": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        }
+      }
+    },
+    {
+      "date": "2024-11-03T18:00Z",
+      "id": 401671711,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 27
+        },
+        "home": {
+          "total": 22
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 28,
+          "name": "Washington Commanders"
+        },
+        "home": {
+          "id": 19,
+          "name": "New York Giants"
+        }
+      }
+    },
+    {
+      "date": "2024-11-03T18:00Z",
+      "id": 401671728,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 21
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        },
+        "home": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        }
+      }
+    },
+    {
+      "date": "2024-11-03T18:00Z",
+      "id": 401671822,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 17,
+          "name": "New England Patriots"
+        },
+        "home": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        }
+      }
+    },
+    {
+      "date": "2024-11-03T21:05Z",
+      "id": 401671661,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 9
+        },
+        "home": {
+          "total": 29
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3,
+          "name": "Chicago Bears"
+        },
+        "home": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        }
+      }
+    },
+    {
+      "date": "2024-11-03T21:05Z",
+      "id": 401671797,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 23
+        },
+        "home": {
+          "total": 28
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        },
+        "home": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        }
+      }
+    },
+    {
+      "date": "2024-11-03T21:25Z",
+      "id": 401671767,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 14
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 8,
+          "name": "Detroit Lions"
+        },
+        "home": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        }
+      }
+    },
+    {
+      "date": "2024-11-03T21:25Z",
+      "id": 401671776,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 26
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        },
+        "home": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        }
+      }
+    },
+    {
+      "date": "2024-11-04T01:20Z",
+      "id": 401671647,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 13
+        },
+        "home": {
+          "total": 21
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        },
+        "home": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        }
+      }
+    },
+    {
+      "date": "2024-11-05T01:15Z",
+      "id": 401671688,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 30
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        },
+        "home": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        }
+      }
+    },
+    {
+      "date": "2024-11-08T01:15Z",
+      "id": 401671810,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 34
+        },
+        "home": {
+          "total": 35
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        },
+        "home": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        }
+      }
+    },
+    {
+      "date": "2024-11-10T14:30Z",
+      "id": 401671803,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 19,
+          "name": "New York Giants"
+        },
+        "home": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        }
+      }
+    },
+    {
+      "date": "2024-11-10T18:00Z",
+      "id": 401671637,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 14
+        },
+        "home": {
+          "total": 16
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 7,
+          "name": "Denver Broncos"
+        },
+        "home": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        }
+      }
+    },
+    {
+      "date": "2024-11-10T18:00Z",
+      "id": 401671641,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 28
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        },
+        "home": {
+          "id": 28,
+          "name": "Washington Commanders"
+        }
+      }
+    },
+    {
+      "date": "2024-11-10T18:00Z",
+      "id": 401671708,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 12
+        },
+        "home": {
+          "total": 7
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        },
+        "home": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        }
+      }
+    },
+    {
+      "date": "2024-11-10T18:00Z",
+      "id": 401671733,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        },
+        "home": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        }
+      }
+    },
+    {
+      "date": "2024-11-10T18:00Z",
+      "id": 401671742,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 23
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        },
+        "home": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        }
+      }
+    },
+    {
+      "date": "2024-11-10T18:00Z",
+      "id": 401671863,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 30
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        },
+        "home": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        }
+      }
+    },
+    {
+      "date": "2024-11-10T18:00Z",
+      "id": 401671873,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 19
+        },
+        "home": {
+          "total": 3
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 17,
+          "name": "New England Patriots"
+        },
+        "home": {
+          "id": 3,
+          "name": "Chicago Bears"
+        }
+      }
+    },
+    {
+      "date": "2024-11-10T21:05Z",
+      "id": 401671751,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        },
+        "home": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        }
+      }
+    },
+    {
+      "date": "2024-11-10T21:25Z",
+      "id": 401671676,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 34
+        },
+        "home": {
+          "total": 6
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        },
+        "home": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        }
+      }
+    },
+    {
+      "date": "2024-11-10T21:25Z",
+      "id": 401671678,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 6
+        },
+        "home": {
+          "total": 31
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 20,
+          "name": "New York Jets"
+        },
+        "home": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        }
+      }
+    },
+    {
+      "date": "2024-11-11T01:20Z",
+      "id": 401671787,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 26
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 8,
+          "name": "Detroit Lions"
+        },
+        "home": {
+          "id": 34,
+          "name": "Houston Texans"
+        }
+      }
+    },
+    {
+      "date": "2024-11-12T01:15Z",
+      "id": 401671693,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 23
+        },
+        "home": {
+          "total": 15
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        },
+        "home": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        }
+      }
+    },
+    {
+      "date": "2024-11-15T01:15Z",
+      "id": 401671813,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 18
+        },
+        "home": {
+          "total": 26
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 28,
+          "name": "Washington Commanders"
+        },
+        "home": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        }
+      }
+    },
+    {
+      "date": "2024-11-17T18:00Z",
+      "id": 401671630,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 18
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        },
+        "home": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        }
+      }
+    },
+    {
+      "date": "2024-11-17T18:00Z",
+      "id": 401671642,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 6
+        },
+        "home": {
+          "total": 52
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        },
+        "home": {
+          "id": 8,
+          "name": "Detroit Lions"
+        }
+      }
+    },
+    {
+      "date": "2024-11-17T18:00Z",
+      "id": 401671701,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 28
+        },
+        "home": {
+          "total": 22
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        },
+        "home": {
+          "id": 17,
+          "name": "New England Patriots"
+        }
+      }
+    },
+    {
+      "date": "2024-11-17T18:00Z",
+      "id": 401671746,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 14
+        },
+        "home": {
+          "total": 35
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        },
+        "home": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        }
+      }
+    },
+    {
+      "date": "2024-11-17T18:00Z",
+      "id": 401671782,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 28
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        },
+        "home": {
+          "id": 20,
+          "name": "New York Jets"
+        }
+      }
+    },
+    {
+      "date": "2024-11-17T18:00Z",
+      "id": 401671824,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 23
+        },
+        "home": {
+          "total": 13
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        },
+        "home": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        }
+      }
+    },
+    {
+      "date": "2024-11-17T18:00Z",
+      "id": 401671851,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 19
+        },
+        "home": {
+          "total": 34
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        },
+        "home": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        }
+      }
+    },
+    {
+      "date": "2024-11-17T18:00Z",
+      "id": 401671869,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 19
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        },
+        "home": {
+          "id": 3,
+          "name": "Chicago Bears"
+        }
+      }
+    },
+    {
+      "date": "2024-11-17T21:05Z",
+      "id": 401671748,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 6
+        },
+        "home": {
+          "total": 38
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        },
+        "home": {
+          "id": 7,
+          "name": "Denver Broncos"
+        }
+      }
+    },
+    {
+      "date": "2024-11-17T21:05Z",
+      "id": 401671757,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        },
+        "home": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        }
+      }
+    },
+    {
+      "date": "2024-11-17T21:25Z",
+      "id": 401671665,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 21
+        },
+        "home": {
+          "total": 30
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        },
+        "home": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        }
+      }
+    },
+    {
+      "date": "2024-11-18T01:20Z",
+      "id": 401671675,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 27
+        },
+        "home": {
+          "total": 34
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        },
+        "home": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        }
+      }
+    },
+    {
+      "date": "2024-11-19T01:15Z",
+      "id": 401671694,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 34
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 34,
+          "name": "Houston Texans"
+        },
+        "home": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        }
+      }
+    },
+    {
+      "date": "2024-11-22T01:15Z",
+      "id": 401671875,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 19
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        },
+        "home": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        }
+      }
+    },
+    {
+      "date": "2024-11-24T18:00Z",
+      "id": 401671638,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 30
+        },
+        "home": {
+          "total": 7
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        },
+        "home": {
+          "id": 19,
+          "name": "New York Giants"
+        }
+      }
+    },
+    {
+      "date": "2024-11-24T18:00Z",
+      "id": 401671651,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 30
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        },
+        "home": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        }
+      }
+    },
+    {
+      "date": "2024-11-24T18:00Z",
+      "id": 401671715,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 34
+        },
+        "home": {
+          "total": 26
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        },
+        "home": {
+          "id": 28,
+          "name": "Washington Commanders"
+        }
+      }
+    },
+    {
+      "date": "2024-11-24T18:00Z",
+      "id": 401671847,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 15
+        },
+        "home": {
+          "total": 34
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 17,
+          "name": "New England Patriots"
+        },
+        "home": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        }
+      }
+    },
+    {
+      "date": "2024-11-24T18:00Z",
+      "id": 401671858,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 32
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        },
+        "home": {
+          "id": 34,
+          "name": "Houston Texans"
+        }
+      }
+    },
+    {
+      "date": "2024-11-24T18:00Z",
+      "id": 401671866,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 6
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 8,
+          "name": "Detroit Lions"
+        },
+        "home": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        }
+      }
+    },
+    {
+      "date": "2024-11-24T18:00Z",
+      "id": 401671870,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 30
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        },
+        "home": {
+          "id": 3,
+          "name": "Chicago Bears"
+        }
+      }
+    },
+    {
+      "date": "2024-11-24T21:05Z",
+      "id": 401671656,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 29
+        },
+        "home": {
+          "total": 19
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 7,
+          "name": "Denver Broncos"
+        },
+        "home": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        }
+      }
+    },
+    {
+      "date": "2024-11-24T21:25Z",
+      "id": 401671768,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 38
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        },
+        "home": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        }
+      }
+    },
+    {
+      "date": "2024-11-24T21:25Z",
+      "id": 401671775,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 6
+        },
+        "home": {
+          "total": 16
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        },
+        "home": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        }
+      }
+    },
+    {
+      "date": "2024-11-25T01:20Z",
+      "id": 401671794,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 37
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        },
+        "home": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        }
+      }
+    },
+    {
+      "date": "2024-11-26T01:15Z",
+      "id": 401671689,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 30
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        },
+        "home": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        }
+      }
+    },
+    {
+      "date": "2024-11-28T17:30Z",
+      "id": 401671492,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3,
+          "name": "Chicago Bears"
+        },
+        "home": {
+          "id": 8,
+          "name": "Detroit Lions"
+        }
+      }
+    },
+    {
+      "date": "2024-11-28T21:30Z",
+      "id": 401671779,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 19,
+          "name": "New York Giants"
+        },
+        "home": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        }
+      }
+    },
+    {
+      "date": "2024-11-29T01:20Z",
+      "id": 401671798,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 30
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        },
+        "home": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        }
+      }
+    },
+    {
+      "date": "2024-11-29T20:00Z",
+      "id": 401671806,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 19
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        },
+        "home": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        }
+      }
+    },
+    {
+      "date": "2024-12-01T18:00Z",
+      "id": 401671620,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 25
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        },
+        "home": {
+          "id": 17,
+          "name": "New England Patriots"
+        }
+      }
+    },
+    {
+      "date": "2024-12-01T18:00Z",
+      "id": 401671627,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 44
+        },
+        "home": {
+          "total": 38
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        },
+        "home": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        }
+      }
+    },
+    {
+      "date": "2024-12-01T18:00Z",
+      "id": 401671649,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 13
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        },
+        "home": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        }
+      }
+    },
+    {
+      "date": "2024-12-01T18:00Z",
+      "id": 401671703,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 26
+        },
+        "home": {
+          "total": 21
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        },
+        "home": {
+          "id": 20,
+          "name": "New York Jets"
+        }
+      }
+    },
+    {
+      "date": "2024-12-01T18:00Z",
+      "id": 401671705,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 23
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 34,
+          "name": "Houston Texans"
+        },
+        "home": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        }
+      }
+    },
+    {
+      "date": "2024-12-01T18:00Z",
+      "id": 401671726,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 22
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        },
+        "home": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        }
+      }
+    },
+    {
+      "date": "2024-12-01T18:00Z",
+      "id": 401671743,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 19
+        },
+        "home": {
+          "total": 42
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        },
+        "home": {
+          "id": 28,
+          "name": "Washington Commanders"
+        }
+      }
+    },
+    {
+      "date": "2024-12-01T21:05Z",
+      "id": 401671752,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 26
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        },
+        "home": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        }
+      }
+    },
+    {
+      "date": "2024-12-01T21:05Z",
+      "id": 401671753,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 21
+        },
+        "home": {
+          "total": 14
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        },
+        "home": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        }
+      }
+    },
+    {
+      "date": "2024-12-01T21:25Z",
+      "id": 401671666,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 19
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        },
+        "home": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        }
+      }
+    },
+    {
+      "date": "2024-12-02T01:20Z",
+      "id": 401671781,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 35
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        },
+        "home": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        }
+      }
+    },
+    {
+      "date": "2024-12-03T01:15Z",
+      "id": 401671686,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 32
+        },
+        "home": {
+          "total": 41
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        },
+        "home": {
+          "id": 7,
+          "name": "Denver Broncos"
+        }
+      }
+    },
+    {
+      "date": "2024-12-06T01:15Z",
+      "id": 401671814,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 31
+        },
+        "home": {
+          "total": 34
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        },
+        "home": {
+          "id": 8,
+          "name": "Detroit Lions"
+        }
+      }
+    },
+    {
+      "date": "2024-12-08T18:00Z",
+      "id": 401671601,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 14
+        },
+        "home": {
+          "total": 11
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        },
+        "home": {
+          "id": 19,
+          "name": "New York Giants"
+        }
+      }
+    },
+    {
+      "date": "2024-12-08T18:00Z",
+      "id": 401671631,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 14
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        },
+        "home": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        }
+      }
+    },
+    {
+      "date": "2024-12-08T18:00Z",
+      "id": 401671648,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 21
+        },
+        "home": {
+          "total": 42
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        },
+        "home": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        }
+      }
+    },
+    {
+      "date": "2024-12-08T18:00Z",
+      "id": 401671654,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 13
+        },
+        "home": {
+          "total": 28
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        },
+        "home": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        }
+      }
+    },
+    {
+      "date": "2024-12-08T18:00Z",
+      "id": 401671713,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 22
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        },
+        "home": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        }
+      }
+    },
+    {
+      "date": "2024-12-08T18:00Z",
+      "id": 401671821,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 6
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        },
+        "home": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        }
+      }
+    },
+    {
+      "date": "2024-12-08T18:00Z",
+      "id": 401671848,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 26
+        },
+        "home": {
+          "total": 32
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 20,
+          "name": "New York Jets"
+        },
+        "home": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        }
+      }
+    },
+    {
+      "date": "2024-12-08T21:05Z",
+      "id": 401671660,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 30
+        },
+        "home": {
+          "total": 18
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        },
+        "home": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        }
+      }
+    },
+    {
+      "date": "2024-12-08T21:25Z",
+      "id": 401671773,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 42
+        },
+        "home": {
+          "total": 44
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        },
+        "home": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        }
+      }
+    },
+    {
+      "date": "2024-12-08T21:25Z",
+      "id": 401671774,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 13
+        },
+        "home": {
+          "total": 38
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3,
+          "name": "Chicago Bears"
+        },
+        "home": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        }
+      }
+    },
+    {
+      "date": "2024-12-09T01:20Z",
+      "id": 401671788,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 19
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        },
+        "home": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        }
+      }
+    },
+    {
+      "date": "2024-12-10T01:15Z",
+      "id": 401671690,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 27
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        },
+        "home": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        }
+      }
+    },
+    {
+      "date": "2024-12-13T01:15Z",
+      "id": 401671818,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 12
+        },
+        "home": {
+          "total": 6
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        },
+        "home": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        }
+      }
+    },
+    {
+      "date": "2024-12-15T18:00Z",
+      "id": 401671639,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 35
+        },
+        "home": {
+          "total": 14
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        },
+        "home": {
+          "id": 19,
+          "name": "New York Giants"
+        }
+      }
+    },
+    {
+      "date": "2024-12-15T18:00Z",
+      "id": 401671706,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 32
+        },
+        "home": {
+          "total": 25
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 20,
+          "name": "New York Jets"
+        },
+        "home": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        }
+      }
+    },
+    {
+      "date": "2024-12-15T18:00Z",
+      "id": 401671731,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 30
+        },
+        "home": {
+          "total": 14
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        },
+        "home": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        }
+      }
+    },
+    {
+      "date": "2024-12-15T18:00Z",
+      "id": 401671737,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 19
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 28,
+          "name": "Washington Commanders"
+        },
+        "home": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        }
+      }
+    },
+    {
+      "date": "2024-12-15T18:00Z",
+      "id": 401671825,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 37
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        },
+        "home": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        }
+      }
+    },
+    {
+      "date": "2024-12-15T18:00Z",
+      "id": 401671854,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 21
+        },
+        "home": {
+          "total": 7
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        },
+        "home": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        }
+      }
+    },
+    {
+      "date": "2024-12-15T18:00Z",
+      "id": 401671860,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 12
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        },
+        "home": {
+          "id": 34,
+          "name": "Houston Texans"
+        }
+      }
+    },
+    {
+      "date": "2024-12-15T21:25Z",
+      "id": 401671669,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 13
+        },
+        "home": {
+          "total": 31
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        },
+        "home": {
+          "id": 7,
+          "name": "Denver Broncos"
+        }
+      }
+    },
+    {
+      "date": "2024-12-15T21:25Z",
+      "id": 401671677,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 30
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 17,
+          "name": "New England Patriots"
+        },
+        "home": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        }
+      }
+    },
+    {
+      "date": "2024-12-15T21:25Z",
+      "id": 401671681,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 48
+        },
+        "home": {
+          "total": 42
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        },
+        "home": {
+          "id": 8,
+          "name": "Detroit Lions"
+        }
+      }
+    },
+    {
+      "date": "2024-12-15T21:25Z",
+      "id": 401671762,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 40
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        },
+        "home": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        }
+      }
+    },
+    {
+      "date": "2024-12-15T21:25Z",
+      "id": 401671766,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 13
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        },
+        "home": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        }
+      }
+    },
+    {
+      "date": "2024-12-16T01:20Z",
+      "id": 401671796,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 30
+        },
+        "home": {
+          "total": 13
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        },
+        "home": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        }
+      }
+    },
+    {
+      "date": "2024-12-17T01:00Z",
+      "id": 401671489,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 12
+        },
+        "home": {
+          "total": 30
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3,
+          "name": "Chicago Bears"
+        },
+        "home": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        }
+      }
+    },
+    {
+      "date": "2024-12-17T01:30Z",
+      "id": 401671697,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 15
+        },
+        "home": {
+          "total": 9
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        },
+        "home": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        }
+      }
+    },
+    {
+      "date": "2024-12-20T01:15Z",
+      "id": 401671749,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 27
+        },
+        "home": {
+          "total": 34
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 7,
+          "name": "Denver Broncos"
+        },
+        "home": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        }
+      }
+    },
+    {
+      "date": "2024-12-21T18:00Z",
+      "id": 401671780,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 19
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 34,
+          "name": "Houston Texans"
+        },
+        "home": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        }
+      }
+    },
+    {
+      "date": "2024-12-21T21:30Z",
+      "id": 401671778,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 34
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        },
+        "home": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        }
+      }
+    },
+    {
+      "date": "2024-12-22T18:00Z",
+      "id": 401671621,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 19
+        },
+        "home": {
+          "total": 9
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        },
+        "home": {
+          "id": 20,
+          "name": "New York Jets"
+        }
+      }
+    },
+    {
+      "date": "2024-12-22T18:00Z",
+      "id": 401671717,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 33
+        },
+        "home": {
+          "total": 36
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        },
+        "home": {
+          "id": 28,
+          "name": "Washington Commanders"
+        }
+      }
+    },
+    {
+      "date": "2024-12-22T18:00Z",
+      "id": 401671729,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 7
+        },
+        "home": {
+          "total": 34
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 19,
+          "name": "New York Giants"
+        },
+        "home": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        }
+      }
+    },
+    {
+      "date": "2024-12-22T18:00Z",
+      "id": 401671732,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 30
+        },
+        "home": {
+          "total": 36
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        },
+        "home": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        }
+      }
+    },
+    {
+      "date": "2024-12-22T18:00Z",
+      "id": 401671811,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 6
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        },
+        "home": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        }
+      }
+    },
+    {
+      "date": "2024-12-22T18:00Z",
+      "id": 401671862,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 30
+        },
+        "home": {
+          "total": 38
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        },
+        "home": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        }
+      }
+    },
+    {
+      "date": "2024-12-22T18:00Z",
+      "id": 401671868,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 34
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 8,
+          "name": "Detroit Lions"
+        },
+        "home": {
+          "id": 3,
+          "name": "Chicago Bears"
+        }
+      }
+    },
+    {
+      "date": "2024-12-22T21:05Z",
+      "id": 401671759,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 27
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        },
+        "home": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        }
+      }
+    },
+    {
+      "date": "2024-12-22T21:25Z",
+      "id": 401671494,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 21
+        },
+        "home": {
+          "total": 24
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 17,
+          "name": "New England Patriots"
+        },
+        "home": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        }
+      }
+    },
+    {
+      "date": "2024-12-22T21:25Z",
+      "id": 401671673,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 14
+        },
+        "home": {
+          "total": 19
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        },
+        "home": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        }
+      }
+    },
+    {
+      "date": "2024-12-22T21:25Z",
+      "id": 401671874,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 17
+        },
+        "home": {
+          "total": 29
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        },
+        "home": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        }
+      }
+    },
+    {
+      "date": "2024-12-23T01:20Z",
+      "id": 401671790,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 26
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        },
+        "home": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        }
+      }
+    },
+    {
+      "date": "2024-12-24T01:15Z",
+      "id": 401671692,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 0
+        },
+        "home": {
+          "total": 34
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        },
+        "home": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        }
+      }
+    },
+    {
+      "date": "2024-12-25T18:00Z",
+      "id": 401671799,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 29
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        },
+        "home": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        }
+      }
+    },
+    {
+      "date": "2024-12-25T21:30Z",
+      "id": 401671800,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 31
+        },
+        "home": {
+          "total": 2
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        },
+        "home": {
+          "id": 34,
+          "name": "Houston Texans"
+        }
+      }
+    },
+    {
+      "date": "2024-12-27T01:15Z",
+      "id": 401671876,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 6
+        },
+        "home": {
+          "total": 3
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        },
+        "home": {
+          "id": 3,
+          "name": "Chicago Bears"
+        }
+      }
+    },
+    {
+      "date": "2024-12-28T18:00Z",
+      "id": 401671832,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 40
+        },
+        "home": {
+          "total": 7
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        },
+        "home": {
+          "id": 17,
+          "name": "New England Patriots"
+        }
+      }
+    },
+    {
+      "date": "2024-12-28T21:30Z",
+      "id": 401671835,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 30
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 7,
+          "name": "Denver Broncos"
+        },
+        "home": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        }
+      }
+    },
+    {
+      "date": "2024-12-29T01:00Z",
+      "id": 401671829,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 9
+        },
+        "home": {
+          "total": 13
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        },
+        "home": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        }
+      }
+    },
+    {
+      "date": "2024-12-29T18:00Z",
+      "id": 401671495,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 14
+        },
+        "home": {
+          "total": 40
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 20,
+          "name": "New York Jets"
+        },
+        "home": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        }
+      }
+    },
+    {
+      "date": "2024-12-29T18:00Z",
+      "id": 401671634,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 13
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        },
+        "home": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        }
+      }
+    },
+    {
+      "date": "2024-12-29T18:00Z",
+      "id": 401671653,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 14
+        },
+        "home": {
+          "total": 48
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        },
+        "home": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        }
+      }
+    },
+    {
+      "date": "2024-12-29T18:00Z",
+      "id": 401671738,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 25
+        },
+        "home": {
+          "total": 10
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        },
+        "home": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        }
+      }
+    },
+    {
+      "date": "2024-12-29T18:00Z",
+      "id": 401671765,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 7
+        },
+        "home": {
+          "total": 41
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        },
+        "home": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        }
+      }
+    },
+    {
+      "date": "2024-12-29T18:00Z",
+      "id": 401671846,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 33
+        },
+        "home": {
+          "total": 45
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        },
+        "home": {
+          "id": 19,
+          "name": "New York Giants"
+        }
+      }
+    },
+    {
+      "date": "2024-12-29T21:05Z",
+      "id": 401671877,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 3
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        },
+        "home": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        }
+      }
+    },
+    {
+      "date": "2024-12-29T21:25Z",
+      "id": 401671725,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 25
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        },
+        "home": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        }
+      }
+    },
+    {
+      "date": "2024-12-30T01:20Z",
+      "id": 401671842,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 30
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        },
+        "home": {
+          "id": 28,
+          "name": "Washington Commanders"
+        }
+      }
+    },
+    {
+      "date": "2024-12-31T01:15Z",
+      "id": 401671698,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 40
+        },
+        "home": {
+          "total": 34
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 8,
+          "name": "Detroit Lions"
+        },
+        "home": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        }
+      }
+    },
+    {
+      "date": "2025-01-04T21:30Z",
+      "id": 401671834,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 35
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 5,
+          "name": "Cleveland Browns"
+        },
+        "home": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        }
+      }
+    },
+    {
+      "date": "2025-01-05T01:00Z",
+      "id": 401671836,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 19
+        },
+        "home": {
+          "total": 17
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 4,
+          "name": "Cincinnati Bengals"
+        },
+        "home": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        }
+      }
+    },
+    {
+      "date": "2025-01-05T18:00Z",
+      "id": 401671826,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 23
+        },
+        "home": {
+          "total": 14
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 34,
+          "name": "Houston Texans"
+        },
+        "home": {
+          "id": 10,
+          "name": "Tennessee Titans"
+        }
+      }
+    },
+    {
+      "date": "2025-01-05T18:00Z",
+      "id": 401671827,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 44
+        },
+        "home": {
+          "total": 38
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 29,
+          "name": "Carolina Panthers"
+        },
+        "home": {
+          "id": 1,
+          "name": "Atlanta Falcons"
+        }
+      }
+    },
+    {
+      "date": "2025-01-05T18:00Z",
+      "id": 401671828,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 19
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 18,
+          "name": "New Orleans Saints"
+        },
+        "home": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        }
+      }
+    },
+    {
+      "date": "2025-01-05T18:00Z",
+      "id": 401671831,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 16
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        },
+        "home": {
+          "id": 17,
+          "name": "New England Patriots"
+        }
+      }
+    },
+    {
+      "date": "2025-01-05T18:00Z",
+      "id": 401671837,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 23
+        },
+        "home": {
+          "total": 26
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 30,
+          "name": "Jacksonville Jaguars"
+        },
+        "home": {
+          "id": 11,
+          "name": "Indianapolis Colts"
+        }
+      }
+    },
+    {
+      "date": "2025-01-05T18:00Z",
+      "id": 401671840,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 23
+        },
+        "home": {
+          "total": 19
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 28,
+          "name": "Washington Commanders"
+        },
+        "home": {
+          "id": 6,
+          "name": "Dallas Cowboys"
+        }
+      }
+    },
+    {
+      "date": "2025-01-05T18:00Z",
+      "id": 401671841,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 13
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 19,
+          "name": "New York Giants"
+        },
+        "home": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        }
+      }
+    },
+    {
+      "date": "2025-01-05T18:00Z",
+      "id": 401671844,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 22
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3,
+          "name": "Chicago Bears"
+        },
+        "home": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        }
+      }
+    },
+    {
+      "date": "2025-01-05T21:25Z",
+      "id": 401671830,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 30
+        },
+        "home": {
+          "total": 25
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 26,
+          "name": "Seattle Seahawks"
+        },
+        "home": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        }
+      }
+    },
+    {
+      "date": "2025-01-05T21:25Z",
+      "id": 401671833,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 20
+        },
+        "home": {
+          "total": 32
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 15,
+          "name": "Miami Dolphins"
+        },
+        "home": {
+          "id": 20,
+          "name": "New York Jets"
+        }
+      }
+    },
+    {
+      "date": "2025-01-05T21:25Z",
+      "id": 401671838,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 0
+        },
+        "home": {
+          "total": 38
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        },
+        "home": {
+          "id": 7,
+          "name": "Denver Broncos"
+        }
+      }
+    },
+    {
+      "date": "2025-01-05T21:25Z",
+      "id": 401671839,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 34
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        },
+        "home": {
+          "id": 13,
+          "name": "Las Vegas Raiders"
+        }
+      }
+    },
+    {
+      "date": "2025-01-05T21:25Z",
+      "id": 401671845,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 24
+        },
+        "home": {
+          "total": 47
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 25,
+          "name": "San Francisco 49ers"
+        },
+        "home": {
+          "id": 22,
+          "name": "Arizona Cardinals"
+        }
+      }
+    },
+    {
+      "date": "2025-01-06T01:20Z",
+      "id": 401671843,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 9
+        },
+        "home": {
+          "total": 31
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        },
+        "home": {
+          "id": 8,
+          "name": "Detroit Lions"
+        }
+      }
+    },
+    {
+      "date": "2025-01-11T21:30Z",
+      "id": 401671878,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 12
+        },
+        "home": {
+          "total": 32
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 24,
+          "name": "Los Angeles Chargers"
+        },
+        "home": {
+          "id": 34,
+          "name": "Houston Texans"
+        }
+      }
+    },
+    {
+      "date": "2025-01-12T01:00Z",
+      "id": 401671879,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 14
+        },
+        "home": {
+          "total": 28
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 23,
+          "name": "Pittsburgh Steelers"
+        },
+        "home": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        }
+      }
+    },
+    {
+      "date": "2025-01-12T18:00Z",
+      "id": 401671881,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 7
+        },
+        "home": {
+          "total": 31
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 7,
+          "name": "Denver Broncos"
+        },
+        "home": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        }
+      }
+    },
+    {
+      "date": "2025-01-12T21:30Z",
+      "id": 401671880,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 10
+        },
+        "home": {
+          "total": 22
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 9,
+          "name": "Green Bay Packers"
+        },
+        "home": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        }
+      }
+    },
+    {
+      "date": "2025-01-13T01:00Z",
+      "id": 401671883,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 23
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 28,
+          "name": "Washington Commanders"
+        },
+        "home": {
+          "id": 27,
+          "name": "Tampa Bay Buccaneers"
+        }
+      }
+    },
+    {
+      "date": "2025-01-14T01:00Z",
+      "id": 401671882,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 9
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 16,
+          "name": "Minnesota Vikings"
+        },
+        "home": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        }
+      }
+    },
+    {
+      "date": "2025-01-18T21:30Z",
+      "id": 401671884,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 14
+        },
+        "home": {
+          "total": 23
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 34,
+          "name": "Houston Texans"
+        },
+        "home": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        }
+      }
+    },
+    {
+      "date": "2025-01-19T01:00Z",
+      "id": 401671885,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 45
+        },
+        "home": {
+          "total": 31
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 28,
+          "name": "Washington Commanders"
+        },
+        "home": {
+          "id": 8,
+          "name": "Detroit Lions"
+        }
+      }
+    },
+    {
+      "date": "2025-01-19T20:00Z",
+      "id": 401671937,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 22
+        },
+        "home": {
+          "total": 28
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 14,
+          "name": "Los Angeles Rams"
+        },
+        "home": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        }
+      }
+    },
+    {
+      "date": "2025-01-19T23:30Z",
+      "id": 401671886,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 25
+        },
+        "home": {
+          "total": 27
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 33,
+          "name": "Baltimore Ravens"
+        },
+        "home": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        }
+      }
+    },
+    {
+      "date": "2025-01-26T20:00Z",
+      "id": 401671888,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 23
+        },
+        "home": {
+          "total": 55
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 28,
+          "name": "Washington Commanders"
+        },
+        "home": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        }
+      }
+    },
+    {
+      "date": "2025-01-26T23:30Z",
+      "id": 401671887,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 29
+        },
+        "home": {
+          "total": 32
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 2,
+          "name": "Buffalo Bills"
+        },
+        "home": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        }
+      }
+    },
+    {
+      "date": "2025-02-09T23:30Z",
+      "id": 401671889,
+      "league": {
+        "id": 1,
+        "name": "NFL",
+        "season": "2024"
+      },
+      "scores": {
+        "away": {
+          "total": 22
+        },
+        "home": {
+          "total": 40
+        }
+      },
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 12,
+          "name": "Kansas City Chiefs"
+        },
+        "home": {
+          "id": 21,
+          "name": "Philadelphia Eagles"
+        }
+      }
+    }
+  ],
+  "results": 285
+}
